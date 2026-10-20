@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ongo Weight Loss — Competitor Audit & Intelligence Suite
+
+A full-stack Next.js intelligence application designed to audit 100 compounded GLP-1 telehealth competitors, inspect live XML sitemaps, analyze high-intent keywords across 35,000+ URLs, benchmark on-page metadata, and track Ongo's 217-page SEO expansion roadmap.
+
+## Key Features
+
+- **Executive Bento Dashboard**: Macro KPIs across 100 brands, 35,420 URLs, live sitemap ping sandbox, and competitor radar.
+- **Sitemap Inspector**: Live HTTP connectivity, latency ping, direct sitemap XML links, and parsed URL silo inspector.
+- **100 Competitors Directory**: Complete catalog of US compounded semaglutide & tirzepatide providers with drug silo distribution.
+- **GLP-1 Keyword Scanner**: Real-time keyword query engine across 35,000+ competitor URLs with intent presets (vials, dosing, pricing, doctor, side effects).
+- **Meta Tag Auditor**: Pre-loaded Ongo page optimization scorecard + live Google Desktop & Mobile SERP preview simulator.
+- **Architecture & 217-Page Roadmap**: Content silo breakdown with an interactive, locally persisting checklist.
+- **Intelligence Reports Reader**: Integrated reader for strategic markdown research artifacts.
+
+## Architecture & Directory Structure
+
+```text
+audit-tool/
+├── app/
+│   ├── api/
+│   │   ├── audit-meta/          # Live HTML crawler and SERP evaluator
+│   │   ├── check-url/           # Real-time HTTP health, ping & latency tester
+│   │   ├── competitors/         # 100 Compounded GLP-1 brands provider
+│   │   ├── keyword-search/      # Live scanner across 35k competitor URLs
+│   │   ├── reports/             # Markdown intelligence reports server
+│   │   └── sitemap-detail/      # Parsed sitemap XML URLs & category breakdown
+│   ├── globals.css              # Minimal neutral bento design system (Zinc palette)
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/                  # Modular Bento UI components
+├── data/
+│   ├── inventory/               # Datasets: architecture, CSV summaries, metadata
+│   ├── reports/                 # Strategic research reports (.md)
+│   └── sitemaps/                # 100 Competitor sitemaps & crawled URLs
+├── lib/
+│   └── data.ts                  # Typed data service & parser
+└── scripts/                     # Python scraper & analysis scripts
+```
 
 ## Getting Started
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) (or `http://localhost:3001` if port 3000 is occupied).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Production Build
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run build
+npm run start
+```
