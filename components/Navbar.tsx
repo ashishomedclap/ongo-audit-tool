@@ -9,9 +9,10 @@ import {
   Tag, 
   Layers, 
   FileText,
-  Shield
+  Shield,
+  SplitSquareVertical
 } from 'lucide-react';
-export type TabType = 'overview' | 'sitemaps' | 'competitors' | 'keywords' | 'meta' | 'architecture' | 'reports';
+export type TabType = 'overview' | 'sitemaps' | 'competitors' | 'keywords' | 'patterns' | 'meta' | 'architecture' | 'reports';
 
 interface NavbarProps {
   activeTab: TabType;
@@ -29,6 +30,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
     { id: 'sitemaps', label: 'Sitemaps', icon: Globe },
     { id: 'competitors', label: 'Competitors', icon: Users },
     { id: 'keywords', label: 'Keywords', icon: Search },
+    { id: 'patterns', label: 'Common vs Unique', icon: SplitSquareVertical },
     { id: 'meta', label: 'Meta Tags', icon: Tag },
     { id: 'architecture', label: 'Architecture', icon: Layers },
     { id: 'reports', label: 'Reports', icon: FileText },

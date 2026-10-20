@@ -9,6 +9,7 @@ import KeywordsTab from './KeywordsTab';
 import MetaAuditorTab from './MetaAuditorTab';
 import ArchitectureTab from './ArchitectureTab';
 import ReportsTab from './ReportsTab';
+import CommonVsUniqueTab from './CommonVsUniqueTab';
 import CompetitorModal from './CompetitorModal';
 import { CompetitorSummary, MasterUrlItem, OngoMetaItem } from '@/lib/data';
 
@@ -81,6 +82,10 @@ export default function AuditDashboard({
             competitors={initialCompetitors}
             onInspectCompetitor={(folder) => setInspectFolder(folder)}
           />
+        )}
+
+        {activeTab === 'patterns' && (
+          <CommonVsUniqueTab />
         )}
 
         {activeTab === 'meta' && (

@@ -14,14 +14,15 @@ import {
   TrendingUp,
   Activity,
   Tag,
-  FileText
+  FileText,
+  SplitSquareVertical
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
 import ContextCue from './ContextCue';
 
 interface OverviewTabProps {
   competitors: CompetitorSummary[];
-  onSelectTab: (tab: 'sitemaps' | 'competitors' | 'keywords' | 'meta' | 'architecture' | 'reports') => void;
+  onSelectTab: (tab: 'sitemaps' | 'competitors' | 'keywords' | 'patterns' | 'meta' | 'architecture' | 'reports') => void;
   onInspectCompetitor: (folder: string) => void;
 }
 
@@ -128,6 +129,10 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
           <button className="btn-minimal-secondary" onClick={() => onSelectTab('keywords')}>
             <Search size={14} />
             Keywords Scanner
+          </button>
+          <button className="btn-minimal-secondary" onClick={() => onSelectTab('patterns')}>
+            <SplitSquareVertical size={14} />
+            Common vs Unique
           </button>
           <button className="btn-minimal-secondary" onClick={() => onSelectTab('architecture')}>
             <Layers size={14} />
