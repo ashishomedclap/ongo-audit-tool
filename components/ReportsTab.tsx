@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { FileText, Download, Copy, Check, Search, BookOpen, Layers } from 'lucide-react';
+import { FileText, Download, Copy, Check, Search } from 'lucide-react';
 
 interface ReportMeta {
   id: string;
@@ -59,29 +59,29 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
   );
 
   return (
-    <div style={{ display: 'grid', gridTemplateColumns: '280px 1fr', gap: '24px', alignItems: 'start' }}>
-      {/* Sidebar of Available Reports */}
-      <div className="glass-panel" style={{ padding: '20px', position: 'sticky', top: '80px' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '14px' }}>
-          <FileText size={18} color="#34d399" />
-          <h2 style={{ fontSize: '1.05rem', fontWeight: 700, color: '#fff' }}>
-            Intelligence Reports
+    <div style={{ display: 'grid', gridTemplateColumns: '260px 1fr', gap: '16px', alignItems: 'start' }}>
+      {/* Sidebar Bento Tile */}
+      <div className="bento-card" style={{ padding: '18px', position: 'sticky', top: '80px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '12px' }}>
+          <FileText size={16} color="var(--text-secondary)" />
+          <h2 style={{ fontSize: '0.95rem', fontWeight: 600, color: 'var(--text-primary)' }}>
+            Artifacts
           </h2>
         </div>
 
-        <div style={{ position: 'relative', marginBottom: '14px' }}>
-          <Search size={14} color="var(--text-dim)" style={{ position: 'absolute', left: '10px', top: '50%', transform: 'translateY(-50%)' }} />
+        <div style={{ position: 'relative', marginBottom: '12px' }}>
+          <Search size={12} color="var(--text-muted)" style={{ position: 'absolute', left: '10px', top: '50%', transform: 'translateY(-50%)' }} />
           <input
             type="text"
             placeholder="Search reports..."
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="input-field"
-            style={{ padding: '6px 10px 6px 30px', fontSize: '0.8rem' }}
+            className="input-minimal"
+            style={{ padding: '5px 8px 5px 28px', fontSize: '0.75rem' }}
           />
         </div>
 
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', maxHeight: '500px', overflowY: 'auto' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '4px', maxHeight: '480px', overflowY: 'auto' }}>
           {filteredReports.map((rep) => {
             const isSelected = selectedReport === rep.filename;
 
@@ -93,21 +93,19 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
                   display: 'flex',
                   flexDirection: 'column',
                   alignItems: 'flex-start',
-                  padding: '10px 12px',
+                  padding: '8px 10px',
                   borderRadius: '6px',
-                  border: isSelected ? '1px solid rgba(16, 185, 129, 0.4)' : '1px solid transparent',
-                  background: isSelected ? 'rgba(16, 185, 129, 0.12)' : 'rgba(255, 255, 255, 0.02)',
-                  color: isSelected ? '#34d399' : 'var(--text-muted)',
+                  border: isSelected ? '1px solid var(--border-medium)' : '1px solid transparent',
+                  background: isSelected ? 'rgba(255, 255, 255, 0.08)' : 'transparent',
                   cursor: 'pointer',
-                  textAlign: 'left',
-                  transition: 'all 0.15s ease'
+                  textAlign: 'left'
                 }}
               >
-                <div style={{ fontSize: '0.85rem', fontWeight: 600, color: isSelected ? '#fff' : '#cbd5e1' }}>
+                <div style={{ fontSize: '0.8rem', fontWeight: 500, color: isSelected ? '#fafafa' : 'var(--text-secondary)' }}>
                   {rep.title}
                 </div>
-                <div style={{ fontSize: '0.7rem', color: 'var(--text-dim)', marginTop: '2px' }}>
-                  {rep.sizeKb} KB &bull; Markdown
+                <div style={{ fontSize: '0.68rem', color: 'var(--text-muted)', fontFamily: 'var(--font-mono)' }}>
+                  {rep.sizeKb} KB
                 </div>
               </button>
             );
@@ -115,50 +113,48 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
         </div>
       </div>
 
-      {/* Report Content View */}
-      <div className="glass-panel" style={{ padding: '32px' }}>
-        {/* Top Action Bar */}
+      {/* Main Report Viewer Bento Tile */}
+      <div className="bento-card" style={{ padding: '28px' }}>
         <div style={{
           display: 'flex',
           justifyContent: 'space-between',
           alignItems: 'center',
           borderBottom: '1px solid var(--border-subtle)',
-          paddingBottom: '16px',
-          marginBottom: '24px'
+          paddingBottom: '14px',
+          marginBottom: '20px'
         }}>
           <div>
-            <span style={{ fontSize: '0.75rem', color: '#38bdf8', fontWeight: 600, textTransform: 'uppercase' }}>
-              Strategic Intelligence Artifact
+            <span style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)', textTransform: 'uppercase', fontFamily: 'var(--font-mono)' }}>
+              Markdown Document
             </span>
-            <h1 style={{ fontSize: '1.4rem', fontWeight: 800, color: '#fff' }}>
+            <h1 style={{ fontSize: '1.2rem', fontWeight: 700, color: 'var(--text-primary)' }}>
               {selectedReport}
             </h1>
           </div>
 
-          <div style={{ display: 'flex', gap: '8px' }}>
+          <div style={{ display: 'flex', gap: '6px' }}>
             <button
               onClick={handleCopy}
-              className="btn-secondary"
-              style={{ padding: '8px 12px', fontSize: '0.8rem' }}
+              className="btn-minimal-secondary"
+              style={{ padding: '6px 10px', fontSize: '0.75rem' }}
             >
-              {copied ? <Check size={14} color="#34d399" /> : <Copy size={14} />}
-              {copied ? 'Copied' : 'Copy Content'}
+              {copied ? <Check size={12} /> : <Copy size={12} />}
+              {copied ? 'Copied' : 'Copy'}
             </button>
             <button
               onClick={handleDownload}
-              className="btn-primary"
-              style={{ padding: '8px 12px', fontSize: '0.8rem' }}
+              className="btn-minimal-primary"
+              style={{ padding: '6px 10px', fontSize: '0.75rem' }}
             >
-              <Download size={14} />
-              Download .md
+              <Download size={12} />
+              Download
             </button>
           </div>
         </div>
 
-        {/* Report Content */}
         {loading ? (
-          <div style={{ padding: '60px', textAlign: 'center', color: 'var(--text-muted)' }}>
-            Loading report markdown...
+          <div style={{ padding: '40px', textAlign: 'center', color: 'var(--text-muted)', fontSize: '0.85rem' }}>
+            Loading document...
           </div>
         ) : (
           <div className="markdown-prose">
@@ -166,9 +162,9 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
               whiteSpace: 'pre-wrap',
               wordBreak: 'break-word',
               fontFamily: 'inherit',
-              lineHeight: 1.7,
-              fontSize: '0.9rem',
-              color: '#cbd5e1'
+              lineHeight: 1.6,
+              fontSize: '0.85rem',
+              color: 'var(--text-secondary)'
             }}>
               {content}
             </pre>

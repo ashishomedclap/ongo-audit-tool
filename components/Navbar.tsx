@@ -11,7 +11,7 @@ import {
   FileText,
   Shield
 } from 'lucide-react';
-import { TabType } from './Navbar';
+export type TabType = 'overview' | 'sitemaps' | 'competitors' | 'keywords' | 'meta' | 'architecture' | 'reports';
 
 interface NavbarProps {
   activeTab: TabType;
