@@ -1,0 +1,1519 @@
+{
+  "name": "JumpstartMD Telehealth",
+  "domain": "jumpstartmd.com",
+  "total_urls": 241,
+  "semaglutide_pages": [
+    "https://jumpstartmd.com/compare/foundayo-vs-wegovy/",
+    "https://jumpstartmd.com/compare/metformin-vs-ozempic/",
+    "https://jumpstartmd.com/compare/mounjaro-vs-ozempic/",
+    "https://jumpstartmd.com/compare/rybelsus-vs-ozempic/",
+    "https://jumpstartmd.com/compare/semaglutide-vs-tirzepatide/",
+    "https://jumpstartmd.com/compare/trulicity-vs-ozempic/",
+    "https://jumpstartmd.com/compare/victoza-vs-ozempic/",
+    "https://jumpstartmd.com/compare/wegovy-vs-ozempic/",
+    "https://jumpstartmd.com/compare/wegovy-vs-zepbound/",
+    "https://jumpstartmd.com/compare/zepbound-vs-ozempic/",
+    "https://jumpstartmd.com/does-ozempic-cause-muscle-loss/",
+    "https://jumpstartmd.com/hub/glp1-weight-loss/compounded-semaglutide-safety",
+    "https://jumpstartmd.com/hub/glp1-weight-loss/semaglutide-vs-tirzepatide",
+    "https://jumpstartmd.com/hub/peptide-therapy/semax",
+    "https://jumpstartmd.com/weight-loss-medication-oral-wegovy/",
+    "https://jumpstartmd.com/weight-loss-medication-ozempic/",
+    "https://jumpstartmd.com/weight-loss-medication-semaglutide/",
+    "https://jumpstartmd.com/weight-loss-medication-wegovy/"
+  ],
+  "tirzepatide_pages": [
+    "https://jumpstartmd.com/compare/foundayo-vs-zepbound/",
+    "https://jumpstartmd.com/compare/mounjaro-vs-ozempic/",
+    "https://jumpstartmd.com/compare/mounjaro-vs-zepbound/",
+    "https://jumpstartmd.com/compare/semaglutide-vs-tirzepatide/",
+    "https://jumpstartmd.com/compare/wegovy-vs-zepbound/",
+    "https://jumpstartmd.com/compare/zepbound-vs-ozempic/",
+    "https://jumpstartmd.com/hub/glp1-weight-loss/semaglutide-vs-tirzepatide",
+    "https://jumpstartmd.com/weight-loss-medication-mounjaro/",
+    "https://jumpstartmd.com/weight-loss-medication-tirzepatide/",
+    "https://jumpstartmd.com/weight-loss-medication-zepbound/"
+  ],
+  "pricing_pages": [
+    "https://jumpstartmd.com/delicious-meal-plans-for-healthy-weight-loss/",
+    "https://jumpstartmd.com/hub/glp1-weight-loss/cost-insurance-coverage"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://jumpstartmd.com/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/10-habits-that-might-be-stealing-years-off-your-health-and-life/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/3-vitamin-supplement-options-for-healthy-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/7-ways-bhrt-treatment-can-help-you-get-healthy-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/8-tips-to-cook-for-your-family-while-losing-weight-staying-healthy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/alastin-skincare/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/appdownload/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/blog/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/california-privacy-policy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/can-vitamin-d-help-with-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/careers/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/andropause/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/health-coaching/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/health-optimization/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/healthy-living/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/holidays/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/hormone-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/lifestyle/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/low-testosterone/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/menopause/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/news/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/nutrition/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/perimenopause/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/press-release/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/q-and-a/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/real-results/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/recipe/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/vitamin-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/weight-loss-tips/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/category/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/diethylpropion-vs-phentermine/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/foundayo-vs-rybelsus/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/foundayo-vs-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/foundayo-vs-zepbound/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/metformin-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/mounjaro-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/mounjaro-vs-zepbound/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/phentermine-vs-contrave/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/qsymia-vs-contrave/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/rybelsus-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/semaglutide-vs-tirzepatide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/trulicity-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/victoza-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/wegovy-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/wegovy-vs-zepbound/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/compare/zepbound-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/contact-hubspot/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/contact/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/cookie-policy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/delete-account/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/delicious-meal-plans-for-healthy-weight-loss/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/does-ozempic-cause-muscle-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/dont-panic-if-the-number-on-the-scale-goes-up/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/events/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/faq/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/getting-started/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/glp-1-medications-benefits-drawbacks/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/glp1-101-the-beginners-guide-to-weight-loss-success/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/handouts-v1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/health-coaching/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/health-optimization/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/how-to-inject-glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/blood-sugar-effects",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/compounded-semaglutide-safety",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/cost-insurance-coverage",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/dosing-titration",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/drug-interactions",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/expected-weight-loss-timeline",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/glp1-and-menopause",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/glp1-side-effects",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/how-glp1-medications-work",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/medically-supervised-glp1-care",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/mood-mental-health",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/muscle-loss-prevention",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/nausea-digestive-side-effects",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/pregnancy-fertility",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/semaglutide-vs-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/serious-side-effects-red-flags",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/stopping-glp1-weight-regain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/glp1-weight-loss/who-qualifies-eligibility",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/bone-density-osteoporosis",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/brain-fog",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/dry-skin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/fatigue",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/frozen-shoulder",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/hair-thinning",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/heart-palpitations",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/heavy-bleeding-perimenopause",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/hot-flashes",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/irregular-periods",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/joint-pain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/low-libido",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/menopause-bloating",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/menopause-headaches",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/menopause-insomnia",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/mood-swings",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/night-sweats",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/painful-sex",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/perimenopause-anxiety",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/perimenopause-itchy-skin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/perimenopause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/recurrent-uti",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/vaginal-dryness",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/vaginal-itching",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/visceral-fat",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/menopause-symptoms/waking-at-3am",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/aod-9604",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/bpc-157",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/bpc-157-vs-tb-500",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/cjc-1295-ipamorelin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/does-sermorelin-work",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/downsides-of-peptide-therapy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/dsip-emideltide",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/epitalon",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/fda-peptide-status",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/ghk-cu",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/kpv-peptide",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/mots-c",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/peptide-sourcing-and-quality",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/peptides-for-sleep",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/peptides-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/pt-141",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/selank",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/semax",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin-and-belly-fat",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin-before-and-after",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin-dosage",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin-side-effects",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin-vs-hgh",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin-vs-ipamorelin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin-vs-tesamorelin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/sermorelin-vs-trt",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/ss-31",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/tb-500",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/tesamorelin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/hub/peptide-therapy/thymosin-alpha-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/insurance/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/is-it-possible-to-reverse-peri-menopausal-and-menopausal-weight-gain/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/is-it-safe-to-use-glp-1-medication-without-medical-oversight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/lets-talk/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/burlingame/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/campbell/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/embarcadero-center/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/irvine/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/laurel-heights/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/marin/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/monterey-bay/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/mountain-view/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/piedmont/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/pleasanton/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/redwood-city/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/san-jose/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/santa-cruz/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/location/walnut-creek/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/locations/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/losing-weight-with-an-unsupportive-spouse/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/low-testosterone-care/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/marketing-request/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/mca/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/measure-waist-circumference/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/medication-consent/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/menopause-care/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/new-dietary-guidelines-protein-low-carb/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/npp/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/obesity-management/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/online-care/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/opt-out-preferences/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/our-team/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/peptide-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/perimenopause-and-menopause-f-words/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/physicians/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/postpartum-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/press/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/privacy-policy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/sermorelin/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support-packs/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/amino-acids/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/antioxidants/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/daily-am-pm-vitamin/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/detox/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/fatty-acids/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/glp-1-gut/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/glp-1-muscle/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/glp-1-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/gut/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/herbs-mushrooms/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/hormone-support-for-men/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/hormone-support-for-women/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/immunity/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/longevity/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/minerals/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/performance-support-for-men/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/performance-support-for-women/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/probiotics/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/radiance-support/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/specialty-supplements/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/support_pack/vitamins/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/terms-of-service/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/terms-of-use/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/testosterone-hormone-replacement-therapy-for-women/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/the-benefits-of-magnesium-for-weight-loss-and-well-being/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/the-menopause-betrayal-how-flawed-science-denied-women-hormone-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/the-power-of-two-lose-weight-with-a-partner/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/the-scary-truth-about-halloween-candy-fat-carbs-and-calories/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/tools/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/tools/bmi-calculator/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/tools/calorie-deficit-calculator/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/tools/protein-calculator/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/tools/tdee-calculator/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/tools/water-intake-calculator/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/top-4-tips-for-wagering-on-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/typical-daily-weight-fluctuation-what-is-normal/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/understanding-belly-fat-answers-to-common-medical-questions/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/vitamin-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/vt-walk-in/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-during-perimenopause-and-menopause/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-maintenance-results/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-foundayo/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-mounjaro/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-oral-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-rybelsus/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medication-zepbound/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss-results/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/welcome-message/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/what-is-the-best-diet-while-on-glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/what-we-do/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/which-weight-loss-medication-is-right-for-me/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/why-people-stop-taking-glp-1-weight-loss-medications-and-how-jumpstartmd-helps-you-succeed-long-term/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://jumpstartmd.com/your-top-10-weight-loss-questions-answered/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

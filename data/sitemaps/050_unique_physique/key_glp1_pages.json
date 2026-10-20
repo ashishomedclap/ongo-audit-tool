@@ -1,0 +1,80 @@
+{
+  "name": "Unique Physique",
+  "domain": "uniquephysique.com",
+  "total_urls": 112,
+  "semaglutide_pages": [
+    "https://uniquephysique.com/service-category/semaglutide/"
+  ],
+  "tirzepatide_pages": [
+    "https://uniquephysique.com/service-category/tirzepatide/"
+  ],
+  "pricing_pages": [
+    "https://uniquephysique.com/business-plan-scheming/",
+    "https://uniquephysique.com/case-studies/business-development-planning/",
+    "https://uniquephysique.com/case-studies/transformed-its-pricing-capability/",
+    "https://uniquephysique.com/pricing/",
+    "https://uniquephysique.com/pxl-template/tab-financial-planning/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://uniquephysique.com/business-plan-scheming/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/case-studies/business-development-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/case-studies/transformed-its-pricing-capability/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/consent-to-telehealth/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/pricing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/pxl-template/tab-financial-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/service-category/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/service-category/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/service/other-glp-1-injections/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://uniquephysique.com/weight-loss-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

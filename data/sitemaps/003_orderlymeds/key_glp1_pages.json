@@ -1,0 +1,320 @@
+{
+  "name": "OrderlyMeds",
+  "domain": "orderlymeds.com",
+  "total_urls": 139,
+  "semaglutide_pages": [
+    "https://orderlymeds.com/resources/how-to-inject-semaglutide/",
+    "https://orderlymeds.com/resources/traveling-with-semaglutide/",
+    "https://orderlymeds.com/safety-information/wegovy/",
+    "https://orderlymeds.com/treatments/glp1s/wegovy/"
+  ],
+  "tirzepatide_pages": [
+    "https://orderlymeds.com/safety-information/zepbound/",
+    "https://orderlymeds.com/treatments/glp1s/zepbound/"
+  ],
+  "pricing_pages": [
+    "https://orderlymeds.com/personalized-weight-loss-planner/",
+    "https://orderlymeds.com/pricing/",
+    "https://orderlymeds.com/resources/budget-friendly-7-day-glp-1-meal-plan/",
+    "https://orderlymeds.com/resources/resource-pdfs/dietitian-glp1-meal-plan-pdf/",
+    "https://orderlymeds.com/resources/resource-pdfs/glp1-meal-planning-guide/",
+    "https://orderlymeds.com/testimonials/cost-increase/",
+    "https://orderlymeds.com/testimonials/listed-price/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://orderlymeds.com/affiliate-program/get-started/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/article-content/glp-1s-and-hormonal-changes-why-your-body-feels-different-and-what-to-do/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/corporate-resources/regulatory-framework-compounding-pharmacies/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/corporate-resources/simplified-affordable-trusted-glp-1-solutions/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/get-started/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/lifestyle-quiz-test/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/medication/holistic/glp1s-nausea-tips/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/medication/holistic/starting-strong-webinar/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/medication/holistic/structuring-your-glp-1-diet-webinar/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/medication/not-medication-specific/glp1-fitness-app-trainerize/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/meta-quiz/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/personalized-weight-loss-planner/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/pricing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/product-type/both-product-types/glp1success-new-customer-orientation/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/budget-friendly-7-day-glp-1-meal-plan/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/events/how-do-glp-1s-work-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/glp-1-for-men/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/glp1-accountability-partner/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/how-to-increase-protein-intake/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/how-to-inject-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/how-to-track-macros-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/jason-bungo-glp1-fitness-trainer/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/kristin-kirkpatrick-glp1-dietitian-nutrtion/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/nad-injections-and-glp-1-the-cellular-connection/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/resource-article/find-your-why-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/resource-article/glp-1-medications-patient-guide/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/resource-pdfs/dietitian-glp1-meal-plan-pdf/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/resource-pdfs/glp1-meal-planning-guide/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/resource-pdfs/glp1-side-effects-tips-guide/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/resource-webinar/glp1-nutrition-webinar/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/resources-article/the-mental-load-of-weight-loss-why-your-mind-needs-support-too/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/resources-article/weight-loss-community-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/traveling-with-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/what-are-motivations-to-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/resources/william-yi-bariatric-surgeon-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/safety-information/wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/safety-information/zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/simplestart/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/testimonials/compounding-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/testimonials/cost-increase/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/testimonials/listed-price/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/tik-tok-quiz/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/treatments/glp1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/treatments/glp1s/compounded-glp1-gip/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/treatments/glp1s/compounded-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/treatments/glp1s/wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/treatments/glp1s/zepbound/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://orderlymeds.com/weight-loss-calculator/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

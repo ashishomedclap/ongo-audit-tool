@@ -1,0 +1,334 @@
+{
+  "name": "ReflexMD",
+  "domain": "reflexmd.com",
+  "total_urls": 132,
+  "semaglutide_pages": [
+    "https://www.reflexmd.com/blog/glp-1/preventing-diabetes-complications-semaglutide/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.reflexmd.com/blog/healthy-eating/glp-1-diet-plan/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.reflexmd.com/blog/binge-eating/can-glp-1s-stop-binge-eating/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/category/glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/category/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/5-ways-to-conquer-fat-loss-goals/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/5-ways-to-manage-your-diabetes-and-mental-health/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/body-image-after-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/can-glp-1s-help-reverse-diabetes/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/does-glp-1-lower-diabetes-risk/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/exercise-and-glp-1s-what-you-need-to-know/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/fixes-for-glp-1-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/glp-1-questions/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/glp-1-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/glp-1s-how-much-weight-can-you-lose-in-a-month/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/guide-to-blood-sugar/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/healthy-habits-for-weight-management/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/how-do-glp-1s-work/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/how-to-inject-a-prescription-gpl-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/how-to-talk-about-taking-weight-loss-medication/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/life-on-gpl-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/living-with-diabetes-how-glp-1s-can-help-your-health/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/maintaining-your-ideal-weight-with-low-dose-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/prescription-glp-1-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/glp-1/preventing-diabetes-complications-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/best-breakfasts-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/best-foods-to-eat-when-taking-glp-1-for-diabetes/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/foods-to-avoid-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/glp-1-diet-plan/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/healthy-carbs-when-taking-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/healthy-foods-when-taking-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/how-to-snack-when-taking-a-glp-1-for-diabetes/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/quick-healthy-eating-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/taking-glp-1s-here-are-the-new-rules-of-lunch/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/healthy-eating/the-keto-diet-and-glp-1s-is-it-okay-to-do-both/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/tag/glp-1-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/tag/glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/tag/weight-loss-myths/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/tag/weight-management/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/2026-weight-loss-goals-how-to-incorporate-carbs/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/4-simple-ways-to-lose-weight-without-exercising/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/5-common-weight-loss-myths-debunked/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/5-weight-loss-workouts-for-2026/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/5-workouts-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/best-diet-for-glp-1-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/easy-weight-loss-habits-to-adopt-in-2026/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/glp-1s-and-food-cravings/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/glp1s-and-menopause-do-weight-loss-drugs-work-for-menopausal-weight-gain/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/how-to-increase-your-glp-1-naturally/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/how-to-lose-body-fat/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/lose-weight-safely/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/maintain-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/weight-loss-affects-relationships/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/weight-loss-comments-to-avoid/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.reflexmd.com/blog/weight-loss/weight-loss-plateau/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

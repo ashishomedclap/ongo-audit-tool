@@ -1,0 +1,197 @@
+{
+  "name": "Pomegranate Health",
+  "domain": "joinpomegranate.com",
+  "total_urls": 76,
+  "semaglutide_pages": [
+    "https://joinpomegranate.com/blog-posts/semaglutide-vs-tirzepatide-whats-the-difference",
+    "https://joinpomegranate.com/blog-posts/why-am-i-not-losing-weight-on-semaglutide",
+    "https://joinpomegranate.com/products/compounded-semaglutide",
+    "https://joinpomegranate.com/products/wegovy-r-semaglutide-oral"
+  ],
+  "tirzepatide_pages": [
+    "https://joinpomegranate.com/blog-posts/semaglutide-vs-tirzepatide-whats-the-difference",
+    "https://joinpomegranate.com/blog-posts/why-tirzepatide-can-make-you-tired-and-how-to-manage-fatigue",
+    "https://joinpomegranate.com/products/compounded-tirzepatide"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://joinpomegranate.com/blog-posts/glp-1-and-muscle-loss-how-to-preserve-lean-mass-during-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/glp-1-nausea-why-it-happens-and-how-to-stop-it",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/glp-1s-and-your-menstrual-cycle-what-changes-to-expect",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/hair-loss-and-glp-1s-is-there-a-connection",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/insulin-resistance-is-probably-why-you-cant-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/late-night-cravings-on-glp-1s-why-they-still-happen-and-how-to-stop-the-spiral",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/loose-skin-after-rapid-weight-loss-what-helps-what-doesnt-and-what-to-expect",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/menopause-weight-gain-why-it-happens-and-how-to-manage-it",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/poor-sleep-is-sabotaging-your-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/postpartum-hair-loss-whats-normal-when-it-starts-and-when-to-seek-treatment",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/semaglutide-vs-tirzepatide-whats-the-difference",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/the-glp-1-plateau-what-to-do-when-weight-loss-stalls-and-why-its-normal",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/understanding-the-role-of-glp-1s-in-weight-maintenance",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/weight-loss-without-the-burnout-creating-habits-that-actually-last",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/what-happens-if-you-miss-a-glp-1-dose-a-safe-practical-next-step-guide",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/what-nobody-tells-you-about-the-first-two-weeks-on-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/why-am-i-not-losing-weight-on-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/why-tirzepatide-can-make-you-tired-and-how-to-manage-fatigue",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/blog-posts/why-you-might-want-to-keep-taking-glp-1s-after-reaching-your-goal-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/compounded-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/compounded-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/enclomiphene-tadalafil-compound",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/oxytocin-sildenafil-compound",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/oxytocin-sildenafil-compound-2",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/oxytocin-tadalafil-compound",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/pt-141-compound",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/sildenafil-theophylline-compound",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/products/wegovy-r-semaglutide-oral",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinpomegranate.com/services/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

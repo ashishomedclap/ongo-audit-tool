@@ -1,0 +1,143 @@
+{
+  "name": "Skinny Rx",
+  "domain": "skinnyrx.com",
+  "total_urls": 41,
+  "semaglutide_pages": [
+    "https://skinnyrx.com/products/semaglutide-injectable",
+    "https://skinnyrx.com/products/semaglutide-tablets",
+    "https://skinnyrx.com/products/wegovy",
+    "https://skinnyrx.com/provider/guides/semaglutide-injectable",
+    "https://skinnyrx.com/provider/guides/semaglutide-tablets"
+  ],
+  "tirzepatide_pages": [
+    "https://skinnyrx.com/cred-overview-tirz",
+    "https://skinnyrx.com/cred-overview-tirz-promo",
+    "https://skinnyrx.com/products/tirzepatide-injectable",
+    "https://skinnyrx.com/products/tirzepatide-tablets",
+    "https://skinnyrx.com/provider/guides/tirzepatide-injectable",
+    "https://skinnyrx.com/provider/guides/tirzepatide-tablets",
+    "https://skinnyrx.com/quiz-hybrid-tirz",
+    "https://skinnyrx.com/shop/tirzepatide-injectable",
+    "https://skinnyrx.com/shop/tirzepatide-tablets",
+    "https://skinnyrx.com/shop/tirzepatide-tablets-promo",
+    "https://skinnyrx.com/tirzepatide-tablet"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://skinnyrx.com/cred-overview-tirz",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/cred-overview-tirz-promo",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/homepage-start",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/intake-promo",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/products/semaglutide-injectable",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/products/semaglutide-tablets",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/products/tirzepatide-injectable",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/products/tirzepatide-tablets",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/products/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/provider/guides/semaglutide-injectable",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/provider/guides/semaglutide-tablets",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/provider/guides/tirzepatide-injectable",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/provider/guides/tirzepatide-tablets",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/quiz-hp2",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/quiz-hybrid-tirz",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/shop/tirzepatide-injectable",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/shop/tirzepatide-tablets",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/shop/tirzepatide-tablets-promo",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://skinnyrx.com/tirzepatide-tablet",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

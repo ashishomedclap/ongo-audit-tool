@@ -1,0 +1,108 @@
+{
+  "name": "Enbold",
+  "domain": "enbold.com",
+  "total_urls": 28,
+  "semaglutide_pages": [
+    "https://www.enbold.com/post/how-long-can-you-take-semaglutide-for-weight-loss",
+    "https://www.enbold.com/post/how-much-weight-can-i-lose-with-semaglutide",
+    "https://www.enbold.com/post/why-am-i-not-losing-weight-on-semaglutide",
+    "https://www.enbold.com/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.enbold.com/tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://www.enbold.com/plans",
+    "https://www.enbold.com/post/creating-a-personalized-lifestyle-plan-for-effective-weight-loss-an-enbold-approach"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.enbold.com/archived/compound",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/archived/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/post/10-healthy-habits-to-adopt-for-sustainable-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/post/creating-a-personalized-lifestyle-plan-for-effective-weight-loss-an-enbold-approach",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/post/how-long-can-you-take-semaglutide-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/post/how-much-weight-can-i-lose-with-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/post/personalized-approaches-in-medical-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/post/the-importance-of-one-on-one-support-in-your-weight-loss-journey",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/post/understanding-medical-weight-loss-how-it-differs-from-traditional-methods",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/post/why-am-i-not-losing-weight-on-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.enbold.com/topics/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

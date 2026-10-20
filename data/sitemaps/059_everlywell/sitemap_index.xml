@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <sitemap>
+          <loc>https://www.everlywell.com/ecommerce-sitemap.xml</loc>
+          <lastmod>2026-10-16</lastmod>
+        </sitemap>
+        <sitemap>
+          <loc>https://www.everlywell.com/everywhere-sitemap.xml</loc>
+          <lastmod>2026-10-16</lastmod>
+        </sitemap>
+        <sitemap>
+          <loc>https://www.everlywell.com/testing-centers-sitemap.xml</loc>
+          <lastmod>2026-10-16</lastmod>
+        </sitemap>
+        <sitemap>
+          <loc>https://www.everlywell.com/answers.xml</loc>
+          <lastmod>2026-10-16</lastmod>
+        </sitemap>
+      </sitemapindex>

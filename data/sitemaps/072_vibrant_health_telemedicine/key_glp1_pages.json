@@ -1,0 +1,132 @@
+{
+  "name": "Vibrant Health Telemedicine",
+  "domain": "vibranthealth.com",
+  "total_urls": 528,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://vibranthealth.com/blogs/blog/are-plant-based-meal-shakes-satiating",
+    "https://vibranthealth.com/blogs/blog/balance-of-nature-review-products-cost-and-alternatives",
+    "https://vibranthealth.com/blogs/blog/healthy-mint-chocolate-smoothie-recipe-dairy-free-and-plant-based",
+    "https://vibranthealth.com/blogs/blog/humans-relationship-with-plants",
+    "https://vibranthealth.com/blogs/blog/is-increasing-plant-protein-intake-right-for-you",
+    "https://vibranthealth.com/blogs/blog/is-plant-based-protein-powder-good-for-building-muscle",
+    "https://vibranthealth.com/blogs/blog/plant-based-protein-vs-whey-protein-how-does-plant-protein-stack-up",
+    "https://vibranthealth.com/blogs/blog/plant-protein-and-heavy-metals-what-you-need-to-know",
+    "https://vibranthealth.com/blogs/blog/what-should-you-look-for-in-a-plant-based-protein-supplement",
+    "https://vibranthealth.com/blogs/blog/why-you-should-choose-plant-protein-over-whey",
+    "https://vibranthealth.com/blogs/news/kachava-alternatives-are-there-better-plant-based-proteins",
+    "https://vibranthealth.com/blogs/newsroom/green-vibrance-named-winner-in-the-plant-based-category-of-the-2026-natural-choice-awards"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://vibranthealth.com/blogs/blog/4-easy-healthy-eating-habits-that-will-help-you-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/5-tips-start-vegetarian-diet",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/are-plant-based-meal-shakes-satiating",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/balance-of-nature-review-products-cost-and-alternatives",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/best-supplements-for-gut-health-and-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/healthy-mint-chocolate-smoothie-recipe-dairy-free-and-plant-based",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/humans-relationship-with-plants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/is-increasing-plant-protein-intake-right-for-you",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/is-plant-based-protein-powder-good-for-building-muscle",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/plant-based-protein-vs-whey-protein-how-does-plant-protein-stack-up",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/plant-protein-and-heavy-metals-what-you-need-to-know",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/weight-training-for-the-first-time-eat-these-foods-to-boost-lean-muscle-growth",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/what-should-you-look-for-in-a-plant-based-protein-supplement",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/when-should-you-start-taking-immune-support-supplements-for-fall",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/blog/why-you-should-choose-plant-protein-over-whey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/news/kachava-alternatives-are-there-better-plant-based-proteins",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/blogs/newsroom/green-vibrance-named-winner-in-the-plant-based-category-of-the-2026-natural-choice-awards",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://vibranthealth.com/collections/weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

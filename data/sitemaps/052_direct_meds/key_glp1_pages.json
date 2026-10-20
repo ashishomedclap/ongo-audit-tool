@@ -1,0 +1,629 @@
+{
+  "name": "Direct Meds",
+  "domain": "directmeds.com",
+  "total_urls": 163,
+  "semaglutide_pages": [
+    "https://directmeds.com/blog/10-foods-to-avoid-when-using-semaglutide",
+    "https://directmeds.com/blog/11-faqs-about-semaglutide-weight-loss-injections",
+    "https://directmeds.com/blog/5-reasons-to-stay-on-semaglutide-or-tirzepatides-long-term",
+    "https://directmeds.com/blog/5-tips-to-help-you-kick-start-weight-loss-on-semaglutide-or-tirzepatide",
+    "https://directmeds.com/blog/7-things-to-know-before-you-start-semaglutides",
+    "https://directmeds.com/blog/can-ozempic-and-other-glp-1-medications-help-manage-binge-eating",
+    "https://directmeds.com/blog/can-you-combine-semaglutide-with-a-keto-diet",
+    "https://directmeds.com/blog/comparing-semaglutide-and-other-weight-loss-medications",
+    "https://directmeds.com/blog/hassle-free-semaglutide-home-delivery",
+    "https://directmeds.com/blog/holiday-indulgences-while-using-semaglutide-for-weight-loss",
+    "https://directmeds.com/blog/how-compounded-semaglutide-supports-portion-control",
+    "https://directmeds.com/blog/how-much-does-semaglutide-cost-without-insurance",
+    "https://directmeds.com/blog/how-oral-semaglutide-helps-you-lose-weight",
+    "https://directmeds.com/blog/how-sublingual-semaglutide-eases-digestive-side-effects",
+    "https://directmeds.com/blog/need-to-know-before-switching-from-semaglutide-to-tirzepatide",
+    "https://directmeds.com/blog/semaglutide-vs-tirzepatide-whats-the-difference",
+    "https://directmeds.com/blog/semaglutide-vs-traditional-weight-loss-what-sets-them-apart",
+    "https://directmeds.com/blog/the-real-difference-between-sublingual-semaglutide-and-injections",
+    "https://directmeds.com/blog/the-risks-of-drinking-alcohol-while-taking-semaglutide",
+    "https://directmeds.com/blog/tirzepatide-and-semaglutide-for-menopause-weight-management",
+    "https://directmeds.com/blog/using-semaglutide-or-tirzepatide-for-weight-loss",
+    "https://directmeds.com/blog/what-should-i-expect-while-taking-semaglutide",
+    "https://directmeds.com/blog/what-your-body-goes-through-when-you-stop-semaglutide",
+    "https://directmeds.com/blog/whats-the-difference-between-wegovy-ozempic-and-mounjaro",
+    "https://directmeds.com/blog/you-may-not-be-seeing-weight-loss-results-with-semaglutide",
+    "https://directmeds.com/blog/your-dream-wedding-figure-with-mounjaro-or-wegovy-alternatives",
+    "https://directmeds.com/guide-to-buying-glp-1-medications-online/everything-you-need-to-know-about-ordering-semaglutide-online",
+    "https://directmeds.com/guide-to-buying-glp-1-medications-online/why-semaglutide-oral-drops-is-a-convenient-alternative-to-injections",
+    "https://directmeds.com/products/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://directmeds.com/blog/5-reasons-to-stay-on-semaglutide-or-tirzepatides-long-term",
+    "https://directmeds.com/blog/5-tips-to-help-you-kick-start-weight-loss-on-semaglutide-or-tirzepatide",
+    "https://directmeds.com/blog/consider-sublingual-tirzepatide-for-obesity-control",
+    "https://directmeds.com/blog/ensuring-the-safety-and-authenticity-of-tirzepatide",
+    "https://directmeds.com/blog/everything-you-need-to-know-about-tirzepatide-dosing",
+    "https://directmeds.com/blog/how-long-should-you-take-tirzepatide-for-weight-loss",
+    "https://directmeds.com/blog/how-to-cope-with-energy-shifts-while-on-mounjaro",
+    "https://directmeds.com/blog/need-to-know-before-switching-from-semaglutide-to-tirzepatide",
+    "https://directmeds.com/blog/semaglutide-vs-tirzepatide-whats-the-difference",
+    "https://directmeds.com/blog/the-heart-benefits-of-taking-tirzepatide-for-weight-loss",
+    "https://directmeds.com/blog/the-value-of-sublingual-tirzepatide-during-supply-shortages",
+    "https://directmeds.com/blog/tirzepatide-and-semaglutide-for-menopause-weight-management",
+    "https://directmeds.com/blog/using-semaglutide-or-tirzepatide-for-weight-loss",
+    "https://directmeds.com/blog/what-tirzepatide-weight-loss-injections-are-and-how-they-work",
+    "https://directmeds.com/blog/what-to-do-when-you-miss-your-tirzepatide-dose-for-weight-loss",
+    "https://directmeds.com/blog/whats-the-difference-between-wegovy-ozempic-and-mounjaro",
+    "https://directmeds.com/blog/your-dream-wedding-figure-with-mounjaro-or-wegovy-alternatives",
+    "https://directmeds.com/guide-to-buying-glp-1-medications-online/exploring-oral-tirzepatide-as-a-needle-free-weight-loss-option",
+    "https://directmeds.com/guide-to-buying-glp-1-medications-online/what-you-need-to-know-about-buying-tirzepatide-online",
+    "https://directmeds.com/products/tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://directmeds.com/blog/how-much-does-semaglutide-cost-without-insurance",
+    "https://directmeds.com/blog/how-nad-therapy-fits-into-a-provider-guided-wellness-plan",
+    "https://directmeds.com/blog/understanding-the-price",
+    "https://directmeds.com/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://directmeds.com/blog/10-foods-to-avoid-when-using-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/11-faqs-about-semaglutide-weight-loss-injections",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/4-tricks-for-staying-consistent-with-glp-1-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/5-reasons-to-stay-on-semaglutide-or-tirzepatides-long-term",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/5-reasons-why-losing-weight-is-harder-for-you-than-the-average-person",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/5-strategies-to-avoid-rebound-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/5-tips-for-picking-a-trustworthy-online-glp-1-prescription-provider",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/5-tips-for-stress-free-travel-with-glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/5-tips-to-help-you-kick-start-weight-loss-on-semaglutide-or-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/7-glp-1-weight-loss-mistakes-to-dodge",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/7-things-to-know-before-you-start-semaglutides",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/9-tips-for-discussing-weight-loss-prescriptions-with-a-doctor",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/airing-today-transforming-weight-loss-with-telemedicine-direct-meds-featured-on-the-balancing-act",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/are-weight-loss-meds-better-than-gastric-bypass",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/body-composition-analysis-for-real-weight-loss-results",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/can-ozempic-and-other-glp-1-medications-help-manage-binge-eating",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/can-you-combine-semaglutide-with-a-keto-diet",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/can-you-do-intermittent-fasting-while-on-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/comparing-semaglutide-and-other-weight-loss-medications",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/conquering-psychological-barriers-to-weight-loss-success",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/consider-sublingual-tirzepatide-for-obesity-control",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/control-factors-losing-weight-with-glp-1s-effectively",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/debunking-5-common-myths-about-prescription-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/ensure-safe-home-delivery-of-glp-1-injections",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/ensuring-the-safety-and-authenticity-of-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/everything-you-need-to-know-about-tirzepatide-dosing",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/glp-1-medications-work-with-your-body-to-support-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/hassle-free-semaglutide-home-delivery",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/holiday-indulgences-while-using-semaglutide-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-compounded-semaglutide-supports-portion-control",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-do-men-and-women-lose-weight-differently",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-glp-1-medications-affect-men-and-women-differently",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-long-should-you-take-tirzepatide-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-much-does-semaglutide-cost-without-insurance",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-nad-therapy-fits-into-a-provider-guided-wellness-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-oral-glp-1-helps-you-lose-weight-and-gain-confidence",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-oral-semaglutide-helps-you-lose-weight",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-sublingual-semaglutide-eases-digestive-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-to-avoid-weight-loss-scams",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-to-cope-with-energy-shifts-while-on-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-to-dispose-of-needles-from-weight-loss-medication-at-home",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-to-take-glp-1-medications-a-step-by-step-guide",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/how-weight-loss-reduces-your-risk-for-these-6-health-conditions",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/important-skincare-tips-to-use-for-rapid-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/long-term-weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/manage-self-injection-anxiety-for-weight-loss-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/need-to-know-before-switching-from-semaglutide-to-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/new-moms-can-use-glp-1s-to-lose-weight-after-pregnancy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/plateau-busters-your-weight-loss-has-stalled-now-what",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/prescription-meds-for-shift-work-cravings-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/semaglutide-vs-tirzepatide-whats-the-difference",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/semaglutide-vs-traditional-weight-loss-what-sets-them-apart",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/surgery-or-prescription-medication-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/the-dos-and-donts-of-receiving-glp-1-by-mail",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/the-heart-benefits-of-taking-tirzepatide-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/the-problem-with-weight-loss-apps",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/the-real-difference-between-sublingual-semaglutide-and-injections",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/the-risks-of-drinking-alcohol-while-taking-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/the-top-questions-people-ask-about-weight-loss-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/the-value-of-sublingual-tirzepatide-during-supply-shortages",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/things-to-discuss-with-your-provider-before-starting-ed-treatment",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/tirzepatide-and-semaglutide-for-menopause-weight-management",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/understanding-how-glp-1-medications-calm-food-noise",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/understanding-the-price",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/using-semaglutide-or-tirzepatide-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/weight-loss-can-positively-affect-your-mental-health-and-mood",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/weight-loss-prescription-helps-you-stay-committed-to-your-diet",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/what-should-i-expect-while-taking-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/what-tirzepatide-weight-loss-injections-are-and-how-they-work",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/what-to-do-when-you-miss-your-tirzepatide-dose-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/what-to-expect-when-starting-ed-treatment",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/what-to-expect-when-starting-nad-therapy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/what-your-body-goes-through-when-you-stop-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/whats-the-difference-between-wegovy-ozempic-and-mounjaro",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/who-may-be-a-candidate-for-nad-support-through-telehealth",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/who-qualifies-for-ed-treatment-through-telehealth",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/why-weight-loss-slows-at-40-how-medications-can-help",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/you-may-not-be-seeing-weight-loss-results-with-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/blog/your-dream-wedding-figure-with-mounjaro-or-wegovy-alternatives",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/guide-to-buying-glp-1-medications-online",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/guide-to-buying-glp-1-medications-online/everything-you-need-to-know-about-ordering-semaglutide-online",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/guide-to-buying-glp-1-medications-online/exploring-oral-tirzepatide-as-a-needle-free-weight-loss-option",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/guide-to-buying-glp-1-medications-online/getting-started-with-weight-loss-injections-online",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/guide-to-buying-glp-1-medications-online/what-you-need-to-know-about-buying-tirzepatide-online",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/guide-to-buying-glp-1-medications-online/why-semaglutide-oral-drops-is-a-convenient-alternative-to-injections",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/pricing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/products/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/products/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://directmeds.com/solutions/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

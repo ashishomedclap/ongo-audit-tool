@@ -1,0 +1,990 @@
+{
+  "name": "LifeMD",
+  "domain": "lifemd.com",
+  "total_urls": 1403,
+  "semaglutide_pages": [
+    "https://lifemd.com/drugs/o/ozempic",
+    "https://lifemd.com/drugs/w/wegovy",
+    "https://lifemd.com/learn/a-guide-to-ozempic-for-weight-loss",
+    "https://lifemd.com/learn/comparison-of-saxenda-and-wegovy",
+    "https://lifemd.com/learn/cost-of-wegovy",
+    "https://lifemd.com/learn/everything-you-need-to-know-about-drinking-alcohol-while-using-ozempic",
+    "https://lifemd.com/learn/foods-to-avoid-while-using-ozempic",
+    "https://lifemd.com/learn/how-long-do-you-take-wegovy-for-weight-loss",
+    "https://lifemd.com/learn/how-to-get-semaglutide-for-weight-loss",
+    "https://lifemd.com/learn/how-to-get-wegovy-for-weight-loss",
+    "https://lifemd.com/learn/is-semaglutide-safe-long-term",
+    "https://lifemd.com/learn/ozempic-butt-causes-and-treatment",
+    "https://lifemd.com/learn/ozempic-coupons",
+    "https://lifemd.com/learn/ozempic-diet-plan",
+    "https://lifemd.com/learn/ozempic-side-effects-heres-what-you-should-know",
+    "https://lifemd.com/learn/ozempic-wegovy-and-mounjaro-what-you-need-to-know-about-weight-loss-drugs",
+    "https://lifemd.com/learn/rybelsus-vs-ozempic",
+    "https://lifemd.com/learn/the-difference-between-zepbound-and-ozempic",
+    "https://lifemd.com/learn/the-difference-between-zepbound-and-wegovy",
+    "https://lifemd.com/learn/wegovy-and-alcohol",
+    "https://lifemd.com/learn/wegovy-diet-plan",
+    "https://lifemd.com/learn/wegovy-doses",
+    "https://lifemd.com/learn/wegovy-drug-interactions-you-need-to-know-about",
+    "https://lifemd.com/learn/wegovy-side-effects",
+    "https://lifemd.com/learn/what-foods-to-avoid-when-taking-wegovy",
+    "https://lifemd.com/learn/what-happens-when-you-stop-taking-ozempic",
+    "https://lifemd.com/learn/what-is-oral-wegovy",
+    "https://lifemd.com/learn/what-is-ozempic-face-and-how-can-you-prevent-it",
+    "https://lifemd.com/learn/what-you-need-to-know-about-ozempic-and-pregnancy",
+    "https://lifemd.com/novocare/wegovy",
+    "https://lifemd.com/weight-management/wegovy-pill-1-5mg",
+    "https://lifemd.com/weight-management/wegovy-pill-25mg",
+    "https://lifemd.com/weight-management/wegovy-pill-4mg",
+    "https://lifemd.com/weight-management/wegovy-pill-9mg",
+    "https://lifemd.com/weight-management/wegovy-pill-alldoses"
+  ],
+  "tirzepatide_pages": [
+    "https://lifemd.com/drugs/m/mounjaro",
+    "https://lifemd.com/drugs/z/zepbound",
+    "https://lifemd.com/learn/a-definitive-guide-to-mounjaro-drug-interactions",
+    "https://lifemd.com/learn/comparison-of-saxenda-and-zepbound",
+    "https://lifemd.com/learn/cost-of-mounjaro",
+    "https://lifemd.com/learn/different-ways-to-get-mounjaro-for-weight-loss",
+    "https://lifemd.com/learn/mounjaro-side-effects",
+    "https://lifemd.com/learn/ozempic-wegovy-and-mounjaro-what-you-need-to-know-about-weight-loss-drugs",
+    "https://lifemd.com/learn/the-difference-between-zepbound-and-ozempic",
+    "https://lifemd.com/learn/the-difference-between-zepbound-and-wegovy",
+    "https://lifemd.com/learn/using-mounjaro-for-weight-loss-results-and-precautions",
+    "https://lifemd.com/learn/zepbound-for-chronic-weight-management"
+  ],
+  "pricing_pages": [
+    "https://lifemd.com/learn/cost-of-mounjaro",
+    "https://lifemd.com/learn/cost-of-saxenda",
+    "https://lifemd.com/learn/cost-of-wegovy",
+    "https://lifemd.com/learn/health-insurance-vs-prescription-drug-plans",
+    "https://lifemd.com/learn/how-much-does-allergy-testing-cost",
+    "https://lifemd.com/learn/how-much-does-hrt-cost",
+    "https://lifemd.com/learn/ozempic-diet-plan",
+    "https://lifemd.com/learn/rybelsus-prices-coupons-and-savings-tips",
+    "https://lifemd.com/learn/wegovy-diet-plan",
+    "https://lifemd.com/membership"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://lifemd.com/consent-to-telehealth",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/drugs/m/mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/drugs/o/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/drugs/w/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/drugs/z/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/5-chia-seeds-recipes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/5-delicious-smoothie-recipes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/5-healthy-ground-turkey-recipes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/5-protein-shake-recipes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/5-reasons-for-unintentional-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/6-mediterranean-diet-recipes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/7-green-juice-recipes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/7-ways-to-get-rid-of-water-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/8-best-christmas-gift-ideas-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/8-ways-to-stick-to-your-weight-loss-new-years-resolution",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/a-comprehensive-guide-to-glp-1-agonists",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/a-comprehensive-overview-of-menopause-and-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/a-definitive-guide-to-mounjaro-drug-interactions",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/a-guide-to-ozempic-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/are-eggs-good-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/bananas-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/benefits-of-telehealth-with-insurance",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/best-weight-loss-diets",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/birth-control-and-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/brand-name-vs-compounded-glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/can-apple-cider-vinegar-help-you-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/can-stress-cause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/can-weight-loss-reverse-fatty-liver-disease",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/comparison-of-saxenda-and-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/comparison-of-saxenda-and-zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/concerta-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/cost-of-mounjaro",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/cost-of-saxenda",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/cost-of-wegovy",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/different-ways-to-get-mounjaro-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/do-you-qualify-for-weight-loss-surgery",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/does-alcohol-make-you-gain-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/does-drinking-baking-soda-to-lose-weight-work",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/does-pooping-help-you-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/does-protein-make-you-gain-or-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/does-ritalin-cause-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/does-throwing-up-make-you-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/does-walking-cause-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/does-your-penis-grow-when-you-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/easy-banana-recipes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/estrogen-patch-vs-compounded-estrogen-cream",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/everything-you-need-to-know-about-drinking-alcohol-while-using-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/foods-to-avoid-while-using-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/glp-1-agonists-vs-sglt2-inhibitors",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/green-tea-and-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/health-insurance-vs-prescription-drug-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/hiking-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/hormone-replacement-therapy-and-weight-loss-what-should-i-know",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-glp-1-medications-work-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-long-do-you-take-wegovy-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-much-does-allergy-testing-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-much-does-hrt-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-online-weight-loss-programs-work",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-get-semaglutide-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-get-wegovy-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-join-the-weight-management-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-lose-weight-after-60",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-lose-weight-after-pregnancy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-start-running",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-store-and-handle-glp-1-medications-safely",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-successfully-overcome-a-weight-loss-plateau",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-switch-providers-without-a-gap-in-your-glp1-treatment",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/how-to-tighten-your-skin-after-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/hypnosis-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/insurance-coverage-for-online-glp1-programs",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/intermittent-fasting-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/is-black-coffee-good-for-weight-loss-everything-you-need-to-know",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/is-cottage-cheese-good-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/is-cycling-good-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/is-dark-chocolate-good-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/is-pilates-good-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/is-rice-good-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/is-semaglutide-safe-long-term",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/labs-and-screenings-needed-for-online-glp1-prescription",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/lifemd-vs-henrymeds-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/lifemd-vs-hims-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/lifemd-vs-noom-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/lifemd-vs-ro-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/lifemd-vs-sesame-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/lifemd-vs-weightwatchers-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/losing-weight-with-hypothyroidism-everything-you-need-to-know",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/mediterranean-diet-dinner-recipes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/menopausal-hormone-therapy-and-glp1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/mounjaro-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/oatmeal-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/oatmeal-smoothies-to-try-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/overnight-oats-recipes-to-help-you-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/ozempic-butt-causes-and-treatment",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/ozempic-coupons",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/ozempic-diet-plan",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/ozempic-side-effects-heres-what-you-should-know",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/ozempic-wegovy-and-mounjaro-what-you-need-to-know-about-weight-loss-drugs",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/patient-stories-starting-hrt-with-lifemd",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/peanut-butter-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/potatoes-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/red-light-therapy-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/rybelsus-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/rybelsus-prices-coupons-and-savings-tips",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/rybelsus-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/telehealth-vs-inperson-care",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/the-4-most-common-reasons-for-weight-gain-in-winter",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/the-best-cabbage-soup-recipe-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/the-best-healthy-carbs-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/the-best-metabolism-boosting-foods-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/the-difference-between-zepbound-and-ozempic",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/the-difference-between-zepbound-and-wegovy",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/the-surprising-connection-between-sleep-and-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/top-weight-loss-programs",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/types-of-weight-loss-surgery",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/understanding-oral-glp1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/understanding-telehealth-insurance-coverage",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/using-mounjaro-for-weight-loss-results-and-precautions",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/vitamins-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/watermelon-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/wegovy-and-alcohol",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/wegovy-diet-plan",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/wegovy-doses",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/wegovy-drug-interactions-you-need-to-know-about",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/wegovy-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/weight-gain-during-your-period",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/wellbutrin-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-foods-to-avoid-when-taking-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-happens-when-you-stop-taking-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-is-compounded-estrogen-cream",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-is-oral-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-is-ozempic-face-and-how-can-you-prevent-it",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-to-look-for-in-a-glp1-weight-loss-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-to-look-for-in-a-telehealth-provider",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-you-need-to-know-about-metformin-for-weight-loss-and-type-2-diabetes",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/what-you-need-to-know-about-ozempic-and-pregnancy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/when-does-perimenopause-start-and-how-long-does-it-last",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/when-is-the-best-time-to-start-hrt",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/why-some-people-dont-lose-weight-on-glp1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/why-telehealth-makes-getting-mental-health-support-easier-for-men",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/womens-healthcare-gaps-and-how-telehealth-helps",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/your-metabolism-and-weight-loss-what-you-should-know",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/learn/zepbound-for-chronic-weight-management",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/novocare/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/weight-management/wegovy-pill-1-5mg",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/weight-management/wegovy-pill-25mg",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/weight-management/wegovy-pill-4mg",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/weight-management/wegovy-pill-9mg",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://lifemd.com/weight-management/wegovy-pill-alldoses",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

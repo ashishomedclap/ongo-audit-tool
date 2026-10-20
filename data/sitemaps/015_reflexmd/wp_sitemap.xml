@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="csrf-token" content="yXcS5ulmGvu9nmwAuNCX08yX5wHp6uPxBeMrpsiCfdo3Y7mkXVR0dVFfi4Z4Jfhg">
+    <meta name="description" content="ReflexMD offers expert telemedicine solutions for personalized weight loss with semaglutide, helping you achieve your goals remotely.">
+    
+    <title>
+    
+        Semaglutide & GLP-1: Online Weight Loss Solution
+    
+</title>
+    
+     
+
+<link rel="stylesheet" href="/static/css/dist/styles.740e8f06a95f.css?v=673740">
+
+
+
+
+    <link rel="icon" type="image/png" sizes="192x192" href="/static/image/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/static/image/android-chrome-512x512.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/image/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/image/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/image/favicon-16x16.png">
+    <link rel="shortcut icon" href="/static/image/favicon.ico">
+    <link rel="manifest" href="/static/image/site.webmanifest">
+    <script>
+      window.initEmbeddables = () => {
+        // Get the engine domain from the URL parameters
+        const engineDomain =
+          new URL(window.location.href).searchParams.get('embeddables_engine_domain') ||
+          'engine.embeddables.com'
+        const urlRoot = engineDomain.startsWith('http') ? engineDomain : 'https://' + engineDomain
+
+        // Inject the bundle script dynamically
+        const script = document.createElement('script')
+        script.src = `${urlRoot}/bundle.js`
+        document.head.appendChild(script)
+
+        const initializeEmbeddables = function () {
+          const allUserData = JSON.parse(localStorage.getItem('SavvyFormUserData') || '{}')
+          const embeddablesToLoad = [...document.querySelectorAll('savvy, embeddable')].map((el) => {
+            const attrs = Object.fromEntries([...el.attributes].map((a) => [a.name, a.value]))
+            const flowId = attrs.id
+            if (flowId && allUserData[flowId]) {
+              attrs.userData = Object.fromEntries(Object.entries(allUserData[flowId]||{}).filter(([sk])=>sk==='current_page_id'||sk.startsWith('split_')))
+            }
+            return attrs
+          })
+          const originUrl = window.location.href
+          const url =
+            `${urlRoot}/init?load=` +
+            encodeURIComponent(JSON.stringify({ embeddablesToLoad, originUrl }))
+
+          fetch(url)
+            .then((res) => res.json())
+            .then((response) => eval('(' + response.init_js + ')(response.embeddables_data)'))
+        }
+
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', initializeEmbeddables)
+        } else {
+          initializeEmbeddables()
+        }
+      }
+      window.initEmbeddables()
+    </script>
+  </head>
+  <body style="margin:0;padding: 0">
+       
+    
+    <savvy id="flow_jg538007fbc7401d604a416g3"></savvy>
+
+    <!-- Toast -->
+<div id="toast" class="absolute w-full top-0 left-0 transform -translate-y-40 duration-500 z-[10000] text-sm text-white shadow-2xl dark:text-white transition-all" role="alert">
+  <div id="toastContent" class="flex flex-row justify-center text-center p-4"></div>
+</div>
+<!-- End Toast -->
+
+
+    
+    <img
+      src="https://tvspix.com/t.png?ip=172.71.124.103&l=tvscientific-pix-o-37525e54-224e-47b7-a764-af123b4d116e&u3=http%3A//www.reflexmd.com/&user_agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/124.0.0.0%20Safari/537.36&u5=&u11=POSTBACK"
+      width="1"
+      height="1"
+      alt=""
+      style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0;"
+    />
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"ff212cd9ea3f4b239ebd5387cd87102c","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

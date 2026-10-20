@@ -1,0 +1,54 @@
+{
+  "name": "Tree Top Health",
+  "domain": "treetophealth.net",
+  "total_urls": 23,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://treetophealth.net/pricing/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://treetophealth.net/10-best-products-to-help-with-skin-problems-associated-with-weight-changes/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://treetophealth.net/a-review-of-most-common-dietary-supplements-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://treetophealth.net/hormonesweightloss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://treetophealth.net/how-does-losing-or-gaining-weight-affect-the-skin/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://treetophealth.net/how-hormones-affect-weight-loss-and-what-you-can-do-about-it/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://treetophealth.net/joint-health-and-excess-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://treetophealth.net/pricing/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "name": "Enara Health",
+  "domain": "enarahealth.com",
+  "total_urls": 700,
+  "semaglutide_pages": [
+    "https://enarahealth.com/blog/the-ultimate-guide-to-wegovy/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://enarahealth.com/blog/food-diary-a-week-of-meal-planning-with-natalie/",
+    "https://enarahealth.com/blog/food-diary-meal-planning-with-nutrition-specialist-andrea/",
+    "https://enarahealth.com/blog/food-for-thought-a-dietitians-approach-to-a-one-hour-nourishment-plan/",
+    "https://enarahealth.com/blog/food-for-thought-costco-finds/",
+    "https://enarahealth.com/blog/food-for-thought-how-a-dietitian-meal-plans/",
+    "https://enarahealth.com/blog/food-for-thought-plant-based-protein-options/",
+    "https://enarahealth.com/blog/food-for-thought-template-meal-plan/",
+    "https://enarahealth.com/blog/food-for-thought-wild-planet-tuna-salads/",
+    "https://enarahealth.com/blog/grocery-spotlight-bobs-red-mill-quick-cooking-steel-cut-oats-from-costco/",
+    "https://enarahealth.com/blog/grocery-spotlight-convenient-ancient-grains-from-costco/",
+    "https://enarahealth.com/blog/grocery-spotlight-costco-organic-no-salt-seasoning/",
+    "https://enarahealth.com/blog/grocery-spotlight-costco-sardines/",
+    "https://enarahealth.com/blog/grocery-spotlight-great-costco-bulk-buys/",
+    "https://enarahealth.com/blog/stepwise-enhanced-protein-isolates-concentrates-plant-based-products/",
+    "https://enarahealth.com/blog/the-beta-diet-plan-how-exercise-and-weight-loss-play-a-role-in-your-metabolic-health/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://enarahealth.com/blog/10-healthy-snacks-that-can-help-you-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/5-best-exercises-to-lose-weight-at-home/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/addressing-loose-skin-after-weight-loss-natural-and-medical-approaches-for-management-of-excess-skin/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/beyond-the-scale-navigating-weight-and-wellness/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/breaking-the-cycle-of-weight-stigma-and-bias-together/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/category/weight-management/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/category/weight-management/2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/category/weight-management/3/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/category/weight-management/4/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/category/weight-management/5/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/category/weight-management/6/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/category/weight-management/7/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/category/weight-management/8/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/chesapeake-cardiac-care-and-enara-partner-to-deliver-advanced-weight-management-for-heart-health-patients/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/choosing-a-weight-loss-program-for-2022/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/compounded-glp-1s-a-safe-effective-choice-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/eat-out-and-lose-weight-enaras-tips-for-dining-out/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/exercise-and-weight-loss-time-for-a-divorce/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-diary-a-week-of-meal-planning-with-natalie/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-diary-meal-planning-with-nutrition-specialist-andrea/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-for-thought-a-dietitians-approach-to-a-one-hour-nourishment-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-for-thought-alcohol-and-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-for-thought-costco-finds/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-for-thought-how-a-dietitian-meal-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-for-thought-plant-based-protein-options/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-for-thought-template-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-for-thought-to-lose-weight-gain-zzzs/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/food-for-thought-wild-planet-tuna-salads/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/from-shadows-to-sunshine-patricks-astonishing-journey-of-weight-loss-resilience-and-rediscovery/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/grocery-spotlight-bobs-red-mill-quick-cooking-steel-cut-oats-from-costco/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/grocery-spotlight-convenient-ancient-grains-from-costco/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/grocery-spotlight-costco-organic-no-salt-seasoning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/grocery-spotlight-costco-sardines/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/grocery-spotlight-great-costco-bulk-buys/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/how-a-little-weight-loss-done-the-right-way-can-make-a-huge-difference/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/life-after-weight-loss-an-adventure-in-exercise/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/march-21-rockstar-enara-weight-loss-journeys/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/mental-health-and-weight-loss-the-importance-of-addressing-emotional-wellbeing-in-your-journey/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/november-weight-loss-journey-2020/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/partner-break-through-weight-loss-medications-can-have-heart-benefits-but-only-if-used-correctly/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/rockstar-of-the-month-weight-loss-journeys-december-2021/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/self-blame-does-you-no-good-when-your-trying-to-get-to-a-healthy-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/sleep-deprivation-and-weight-gain/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/stepwise-enhanced-protein-isolates-concentrates-plant-based-products/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/stress-and-weight-gain/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/tag/glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/tag/glp-1/2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/tag/glp-1/3/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/the-beta-diet-plan-how-exercise-and-weight-loss-play-a-role-in-your-metabolic-health/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/the-future-of-weight-loss-how-online-prescription-programs-can-help/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/the-new-york-times-spotlights-enara-health-patients-weight-loss-success/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/the-one-weight-loss-constant-individual-results-may-vary/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/the-ultimate-guide-to-wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/three-ways-to-avoid-gaining-weight-on-vacation/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/transforming-lives-glp-1-and-integrated-treatments-in-obesity-care/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/unraveling-the-complex-relationship-between-weight-appetite-and-brain-activity/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/w-w-w-what-is-water-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/weight-loss-against-all-odds-december-rockstar/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/weight-loss-can-reduce-your-cancer-risk-by-a-33/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/weight-loss-medications-quadruple-your-weight-loss-success-in-real-world-settings/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/weight-loss-programs-2022-reviews-noom-ww-nutrisystem-jennycraig-calibrate-found-form/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/weight-loss-reflections/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/welcome-to-enara-health-the-all-in-one-weight-loss-program-that-delivers-surgery-level-results/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/blog/what-is-a-healthy-weight-a-more-precise-approach/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/for-clinics/medicare-glp1-bridge/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/for-patients/clinics/weight-loss-of-michigan/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/anaheim-ca/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/bloomfield-hills-mi/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/chula-vista-ca/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/columbia-md/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/eligibility/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/glp1-bridge/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/inglewood-ca/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/leawood-ks/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/mankato-mn/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/san-mateo-ca/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/medicare-weight-loss/santa-ana-ca/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://enarahealth.com/research/beyond-weight-loss-percent/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

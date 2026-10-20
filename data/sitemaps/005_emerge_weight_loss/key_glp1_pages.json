@@ -1,0 +1,96 @@
+{
+  "name": "Emerge Weight Loss",
+  "domain": "emergeweight.com",
+  "total_urls": 13,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [
+    "https://www.emergeweight.com/tirzepatide-sleep-apnea",
+    "https://www.emergeweight.com/tirzepatideodt"
+  ],
+  "pricing_pages": [
+    "https://www.emergeweight.com/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.emergeweight.com/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/about",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/debtreliefcharity",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/faq",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/hsa-fsa",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/pcos",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/pricing",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/refer-a-friend",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/support",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/tirzepatide-sleep-apnea",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/tirzepatideodt",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/weight-loss-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.emergeweight.com/what-to-expect",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://skinnyrx.com/favicon-blue.ico?2"
+    />
+    <link rel="manifest" href="/manifest.json" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <link rel="stylesheet" href="https://use.typekit.net/wdk0csz.css" />
+
+    <title>SkinnyRx</title>
+    <script>
+      var IS_AUTOTEST = navigator.userAgent === 'skinnyrx-autotest';
+    </script>
+
+    <script src="//cdn-4.convertexperiments.com/v1/js/100413654-100414852.js?environment=production"></script>
+
+    <meta
+      name="dmca-site-verification"
+      content="QW5aQ3VaNHRkSGYvZVhVdUpHUFdnUT090"
+    />
+
+    <meta
+      name="google-site-verification"
+      content="jpfTMvdCBFtkXwAx52Yfxn1AjiM_XBx6XcixQ5rvaH0"
+    />
+
+    <meta
+      name="google-site-verification"
+      content="e2LpLsxBU1Cyi8f0a-IYEmxmFQXIUp1vRd03ic3JCmI"
+    />
+
+    <meta name="apple-itunes-app" content="app-id=6680191811" />
+    <!-- Google Tag Manager -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        if (IS_AUTOTEST) return;
+
+        dataLayer.push(arguments);
+      }
+    </script>
+
+    <script>
+      (function (w, d, s, l, i) {
+        if (IS_AUTOTEST) return;
+        w[l] = w[l] || [];
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-KVSVZM9J');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script
+      type="text/javascript"
+      src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"
+      async
+    ></script>
+
+    <script>
+      (function () {
+        if (IS_AUTOTEST) return;
+        var t;
+        ((n = t = t || {}).A = 'identify'),
+          (n.B = 'trackPageView'),
+          (n.C = 'fireEmailCaptureEvent'),
+          (n.D = 'fireCustomGoal'),
+          (n.E = 'firePurchaseEvent'),
+          (n.F = 'trackPageViewInitial');
+        var n = '/scripts/northbeam.js';
+        function r(n) {
+          for (var e = [], t = 1; t < arguments.length; t++)
+            e[t - 1] = arguments[t];
+          a.push({ fnName: n, args: e });
+        }
+        var e,
+          a = [],
+          i =
+            (((e = {})[t.F] = function (n) {
+              r(t.F, n);
+            }),
+            ((i = { _q: a })[t.A] = function (n, e) {
+              return r(t.A, n, e);
+            }),
+            (i[t.B] = function () {
+              return r(t.B);
+            }),
+            (i[t.C] = function (n, e) {
+              return r(t.C, n, e);
+            }),
+            (i[t.D] = function (n, e) {
+              return r(t.D, n, e);
+            }),
+            (i[t.E] = function (n) {
+              return r(t.E, n);
+            }),
+            (window.Northbeam = i),
+            document.createElement('script'));
+        (i.async = !0),
+          (i.src = n),
+          document.head.appendChild(i),
+          e.trackPageViewInitial(window.location.href);
+      })();
+    </script>
+    <!-- Google tag (gt ag.js) -->
+
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=AW-11405995320"
+    ></script>
+
+    <script>
+      if (!IS_AUTOTEST) {
+        gtag('js', new Date());
+      }
+    </script>
+
+    <script>
+      if (!IS_AUTOTEST) {
+        window?.gtag?.('config', 'AW-11405995320/bP12CNi4vbkaELja5r4q', {
+          phone_conversion_number: '1 (888) 979-9580',
+        });
+      }
+    </script>
+<!-- 
+    <script>
+      (function () {
+        if (IS_AUTOTEST || 'prod' !== 'prod') return;
+        var s = document.createElement('script');
+        s.src = 'https://www.s3qx8kuy.com/scripts/main.js';
+        document.head.appendChild(s);
+      })();
+    </script> -->
+    <script type="module" crossorigin src="/assets/index-DAUA2ron.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/sentry-CM5bmWtq.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-CldKjdua.js">
+    <link rel="modulepreload" crossorigin href="/assets/animation-DmFQoW3E.js">
+    <link rel="modulepreload" crossorigin href="/assets/utils-DDXyqLwX.js">
+    <link rel="modulepreload" crossorigin href="/assets/ui-Dw_d35QV.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-5gCJB94-.css">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

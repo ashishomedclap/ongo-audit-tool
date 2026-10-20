@@ -1,0 +1,74 @@
+{
+  "name": "Fifty 410",
+  "domain": "fifty410.com",
+  "total_urls": 43,
+  "semaglutide_pages": [
+    "https://www.fifty410.com/pricing/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.fifty410.com/pricing/tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://www.fifty410.com/pricing",
+    "https://www.fifty410.com/pricing/semaglutide",
+    "https://www.fifty410.com/pricing/tirzepatide"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.fifty410.com/blog/how-the-online-intake-works",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.fifty410.com/blog/questions-before-submitting-an-intake",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.fifty410.com/blog/who-does-what-in-telehealth",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.fifty410.com/get-started",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.fifty410.com/pricing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.fifty410.com/pricing/semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.fifty410.com/pricing/tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.fifty410.com/telehealth-consent",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.fifty410.com/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

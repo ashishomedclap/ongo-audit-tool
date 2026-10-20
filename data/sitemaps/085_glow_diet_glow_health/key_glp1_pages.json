@@ -1,0 +1,374 @@
+{
+  "name": "Glow Diet / Glow Health",
+  "domain": "glowdiet.com",
+  "total_urls": 93,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.glowdiet.com/blog/5-signs-your-weight-loss-plan-needs-accountability",
+    "https://www.glowdiet.com/blog/ai-powered-diet-plans-how-to-get-personalized-nutrition-every-day",
+    "https://www.glowdiet.com/blog/calorie-deficit-meal-plan",
+    "https://www.glowdiet.com/blog/chatgpt-fitness-plans-can-an-llm-replace-your-trainer",
+    "https://www.glowdiet.com/blog/healthy-eating-meal-plan",
+    "https://www.glowdiet.com/blog/high-protein-meal-planning",
+    "https://www.glowdiet.com/blog/how-to-use-chatgpt-for-weight-loss-goals-and-meal-planning",
+    "https://www.glowdiet.com/blog/meal-planning-on-a-budget",
+    "https://www.glowdiet.com/blog/mealime-closing-meal-planning-routine",
+    "https://www.glowdiet.com/blog/mediterranean-diet-meal-plan",
+    "https://www.glowdiet.com/blog/ultimate-guide-to-seasonal-meal-planning",
+    "https://www.glowdiet.com/blog/walking-plan-for-weight-loss"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.glowdiet.com/ai-weight-loss-coach",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/10-self-talk-practices-for-daily-weight-loss-motivation",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/30-day-weight-loss-challenge-what-to-expect",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/5-effective-alternatives-to-glp-1-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/5-signs-your-weight-loss-plan-needs-accountability",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/7-micro-habits-that-make-losing-weight-easier",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/7-proven-tips-to-stay-motivated-during-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/ai-habit-trackers-for-weight-loss-what-works-and-what-doesnt",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/ai-powered-diet-plans-how-to-get-personalized-nutrition-every-day",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/ai-tools-for-setting-weight-loss-milestones",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/ai-weight-loss-trackers-top-5-tools-compared",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/behavioral-psychology-behind-weight-loss-habits",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/best-accountability-apps-for-weight-loss-in-2025",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/best-diets-for-weight-loss-even-if-you-dont-exercise",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/best-weight-loss-apps-for-busy-professionals",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/calorie-deficit-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/chatgpt-fitness-plans-can-an-llm-replace-your-trainer",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/common-weight-loss-plateaus-breaking-through-barriers",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/glp-1-not-working-heres-what-to-do-next",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/guide-to-setting-realistic-weight-loss-goals",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/healthy-eating-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/high-protein-meal-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-cognitive-behavioral-strategies-help-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-eating-slowly-supports-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-positive-reinforcement-boosts-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-sleep-affects-weight-loss-and-recovery",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-sleep-affects-weight-loss-and-stress",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-join-a-virtual-weight-loss-challenge-that-works",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-keep-weight-off",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-lose-weight-after-40-without-crash-diets",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-lose-weight-with-pcos",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-lose-weight-without-counting-calories",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-set-up-smart-reminders-with-an-ai-weight-loss-assistant",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-set-weight-loss-goals-without-sacrificing-mental-health",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/how-to-use-chatgpt-for-weight-loss-goals-and-meal-planning",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/liss-vs-hiit-which-is-better-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/meal-planning-on-a-budget",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/mealime-closing-meal-planning-routine",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/mediterranean-diet-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/the-link-between-weight-loss-and-a-longer-life",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/ultimate-guide-to-seasonal-meal-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/virtual-weight-loss-coach-vs-traditional-personal-trainer",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/walking-plan-for-weight-loss",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/weight-loss-accountability-partner",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/weight-loss-before-christmas",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/weight-loss-faq-expert-answers-to-common-questions",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/weight-loss-for-women-over-40-what-actually-works",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/what-is-bmr-and-why-it-matters-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/what-to-look-for-in-a-weight-loss-coaching-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/why-daily-check-ins-are-key-to-sustainable-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/blog/why-sleep-matters-for-weight-loss-recovery",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/guides/long-term-weight-loss-goal",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/guides/weight-loss-goal-by-month",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/guides/weight-loss-in-three-months",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/guides/weight-loss-in-two-months",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/resources/calorie-intake",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.glowdiet.com/weight-loss-accountability-app",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

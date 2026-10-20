@@ -1,0 +1,5870 @@
+{
+  "name": "Noom Med",
+  "domain": "noom.com",
+  "total_urls": 1409,
+  "semaglutide_pages": [
+    "https://www.noom.com/blog/can-you-drink-alcohol-while-taking-ozempic-heres-what-to-know/",
+    "https://www.noom.com/blog/foods-to-avoid-while-taking-ozempic/",
+    "https://www.noom.com/blog/how-to-get-ozempic-for-weight-loss/",
+    "https://www.noom.com/blog/is-ozempic-right-for-you-exploring-its-use-for-weight-loss/",
+    "https://www.noom.com/blog/is-ozempic-safe-for-weight-loss/",
+    "https://www.noom.com/blog/ozempic-and-depression-what-you-need-to-know/",
+    "https://www.noom.com/blog/ozempic-and-muscle-loss-building-strength-while-shedding-pounds/",
+    "https://www.noom.com/blog/ozempic-and-nausea-5-strategies-for-mitigating-stomach-upset-on-glp-1s/",
+    "https://www.noom.com/blog/ozempic-vs-mounjaro-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/ozempic-vs-saxenda-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/the-5-most-common-ozempic-and-mounjaro-side-effects/",
+    "https://www.noom.com/blog/the-role-semaglutide-can-play-in-weight-loss/",
+    "https://www.noom.com/blog/understanding-how-long-ozempic-can-be-used-for-weight-loss/",
+    "https://www.noom.com/blog/understanding-ozempic-side-effects-and-how-to-manage-them/",
+    "https://www.noom.com/blog/weight-management/best-wegovy-injection-sites-and-tips/",
+    "https://www.noom.com/blog/weight-management/cagrisema-weight-loss-results-and-how-it-works/",
+    "https://www.noom.com/blog/weight-management/can-ozempic-cause-hypoglycemia-what-you-need-to-know/",
+    "https://www.noom.com/blog/weight-management/can-you-drink-coffee-with-the-wegovy-pill/",
+    "https://www.noom.com/blog/weight-management/contrave-vs-ozempic/",
+    "https://www.noom.com/blog/weight-management/contrave-vs-wegovy/",
+    "https://www.noom.com/blog/weight-management/do-women-experience-more-side-effects-with-ozempic/",
+    "https://www.noom.com/blog/weight-management/does-medicare-cover-wegovy-glp-1-bridge-program/",
+    "https://www.noom.com/blog/weight-management/does-wegovy-cause-blindness/",
+    "https://www.noom.com/blog/weight-management/dysesthesia-wegovy-high-dose-side-effect/",
+    "https://www.noom.com/blog/weight-management/generic-ozempic-timeline/",
+    "https://www.noom.com/blog/weight-management/generic-semaglutide-timeline/",
+    "https://www.noom.com/blog/weight-management/generic-wegovy-timeline/",
+    "https://www.noom.com/blog/weight-management/how-long-does-it-take-wegovy-to-work-timeline/",
+    "https://www.noom.com/blog/weight-management/how-ozempic-interacts-with-other-medications-and-substances/",
+    "https://www.noom.com/blog/weight-management/how-to-manage-ozempic-injection-site-reactions/",
+    "https://www.noom.com/blog/weight-management/how-to-prevent-weight-gain-after-stopping-ozempic-or-wegovy/",
+    "https://www.noom.com/blog/weight-management/how-to-stop-taking-ozempic-safely/",
+    "https://www.noom.com/blog/weight-management/how-to-take-wegovy-pill/",
+    "https://www.noom.com/blog/weight-management/insights-into-ozempics-effect-on-mental-health/",
+    "https://www.noom.com/blog/weight-management/is-it-safe-to-stop-and-restart-ozempic-learn-here/",
+    "https://www.noom.com/blog/weight-management/jardiance-vs-ozempic-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/kidney-disease-and-ozempic-what-you-need-to-know/",
+    "https://www.noom.com/blog/weight-management/liraglutide-vs-ozempic/",
+    "https://www.noom.com/blog/weight-management/liraglutide-vs-semaglutide/",
+    "https://www.noom.com/blog/weight-management/maintenance-dose-of-semagluide-after-weight-loss/",
+    "https://www.noom.com/blog/weight-management/maintenance-dose-of-wegovy-after-weight-loss/",
+    "https://www.noom.com/blog/weight-management/medications-treatments/managing-the-side-effects-of-wegovy-what-you-need-to-know/",
+    "https://www.noom.com/blog/weight-management/medications-treatments/ozempic-and-pregnancy-what-you-need-to-know/",
+    "https://www.noom.com/blog/weight-management/medications-treatments/ozempic-and-the-risk-of-thyroid-cancer-what-the-latest-research-says/",
+    "https://www.noom.com/blog/weight-management/medications-treatments/ozempic-pill-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/medications-treatments/understanding-the-risk-of-pancreatitis-while-taking-ozempic/",
+    "https://www.noom.com/blog/weight-management/metformin-vs-wegovy-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/most-common-wegovy-side-effects/",
+    "https://www.noom.com/blog/weight-management/most-effective-wegovy-dose/",
+    "https://www.noom.com/blog/weight-management/not-losing-weight-on-semaglutide/",
+    "https://www.noom.com/blog/weight-management/not-losing-weight-on-wegovy-pill/",
+    "https://www.noom.com/blog/weight-management/not-losing-weight-on-wegovy-tips-for-success/",
+    "https://www.noom.com/blog/weight-management/orforglipron-vs-semaglutide-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/ozempic-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/ozempic-dosage/",
+    "https://www.noom.com/blog/weight-management/ozempic-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-insurance-coverage/",
+    "https://www.noom.com/blog/weight-management/ozempic-pancreatitis-symptoms/",
+    "https://www.noom.com/blog/weight-management/ozempic-personality-exploring-potential-mood-and-emotional-changes/",
+    "https://www.noom.com/blog/weight-management/ozempic-pill-vs-foundayo-understanding-the-differences/",
+    "https://www.noom.com/blog/weight-management/ozempic-side-effects-in-women/",
+    "https://www.noom.com/blog/weight-management/ozempic-side-effects/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-metformin-which-is-the-best-choice-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-metformin/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-mounjaro/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-rybelsus-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-saxenda/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-semaglutide-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-tirzepatide/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-trulicity-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-victoza-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-victoza/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-wegovy-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-wegovy/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-zepbound-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/phentermine-vs-wegovy/",
+    "https://www.noom.com/blog/weight-management/retatrutide-vs-semaglutide/",
+    "https://www.noom.com/blog/weight-management/rybelsus-vs-ozempic/",
+    "https://www.noom.com/blog/weight-management/rybelsus-vs-wegovy/",
+    "https://www.noom.com/blog/weight-management/semaglutide-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/semaglutide-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/semaglutide-dosage/",
+    "https://www.noom.com/blog/weight-management/semaglutide-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/semaglutide-insurance-coverage/",
+    "https://www.noom.com/blog/weight-management/semaglutide-plateau/",
+    "https://www.noom.com/blog/weight-management/semaglutide-side-effects-in-women/",
+    "https://www.noom.com/blog/weight-management/semaglutide-side-effects/",
+    "https://www.noom.com/blog/weight-management/semaglutide-weight-loss-results/",
+    "https://www.noom.com/blog/weight-management/switching-from-wegovy-injection-to-pill/",
+    "https://www.noom.com/blog/weight-management/switching-from-wegovy-to-foundayo/",
+    "https://www.noom.com/blog/weight-management/switching-from-wegovy-to-zepbound/",
+    "https://www.noom.com/blog/weight-management/switching-from-zepbound-to-wegovy/",
+    "https://www.noom.com/blog/weight-management/the-cost-of-wegovy-what-youll-pay-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/the-ozempic-friendly-diet-what-to-eat-to-maximize-results/",
+    "https://www.noom.com/blog/weight-management/tips-for-keeping-weight-off-after-wegovy/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-vs-semaglutide-side-effects/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-vs-semaglutide/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-vs-wegovy-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/trulicity-vs-ozempic-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/wegovy-and-alcohol/",
+    "https://www.noom.com/blog/weight-management/wegovy-constipation-rate-and-management/",
+    "https://www.noom.com/blog/weight-management/wegovy-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-coupon-how-it-works/",
+    "https://www.noom.com/blog/weight-management/wegovy-dosage/",
+    "https://www.noom.com/blog/weight-management/wegovy-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/wegovy-hd-7-2-mg-weight-loss-results/",
+    "https://www.noom.com/blog/weight-management/wegovy-insurance-coverage/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-at-night/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-dosage-guide/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-missed-dose/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-side-effects-vs-injection/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-side-effects/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-vs-foundayo-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-vs-injection-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-vs-ozempic-pill/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-vs-phentermine/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-vs-zepbound/",
+    "https://www.noom.com/blog/weight-management/wegovy-plateau/",
+    "https://www.noom.com/blog/weight-management/wegovy-results-weight-loss-timeline/",
+    "https://www.noom.com/blog/weight-management/wegovy-side-effects/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-mounjaro/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-saxenda-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-saxenda/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-trulicity/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound-side-effects/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound/",
+    "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-ozempic-or-wegovy/",
+    "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-ozempic/",
+    "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-semaglutide/",
+    "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-wegovy/",
+    "https://www.noom.com/blog/weight-management/what-is-the-ozempic-pill/",
+    "https://www.noom.com/blog/weight-management/what-is-wegovy-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-to-eat-on-semaglutide-diet-plan/",
+    "https://www.noom.com/blog/weight-management/what-to-eat-on-wegovy-diet-plan-for-the-best-results/",
+    "https://www.noom.com/blog/weight-management/when-does-the-wegovy-pill-start-working/",
+    "https://www.noom.com/blog/weight-management/who-can-prescribe-ozempic-for-weight-loss-understanding-your-options/",
+    "https://www.noom.com/blog/weight-management/zepbound-vs-wegovy-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/what-is-ozempic-face-and-how-can-i-avoid-it/",
+    "https://www.noom.com/blog/what-is-ozempic-unpacking-the-weight-loss-hype-benefits-and-risks/",
+    "https://www.noom.com/blog/what-to-know-about-the-cost-of-ozempic-for-weight-loss/",
+    "https://www.noom.com/med/compounded-semaglutide/safety-info/",
+    "https://www.noom.com/med/ozempic/",
+    "https://www.noom.com/med/ozempic/safety-info/",
+    "https://www.noom.com/med/wegovy-pen/safety-info/",
+    "https://www.noom.com/med/wegovy-pills/safety-info/",
+    "https://www.noom.com/med/wegovy/",
+    "https://www.noom.com/med/wegovy/safety-info/"
+  ],
+  "tirzepatide_pages": [
+    "https://www.noom.com/blog/ozempic-vs-mounjaro-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/the-5-most-common-ozempic-and-mounjaro-side-effects/",
+    "https://www.noom.com/blog/weight-management/amy-schumer-mounjaro-hrt-weight-loss-news/",
+    "https://www.noom.com/blog/weight-management/best-zepbound-injection-sites-and-tips/",
+    "https://www.noom.com/blog/weight-management/does-insurance-cover-mounjaro/",
+    "https://www.noom.com/blog/weight-management/does-insurance-cover-tirzepatide/",
+    "https://www.noom.com/blog/weight-management/does-medicare-cover-zepbound-glp-1-bridge-program/",
+    "https://www.noom.com/blog/weight-management/does-tirzepatide-cause-hair-loss/",
+    "https://www.noom.com/blog/weight-management/does-zepbound-need-to-be-refrigerated/",
+    "https://www.noom.com/blog/weight-management/generic-mounjaro-timeline/",
+    "https://www.noom.com/blog/weight-management/generic-tirzepatide-cost-and-timeline/",
+    "https://www.noom.com/blog/weight-management/generic-zepbound-timeline/",
+    "https://www.noom.com/blog/weight-management/how-long-does-mounjaro-take-to-work/",
+    "https://www.noom.com/blog/weight-management/how-long-does-tirzepatide-take-to-work/",
+    "https://www.noom.com/blog/weight-management/how-long-does-zepbound-stay-in-your-system/",
+    "https://www.noom.com/blog/weight-management/how-to-inject-zepbound/",
+    "https://www.noom.com/blog/weight-management/how-to-travel-with-zepbound/",
+    "https://www.noom.com/blog/weight-management/liraglutide-vs-tirzepatide/",
+    "https://www.noom.com/blog/weight-management/maintenance-dose-of-mounjaro-after-weight-loss/",
+    "https://www.noom.com/blog/weight-management/maintenance-dose-of-zepbound-after-weight-loss/",
+    "https://www.noom.com/blog/weight-management/most-common-zepbound-side-effects/",
+    "https://www.noom.com/blog/weight-management/most-effective-zepbound-dose/",
+    "https://www.noom.com/blog/weight-management/mounjaro-and-alcohol/",
+    "https://www.noom.com/blog/weight-management/mounjaro-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/mounjaro-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/mounjaro-dosage/",
+    "https://www.noom.com/blog/weight-management/mounjaro-hair-loss/",
+    "https://www.noom.com/blog/weight-management/mounjaro-injection-sites/",
+    "https://www.noom.com/blog/weight-management/mounjaro-side-effects-in-women/",
+    "https://www.noom.com/blog/weight-management/mounjaro-side-effects/",
+    "https://www.noom.com/blog/weight-management/mounjaro-vs-metformin/",
+    "https://www.noom.com/blog/weight-management/mounjaro-vs-rybelsus/",
+    "https://www.noom.com/blog/weight-management/mounjaro-vs-saxenda-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/mounjaro-vs-trulicity/",
+    "https://www.noom.com/blog/weight-management/natural-mounjaro-recipe/",
+    "https://www.noom.com/blog/weight-management/natural-zepbound-recipe/",
+    "https://www.noom.com/blog/weight-management/not-losing-weight-on-mounjaro/",
+    "https://www.noom.com/blog/weight-management/not-losing-weight-on-tirzepatide/",
+    "https://www.noom.com/blog/weight-management/not-losing-weight-on-zepbound-tips-for-success/",
+    "https://www.noom.com/blog/weight-management/oral-tirzepatide-drops/",
+    "https://www.noom.com/blog/weight-management/oral-tirzepatide-pill-timeline/",
+    "https://www.noom.com/blog/weight-management/orforglipron-vs-tirzepatide-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-mounjaro/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-tirzepatide/",
+    "https://www.noom.com/blog/weight-management/ozempic-vs-zepbound-best-option-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/qsymia-vs-zepbound-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/retatrutide-vs-tirzepatide/",
+    "https://www.noom.com/blog/weight-management/switching-from-wegovy-to-zepbound/",
+    "https://www.noom.com/blog/weight-management/switching-from-zepbound-to-wegovy/",
+    "https://www.noom.com/blog/weight-management/the-cost-of-zepbound-what-you-need-to-know/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-and-alcohol/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-before-surgery/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-costs-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-dosage/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-maintenance-dose-after-weight-loss/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-plateau/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-side-effects-fatigue-and-being-tired/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-side-effects/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-vs-semaglutide-side-effects/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-vs-semaglutide/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-vs-wegovy-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-vs-zepbound/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-mounjaro/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound-side-effects/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound/",
+    "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-mounjaro/",
+    "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-tirzepatide/",
+    "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-zepbound/",
+    "https://www.noom.com/blog/weight-management/what-is-mounjaro-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-mounjaro/",
+    "https://www.noom.com/blog/weight-management/what-is-zepbound-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-to-eat-on-mounjaro-meal-plan-and-food-list/",
+    "https://www.noom.com/blog/weight-management/what-to-eat-while-taking-zepbound/",
+    "https://www.noom.com/blog/weight-management/where-to-inject-tirzepatide/",
+    "https://www.noom.com/blog/weight-management/zepbound-and-alcohol/",
+    "https://www.noom.com/blog/weight-management/zepbound-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/zepbound-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/zepbound-coupon/",
+    "https://www.noom.com/blog/weight-management/zepbound-dosage-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/zepbound-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/zepbound-gastroparesis/",
+    "https://www.noom.com/blog/weight-management/zepbound-hair-loss/",
+    "https://www.noom.com/blog/weight-management/zepbound-insurance-coverage/",
+    "https://www.noom.com/blog/weight-management/zepbound-kwikpen-uses-and-differences/",
+    "https://www.noom.com/blog/weight-management/zepbound-missed-dose/",
+    "https://www.noom.com/blog/weight-management/zepbound-nausea-side-effect/",
+    "https://www.noom.com/blog/weight-management/zepbound-plateau/",
+    "https://www.noom.com/blog/weight-management/zepbound-results/",
+    "https://www.noom.com/blog/weight-management/zepbound-side-effects/",
+    "https://www.noom.com/blog/weight-management/zepbound-vials/",
+    "https://www.noom.com/blog/weight-management/zepbound-vs-contrave-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/zepbound-vs-foundayo-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/zepbound-vs-mounjaro-which-is-best-for-weight-loss/",
+    "https://www.noom.com/blog/weight-management/zepbound-vs-mounjaro/",
+    "https://www.noom.com/blog/weight-management/zepbound-vs-saxenda/",
+    "https://www.noom.com/blog/weight-management/zepbound-vs-wegovy-which-is-the-best-option-for-weight-loss/",
+    "https://www.noom.com/in-the-news/noom-to-streamline-access-to-zepbound-vials-with-noom-glp-1-companion-through-integration-with-lillydirect-pharmacy-provider/",
+    "https://www.noom.com/med/mounjaro/",
+    "https://www.noom.com/med/mounjaro/safety-info/",
+    "https://www.noom.com/med/zepbound/",
+    "https://www.noom.com/med/zepbound/safety-info-1/",
+    "https://www.noom.com/med/zepbound/safety-info/"
+  ],
+  "pricing_pages": [
+    "https://www.noom.com/blog/1400-calorie-meal-plan/",
+    "https://www.noom.com/blog/3-month-weight-loss-plan/",
+    "https://www.noom.com/blog/30-day-diet-meal-plan/",
+    "https://www.noom.com/blog/30-day-mediterranean-diet-meal-plan-for-weight-loss/",
+    "https://www.noom.com/blog/best-weight-loss-diet-plan-for-men/",
+    "https://www.noom.com/blog/carb-cycling-meal-plan/",
+    "https://www.noom.com/blog/chirothin-weight-loss-program-cost-reviews-and-guidelines/",
+    "https://www.noom.com/blog/diabetes-meal-plan/",
+    "https://www.noom.com/blog/does-the-20-30-fast-track-hormone-weight-loss-plan-actually-work/",
+    "https://www.noom.com/blog/dr-now-diet-plan/",
+    "https://www.noom.com/blog/how-much-does-it-cost-to-see-a-nutritionist/",
+    "https://www.noom.com/blog/keto-success-your-ultimate-weekly-meal-plan-guide/",
+    "https://www.noom.com/blog/low-cholesterol-diet-plan/",
+    "https://www.noom.com/blog/meal-plan-grocery-list/",
+    "https://www.noom.com/blog/menopause/exercise-and-nutrition/perimenopause-diet-tips-for-creating-the-best-plan-for-you-2/",
+    "https://www.noom.com/blog/no-carbs-diet-plan-for-2-weeks/",
+    "https://www.noom.com/blog/noom-for-vegans-vegetarians-plant-based-diets/",
+    "https://www.noom.com/blog/nutrition/healthy-eating/how-to-plan-a-healthier-halloween-our-tricks-to-enjoying-treats/",
+    "https://www.noom.com/blog/nutrition/how-to-cook-eggplant-plus-healthy-recipes/",
+    "https://www.noom.com/blog/nutrition/how-to-create-a-clean-eating-meal-plan-that-works-for-you/",
+    "https://www.noom.com/blog/nutrition/meal-plan/how-meal-planning-can-help-with-weight-loss/",
+    "https://www.noom.com/blog/nutrition/nutrition-facts/eggplant-for-weight-loss/",
+    "https://www.noom.com/blog/paleo-meal-plan/",
+    "https://www.noom.com/blog/the-1700-calorie-meal-plan-does-it-work/",
+    "https://www.noom.com/blog/vegan-weight-loss-meal-plan/",
+    "https://www.noom.com/blog/vegetarian-meal-plan/",
+    "https://www.noom.com/blog/weight-loss-workout-plan/",
+    "https://www.noom.com/blog/weight-management/5-ways-to-spot-a-quick-fix-weight-loss-plan/",
+    "https://www.noom.com/blog/weight-management/contrave-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/contrave-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/farxiga-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/foundayo-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/foundayo-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/generic-liraglutide-costs-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/generic-tirzepatide-cost-and-timeline/",
+    "https://www.noom.com/blog/weight-management/glp-1-receptor-agonists-your-guide-to-the-weight-loss-benefits-side-effects-and-costs/",
+    "https://www.noom.com/blog/weight-management/healthy-costco-snacks/",
+    "https://www.noom.com/blog/weight-management/how-much-does-noom-cost/",
+    "https://www.noom.com/blog/weight-management/jardiance-costs-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/liraglutide-cost-with-and-without-insurance-coverage/",
+    "https://www.noom.com/blog/weight-management/medications-treatments/ozempic-pill-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/metformin-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/mounjaro-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/mounjaro-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/noom-cost-2/",
+    "https://www.noom.com/blog/weight-management/noom-program/what-is-noom-med-and-how-much-does-it-cost-and-what-do-you-get/",
+    "https://www.noom.com/blog/weight-management/ozempic-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/ozempic-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/perimenopause-diet-tips-for-creating-the-best-plan-for-you/",
+    "https://www.noom.com/blog/weight-management/phentermine-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/rybelsus-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/rybelsus-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/saxenda-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/saxenda-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/semaglutide-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/semaglutide-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/the-cost-of-wegovy-what-youll-pay-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/the-cost-of-zepbound-what-you-need-to-know/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/tirzepatide-costs-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/trulicty-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/victoza-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-cost-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-pill-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/what-is-byetta-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-metformin-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-mounjaro-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-rybelsus-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-saxenda-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-trulicity-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-victoza-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-wegovy-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-is-zepbound-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+    "https://www.noom.com/blog/weight-management/what-to-eat-on-mounjaro-meal-plan-and-food-list/",
+    "https://www.noom.com/blog/weight-management/what-to-eat-on-semaglutide-diet-plan/",
+    "https://www.noom.com/blog/weight-management/what-to-eat-on-wegovy-diet-plan-for-the-best-results/",
+    "https://www.noom.com/blog/weight-management/zepbound-cost-with-and-without-insurance/",
+    "https://www.noom.com/blog/weight-management/zepbound-cost-without-insurance/",
+    "https://www.noom.com/blog/what-to-know-about-the-cost-of-ozempic-for-weight-loss/",
+    "https://www.noom.com/glp-1-fair-pricing-petition/",
+    "https://www.noom.com/health/health-plans/",
+    "https://www.noom.com/in-the-news/noom-calls-for-affordable-choices-and-fair-pricing-of-weight-loss-medications-ahead-of-tuesdays-senate-testimony/",
+    "https://www.noom.com/in-the-news/noom-launches-microdose-glp-1-program-enabling-weight-loss-without-the-side-effects-and-priced-at-119-to-start-including-medication-and-microhabits-program/",
+    "https://www.noom.com/med/pricing/",
+    "https://www.noom.com/support/faqs/noom-shop-and-add-ons/2025/10/meal-and-exercise-plans/",
+    "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/access-to-noom-med-while-enrolled-in-a-sponsored-noom-membership/",
+    "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/contact-support/",
+    "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/sponsored-diabetes-prevention-program/",
+    "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/sponsored-noom-med-program/",
+    "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/sponsored-noom-weight-program/",
+    "https://www.noom.com/support/faqs/subscription-and-billing/2025/10/change-your-noom-weight-plan-length/",
+    "https://www.noom.com/support/faqs/subscription-and-billing/2025/10/noom-plan-pricing-and-what-to-expect/",
+    "https://www.noom.com/support/faqs/using-the-app/daily-features/2025/10/motivation-sos-plan/",
+    "https://www.noom.com/support/faqs/using-the-app/daily-features/2025/10/welli-meal-planner-discover-personalized-recipes-in-the-app/",
+    "https://www.noom.com/support/faqs/using-the-app/general-details/2025/10/stay-supported-with-noom-family-plan-supportive-partner-course/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.noom.com/blog/12-tips-for-keeping-weight-loss-resolutions-from-the-experts/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/1400-calorie-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/3-month-weight-loss-plan/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/30-day-diet-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/30-day-mediterranean-diet-meal-plan-for-weight-loss/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/4-things-that-happen-when-you-stop-taking-a-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/5-surprising-facts-about-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/a-beginners-guide-to-clean-eating-how-to-get-started/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/apple-cider-vinegar-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/are-bananas-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/are-glp-1s-forever-how-to-get-off-them/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/are-grapes-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-breads-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-diets-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-exercises-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-foods-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-fruits-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-protein-powder-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-weight-loss-diet-plan-for-men/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-weight-loss-programs/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/best-weight-loss-tracker-apps/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/can-you-drink-alcohol-while-taking-ozempic-heres-what-to-know/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/can-you-drink-and-still-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/carb-cycling-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/carefirst-bluecross-blueshield-reimagines-weight-management-and-diabetes-prevention-with-noom/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/chirothin-weight-loss-program-cost-reviews-and-guidelines/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/diabetes-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/diabetes-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/does-drinking-water-help-you-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/does-the-20-30-fast-track-hormone-weight-loss-plan-actually-work/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/does-the-high-protein-low-carb-diet-work-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/dr-now-diet-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/flaxseed-recipes-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/foods-to-avoid-while-taking-ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/glp-1s-and-birth-control-everything-you-need-to-know/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/glp-1s-and-pcos-surprising-facts-youve-never-heard-before/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/gym-machine-workout-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/healthy-breakfast-ideas-to-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/healthy-chicken-recipes-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/healthy-desserts-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/healthy-grocery-list-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/healthy-lunch-ideas-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/healthy-snacks-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/healthy-trail-mix-recipe-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/healthy-vegetarian-recipes-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/high-protein-diet-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/high-protein-recipes-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-much-does-it-cost-to-see-a-nutritionist/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-to-break-weight-loss-plateau/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-to-get-ozempic-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-to-lose-15-pounds-in-15-weeks-using-science-backed-weight-loss-strategies/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-to-lose-weight-without-exercise/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-to-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-to-meal-prep-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-to-start-meditation-step-by-step-guide-to-starting-meditation/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/how-to-stay-motivated-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/intermittent-fasting-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/is-oatmeal-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/is-ozempic-right-for-you-exploring-its-use-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/is-ozempic-safe-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/is-rice-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/is-watermelon-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/juice-recipes-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/keto-success-your-ultimate-weekly-meal-plan-guide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/keto-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/longevity/how-glp-1-sparks-behavior-change/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/longevity/how-glp1-may-support-longevity/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/longevity/inside-noom-proactive-health-microdose-glp1rx-program/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/longevity/what-is-noom-proactive-health-glp1rx-program/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/lose-weight-protein-shakes/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/low-cholesterol-diet-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/maximizing-the-promise-of-prescriptions-why-noom-is-the-ultimate-companion-app-for-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/meal-plan-grocery-list/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/meal-prep-ideas-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/mediterranean-diet-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/exercise-and-nutrition/intermittent-fasting-and-menopause-exploring-the-weight-loss-potential-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/exercise-and-nutrition/menopause-diet-for-healthy-aging-and-weight-management-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/exercise-and-nutrition/perimenopause-diet-tips-for-creating-the-best-plan-for-you-2/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/hormone-replacement-therapy/hrt-weightloss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/hrt-and-glp-1-medications-for-menopause-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/managing-weight-gain/how-glp-1-medications-can-help-manage-menopause-weight-gain-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/managing-weight-gain/losing-weight-during-menopause-faqs-answered/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/managing-weight-gain/menopause-and-weight-gain-causes-solutions-and-how-to-manage-belly-fat-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/managing-weight-gain/menopause-and-weight-gain-causes-solutions-and-how-to-manage-belly-fat-3/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/menopause/managing-weight-gain/perimenopause-weight-gain-why-it-happens-and-how-to-manage-it-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/myfitnesspal-vs-weight-watchers-vs-noom/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/no-carbs-diet-plan-for-2-weeks/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/noom-for-vegans-vegetarians-plant-based-diets/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/noom-vs-weight-watchers-ww/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/not-losing-weight-on-keto/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/a-beginners-guide-to-meal-prepping-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/acai-bowls-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/allulose-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/almond-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/almonds-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/apples-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/are-eggs-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/are-nuts-good-for-weight-loss-heres-what-the-science-says/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/avocado-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/avocado-oil-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/avocado-toast-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/bacon-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/banana-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/banana-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/beef-tallow-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/beets-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/best-protein-bars-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/black-beans-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/blueberries-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/boiled-eggs-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/broccoli-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/brown-rice-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/butter-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/butternut-squash-calories-weight-loss-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cabbage-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cantaloupe-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/carrots-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cashews-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/castor-oil-safe-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cauliflower-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/celery-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cherries-for-weight-loss-nutrition/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/chia-seeds-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/chicken-breast-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/chicken-chips-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/chickpeas-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cinnamon-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/clams-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/coconut-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/coconut-oil-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/coconut-water-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/coffee-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/corn-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/corn-on-the-cob-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cottage-cheese-for-weight-loss-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cottage-cheese-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cream-cheese-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/croissant-nutrition-facts-and-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/cucumbers-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/dark-chocolate-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/dates-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/diet-coke-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/donuts-nutrition-facts-and-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/dragon-fruit-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/edamame-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/egg-salad-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/eggs-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/feta-cheese-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/fibermaxxing-for-weight-less/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/french-fries-weight-loss-nutrition-facts/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/garlic-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/ghee-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/goat-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/grapefruit-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/grapes-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/greek-yogurt-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/green-beans-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/ground-beef-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/guacamole-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/hamburger-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/healthy-eating/are-flaxseeds-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/healthy-eating/are-potatoes-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/healthy-eating/can-coffee-really-help-you-lose-weight-heres-what-the-science-says/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/healthy-eating/how-to-plan-a-healthier-halloween-our-tricks-to-enjoying-treats/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/healthy-eating/is-green-tea-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/honey-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/hot-dogs-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/how-the-calories-in-wine-impact-your-weight-loss-journey/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/how-to-cook-eggplant-plus-healthy-recipes/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/how-to-create-a-clean-eating-meal-plan-that-works-for-you/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/hummus-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/is-beef-jerky-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/is-seaweed-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/kale-for-weight-loss-nutrition-facts/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/kefir-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/kimchi-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/kombucha-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/lentils-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/low-fat-mayonnaise-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/lupini-beans-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/mango-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/matcha-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/mcdonalds-grilled-chicken-high-protein-glp-1-menu/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/meal-plan/how-meal-planning-can-help-with-weight-loss/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/mozzarella-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/muffins-weight-loss-and-nutrition/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/mushrooms-for-weight-loss-and-health-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/nutrition-facts/eggplant-for-weight-loss/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/nutrition-facts/grits-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/nutrition-facts/nutella-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/nutrition-facts/oysters-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/nutrition-facts/walnuts-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/oat-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/oatmeal-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/oatzempic-can-this-viral-drink-help-with-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/olive-oil-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/onions-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/oranges-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/overnight-oats-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/papaya-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/pea-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/pea-protein-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/peaches-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/peanut-butter-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/peanuts-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/peppermint-tea-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/pho-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/pickles-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/pineapple-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/pistachios-good-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/popcorn-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/poppy-seeds-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/prune-juice-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/pumpkin-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/pumpkin-seeds-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/quinoa-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/raisins-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/red-wine-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/rice-cakes-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/rice-paper-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/ricotta-cheese-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/rotisserie-chicken-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/salmon-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/sardines-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/scallops-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/shake-shack-good-fit-glp-1-menu/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/shrimp-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/skyr-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/smoothie-king-glp-1-menu-nutrition-facts/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/sour-cream-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/sourdough-bread-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/soy-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/soybeans-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/sparkling-water-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/special-diets/the-baking-soda-and-vinegar-diet-wont-help-you-lose-weight-heres-why/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/spinach-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/steak-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/strawberries-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/sunflower-seeds-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/sushi-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/sweet-potatoes-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/tart-cherry-juice-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/the-truth-behind-using-the-ice-hack-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/tilapia-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/tofu-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/tomatoes-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/tuna-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/turkey-bone-broth-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/turkey-for-weight-loss-and-nutrition-facts/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/watermelon-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/whey-protein-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/white-bread-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/white-potatoes-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/white-rice-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/white-wine-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/whole-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/nutrition/zucchini-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/ozempic-and-depression-what-you-need-to-know/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/ozempic-and-muscle-loss-building-strength-while-shedding-pounds/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/ozempic-and-nausea-5-strategies-for-mitigating-stomach-upset-on-glp-1s/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/ozempic-vs-mounjaro-which-is-the-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/ozempic-vs-saxenda-which-is-the-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/paleo-diet-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/paleo-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/pre-workouts-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/quiz-what-type-of-self-care-should-you-try-today/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/recipes/best-kale-smoothie-recipes-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/salad-recipes-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/smoothie-recipes-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/the-1700-calorie-meal-plan-does-it-work/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/the-5-most-common-ozempic-and-mounjaro-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/the-benefits-of-strength-training-during-your-weight-loss-journey/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/the-biggest-weight-loss-mistake-according-to-a-noom-dietitian/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/the-role-semaglutide-can-play-in-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/the-sleep-series-can-sleep-really-impact-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/understanding-how-long-ozempic-can-be-used-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/understanding-ozempic-side-effects-and-how-to-manage-them/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/vegan-diet-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/vegan-recipes-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/vegan-weight-loss-meal-plan/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/vegetarian-diet-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/vegetarian-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/vitamins-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-loss-insulin-resistance/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-loss-rewards/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-loss-workout-plan/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/2-questions-to-ask-before-setting-goals/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/2025-was-the-breakout-year-for-nooms-glp1-companion/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/36-hour-fast/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/4-weight-loss-myths/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/48-hour-fast-benefits-and-risks/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/5-ways-to-spot-a-quick-fix-weight-loss-plan/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/7000-steps-vs-10000/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/72-hour-fast-benefits-and-risks/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/8-misconceptions-about-using-hrt-for-menopause/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/a-guide-to-hrt-side-effects-what-to-expect-and-how-to-manage-them/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/alli-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/allurion-gastric-balloon-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/amy-schumer-mounjaro-hrt-weight-loss-news/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/amycretin-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/apple-cider-vinegar-shots-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/apple-peel-trick-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ashwagandha-gummies-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/baking-soda-and-lemon-juice-shots/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/baking-soda-trick-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ballerina-tea-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/banana-before-bed-for-sleep-and-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/banana-drops-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/barley-tea-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/basil-seed-drinks-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/believing-you-can-lose-weight-might-be-the-missing-link-heres-why/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/best-glp-1-injection-sites-and-tips/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/best-tea-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/best-wegovy-injection-sites-and-tips/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/best-zepbound-injection-sites-and-tips/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/bone-broth-diet/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/bone-broth-fast/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/boy-kibble-healthy-meal-trend/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/brami-protein-pasta-review/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/bupropion-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/burnjaro-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/cagrilintide-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/cagrisema-weight-loss-results-and-how-it-works/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/can-coffee-improve-body-composition-study/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/can-ozempic-cause-hypoglycemia-what-you-need-to-know/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/can-you-drink-coffee-while-fasting/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/can-you-drink-coffee-with-the-wegovy-pill/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/carnivore-diet-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/cava-kids-meal-and-glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/celery-juice-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/chia-seed-water-recipe/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/chia-seeds-and-applesauce-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/china-slim-tea-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/cinnamon-water-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/clove-water-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/coleen-rooney-shower-squats/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/contrave-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/contrave-cost-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/contrave-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/contrave-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/contrave-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/contrave-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/contrave-vs-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/cortisol-cocktail-recipe/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/creatine-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/cucumber-water/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/cyclospora-skinny-weight-loss-dangerous/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/dangers-of-dry-fasting/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/decaf-coffee-health-benefits-and-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/diethylpropion-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/do-women-experience-more-side-effects-with-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-insurance-cover-contrave/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-insurance-cover-glp-1s-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-insurance-cover-liraglutide/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-insurance-cover-mounjaro/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-insurance-cover-rybelsus/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-insurance-cover-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-medicare-cover-wegovy-glp-1-bridge-program/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-medicare-cover-zepbound-glp-1-bridge-program/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-tirzepatide-cause-hair-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-wegovy-cause-blindness/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/does-zepbound-need-to-be-refrigerated/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/drinking-olive-oil-before-bed/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/dry-yogurt-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/dysesthesia-wegovy-high-dose-side-effect/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/eating-2-kiwis-a-day-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/eating-minimally-processed-foods-doubled-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/egg-fast/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/eloralintide-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/exploring-the-benefits-of-hormone-replacement-therapy-for-menopause/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/exploring-the-health-benefits-of-glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/farxiga-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/farxiga-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/farxiga-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foods-that-make-you-feel-full/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foods-to-avoid-while-taking-metformin-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foundayo-and-medicare-glp-1-bridge-program-coverage-details/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foundayo-and-menopause-weight-gain/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foundayo-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foundayo-cost-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foundayo-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foundayo-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/foundayo/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-liraglutide-costs-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-liraglutide-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-liraglutide-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-liraglutide-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-mounjaro-timeline/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-ozempic-timeline/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-semaglutide-timeline/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-tirzepatide-cost-and-timeline/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-wegovy-timeline/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/generic-zepbound-timeline/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-bridge-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-companion-program-and-the-habit-window-hypothesis/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-muscle-loss-prevention/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-oral-receptor-agonists-changing-the-weight-loss-landscape/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-patches-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-pills/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-probiotic-and-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-receptor-agonists-your-guide-to-the-weight-loss-benefits-side-effects-and-costs/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-side-effects-what-to-expect-how-to-manage-them/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/glp-1-vs-gip-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/golden-milk-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/greek-frozen-yogurt-nutrition-and-locations/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/health-conditions/menopause-and-weight-gain-causes-solutions-and-how-to-manage-belly-fat/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/health-conditions/menopause-diet-for-healthy-aging-and-weight-management/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/healthy-costco-snacks/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/high-protein-tuna-bread-recipe-and-nutrition-facts/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/honey-and-cinnamon-before-bed/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-a-support-system-can-boost-your-weight-loss-success/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-aging-can-impact-weight-loss-exploring-the-science/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-does-fat-leave-the-body/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-glp-1-medications-and-exercise-work-together-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-glp-1-medications-can-help-manage-menopause-weight-gain/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-long-does-it-take-to-lose-weight-timelines/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-long-does-it-take-wegovy-to-work-timeline/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-long-does-mounjaro-take-to-work/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-long-does-tirzepatide-take-to-work/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-long-does-zepbound-stay-in-your-system/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-many-steps-a-day-to-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-much-does-noom-cost/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-much-protein-to-eat-on-a-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-nooms-microdose-glp-1-program-helps-prevent-weight-regain-today-show/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-ozempic-interacts-with-other-medications-and-substances/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-boost-glp-1-naturally/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-get-rid-of-menopause-belly-your-path-to-success/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-inject-zepbound/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-lose-weight-fast-naturally-and-permanently/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-lose-weight-with-pcos/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-manage-ozempic-injection-site-reactions/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-prevent-weight-gain-after-stopping-ozempic-or-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-stay-motivated/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-stop-food-noise-naturally/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-stop-taking-ozempic-safely/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-take-wegovy-pill/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-track-weight-loss-progress-for-lasting-results/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-to-travel-with-zepbound/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/how-walking-can-help-you-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ice-water-hack-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/insights-into-ozempics-effect-on-mental-health/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/is-it-safe-to-follow-the-keto-diet-while-taking-a-glp-1-medication/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/is-it-safe-to-stop-and-restart-ozempic-learn-here/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/januvia-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/japanese-walking-method-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/jardiance-costs-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/jardiance-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/jardiance-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/jardiance-vs-metformin-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/jardiance-vs-ozempic-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/jelly-roll-weight-loss-journey-before-and-after/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/journey-to-the-sunnyside-noom/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/juice-cleanse-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/kidney-disease-and-ozempic-what-you-need-to-know/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/konjac-noodles/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/korean-switch-on-diet-review/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/lectin-free-diet-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/lemme-burn-gummies-review/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/lemme-reset-glp-1-supplement/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/lemon-balm-tea-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/lemon-water-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/liraglutide-cost-with-and-without-insurance-coverage/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/liraglutide-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/liraglutide-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/liraglutide-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/liraglutide-vs-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/liraglutide-vs-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/losing-weight-after-menopause-tips-and-tools-for-success/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/lymphatic-walking-explained/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/maintenance-dose-of-mounjaro-after-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/maintenance-dose-of-semagluide-after-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/maintenance-dose-of-wegovy-after-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/maintenance-dose-of-zepbound-after-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/maritide-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/matcha-recipe-for-weight-loss-scam/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/medicare-weight-loss-drugs-coverage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/medications-treatments/4-ways-to-boost-glp-1-levels-naturally/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/medications-treatments/managing-the-side-effects-of-wegovy-what-you-need-to-know/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/medications-treatments/ozempic-and-pregnancy-what-you-need-to-know/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/medications-treatments/ozempic-and-the-risk-of-thyroid-cancer-what-the-latest-research-says/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/medications-treatments/ozempic-pill-cost-with-and-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/medications-treatments/understanding-the-risk-of-pancreatitis-while-taking-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/menopausal-hot-flashes-causes-and-treatments/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/menopausal-mood-swings-why-they-happen-and-how-to-manage-them/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/menopause-and-bladder-infections-causes-treatments-and-relief-strategies-for-2025/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/menopause-and-joint-pain/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/menopause-and-menstrual-cycle-changes/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/menopause-brain-fog/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metabolic-confusion/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metformin-and-alcohol-what-you-need-to-know/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metformin-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metformin-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metformin-for-weight-loss-how-does-it-work/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metformin-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metformin-side-effects-in-women/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metformin-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/metformin-vs-wegovy-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/microdosing-glp-1-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/most-common-wegovy-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/most-common-zepbound-side-effects/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/most-effective-wegovy-dose/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/most-effective-zepbound-dose/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-and-alcohol/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-cost-with-and-without-insurance/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-cost-without-insurance/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-dosage/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-hair-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-injection-sites/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-side-effects-in-women/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-side-effects/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-vs-metformin/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-vs-rybelsus/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-vs-saxenda-best-option-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/mounjaro-vs-trulicity/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/natural-mounjaro-recipe/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/natural-zepbound-recipe/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-body-scan-a-new-way-to-track-weight-loss-progress/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-cost-2/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-med-review-angelia-story/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-microdose-glp1rx-review/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-program/medicare-glp-1-bridge-program-coverage-with-noom/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-program/what-is-noom-med-and-how-much-does-it-cost-and-what-do-you-get/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-vs-hims-and-hers-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-vs-lifemd/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-vs-medvi-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-vs-ro-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-vs-weight-watchers/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/noom-weight-vs-noom-med-whats-the-difference/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/not-losing-weight-on-foundayo-tips-for-success/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/not-losing-weight-on-mounjaro/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/not-losing-weight-on-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/not-losing-weight-on-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/not-losing-weight-on-wegovy-pill/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/not-losing-weight-on-wegovy-tips-for-success/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/not-losing-weight-on-zepbound-tips-for-success/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/oatzempic-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/okra-water-health-benefits-and-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/oral-tirzepatide-drops/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/oral-tirzepatide-pill-timeline/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/orforglipron-for-maintenance-after-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/orforglipron-glp-1-pill/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/orforglipron-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/orforglipron-vs-semaglutide-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/orforglipron-vs-tirzepatide-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/orlistat-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempatch-weight-loss-patch/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-cost-with-and-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-cost-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-dosage/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-insurance-coverage/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-pancreatitis-symptoms/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-personality-exploring-potential-mood-and-emotional-changes/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-pill-vs-foundayo-understanding-the-differences/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-side-effects-in-women/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-metformin-which-is-the-best-choice-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-metformin/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-mounjaro/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-rybelsus-which-is-the-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-saxenda/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-semaglutide-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-tirzepatide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-trulicity-which-is-the-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-victoza-which-is-the-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-victoza/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-wegovy-which-is-the-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/ozempic-vs-zepbound-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/pauraju-thermogenic-fat-burning-sculpting-shorts/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/pcos-to-pmos-name-change-and-why-it-matters/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/perimenopause-diet-tips-for-creating-the-best-plan-for-you/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/perimenopause-weight-gain-why-it-happens-and-how-to-manage-it/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/phentermine-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/phentermine-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/phentermine-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/phentermine-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/phentermine-vs-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/pink-drink-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/pink-himalayan-salt-trick-recipe/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/prebiotic-soda-weight-loss-and-health-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/protein-shake-before-bed/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/protein-shots-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/purple-peel-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/qsymia-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/qsymia-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/qsymia-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/qsymia-vs-zepbound-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rebel-wilson-joins-noom/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/red-light-therapy-belts/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/retatrutide-dosing/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/retatrutide-early-access/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/retatrutide-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/retatrutide-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/retatrutide-vs-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/retatrutide-vs-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rice-water-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rybelsus-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rybelsus-cost-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rybelsus-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rybelsus-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rybelsus-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rybelsus-vs-metformin/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rybelsus-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/rybelsus-vs-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/saffron-supplement-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/sardine-fast-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/sauerkraut-diet-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/sauna-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/saxenda-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/saxenda-cost-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/saxenda-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/saxenda-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/saxenda-insurance-coverage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/saxenda-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-cost-with-and-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-cost-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-dosage/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-insurance-coverage/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-plateau/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-side-effects-in-women/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/semaglutide-weight-loss-results/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/sleep-apnea-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/smooth-move-tea/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/30-year-old-lost-30-pounds/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/alicia-lost-20-pounds/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/casey-lost-22-pounds-in-16-weeks/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/christine-lost-50-pounds/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/erin-lost-18-pounds/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/father-lost-30-pounds-12-weeks/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/grandmother-lost-42-pounds/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/maddie-lost-25-pounds/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/success-stories/working-mom-lost-40-pounds/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/sulfur-burps-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/swimming-for-weight-loss-how-to-get-the-best-results/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/switching-from-wegovy-injection-to-pill/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/switching-from-wegovy-to-foundayo/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/switching-from-wegovy-to-zepbound/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/switching-from-zepbound-to-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/temporal-hollowing-glp-1-face-concern/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/the-best-time-to-weigh-yourself/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/the-cost-of-wegovy-what-youll-pay-with-and-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/the-cost-of-zepbound-what-you-need-to-know/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/the-ozempic-friendly-diet-what-to-eat-to-maximize-results/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/the-power-of-peptides-how-glp-1s-are-transforming-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tips-for-keeping-weight-off-after-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-and-alcohol/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-before-surgery/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-cost-without-insurance/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-costs-with-and-without-insurance/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-dosage/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-maintenance-dose-after-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-plateau/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-side-effects-fatigue-and-being-tired/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-side-effects/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-vs-semaglutide-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-vs-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/tirzepatide-vs-wegovy-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/top-questions-about-what-breaks-a-fast/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/topamax-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/topiramate-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/trulicity-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/trulicity-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/trulicity-vs-ozempic-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/trulicty-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/turmeric-hack-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/turmeric-shots-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/understanding-a-weight-loss-plateau/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/understanding-the-role-of-bmi-in-your-weight-loss-journey/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/victoza-cost-with-and-without-insurance/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/victoza-dosage/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/victoza-side-effects/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/viral-weight-loss-drinks/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/walking-backwards-benefits/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/watermelon-fast/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-and-alcohol/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-constipation-rate-and-management/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-cost-with-and-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-cost-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-coupon-how-it-works/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-dosage/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-hd-7-2-mg-weight-loss-results/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-insurance-coverage/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-at-night/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-cost-with-and-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-dosage-guide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-missed-dose/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-side-effects-vs-injection/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-vs-foundayo-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-vs-injection-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-vs-ozempic-pill/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-vs-phentermine/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-pill-vs-zepbound/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-plateau/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-results-weight-loss-timeline/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-vs-mounjaro/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-vs-saxenda-which-is-the-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-vs-saxenda/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-vs-trulicity/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound-cost-with-and-without-insurance/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wegovy-vs-zepbound/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/weight-loss-drugs-covered-by-insurance/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/weight-loss-gummies/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/weight-loss-medications-exploring-the-options/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/weight-loss/does-diet-coke-break-a-fast/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/weight-loss/how-somatic-exercises-can-help-with-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/wellbutrin-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-after-you-stop-a-glp-1-new-noom-data-suggest-habits-may-help-weight-loss-last/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-a-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-metformin/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-mounjaro/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-ozempic-or-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-happens-when-you-stop-taking-zepbound/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-a-glp-3/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-a-walking-pad/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-byetta-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-clear-protein/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-cutting-jelly/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-glp-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-konjac-jelly/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-loaded-tea/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-metformin-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-mounjaro-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-mounjaro/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-noom-how-does-noom-work/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-rybelsus-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-saxenda-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-the-gelatin-trick-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-the-noom-diet/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-the-ozempic-pill/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-trulicity-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-victoza-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-water-weight-symptoms-and-management/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-wegovy-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-is-zepbound-exploring-the-weight-loss-benefits-side-effects-and-cost/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-to-eat-on-mounjaro-meal-plan-and-food-list/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-to-eat-on-semaglutide-diet-plan/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-to-eat-on-wegovy-diet-plan-for-the-best-results/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/what-to-eat-while-taking-zepbound/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/when-does-the-wegovy-pill-start-working/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/where-to-inject-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/who-can-prescribe-ozempic-for-weight-loss-understanding-your-options/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/who-can-take-glp-1-medications-for-weight-loss-exploring-eligibility-and-safety/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/why-we-launched-noom-microdose-glp-1rx/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/your-guide-to-weight-loss-in-2025-trends-tips-and-timeless-strategies/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-and-alcohol/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-cost-with-and-without-insurance/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-cost-without-insurance/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-coupon/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-dosage-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-gastroparesis/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-hair-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-insurance-coverage/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-kwikpen-uses-and-differences/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-missed-dose/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-nausea-side-effect/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-plateau/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-results/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-side-effects/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-vials/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-vs-contrave-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-vs-foundayo-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-vs-mounjaro-which-is-best-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-vs-mounjaro/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-vs-saxenda/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zepbound-vs-wegovy-which-is-the-best-option-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/weight-management/zero-calorie-foods/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/well-being/fitness/can-chair-yoga-help-you-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/well-being/fitness/how-to-lose-weight-with-pilates/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/well-being/fitness/how-to-transform-your-weight-loss-routine-with-yoga/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/well-being/fitness/should-you-exercise-before-or-after-eating-to-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/well-being/fitness/weighted-vests-for-walking-benefits-and-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/what-are-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/what-is-ozempic-face-and-how-can-i-avoid-it/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/what-is-ozempic-unpacking-the-weight-loss-hype-benefits-and-risks/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/what-is-sarcopenia-and-how-can-i-prevent-it-on-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/what-to-know-about-the-cost-of-ozempic-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/which-glp-1-is-right-for-me-navigating-your-options/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/why-am-i-not-losing-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/why-not-losing-weight-calorie-deficit/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/why-protein-matters-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/why-we-launched-noom-glp-1rx/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/blog/your-comprehensive-guide-to-setting-weight-loss-goals/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/glp-1-access-and-transparency/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/glp-1-fair-pricing-petition/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/health/health-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/health/noomweight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/glp-1rx/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/mount-sinai-health-system-and-noom-partner-to-help-patients-achieve-healthy-weight-loss-outcomes-with-an-on-demand-digital-health-platform/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-adds-muscle-defense-to-its-glp-1-companion-program-to-help-prevent-muscle-mass-loss-while-taking-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-calls-for-affordable-choices-and-fair-pricing-of-weight-loss-medications-ahead-of-tuesdays-senate-testimony/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-introduces-innovative-in-app-body-scan-technology-to-monitor-muscle-mass-retention-during-glp-1-treatment/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-launches-free-version-of-its-powerful-glp-1-companion/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-launches-microdose-glp-1-program-enabling-weight-loss-without-the-side-effects-and-priced-at-119-to-start-including-medication-and-microhabits-program/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-launches-noom-vibe-a-wellness-community-and-habit-tracker-built-for-the-age-of-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-members-kept-losing-weight-a-full-year-after-the-program-ended-largest-ever-noom-randomized-clinical-trial-shows/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-members-regained-3x-less-of-their-lost-weight-after-stopping-glp-1s-new-analyses-show/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-offers-oral-medications-for-weight-loss-starting-at-29/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-to-streamline-access-to-zepbound-vials-with-noom-glp-1-companion-through-integration-with-lillydirect-pharmacy-provider/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-unveils-two-new-enterprise-products-to-help-employers-offer-manage-and-effectively-control-glp-1-expenses/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/noom-welcomes-rebel-wilson-as-chief-wellness-ambassador-to-champion-microhabits-and-microdose-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/nooms-glp-1-companion-receives-major-update-to-prepare-for-new-expected-prescription-drug-use-related-software-pdurs-model/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/people-who-use-noom-the-most-also-lose-the-most-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/proactive-health-starts-here/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/in-the-news/smartrx-glp1-employer-savings/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/compounded-estradiol/safety-info/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/compounded-semaglutide/safety-info/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/glp-1rx-plus/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/glp-1rx/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/glp1-companion/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/glp1-microdose-monthly/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/glp1-microdose/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/microdose-glp1-rx/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/mounjaro/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/mounjaro/safety-info/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/ozempic/safety-info/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/pricing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/wegovy-pen/safety-info/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/wegovy-pills/safety-info/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/wegovy/safety-info/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/zepbound/safety-info-1/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/med/zepbound/safety-info/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/2026/07/noom-microdose-glp-1rx-plus-program/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/noom-shop-and-add-ons/2025/10/meal-and-exercise-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/medication-included/2025/10/labs-for-the-glp-1rx-programs-with-medication-included-and-the-weight-loss-pill-program-metformin/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/medication-included/2026/02/noom-glp-1rx-plus-program/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/telehealth-for-branded-meds/2025/10/branded-medication-availability-prior-authorization-and-appeals/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/telehealth-for-branded-meds/2025/10/contacting-a-telehealth-clinician/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/telehealth-for-branded-meds/2025/10/how-does-the-telehealth-for-branded-meds-program-work/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/telehealth-for-branded-meds/2025/10/labs-in-the-telehealth-for-branded-meds-program/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/telehealth-for-branded-meds/2025/10/telehealth-for-branded-meds-prescriptions/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/telehealth-for-branded-meds/2026/05/telehealth-for-branded-meds-medication-orders-shipment/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-med-programs/telehealth-for-branded-meds/2026/08/telehealth-for-branded-meds-medicare-bridge/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/noom-weight/2025/10/how-to-restart-or-resubscribe-to-your-noom-weight-program/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/access-to-noom-med-while-enrolled-in-a-sponsored-noom-membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/contact-support/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/sponsored-diabetes-prevention-program/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/sponsored-noom-med-program/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/programs/sponsored-noom-membership/2025/10/sponsored-noom-weight-program/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/subscription-and-billing/2025/10/change-your-noom-weight-plan-length/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/subscription-and-billing/2025/10/noom-plan-pricing-and-what-to-expect/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/using-the-app/daily-features/2025/10/motivation-sos-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/using-the-app/daily-features/2025/10/welli-meal-planner-discover-personalized-recipes-in-the-app/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/using-the-app/general-details/2025/10/stay-supported-with-noom-family-plan-supportive-partner-course/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/using-the-app/logging-and-tracking/biometrics/2025/10/how-noom-sets-your-weight-loss-zone-and-tracks-your-progress/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/using-the-app/logging-and-tracking/biometrics/2025/10/how-to-log-edit-or-delete-weight-and-change-your-units/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.noom.com/support/faqs/using-the-app/logging-and-tracking/exercise-and-steps/2025/10/how-exercise-and-step-count-affect-your-weight-loss-zone/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

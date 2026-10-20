@@ -1,0 +1,755 @@
+{
+  "name": "Zappy Health",
+  "domain": "zappyhealth.com",
+  "total_urls": 190,
+  "semaglutide_pages": [
+    "https://zappyhealth.com/advice/10-semaglutide-tips-and-tricks/",
+    "https://zappyhealth.com/advice/order-compounded-semaglutide-online/",
+    "https://zappyhealth.com/advice/semaglutide-weight-loss-guide/",
+    "https://zappyhealth.com/advice/what-to-eat-semaglutide/",
+    "https://zappyhealth.com/advice/zepbound-vs-ozempic-guide-2/",
+    "https://zappyhealth.com/advice/zepbound-vs-ozempic-guide/",
+    "https://zappyhealth.com/all-articles/are-semaglutide-and-tirzepatide-the-same-thing/",
+    "https://zappyhealth.com/all-articles/can-i-switch-from-tirzepatide-to-semaglutide/",
+    "https://zappyhealth.com/all-articles/how-long-does-it-take-for-semaglutide-to-work/",
+    "https://zappyhealth.com/all-articles/how-semaglutide-works/",
+    "https://zappyhealth.com/all-articles/online-prescription-for-semaglutide-what-you-need-to-know/",
+    "https://zappyhealth.com/compounded-semaglutide/",
+    "https://zappyhealth.com/news/compounded-semaglutide-is-unsafe-separating-fact-from-fear/",
+    "https://zappyhealth.com/news/how-fast-does-glp1-work-semaglutide-vs-tirzepatide/",
+    "https://zappyhealth.com/semaglutide-safety-information/",
+    "https://zappyhealth.com/wegovy-pills/",
+    "https://zappyhealth.com/wegovy/",
+    "https://zappyhealth.com/weight-loss/29-step-guide-semaglutide-and-tirzepatide-weight-loss/",
+    "https://zappyhealth.com/weight-loss/semaglutide-side-effects/"
+  ],
+  "tirzepatide_pages": [
+    "https://zappyhealth.com/advice/best-diet-with-zepbound/",
+    "https://zappyhealth.com/advice/how-to-get-zepbound-online/",
+    "https://zappyhealth.com/advice/is-zepbound-right-for-me/",
+    "https://zappyhealth.com/advice/tirzepatide-side-effects/",
+    "https://zappyhealth.com/advice/zepbound-health-coaching-guide/",
+    "https://zappyhealth.com/advice/zepbound-side-effects-guide/",
+    "https://zappyhealth.com/advice/zepbound-vs-ozempic-guide-2/",
+    "https://zappyhealth.com/advice/zepbound-vs-ozempic-guide/",
+    "https://zappyhealth.com/all-articles/are-semaglutide-and-tirzepatide-the-same-thing/",
+    "https://zappyhealth.com/all-articles/b6-nausea-tirzepatide/",
+    "https://zappyhealth.com/all-articles/can-i-switch-from-tirzepatide-to-semaglutide/",
+    "https://zappyhealth.com/all-articles/can-tirzepatide-cause-headaches/",
+    "https://zappyhealth.com/all-articles/compounded-tirzepatide-storage-tips/",
+    "https://zappyhealth.com/all-articles/tirzepatide-tips-and-tricks/",
+    "https://zappyhealth.com/all-articles/when-tirzepatide-stops-working/",
+    "https://zappyhealth.com/compounded-tirzepatide/",
+    "https://zappyhealth.com/news/how-fast-does-glp1-work-semaglutide-vs-tirzepatide/",
+    "https://zappyhealth.com/tirzepatide-information-safety/",
+    "https://zappyhealth.com/weight-loss/29-step-guide-semaglutide-and-tirzepatide-weight-loss/",
+    "https://zappyhealth.com/weight-loss/get-mounjaro-tirzepatide-prescription-online-fast/",
+    "https://zappyhealth.com/weight-loss/how-tirzepatide-works/",
+    "https://zappyhealth.com/weight-loss/tirzepatide-diet-plan/",
+    "https://zappyhealth.com/zepbound-vials/"
+  ],
+  "pricing_pages": [
+    "https://zappyhealth.com/advice/weight-loss-diet-for-men-a-plan-that-works/",
+    "https://zappyhealth.com/news/glp-1-price-cuts-medicare-coverage-2026-the-full-guide/",
+    "https://zappyhealth.com/news/the-airplane-carry-on-kit-for-glp-1-travelers/",
+    "https://zappyhealth.com/weight-loss/tirzepatide-diet-plan/",
+    "https://zappyhealth.com/weight-loss/weight-loss-workout-plan-for-men/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://zappyhealth.com/advice/10-semaglutide-tips-and-tricks/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/best-diet-with-zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/best-weight-loss-supplements-your-guide-to-success/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/can-testosterone-make-you-gain-weight-what-to-know/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/can-you-maintain-weight-loss-after-stopping-medication/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/easiest-workout-for-weight-loss-guide/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/find-the-best-activity-to-lose-weight-and-stay-fit/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/glp-1-weight-loss-guide/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/how-to-get-zepbound-online/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/is-zepbound-right-for-me/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/losing-weight-erectile-dysfunction-can-it-improve-your-health/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/natural-weight-loss-supplements-guide/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/order-compounded-semaglutide-online/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/semaglutide-weight-loss-guide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/starting-liraglutide-what-to-expect/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/the-biotin-weight-loss-debate-explained/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/tirzepatide-side-effects/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/virtual-weight-loss-programs/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/weight-loss-diet-for-men-a-plan-that-works/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/what-to-eat-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/what-to-expect-during-the-first-month-of-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/zepbound-health-coaching-guide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/zepbound-side-effects-guide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/zepbound-vs-ozempic-guide-2/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/advice/zepbound-vs-ozempic-guide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/are-semaglutide-and-tirzepatide-the-same-thing/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/average-weight-for-men/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/b6-nausea-tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/can-i-switch-from-tirzepatide-to-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/can-tirzepatide-cause-headaches/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/cardiovascular-benefits-of-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/compounded-tirzepatide-storage-tips/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/faq-role-of-glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/get-glp-1-online/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/glp-1-weight-loss-medications-and-body-composition/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/how-long-does-it-take-for-semaglutide-to-work/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/how-semaglutide-works/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/online-prescription-for-semaglutide-what-you-need-to-know/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/tirzepatide-tips-and-tricks/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/what-is-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/all-articles/when-tirzepatide-stops-working/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/black-friday-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/booking-weight-loss-insurance/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/category/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/compounded-liraglutide-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/compounded-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/compounded-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/hair-growth/hair-loss-from-weight-loss-causes-and-prevention/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/intake_form_system/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/7-protein-snacks-you-can-stash-anywhere-on-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/acid-reflux-on-glp1-why-it-gets-worse-how-to-fix-it/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/biggest-mistake-missing-week-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/budget-grocery-swaps-double-protein-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/cheat-500-calories-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/compounded-semaglutide-is-unsafe-separating-fact-from-fear/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/do-i-have-to-change-how-i-eat-on-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/fatigue-on-glp-1-options-nad/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/fda-glp-1-announcement-what-it-means/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp-1-after-baby-when-and-how-to-start-postpartum-weight-loss-safely/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp-1-dull-skin-glutathione/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp-1-food-noise-mental-clarity/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp-1-muscle-loss-how-to-prevent/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp-1-price-cuts-medicare-coverage-2026-the-full-guide/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp-1-side-effects-last-forever-the-real-adaptation-timeline/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-and-keto-why-you-dont-need-both/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-filling-meals-no-bloating/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-food-swaps-better-nutrition/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-hair-loss-why-it-happens-how-long-what-helps/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-mental-health-mood-changes/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-nausea-hacks/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-relationships-weight-loss-marriage-friendships/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-tiktok-tips-fact-checked/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-weight-loss-plateau-what-to-do-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/glp1-weight-loss-plateau-what-to-do/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/high-protein-budget-meals-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/high-protein-meals-glp1-under-10-minutes-2/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/high-protein-meals-glp1-under-10-minutes/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/hit-your-goal-weight-heres-what-most-patients-do-next/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/how-fast-does-glp1-work-semaglutide-vs-tirzepatide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/how-to-reduce-calories-on-glp-1-without-counting-or-tracking/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/if-glp-1-progress-feels-slow-you-may-be-in-the-quiet-phase-learn-why-it-happens-how-it-differs-from-failure-and-what-to-do-next/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/nad-and-energy-on-glp-1-why-some-patients-feel-10-years-younger/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/nad-glp1-stack-clinic-protocol/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/nad-mistake-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/protein-shake-cheat-glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/sleep-hacks-glp1-results/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/the-airplane-carry-on-kit-for-glp-1-travelers/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/the-glp-1-grocery-list-what-to-buy-skip-and-how-to-save/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/this-week-in-peptides-new-research-on-nad-sermorelin-and-glp-1-combos/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/track-glp1-progress-beyond-scale/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/why-hunger-feels-louder-after-holidays-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/news/workouts-wrecking-you-on-glp-1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/semaglutide-safety-information/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/start-now/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/tirzepatide-information-safety/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/wegovy-pills/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss-calculator/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/29-step-guide-semaglutide-and-tirzepatide-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/best-weight-loss-supplements-for-men-effective-and-safe-options/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/creatine-and-weight-loss-separating-facts-from-myths/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/get-mounjaro-tirzepatide-prescription-online-fast/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/glp-1-medications-and-lean-muscle-mass-a-deeper-dive-into-body-composition/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/hims-hers-super-bowl-ad-spotlights-weight-loss-revolution/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/how-much-fat-can-you-lose-in-a-month-a-safe-guide/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/how-tirzepatide-works/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/long-term-weight-management-from-step-5-trial/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/semaglutide-side-effects/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/tirzepatide-diet-plan/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/weight-loss/weight-loss-workout-plan-for-men/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://zappyhealth.com/zepbound-vials/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

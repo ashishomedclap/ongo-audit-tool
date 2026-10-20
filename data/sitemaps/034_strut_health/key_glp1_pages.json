@@ -1,0 +1,136 @@
+{
+  "name": "Strut Health",
+  "domain": "struthealth.com",
+  "total_urls": 273,
+  "semaglutide_pages": [
+    "https://www.struthealth.com/reviews/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.struthealth.com/mens-weight-loss/injectable-tirzepatide",
+    "https://www.struthealth.com/mens-weight-loss/oral-tirzepatide",
+    "https://www.struthealth.com/womens-weight-loss/injectable-tirzepatide",
+    "https://www.struthealth.com/womens-weight-loss/oral-tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://www.struthealth.com/blog/enclomiphene-price-complete-cost-breakdown",
+    "https://www.struthealth.com/blog/how-much-does-a-dermatologist-cost-what-to-expect-with-and-without-insurance",
+    "https://www.struthealth.com/blog/nad-injections-cost-breakdown-clinic-vs-at-home-telemed",
+    "https://www.struthealth.com/blog/sermorelin-peptide-cost",
+    "https://www.struthealth.com/blog/testosterone-test-price",
+    "https://www.struthealth.com/blog/what-is-telemedicine-the-new-frontier-of-medicine"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.struthealth.com/blog/enclomiphene-price-complete-cost-breakdown",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/how-much-does-a-dermatologist-cost-what-to-expect-with-and-without-insurance",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/how-to-boost-your-immune-system-naturally-7-tips-you-can-start-today",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/nad-injections-cost-breakdown-clinic-vs-at-home-telemed",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/sermorelin-peptide-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/testosterone-test-price",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/the-13-dirtiest-places-in-your-house-warning-you-might-immediately-start-cleaning",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/what-is-telehealth",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/what-is-telemedicine-the-new-frontier-of-medicine",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/when-to-start-using-tretinoin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/blog/will-losing-weight-help-with-turkey-neck",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/mens-weight-loss/injectable-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/mens-weight-loss/oral-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/mens-weight-loss/peptidevite",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/reviews/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/womens-weight-loss/injectable-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/womens-weight-loss/oral-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.struthealth.com/womens-weight-loss/peptidevite",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

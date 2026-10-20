@@ -1,0 +1,40 @@
+{
+  "name": "NuForm Health",
+  "domain": "nuformhealth.com",
+  "total_urls": 60,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.nuformhealth.com/faqs/innovative-weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.nuformhealth.com/glp-1-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.nuformhealth.com/glp-gip",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.nuformhealth.com/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.nuformhealth.com/weight-loss-for-women",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

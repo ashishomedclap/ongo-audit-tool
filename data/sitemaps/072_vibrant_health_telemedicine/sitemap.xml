@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://vibranthealth.com/sitemap_agentic_discovery.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://vibranthealth.com/sitemap_products_1.xml?from=11623563844&amp;to=8946936250391</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://vibranthealth.com/sitemap_pages_1.xml?from=84113555479&amp;to=152583438359</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://vibranthealth.com/sitemap_collections_1.xml?from=441249412&amp;to=490143186967</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://vibranthealth.com/sitemap_blogs_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://vibranthealth.com/sitemap_articles_1.xml</loc>
+  </sitemap>
+</sitemapindex>

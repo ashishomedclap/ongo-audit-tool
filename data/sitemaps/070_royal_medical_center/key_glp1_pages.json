@@ -1,0 +1,70 @@
+{
+  "name": "Royal Medical Center",
+  "domain": "royalmedicalcenters.com",
+  "total_urls": 112,
+  "semaglutide_pages": [
+    "https://royalmedicalcenters.com/product/semaglutde-oral/"
+  ],
+  "tirzepatide_pages": [
+    "https://royalmedicalcenters.com/product/tirzepatide-oral-dissolving-tablets/",
+    "https://royalmedicalcenters.com/tirzepatide-qualification/",
+    "https://royalmedicalcenters.com/tirzepatide/"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://royalmedicalcenters.com/compounding-disclaimers/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://royalmedicalcenters.com/glp1/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://royalmedicalcenters.com/product/glp-1-injections/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://royalmedicalcenters.com/product/glp1-oral/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://royalmedicalcenters.com/product/semaglutde-oral/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://royalmedicalcenters.com/product/tirzepatide-oral-dissolving-tablets/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://royalmedicalcenters.com/tirzepatide-qualification/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://royalmedicalcenters.com/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://royalmedicalcenters.com/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1470 @@
+{
+  "name": "Mochi Health",
+  "domain": "joinmochi.com",
+  "total_urls": 425,
+  "semaglutide_pages": [
+    "https://joinmochi.com/blog/cagrisema-the-new-glp-1-and-amylin-combination-that-may-transform-obesity-treatment",
+    "https://joinmochi.com/blog/can-ozempic-cause-blood-clots",
+    "https://joinmochi.com/blog/can-ozempic-cause-constipation",
+    "https://joinmochi.com/blog/can-ozempic-cause-depression",
+    "https://joinmochi.com/blog/can-ozempic-cause-diarrhea",
+    "https://joinmochi.com/blog/can-ozempic-cause-hair-loss",
+    "https://joinmochi.com/blog/can-ozempic-cause-headaches",
+    "https://joinmochi.com/blog/can-ozempic-cause-heart-palpitations",
+    "https://joinmochi.com/blog/can-ozempic-cause-high-blood-pressure",
+    "https://joinmochi.com/blog/can-ozempic-cause-joint-pain",
+    "https://joinmochi.com/blog/can-ozempic-cause-muscle-pain",
+    "https://joinmochi.com/blog/can-ozempic-cause-pancreatitis",
+    "https://joinmochi.com/blog/can-ozempic-cause-panic-attacks-and-anxiety",
+    "https://joinmochi.com/blog/can-you-drink-alcohol-on-semaglutide-or-tirzepatide",
+    "https://joinmochi.com/blog/can-you-take-ozempic-while-pregnant",
+    "https://joinmochi.com/blog/does-semaglutide-affect-fertility-or-pregnancy",
+    "https://joinmochi.com/blog/does-semaglutide-cause-headaches-what-you-should-know",
+    "https://joinmochi.com/blog/does-semaglutide-make-you-tired",
+    "https://joinmochi.com/blog/does-wegovy-cause-cancer",
+    "https://joinmochi.com/blog/does-wegovy-cause-constipation",
+    "https://joinmochi.com/blog/does-wegovy-cause-hair-loss",
+    "https://joinmochi.com/blog/does-wegovy-cause-nausea-navigating-side-effects-and-treatments",
+    "https://joinmochi.com/blog/hair-loss-and-ozempic",
+    "https://joinmochi.com/blog/how-does-semaglutide-work",
+    "https://joinmochi.com/blog/how-fast-do-you-lose-weight-on-semaglutide-timelines-and-expectations",
+    "https://joinmochi.com/blog/how-long-do-semaglutide-side-effects-last",
+    "https://joinmochi.com/blog/how-long-does-semaglutide-stay-in-your-system",
+    "https://joinmochi.com/blog/how-to-create-a-wegovy-diet-plan",
+    "https://joinmochi.com/blog/is-zofran-safe-with-semaglutide-what-you-need-to-know",
+    "https://joinmochi.com/blog/mounjaro-versus-wegovy-for-weight-loss",
+    "https://joinmochi.com/blog/mounjaro-vs-ozempic",
+    "https://joinmochi.com/blog/ozempic-and-alcohol",
+    "https://joinmochi.com/blog/ozempic-diet-plan",
+    "https://joinmochi.com/blog/ozempic-dosing-for-weight-loss",
+    "https://joinmochi.com/blog/ozempic-face",
+    "https://joinmochi.com/blog/ozempic-feet-what-it-means-and-when-to-call-a-provider",
+    "https://joinmochi.com/blog/ozempic-foods-to-avoid",
+    "https://joinmochi.com/blog/ozempic-for-weight-loss",
+    "https://joinmochi.com/blog/ozempic-personality-changes",
+    "https://joinmochi.com/blog/rybelsus-vs-ozempic-for-weight-loss",
+    "https://joinmochi.com/blog/semaglutide-and-pregnancy",
+    "https://joinmochi.com/blog/semaglutide-for-weight-loss-in-non-diabetics-dosage",
+    "https://joinmochi.com/blog/semaglutide-vs-tirzepatide-which-works-faster-and-which-is-better-for-you",
+    "https://joinmochi.com/blog/semax-peptide-benefits-dosage-safety-and-legality",
+    "https://joinmochi.com/blog/spotting-fake-semaglutide",
+    "https://joinmochi.com/blog/switching-from-semaglutide-to-tirzepatide",
+    "https://joinmochi.com/blog/tirzepatide-vs-semaglutide",
+    "https://joinmochi.com/blog/tirzepatide-vs-semaglutide-results",
+    "https://joinmochi.com/blog/victoza-vs-ozempic",
+    "https://joinmochi.com/blog/wegovy-dosage",
+    "https://joinmochi.com/blog/wegovy-for-weight-loss",
+    "https://joinmochi.com/blog/wegovy-pill",
+    "https://joinmochi.com/blog/wegovy-pill-vs-injection",
+    "https://joinmochi.com/blog/wegovy-versus-ozempic-for-weight-loss",
+    "https://joinmochi.com/blog/wegovy-versus-rybelsus-for-weight-loss",
+    "https://joinmochi.com/blog/wegovy-versus-saxenda-for-weight-loss",
+    "https://joinmochi.com/blog/wegovy-versus-trulicity-for-weight-loss",
+    "https://joinmochi.com/blog/what-happens-when-you-stop-taking-semaglutide",
+    "https://joinmochi.com/blog/what-to-eat-on-ozempic",
+    "https://joinmochi.com/blog/what-to-eat-on-wegovy",
+    "https://joinmochi.com/blog/who-should-not-take-ozempic",
+    "https://joinmochi.com/blog/who-should-not-take-wegovy",
+    "https://joinmochi.com/blog/why-does-wegovy-cause-diarrhea-insights-and-advice",
+    "https://joinmochi.com/medications/compounded-semaglutide",
+    "https://joinmochi.com/medications/compounded-semaglutide-pill",
+    "https://joinmochi.com/medications/ozempic",
+    "https://joinmochi.com/medications/wegovy",
+    "https://joinmochi.com/medications/wegovy-pill"
+  ],
+  "tirzepatide_pages": [
+    "https://joinmochi.com/blog/can-mounjaro-cause-depression",
+    "https://joinmochi.com/blog/can-you-drink-alcohol-on-semaglutide-or-tirzepatide",
+    "https://joinmochi.com/blog/does-mounjaro-cause-body-aches",
+    "https://joinmochi.com/blog/does-mounjaro-cause-cancer",
+    "https://joinmochi.com/blog/does-mounjaro-cause-constipation",
+    "https://joinmochi.com/blog/does-mounjaro-cause-diarrhea",
+    "https://joinmochi.com/blog/does-mounjaro-cause-hair-loss",
+    "https://joinmochi.com/blog/does-mounjaro-cause-headaches",
+    "https://joinmochi.com/blog/does-mounjaro-cause-insomnia",
+    "https://joinmochi.com/blog/does-mounjaro-cause-thyroid-cancer",
+    "https://joinmochi.com/blog/does-mounjaro-make-you-tired",
+    "https://joinmochi.com/blog/does-tirzepatide-mounjaro-cause-low-blood-sugar",
+    "https://joinmochi.com/blog/how-mounjaro-tirzepatide-works-for-weight-loss",
+    "https://joinmochi.com/blog/how-to-inject-mounjaro",
+    "https://joinmochi.com/blog/mounjaro-dosing",
+    "https://joinmochi.com/blog/mounjaro-for-weight-loss",
+    "https://joinmochi.com/blog/mounjaro-side-effects-causes-treatments",
+    "https://joinmochi.com/blog/mounjaro-skin-sensitivity",
+    "https://joinmochi.com/blog/mounjaro-sulfur-burps",
+    "https://joinmochi.com/blog/mounjaro-versus-rybelsus-for-weight-loss",
+    "https://joinmochi.com/blog/mounjaro-versus-saxenda-for-weight-loss",
+    "https://joinmochi.com/blog/mounjaro-versus-wegovy-for-weight-loss",
+    "https://joinmochi.com/blog/mounjaro-vs-contrave-for-weight-loss",
+    "https://joinmochi.com/blog/mounjaro-vs-metformin-for-weight-loss",
+    "https://joinmochi.com/blog/mounjaro-vs-ozempic",
+    "https://joinmochi.com/blog/mounjaro-vs-qsymia-for-weight-loss",
+    "https://joinmochi.com/blog/mounjaro-weight-loss-by-week",
+    "https://joinmochi.com/blog/new-clinical-trials-for-mounjaro",
+    "https://joinmochi.com/blog/new-oral-form-of-mounjaro-mazdutide",
+    "https://joinmochi.com/blog/retatrutide-vs-tirzepatide",
+    "https://joinmochi.com/blog/semaglutide-vs-tirzepatide-which-works-faster-and-which-is-better-for-you",
+    "https://joinmochi.com/blog/switching-from-semaglutide-to-tirzepatide",
+    "https://joinmochi.com/blog/tirzepatide-and-dulaglutide-weight-loss-drugs",
+    "https://joinmochi.com/blog/tirzepatide-and-fatty-liver-disease-nash",
+    "https://joinmochi.com/blog/tirzepatide-before-after-review-cicily",
+    "https://joinmochi.com/blog/tirzepatide-for-weight-loss",
+    "https://joinmochi.com/blog/tirzepatide-side-effects",
+    "https://joinmochi.com/blog/tirzepatide-vs-semaglutide",
+    "https://joinmochi.com/blog/tirzepatide-vs-semaglutide-results",
+    "https://joinmochi.com/blog/what-happens-when-you-stop-taking-mounjaro",
+    "https://joinmochi.com/blog/what-to-eat-on-mounjaro",
+    "https://joinmochi.com/blog/who-should-not-take-mounjaro-for-weight-loss",
+    "https://joinmochi.com/blog/zepbound-diet-plan",
+    "https://joinmochi.com/blog/zepbound-side-effects",
+    "https://joinmochi.com/blog/zepbound-weight-loss",
+    "https://joinmochi.com/medications/compounded-tirzepatide",
+    "https://joinmochi.com/medications/mounjaro",
+    "https://joinmochi.com/medications/zepbound"
+  ],
+  "pricing_pages": [
+    "https://joinmochi.com/blog/how-to-create-a-wegovy-diet-plan",
+    "https://joinmochi.com/blog/in-network-plans",
+    "https://joinmochi.com/blog/ozempic-diet-plan",
+    "https://joinmochi.com/blog/per-dose-pricing-mochi-health",
+    "https://joinmochi.com/blog/the-stigma-problem-why-patients-on-glp-1s-don-t-owe-anyone-an-explanation",
+    "https://joinmochi.com/blog/zepbound-diet-plan",
+    "https://joinmochi.com/lp/per-dosage-pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://joinmochi.com/blog/10-habits-that-improve-glp-1-results-without-increasing-your-dose",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/all-about-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/are-glp1-medications-safe-for-anxiety-and-depression",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/are-glp1-medications-safe-for-thyroid-disorders",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/are-weight-loss-gummies-effective",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/are-weight-loss-medications-safe-for-your-heart",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/best-appetite-suppressant-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/best-diet-for-pcos-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/best-fruits-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/best-injection-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/best-menopause-diet-for-weight-loss-mochi-health",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/best-weight-loss-supplements-for-women",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/bupropion-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/cagrisema-the-new-glp-1-and-amylin-combination-that-may-transform-obesity-treatment",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-hypothyroidism-cause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-mounjaro-cause-depression",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-blood-clots",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-constipation",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-depression",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-diarrhea",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-hair-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-headaches",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-heart-palpitations",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-high-blood-pressure",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-joint-pain",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-muscle-pain",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-pancreatitis",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-ozempic-cause-panic-attacks-and-anxiety",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-you-drink-alcohol-on-semaglutide-or-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/can-you-take-ozempic-while-pregnant",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/constipation-on-glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/contrave-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/do-glp1-agonists-cause-gallstones",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/do-weight-loss-pills-work",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-duloxetine-cause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-estradiol-cause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-hrt-help-with-weight-loss-what-the-research-shows",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-jardiance-cause-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-cause-body-aches",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-cause-cancer",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-cause-constipation",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-cause-diarrhea",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-cause-hair-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-cause-headaches",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-cause-insomnia",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-cause-thyroid-cancer",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-mounjaro-make-you-tired",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-semaglutide-affect-fertility-or-pregnancy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-semaglutide-cause-headaches-what-you-should-know",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-semaglutide-make-you-tired",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-sleep-apnea-cause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-tirzepatide-mounjaro-cause-low-blood-sugar",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-wegovy-cause-cancer",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-wegovy-cause-constipation",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-wegovy-cause-hair-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/does-wegovy-cause-nausea-navigating-side-effects-and-treatments",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/extended-supply-glp1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/fda-guidance-on-compounded-glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1-for-pcos-what-the-science-shows",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1-medications-and-fertility",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1-medications-and-inflammatory-bowel-disease",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1-plateau-why-it-happens-and-how-to-break-through-it",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1-side-effects-what-s-normal-what-s-not-and-when-to-get-help",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1s-and-cardiometabolic-health-how-these-medications-support-the-heart-and-long-term-wellness",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1s-and-gut-motility-what-s-normal-what-s-slowed-and-what-s-concerning",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1s-for-athletes-performance-body-composition-and-recovery",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1s-for-hyperinsulinemia-how-lowering-insulin-can-trigger-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp-1s-for-pre-diabetes-can-you-prevent-type-ii-diabetes",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp1-agonists-and-diabetic-retinopathy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp1-and-psoriasis",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp1-medications-and-pancreatic-cancer",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/glp1-medications-and-pcos",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/hair-loss-and-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/healthy-relationship-with-food-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-does-semaglutide-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-fast-do-you-lose-weight-on-semaglutide-timelines-and-expectations",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-glp-1s-are-changing-restaurant-menus-and-food-companies",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-glp-1s-change-your-gut-microbiome-the-bacteria-brain-metabolism-axis",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-insurance-and-glp-1-drug-shortages-are-increasing-interest-in-compounded-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-long-do-semaglutide-side-effects-last",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-long-does-semaglutide-stay-in-your-system",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-mounjaro-tirzepatide-works-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-to-avoid-losing-weight-after-stopping-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-to-create-a-wegovy-diet-plan",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-to-establish-new-weight-set-point",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-to-inject-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-to-lose-weight-with-pcos",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/how-to-restart-after-taking-a-break-from-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ideal-diet-while-taking-glp1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ideal-protein-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/in-network-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/insulin-resistance-vs-leptin-resistance-which-one-is-driving-your-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/is-long-term-glp-1-use-safe-what-10-year-data-suggests",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/is-white-rice-good-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/is-zofran-safe-with-semaglutide-what-you-need-to-know",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/kendrick-perkins-weight-loss-journey",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/liraglutide-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/magnesium-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/managing-weight-during-the-holidays-a-practical-science-based-guide-from-mochi",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mechanism-of-action-of-glp1-agonists",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/medicare-glp-1-bridge-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/medications-that-cause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/menopause-weight-gain-why-it-happens",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mochi-health-vs-hers-weight-loss-programs-compared",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mochi-health-vs-hims-weight-loss-programs-compared",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mochi-health-vs-ro-weight-loss-programs-compared",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounarjo-versus-phentermine-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-dosing",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-side-effects-causes-treatments",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-skin-sensitivity",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-sulfur-burps",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-versus-rybelsus-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-versus-saxenda-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-versus-wegovy-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-vs-contrave-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-vs-metformin-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-vs-ozempic",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-vs-qsymia-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/mounjaro-weight-loss-by-week",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/natural-herbs-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/new-clinical-trials-for-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/new-oral-form-of-mounjaro-mazdutide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/no-more-starting-from-scratch-your-health-history-at-mochi",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/obesogens-causing-difficulty-losing-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/online-weight-loss-coach",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/oral-vs-injectable-glp-1s-bioavailability-absorption-and-efficacy-differences",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/orlistat-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ozempic-and-alcohol",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ozempic-diet-plan",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ozempic-dosing-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ozempic-face",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ozempic-feet-what-it-means-and-when-to-call-a-provider",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ozempic-foods-to-avoid",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ozempic-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/ozempic-personality-changes",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/peptides-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/per-dose-pricing-mochi-health",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/qsymia-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/retatrutide-vs-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/rybelsus-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/rybelsus-vs-ozempic-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/saxenda-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/semaglutide-and-pregnancy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/semaglutide-for-weight-loss-in-non-diabetics-dosage",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/semaglutide-vs-tirzepatide-which-works-faster-and-which-is-better-for-you",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/semax-peptide-benefits-dosage-safety-and-legality",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/sermorelin-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/sleep-apnea-and-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/spotting-fake-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/switching-from-semaglutide-to-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/the-best-foods-to-eat-while-taking-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/the-best-herbal-supplements-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/the-link-between-glp-1s-and-inflammation-crp-cytokines-and-immune-effects",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/the-stigma-problem-why-patients-on-glp-1s-don-t-owe-anyone-an-explanation",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/thyroid-function-and-glp-1s-what-the-connection-means-for-you",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/tirzepatide-and-dulaglutide-weight-loss-drugs",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/tirzepatide-and-fatty-liver-disease-nash",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/tirzepatide-before-after-review-cicily",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/tirzepatide-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/tirzepatide-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/tirzepatide-vs-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/tirzepatide-vs-semaglutide-results",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/topiramate-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/understanding-your-a1c-what-glp-1-patients-need-to-know",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/victoza-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/victoza-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/wegovy-dosage",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/wegovy-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/wegovy-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/wegovy-pill-vs-injection",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/wegovy-versus-ozempic-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/wegovy-versus-rybelsus-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/wegovy-versus-saxenda-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/wegovy-versus-trulicity-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/weight-estrogen-and-glp-1s-why-women-s-plateaus-differ-from-men-s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/weight-gain-and-antidepressants",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/weight-loss-medications-after-bariatric-surgery",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/weight-loss-to-improve-cardiovascular-risk",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-happens-when-you-stop-taking-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-happens-when-you-stop-taking-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-is-glp1-microdosing",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-is-orforglipron-the-new-glp-1-weight-loss-pill-explained",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-is-rybelsus-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-labs-should-you-monitor-on-glp-1s-a-complete-biomarker-guide",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-providers-wish-patients-knew-before-starting-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-to-eat-on-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-to-eat-on-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/what-to-eat-on-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/when-to-expect-the-worst-side-effects-when-starting-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/when-to-titrate-up-on-your-glp-1-dose-signs-you-re-ready-for-the-next-step",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/which-additive-is-best-for-you-glp-1-additives-explained-b12-l-carnitine-nad-and-more",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/which-weight-loss-medication-is-right-for-me",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/who-is-eligible-for-prescription-weight-loss-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/who-should-not-take-mounjaro-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/who-should-not-take-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/who-should-not-take-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/why-does-wegovy-cause-diarrhea-insights-and-advice",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/why-protein-intake-matters-on-glp-1-medications-and-how-much-you-really-need",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/zepbound-diet-plan",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/zepbound-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/blog/zepbound-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/lp/per-dosage-pricing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/compounded-orforglipron",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/compounded-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/compounded-semaglutide-pill",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/compounded-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/wegovy-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/medications/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/weight-loss/medicare-bridge",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/weight-loss/microdose",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinmochi.com/weight-loss/oral-glp",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

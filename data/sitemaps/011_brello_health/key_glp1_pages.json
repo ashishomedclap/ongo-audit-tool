@@ -1,0 +1,215 @@
+{
+  "name": "Brello Health",
+  "domain": "brellohealth.com",
+  "total_urls": 154,
+  "semaglutide_pages": [
+    "https://www.brellohealth.com/product/semaglutide-b6"
+  ],
+  "tirzepatide_pages": [
+    "https://www.brellohealth.com/longevity/intro-tirzepatide-6-month-plan",
+    "https://www.brellohealth.com/product/tirzepatide-b6",
+    "https://www.brellohealth.com/product/tirzepatide-bundle"
+  ],
+  "pricing_pages": [
+    "https://www.brellohealth.com/2025-plan",
+    "https://www.brellohealth.com/longevity/intro-tirzepatide-6-month-plan",
+    "https://www.brellohealth.com/movement/a-beginner-walking-workout-plan",
+    "https://www.brellohealth.com/product/empowered-longevity-lifestyle-plan",
+    "https://www.brellohealth.com/product/thrive-forward-longevity-lifestyle-plan"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.brellohealth.com/2025-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/lifestyle/how-to-choose-a-glp-1-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/lifestyle/signs-of-a-good-glp-1-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/longevity/intro-tirzepatide-6-month-plan",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/longevity/introducing-compounded-nad",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/longevity/introducing-compounded-sermorelin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/longevity/when-does-perimenopause-start",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/mindset/how-to-stay-motivated-to-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/movement/a-beginner-walking-workout-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/my-glp1-guide",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/nutrition/glp-1-air-fryer-recipes",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/nutrition/glp-1-freezer-meals-to-batch-ahead",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/nutrition/glp-1-lunch-ideas",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/nutrition/high-protein-dinners-on-a-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/nutrition/how-much-protein-should-i-eat-on-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/nutrition/intermittent-fasting-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/nutrition/slow-cooker-recipes-for-glp-1-days",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/product/compounded-nad",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/product/compounded-sermorelin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/product/empowered-longevity-lifestyle-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/product/semaglutide-b6",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/product/thrive-forward-longevity-lifestyle-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/product/tirzepatide-b6",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/product/tirzepatide-bundle",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/start",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/start-glp-1-quiz-v1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/start-glp-1-v1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/start-glp-1-v1-es",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/start-glp1-affiliate",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/start-wellness",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/telehealth-consent",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.brellohealth.com/weight-loss-bill-of-rights",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

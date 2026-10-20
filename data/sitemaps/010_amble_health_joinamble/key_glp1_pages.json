@@ -1,0 +1,84 @@
+{
+  "name": "Amble Health (JoinAmble)",
+  "domain": "joinamble.com",
+  "total_urls": 94,
+  "semaglutide_pages": [
+    "https://joinamble.com/peptides/semax"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://joinamble.com/daily-water-intake-calculator",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/ga/glp-1-ga",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/ga/glp-1-injections",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/glp-1-c2v",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/glp-1-injections",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/lp/shop-glp-1-v6-r",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/m/glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/peptides/semax",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/tt/glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/tt/glp-1-v2",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/tt/glp-1-v3",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://joinamble.com/tt/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

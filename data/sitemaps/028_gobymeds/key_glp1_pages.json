@@ -1,0 +1,762 @@
+{
+  "name": "GobyMeds",
+  "domain": "gobymeds.com",
+  "total_urls": 240,
+  "semaglutide_pages": [
+    "https://www.gobymeds.com/articles/can-i-switch-from-tirzepatide-to-semaglutide-what-you-need-to-know",
+    "https://www.gobymeds.com/articles/compounded-semaglutide-how-why",
+    "https://www.gobymeds.com/articles/considering-the-gray-market-for-semaglutide-or-tirzepatide",
+    "https://www.gobymeds.com/articles/constipation-on-compounded-semaglutide-or-tirzepatide",
+    "https://www.gobymeds.com/articles/does-semaglutide-work-for-weight-loss",
+    "https://www.gobymeds.com/articles/how-long-does-compounded-semaglutide-last-in-the-fridge",
+    "https://www.gobymeds.com/articles/how-long-until-i-see-results-your-timeline-with-compounded-semaglutide-and-tirzepatide",
+    "https://www.gobymeds.com/articles/how-to-get-compounded-semaglutide",
+    "https://www.gobymeds.com/articles/how-to-store-compounded-semaglutide",
+    "https://www.gobymeds.com/articles/is-compounded-semaglutide-the-same-as-ozempic",
+    "https://www.gobymeds.com/articles/is-my-compounded-semaglutide-working",
+    "https://www.gobymeds.com/articles/managing-pcos-with-glp-1-medications-semaglutide-and-tirzepatide",
+    "https://www.gobymeds.com/articles/navigating-semaglutide-side-effects",
+    "https://www.gobymeds.com/articles/ozempic-face-is-it-real-and-should-you-worry",
+    "https://www.gobymeds.com/articles/semaglutide-vs-tirzepatide",
+    "https://www.gobymeds.com/articles/semaglutide-vs-tirzepatide-for-pcos",
+    "https://www.gobymeds.com/articles/should-i-exercise-while-taking-semaglutide",
+    "https://www.gobymeds.com/articles/should-i-take-semaglutide-forever",
+    "https://www.gobymeds.com/articles/the-ozempic-baby-boom-how-glp-1s-impact-fertility",
+    "https://www.gobymeds.com/articles/understanding-a-compounded-semaglutide-dosing-schedule",
+    "https://www.gobymeds.com/articles/what-is-a-bud-for-compounded-semaglutide-and-why-it-matters",
+    "https://www.gobymeds.com/articles/what-is-the-difference-between-compounded-semaglutide-and-semaglutide",
+    "https://www.gobymeds.com/articles/what-should-i-eat-on-semaglutide",
+    "https://www.gobymeds.com/articles/when-to-consider-a-maintenance-dose-of-semaglutide-or-tirzepatide-gobymeds",
+    "https://www.gobymeds.com/getting-started/compounded-semaglutide",
+    "https://www.gobymeds.com/medications/compounded-semaglutide",
+    "https://www.gobymeds.com/medications/wegovy",
+    "https://www.gobymeds.com/topic/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.gobymeds.com/articles/can-i-switch-from-tirzepatide-to-semaglutide-what-you-need-to-know",
+    "https://www.gobymeds.com/articles/considering-the-gray-market-for-semaglutide-or-tirzepatide",
+    "https://www.gobymeds.com/articles/constipation-on-compounded-semaglutide-or-tirzepatide",
+    "https://www.gobymeds.com/articles/discover-tirzepatide",
+    "https://www.gobymeds.com/articles/does-compounded-tirzepatide-need-to-be-refrigerated",
+    "https://www.gobymeds.com/articles/how-long-until-i-see-results-your-timeline-with-compounded-semaglutide-and-tirzepatide",
+    "https://www.gobymeds.com/articles/how-to-store-tirzepatide",
+    "https://www.gobymeds.com/articles/is-my-tirzepatide-not-working-understanding-doses-timelines-and-maximizing-results",
+    "https://www.gobymeds.com/articles/managing-pcos-with-glp-1-medications-semaglutide-and-tirzepatide",
+    "https://www.gobymeds.com/articles/semaglutide-vs-tirzepatide",
+    "https://www.gobymeds.com/articles/semaglutide-vs-tirzepatide-for-pcos",
+    "https://www.gobymeds.com/articles/understanding-a-compounded-tirzepatide-dosing-schedule",
+    "https://www.gobymeds.com/articles/when-to-consider-a-maintenance-dose-of-semaglutide-or-tirzepatide-gobymeds",
+    "https://www.gobymeds.com/getting-started/compounded-tirzepatide",
+    "https://www.gobymeds.com/medications/compounded-tirzepatide",
+    "https://www.gobymeds.com/medications/zepbound",
+    "https://www.gobymeds.com/topic/tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://www.gobymeds.com/getting-started/personalized-glp-1-medication-plans---quiz",
+    "https://www.gobymeds.com/getting-started/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.gobymeds.com/articles-categories/gobymeds-articles-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/3-move-bodyweight-workout",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/a-guide-to-the-gobymeds-glp-1-gip-starter-bundle",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/a-guide-to-the-gobymeds-glp-1-starter-bundle",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/about-compounded-glp1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/beyond-diabetes-the-role-of-glp-1s-in-pcos-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/can-i-stop-taking-a-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/can-i-switch-from-a-compounded-glp-1-to-a-compounded-glp-1-gip-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/can-i-switch-from-tirzepatide-to-semaglutide-what-you-need-to-know",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/can-you-drink-alcohol-on-a-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/cardio-vs-weights-if-you-only-have-20-minutes",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/compounded-semaglutide-how-why",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/compounded-vs-brand-name-weight-loss-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/conquering-the-queasiness-how-to-handle-nausea-on-your-glp-1-journey",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/considering-the-gray-market-for-semaglutide-or-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/constipation-fixes-the-fiber-water-combo-you-need-on-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/constipation-on-compounded-semaglutide-or-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/discover-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/do-glp-1-patches-work",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/does-compounded-tirzepatide-need-to-be-refrigerated",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/does-semaglutide-work-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/embracing-the-benefits-of-a-self-pay-model-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/free-weights-vs-machines",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/free-weights-vs-machines-which-is-better-for-your-journey",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/glp-1-medications-emotional-eating",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/glp-1-risk-factors",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/glp-1s-and-hair-loss-why-it-can-happen-and-what-you-can-do-about-it",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/glp-1s-and-pancreatitis-what-you-need-to-know",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/glp-1s-body-autonomy-life-beyond-the-scale",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/glp1-gip-medication-differences",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-do-i-keep-muscle-mass-on-a-glp-1-the-power-paradox",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-glp-1s-quiet-food-noise-in-pcos",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-long-does-compounded-semaglutide-last-in-the-fridge",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-long-until-i-see-results-your-timeline-with-compounded-semaglutide-and-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-much-water-should-i-drink-on-a-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-to-enjoy-summer-holidays-while-on-a-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-to-get-compounded-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-to-start-exercising-without-overdoing-it",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-to-store-compounded-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-to-store-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/how-to-travel-with-a-refrigerated-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/is-compounded-semaglutide-the-same-as-ozempic",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/is-my-compounded-semaglutide-working",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/is-my-glp-1-working-what-to-expect-in-the-early-stages",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/is-my-tirzepatide-not-working-understanding-doses-timelines-and-maximizing-results",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/managing-glp-1-and-glp-1-gip-side-effects",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/managing-pcos-with-glp-1-medications-semaglutide-and-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/moving-with-momentum-your-guide-to-exercise-on-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/natural-ways-to-increase-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/navigating-semaglutide-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/ozempic-face-is-it-real-and-should-you-worry",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/pcos-and-fertility-can-losing-weight-improve-your-odds",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/protein-for-weight-loss-longevity",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/restarting-your-weight-loss-journey-titration",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/semaglutide-vs-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/semaglutide-vs-tirzepatide-for-pcos",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/sermorelin-and-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/should-i-exercise-while-taking-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/should-i-lift-weights-or-run",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/should-i-take-semaglutide-forever",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/staying-healthy-during-the-holidays-while-on-glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/stigma-around-glp-1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/storing-glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/the-best-books-to-read-if-youre-on-a-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/the-frustrating-link-between-menopause-and-weight-gain-can-glp-1s-help",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/the-glp-1-slump-your-guide-to-overcoming-fatigue-and-boosting-energy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/the-glp-1-timeline-what-to-expect-in-your-first-year",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/the-ozempic-baby-boom-how-glp-1s-impact-fertility",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/the-right-pace-why-losing-weight-too-fast-can-do-more-harm-than-good",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/the-science-of-the-glp-1-super-responders",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/the-ultimate-guide-to-glp1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/understanding-a-compounded-semaglutide-dosing-schedule",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/understanding-a-compounded-tirzepatide-dosing-schedule",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/understanding-additives-in-compounded-glp-1-medications-what-they-are-and-why-they-matter",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/understanding-brand-name-glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/understanding-the-glp-1-diet",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/using-resistance-training-to-help-offset-muscle-loss-while-taking-glp-1-medications-gobymeds",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-are-compounding-pharmacies-and-why-do-they-matter",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-happens-if-i-miss-a-glp-1-dose",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-is-a-bud-for-compounded-semaglutide-and-why-it-matters",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-is-food-noise-and-do-glp-1s-helps",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-is-the-difference-between-compounded-semaglutide-and-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-should-i-eat-on-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-to-do-about-a-glp-1-weight-loss-plateau",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-to-eat-on-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/what-to-expect-when-starting-a-glp-1-weight-loss-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/when-to-consider-a-maintenance-dose-of-semaglutide-or-tirzepatide-gobymeds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/when-your-glp-1-dose-increase-feels-like-too-much",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/why-nad-and-glp-1s-are-the-perfect-match-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/why-sermorelin-is-the-essential-partner-for-glp-1-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/articles/your-first-month-on-a-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/compounded-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/compounded-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/hair-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/loyalty-program",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/nad",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/now",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/personalized-glp-1-medication-plans---quiz",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/personalized-meds",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/pricing",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/sermorelin",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/starter-bundle",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/getting-started/trt",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/medications/compounded-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/medications/compounded-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/medications/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/medications/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/topic/glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/topic/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/topic/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/topic/weightloss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.gobymeds.com/treatments/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

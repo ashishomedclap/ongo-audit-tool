@@ -1,0 +1,18 @@
+{
+  "name": "Matrix Hormones & Telemedicine",
+  "domain": "matrixreformed.com",
+  "total_urls": 6,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://matrixreformed.com/plans-as-low-as-120-per-month/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://matrixreformed.com/plans-as-low-as-120-per-month/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

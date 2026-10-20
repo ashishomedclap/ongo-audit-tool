@@ -1,0 +1,41 @@
+{
+  "name": "MinuteMD",
+  "domain": "minutemd.com",
+  "total_urls": 29,
+  "semaglutide_pages": [
+    "https://minutemd.com/high-dose-semaglutide-treatment-plan/",
+    "https://minutemd.com/semaglutide-google-shopping/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://minutemd.com/female-hormone-replacement-therapy-membership/",
+    "https://minutemd.com/high-dose-semaglutide-treatment-plan/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://minutemd.com/female-hormone-replacement-therapy-membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://minutemd.com/high-dose-semaglutide-treatment-plan/",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://minutemd.com/semaglutide-google-shopping/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://minutemd.com/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

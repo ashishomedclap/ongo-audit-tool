@@ -1,0 +1,734 @@
+{
+  "name": "Pure Pharmacy Telehealth Solutions",
+  "domain": "purepharmacy.com",
+  "total_urls": 10323,
+  "semaglutide_pages": [
+    "https://purepharmacy.com/en-us/products/divine-essence-rosemary-camphor-type-organic-15ml",
+    "https://purepharmacy.com/en-us/products/divine-essence-rosemary-cineole-type-15ml",
+    "https://purepharmacy.com/en-us/products/divine-essence-rosemary-cineole-type-organic-100ml",
+    "https://purepharmacy.com/en-us/products/divine-essence-rosemary-verbenone-type-organic-100ml",
+    "https://purepharmacy.com/en-us/products/divine-essence-rosemary-verbenone-type-organic-5ml",
+    "https://purepharmacy.com/en-us/products/genestra-rosemary-young-shoot-15-ml",
+    "https://purepharmacy.com/en-us/products/herbal-glo-coconut-rosemary-macadamia-hair-care-shampoo-350ml",
+    "https://purepharmacy.com/en-us/products/mbm-nature-rosemary-shampoo-bar-100g",
+    "https://purepharmacy.com/en-us/products/new-roots-rosemary-essential-oil",
+    "https://purepharmacy.com/en-us/products/st-francis-rosemary-100-ml",
+    "https://purepharmacy.com/en-us/products/st-francis-rosemary-250-ml",
+    "https://purepharmacy.com/en-us/products/st-francis-rosemary-tincture-50ml",
+    "https://purepharmacy.com/en-us/products/weleda-rosemary-conditioning-hair-oil-50ml",
+    "https://purepharmacy.com/products/mbm-nature-rosemary-shampoo-bar-100g",
+    "https://purepharmacy.com/products/new-roots-rosemary-essential-oil",
+    "https://purepharmacy.com/products/st-francis-rosemary-100-ml",
+    "https://purepharmacy.com/products/st-francis-rosemary-250-ml",
+    "https://purepharmacy.com/products/st-francis-rosemary-tincture-50ml",
+    "https://purepharmacy.com/products/weleda-rosemary-conditioning-hair-oil-50ml"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://purepharmacy.com/en-us/products/acure-hydrating-plant-cera-facial-lotion-50ml",
+    "https://purepharmacy.com/en-us/products/acure-the-essentials-plant-squalane-oil-30ml",
+    "https://purepharmacy.com/en-us/products/aura-plant-based-protein-unflavoured-500-g",
+    "https://purepharmacy.com/en-us/products/aura-plant-based-protein-vanilla-vanilla-10-x-36g",
+    "https://purepharmacy.com/en-us/products/aura-plant-mylk-coconut-creamer-300g",
+    "https://purepharmacy.com/en-us/products/flora-biodigest-plant-probiotic-and-prebiotics-200-g",
+    "https://purepharmacy.com/en-us/products/flora-biodigest-plant-probiotic-and-prebiotics-380-g",
+    "https://purepharmacy.com/en-us/products/garden-of-life-sport-organic-plant-base-protein-choc-806g",
+    "https://purepharmacy.com/en-us/products/garden-of-life-sport-organic-plant-base-protein-van-806g",
+    "https://purepharmacy.com/en-us/products/mykind-org-plant-collagen-builder-60vcap",
+    "https://purepharmacy.com/en-us/products/mykind-organics-organic-plant-cal-90vcap",
+    "https://purepharmacy.com/en-us/products/new-roots-fiber-ultra-rich-plantago-inulin-200g",
+    "https://purepharmacy.com/en-us/products/new-roots-fibre-ultra-rich-plantago-inulin-powder",
+    "https://purepharmacy.com/en-us/products/new-roots-plant-digestive-enzymes",
+    "https://purepharmacy.com/en-us/products/new-roots-plant-sterols",
+    "https://purepharmacy.com/en-us/products/nutrasea-nutravege-plant-omega-3-d3-mint-30sgs",
+    "https://purepharmacy.com/en-us/products/nutravege-omega-3-d-plant-liquid",
+    "https://purepharmacy.com/en-us/products/nutravege-omega-3-plant-75-softgels",
+    "https://purepharmacy.com/en-us/products/nutravege-omega-3-plant-liquid",
+    "https://purepharmacy.com/en-us/products/organika-plant-based-collagen-booster",
+    "https://purepharmacy.com/en-us/products/otc-backup-plan-one-step-15mg",
+    "https://purepharmacy.com/en-us/products/peeling-socks-duo-with-plant-based-aha-17-botanicals",
+    "https://purepharmacy.com/en-us/products/routine-minis-kit-plant-people-4pk",
+    "https://purepharmacy.com/en-us/products/salus-nettle-plant-juice-200ml",
+    "https://purepharmacy.com/en-us/products/thursday-plantation-eucalyptus-oil-100-pure-cough-cold-50ml",
+    "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-acne-medicated-gel-20-tto-10g",
+    "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-antiseptic-cream-100g",
+    "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-bar-soap-115g",
+    "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-exfoliating-cleansing-bar-for-face-body-95g",
+    "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-foaming-face-wash-150ml",
+    "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-oil",
+    "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-toothpaste-110g",
+    "https://purepharmacy.com/en-us/products/weleda-plant-gel-toothpaste-75ml",
+    "https://purepharmacy.com/products/new-roots-fiber-ultra-rich-plantago-inulin-200g",
+    "https://purepharmacy.com/products/new-roots-fibre-ultra-rich-plantago-inulin-powder",
+    "https://purepharmacy.com/products/new-roots-plant-digestive-enzymes",
+    "https://purepharmacy.com/products/new-roots-plant-sterols",
+    "https://purepharmacy.com/products/nutravege-omega-3-d-plant-liquid",
+    "https://purepharmacy.com/products/otc-backup-plan-one-step-15mg",
+    "https://purepharmacy.com/products/peeling-socks-duo-with-plant-based-aha-17-botanicals",
+    "https://purepharmacy.com/products/routine-minis-kit-plant-people-4pk",
+    "https://purepharmacy.com/products/salus-nettle-plant-juice-200ml",
+    "https://purepharmacy.com/products/weleda-plant-gel-toothpaste-75ml"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://purepharmacy.com/en-us/pages/compounding-for-pets",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/pages/compounding-for-you",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/pages/compounding-services",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/pages/pure-compounding-lab",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/pages/services/pet-compounding",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/acure-hydrating-plant-cera-facial-lotion-50ml",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/acure-the-essentials-plant-squalane-oil-30ml",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/aura-plant-based-protein-unflavoured-500-g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/aura-plant-based-protein-vanilla-vanilla-10-x-36g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/aura-plant-mylk-coconut-creamer-300g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/bioclinic-pgx-weight-loss-meal-replacement-double-chocolate-1-kg-powder",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/bioclinic-pgx-weight-loss-meal-replacement-french-vanilla-1-kg-powder",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/botanica-adrenal-support-compound-liquid-herb-50-ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/botanica-digestive-bitters-compound-liquid-herb-50-ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/botanica-echinacea-goldenseal-compound-liquid-herb-50-ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/botanica-immune-strength-compound-liquid-herb-50-ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/botanica-liver-support-compound-liquid-herb-50-ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/botanica-respiratory-compound-liquid-herb-50-ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/botanica-valerian-sleeptime-compound-liquid-herb-50-ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/deep-sleep-mouth-tape-starter-pack-5",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/divine-essence-rosemary-camphor-type-organic-15ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/divine-essence-rosemary-cineole-type-15ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/divine-essence-rosemary-cineole-type-organic-100ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/divine-essence-rosemary-verbenone-type-organic-100ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/divine-essence-rosemary-verbenone-type-organic-5ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/enerex-best-start-20-x-1262g",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/enerex-best-start-265-g",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/flora-biodigest-plant-probiotic-and-prebiotics-200-g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/flora-biodigest-plant-probiotic-and-prebiotics-380-g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/garden-of-life-sport-organic-plant-base-protein-choc-806g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/garden-of-life-sport-organic-plant-base-protein-van-806g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/genestra-rosemary-young-shoot-15-ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/hand-sanitizer-gel-cpm-70-compounded-by-pure-pharmacy-300ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/herbal-glo-coconut-rosemary-macadamia-hair-care-shampoo-350ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/herbal-glo-dandruff-hair-care-sham-cond-starter-kit-2pk",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/herbal-glo-proscalp-hair-care-sham-cond-starter-kit-2pk",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/herbal-glo-see-more-hair-care-sham-cond-starter-kit-2pk",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/herbal-glo-see-more-hair-care-starter-pack-2pk",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/kaia-naturals-starter-kit-brightening",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/kaia-naturals-starter-kit-detox",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/mbm-nature-rosemary-shampoo-bar-100g",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/mykind-org-plant-collagen-builder-60vcap",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/mykind-organics-organic-plant-cal-90vcap",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/natren-healthy-start-kit-family-size-kit-dairy-free",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/natren-life-start-dairy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/natren-life-start-pro-d-f",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/natren-yogurt-starter",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/natural-factors-all-in-one-immunity-startup-kit-kit",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/natural-factors-multistart-60caps",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/new-roots-fiber-ultra-rich-plantago-inulin-200g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/new-roots-fibre-ultra-rich-plantago-inulin-powder",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/new-roots-plant-digestive-enzymes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/new-roots-plant-sterols",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/new-roots-rosemary-essential-oil",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/nutrasea-nutravege-plant-omega-3-d3-mint-30sgs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/nutravege-omega-3-d-plant-liquid",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/nutravege-omega-3-plant-75-softgels",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/nutravege-omega-3-plant-liquid",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/organika-plant-based-collagen-booster",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/otc-backup-plan-one-step-15mg",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/otc-compound-w-kids-10-strips",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/otc-compound-w-liquid-10-ml",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/otc-compound-w-one-step-14-pads",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/otc-compound-w-wart-remover-gel-7g",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/peeling-socks-duo-with-plant-based-aha-17-botanicals",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/riversol-retinol-starter-pack",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/routine-minis-kit-plant-people-4pk",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/salus-nettle-plant-juice-200ml",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/st-francis-rosemary-100-ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/st-francis-rosemary-250-ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/st-francis-rosemary-tincture-50ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/thursday-plantation-eucalyptus-oil-100-pure-cough-cold-50ml",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-acne-medicated-gel-20-tto-10g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-antiseptic-cream-100g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-bar-soap-115g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-exfoliating-cleansing-bar-for-face-body-95g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-foaming-face-wash-150ml",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-oil",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/thursday-plantation-tea-tree-toothpaste-110g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/weleda-plant-gel-toothpaste-75ml",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/en-us/products/weleda-rosemary-conditioning-hair-oil-50ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/pages/compounding-for-pets",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/pages/compounding-for-you",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/pages/compounding-services",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/pages/pure-compounding-lab",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/pages/services/pet-compounding",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/deep-sleep-mouth-tape-starter-pack-5",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/kaia-naturals-starter-kit-brightening",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/kaia-naturals-starter-kit-detox",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/mbm-nature-rosemary-shampoo-bar-100g",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/natren-healthy-start-kit-family-size-kit-dairy-free",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/natren-life-start-dairy",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/natren-life-start-pro-d-f",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/natren-yogurt-starter",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/natural-factors-multistart-60caps",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/new-roots-fiber-ultra-rich-plantago-inulin-200g",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/new-roots-fibre-ultra-rich-plantago-inulin-powder",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/new-roots-plant-digestive-enzymes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/new-roots-plant-sterols",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/new-roots-rosemary-essential-oil",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/nutravege-omega-3-d-plant-liquid",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/otc-backup-plan-one-step-15mg",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/peeling-socks-duo-with-plant-based-aha-17-botanicals",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/routine-minis-kit-plant-people-4pk",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/salus-nettle-plant-juice-200ml",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/st-francis-rosemary-100-ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/st-francis-rosemary-250-ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/st-francis-rosemary-tincture-50ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/weleda-plant-gel-toothpaste-75ml",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://purepharmacy.com/products/weleda-rosemary-conditioning-hair-oil-50ml",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

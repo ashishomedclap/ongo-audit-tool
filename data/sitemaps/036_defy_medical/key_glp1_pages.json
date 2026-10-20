@@ -1,0 +1,463 @@
+{
+  "name": "Defy Medical",
+  "domain": "defymedical.com",
+  "total_urls": 660,
+  "semaglutide_pages": [
+    "https://www.defymedical.com/blog/do-you-gain-weight-after-stopping-semaglutide/",
+    "https://www.defymedical.com/blog/fda-approves-semaglutide-to-reduce-cardiovascular-events/",
+    "https://www.defymedical.com/blog/semaglutide-for-weight-loss/",
+    "https://www.defymedical.com/blog/semaglutide-versus-liraglutide-weight-loss/",
+    "https://www.defymedical.com/blog/tag/semaglutide/",
+    "https://www.defymedical.com/blog/what-are-semaglutide-oral-drops/",
+    "https://www.defymedical.com/blog/what-is-the-difference-between-semaglutide-and-tirzepatide/",
+    "https://www.defymedical.com/services/semaglutide-for-weight-loss/"
+  ],
+  "tirzepatide_pages": [
+    "https://www.defymedical.com/blog/how-does-tirzepatide-work/",
+    "https://www.defymedical.com/blog/is-tirzepatide-approved-for-weight-loss/",
+    "https://www.defymedical.com/blog/tag/tirzepatide/",
+    "https://www.defymedical.com/blog/tirzepatide-for-weight-loss/",
+    "https://www.defymedical.com/blog/what-is-the-difference-between-semaglutide-and-tirzepatide/",
+    "https://www.defymedical.com/tirzepatide-online/"
+  ],
+  "pricing_pages": [
+    "https://www.defymedical.com/blog/cost-of-trt/",
+    "https://www.defymedical.com/blog/how-much-does-trimix-cost/",
+    "https://www.defymedical.com/faq/can-i-add-glp-1-medication-to-my-existing-defy-medical-care-plan/",
+    "https://www.defymedical.com/faq/can-i-only-buy-labs-related-to-my-care-plan/",
+    "https://www.defymedical.com/faq/how-much-does-a-performance-consultation-cost/",
+    "https://www.defymedical.com/faq/how-much-does-a-primary-care-appointment-cost/",
+    "https://www.defymedical.com/faq/how-much-does-bhrt-cost-with-defy-medical/",
+    "https://www.defymedical.com/faq/how-much-does-ed-treatment-cost-with-defy-medical-2/",
+    "https://www.defymedical.com/faq/how-much-does-ed-treatment-cost-with-defy-medical/",
+    "https://www.defymedical.com/faq/how-much-does-female-sexual-dysfunction-fsd-treatment-cost-with-defy-medical/",
+    "https://www.defymedical.com/faq/how-much-does-ketamine-therapy-cost/",
+    "https://www.defymedical.com/faq/how-much-does-the-myers-cocktail-cost/",
+    "https://www.defymedical.com/faq/how-much-does-trt-cost-with-defy-medical/",
+    "https://www.defymedical.com/faq/what-is-hcg-and-why-do-some-male-trt-plans-include-it/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.defymedical.com/blog/apc-on-compounded-hcg/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/are-glp-1-agonists-the-secret-to-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/cost-of-trt/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/do-you-gain-weight-after-stopping-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/does-testosterone-make-you-gain-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/faq-service/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/fda-approves-semaglutide-to-reduce-cardiovascular-events/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/glp-1-medications-and-food-noise/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/how-does-tirzepatide-work/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/how-much-does-trimix-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/how-to-break-a-weight-loss-plateau/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/hpta-axis-restart-discontinuing-trt/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/hrt-and-compounding-pharmacies/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/is-there-anything-to-help-me-lose-weight/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/is-tirzepatide-approved-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/metformin-treatment-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/microdosing-glp-1-medications-what-patients-are-asking/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/once-you-start-trt-can-you-stop/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/semaglutide-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/semaglutide-versus-liraglutide-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/tag/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/tag/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/tag/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/the-benefits-of-using-compounded-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/tirzepatide-for-weight-loss/",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/what-are-semaglutide-oral-drops/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/what-are-the-cardiovascular-benefits-of-glp-1-medication/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/what-is-the-best-injection-for-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/blog/what-is-the-difference-between-semaglutide-and-tirzepatide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/can-i-add-glp-1-medication-to-my-existing-defy-medical-care-plan/",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/can-i-only-buy-labs-related-to-my-care-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/can-trt-help-with-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/do-glp-1-medications-help-with-appetite-control/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/do-i-need-a-prescription-for-glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/do-i-need-to-follow-a-specific-diet-while-on-glp-1-medication/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/does-bhrt-help-with-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/does-thyroid-disease-treatment-help-with-weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-do-i-get-started-with-defy-medical/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-do-i-get-started-with-prp-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-long-do-i-need-to-stay-on-a-glp-1-medication/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-a-performance-consultation-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-a-primary-care-appointment-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-bhrt-cost-with-defy-medical/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-ed-treatment-cost-with-defy-medical-2/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-ed-treatment-cost-with-defy-medical/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-female-sexual-dysfunction-fsd-treatment-cost-with-defy-medical/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-ketamine-therapy-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-the-myers-cocktail-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-does-trt-cost-with-defy-medical/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/how-much-weight-can-i-expect-to-lose-with-glp-1-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/is-weight-loss-therapy-covered-by-insurance/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/is-weight-loss-therapy-with-glp-1s-safe/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-are-common-reasons-people-seek-weight-loss-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-are-common-side-effects-of-glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-are-contraindications-for-glp-1-weight-loss-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-are-the-patient-requirements-for-weight-loss-therapy/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-glp-1-medication-does-defy-medical-offer/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-happens-if-i-stop-taking-glp-1-medications/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-is-food-noise-and-can-glp-1-medications-help-with-it/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-is-hcg-and-why-do-some-male-trt-plans-include-it/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/faq/what-weight-loss-options-does-defy-medical-offer-besides-glp-1s/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/get-started-direct/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/get-started-portal/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/get-started-prescription-portal/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/get-started/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/services/semaglutide-for-weight-loss/",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/services/weight-loss/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/take-the-quiz/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.defymedical.com/tirzepatide-online/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

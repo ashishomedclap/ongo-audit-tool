@@ -1,0 +1,154 @@
+{
+  "name": "Henry Meds",
+  "domain": "henrymeds.com",
+  "total_urls": 43,
+  "semaglutide_pages": [
+    "https://henrymeds.com/landing/weight-loss/a/q-b-pdx-semaglutide-injection",
+    "https://henrymeds.com/landing/weight-loss/b/m-b-pdx-semaglutide-injection",
+    "https://henrymeds.com/treatments/weight-management/semaglutide",
+    "https://henrymeds.com/treatments/weight-management/semaglutide-oral"
+  ],
+  "tirzepatide_pages": [
+    "https://henrymeds.com/treatments/weight-management/tirzepatide-tablets"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://henrymeds.com/landing/glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/glp-1-microdose",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/glp-1-weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-loss/a/q-b",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-loss/a/q-b-pdx",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-loss/a/q-b-pdx-semaglutide-injection",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-loss/a/q-b-ws",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-loss/b/m-b",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-loss/b/m-b-pdx",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-loss/b/m-b-pdx-semaglutide-injection",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-loss/b/m-b-ws",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/landing/weight-management-2",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/legal/medical-weight-loss-bill-of-rights/",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/treatments/weight-management/glp-1-weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/treatments/weight-management/liraglutide",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/treatments/weight-management/microdose",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/treatments/weight-management/microdose-oral",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/treatments/weight-management/phentermine",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/treatments/weight-management/semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/treatments/weight-management/semaglutide-oral",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://henrymeds.com/treatments/weight-management/tirzepatide-tablets",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "name": "Maximus Tribe",
+  "domain": "maximustribe.com",
+  "total_urls": 343,
+  "semaglutide_pages": [
+    "https://www.maximustribe.com/glp-1/ozempic-pen",
+    "https://www.maximustribe.com/glp-1/wegovy-pen",
+    "https://www.maximustribe.com/glp-1/wegovy-tablets",
+    "https://www.maximustribe.com/resources/GLP-1-agonist-semaglutide-weight-loss",
+    "https://www.maximustribe.com/resources/how-does-semaglutide-help-you-lose-weight",
+    "https://www.maximustribe.com/resources/how-does-semaglutide-work",
+    "https://www.maximustribe.com/resources/semaglutide-alcohol-study",
+    "https://www.maximustribe.com/resources/semaglutide-compounded-efficacy",
+    "https://www.maximustribe.com/resources/semaglutide-vs-tirzepatide",
+    "https://www.maximustribe.com/weight-loss/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.maximustribe.com/glp-1/mounjaro-pen",
+    "https://www.maximustribe.com/glp-1/zepbound-pen",
+    "https://www.maximustribe.com/resources/best-supplements-for-tirzepatide",
+    "https://www.maximustribe.com/resources/semaglutide-vs-tirzepatide",
+    "https://www.maximustribe.com/weight-loss/tirzepatide-standard"
+  ],
+  "pricing_pages": [
+    "https://www.maximustribe.com/resources/buy-testosterone-online-cost",
+    "https://www.maximustribe.com/weight-loss/custom-dosage-plan"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.maximustribe.com/glp-1/foundayo-tablets",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/glp-1/microdosing",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/glp-1/mounjaro-pen",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/glp-1/ozempic-pen",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/glp-1/wegovy-pen",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/glp-1/wegovy-tablets",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/glp-1/zepbound-pen",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/GLP-1-agonist-semaglutide-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/benefits-of-microdosing-glp1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/best-supplements-for-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/buy-testosterone-online-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/glp1-and-diet",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/glp1s-full-benefits",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/glp1s-male-fertility",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/glp1s-muscle",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/glp1s-your-questions",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/how-does-semaglutide-help-you-lose-weight",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/how-does-semaglutide-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/is-it-time-to-done-down-your-sugar-intake",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/magnesium-and-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/semaglutide-alcohol-study",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/semaglutide-compounded-efficacy",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/semaglutide-vs-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/testosterone-trt-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/vitamin-d3-and-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/when-should-you-start-trt",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/when-to-start-trt-5-signs",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/resources/your-brain-glp1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/weight-loss/custom-dosage-plan",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/weight-loss/semaglutide",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.maximustribe.com/weight-loss/tirzepatide-standard",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}

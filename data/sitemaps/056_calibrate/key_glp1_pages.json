@@ -1,0 +1,1269 @@
+{
+  "name": "Calibrate",
+  "domain": "joincalibrate.com",
+  "total_urls": 657,
+  "semaglutide_pages": [
+    "https://www.joincalibrate.com/faqs/can-ozempic-lower-my-risk-for-major-cardiovascular-events",
+    "https://www.joincalibrate.com/faqs/can-youcommit-to-prescribing-wegovy",
+    "https://www.joincalibrate.com/faqs/does-calibrate-prescribe-wegovy-semaglutide",
+    "https://www.joincalibrate.com/faqs/only-the-manufacturers-novo-nordisk-for-semaglutid",
+    "https://www.joincalibrate.com/faqs/ozempic-may-not-be-safe-for-individuals-with-a-his",
+    "https://www.joincalibrate.com/faqs/what-does-ozempic-cost",
+    "https://www.joincalibrate.com/faqs/what-does-wegovy-cost",
+    "https://www.joincalibrate.com/faqs/what-is-microdosing-ozempic",
+    "https://www.joincalibrate.com/faqs/what-is-ozempic-semaglutide",
+    "https://www.joincalibrate.com/faqs/what-is-the-fda-guidance-for-ozempic",
+    "https://www.joincalibrate.com/faqs/what-is-wegovy-how-is-it-different-from-other-glp1s",
+    "https://www.joincalibrate.com/faqs/who-is-eligible-for-wegovy",
+    "https://www.joincalibrate.com/faqs/why-can-microdosing-ozempic-be-risky",
+    "https://www.joincalibrate.com/faqs/why-does-calibrate-prescribe-wegovy--semaglutide",
+    "https://www.joincalibrate.com/medications/ozempic",
+    "https://www.joincalibrate.com/medications/wegovy",
+    "https://www.joincalibrate.com/resources/compounded-semaglutide-tirzepatide",
+    "https://www.joincalibrate.com/resources/how-long-does-it-take-to-lose-weight-on-ozempic",
+    "https://www.joincalibrate.com/resources/how-to-inject-ozempic",
+    "https://www.joincalibrate.com/resources/is-wegovy-covered-by-insurance-heres-what-you-need",
+    "https://www.joincalibrate.com/resources/medication-in-the-calibrate-program-introducing-wegovy",
+    "https://www.joincalibrate.com/resources/microdosing-ozempic",
+    "https://www.joincalibrate.com/resources/oatmeal-ozempic-weight-loss",
+    "https://www.joincalibrate.com/resources/ozempic-and-addiction",
+    "https://www.joincalibrate.com/resources/ozempic-foods-to-avoid-while-taking-semaglutide",
+    "https://www.joincalibrate.com/resources/ozempic-semaglutide-for-pcos",
+    "https://www.joincalibrate.com/resources/ozempic-wegovy-pricing-capitol-hill",
+    "https://www.joincalibrate.com/resources/tirzepatide-vs-semaglutide",
+    "https://www.joincalibrate.com/resources/wegovy-vs-mounjaro",
+    "https://www.joincalibrate.com/resources/wegovy-vs-ozempic",
+    "https://www.joincalibrate.com/resources/wegovy-vs-saxenda"
+  ],
+  "tirzepatide_pages": [
+    "https://www.joincalibrate.com/faqs/both-use-tirzepatide-but-mounjaro-is-fda-approved-",
+    "https://www.joincalibrate.com/faqs/does-calibrate-prescribe-mounjaro-tirzepatide",
+    "https://www.joincalibrate.com/faqs/does-calibrate-prescribe-tirzepatidemounjaro",
+    "https://www.joincalibrate.com/faqs/how-does-mounjaro-work",
+    "https://www.joincalibrate.com/faqs/how-does-the-mounjaro-patient-access-program-work",
+    "https://www.joincalibrate.com/faqs/in-clinical-trials-mounjaro-tirzepatide-has-delive",
+    "https://www.joincalibrate.com/faqs/like-other-glp-1-medications-zepbound-may-cause-mi",
+    "https://www.joincalibrate.com/faqs/mounjaro-tirzepatide-is-unique-because-it-targets-",
+    "https://www.joincalibrate.com/faqs/not-necessarily.-mounjaro-tirzepatide-isnt-a-one-s",
+    "https://www.joincalibrate.com/faqs/what-are-mounjaroside-effects",
+    "https://www.joincalibrate.com/faqs/what-are-some-foods--eating-tips-for-mounjaro-users",
+    "https://www.joincalibrate.com/faqs/what-is-mounjaro-tirzepatide",
+    "https://www.joincalibrate.com/faqs/what-is-the-most-common-mounjaro-dosage--titration",
+    "https://www.joincalibrate.com/faqs/who-can-take-mounjaro",
+    "https://www.joincalibrate.com/faqs/yes.-both-contain-the-same-active-ingredienttirzep",
+    "https://www.joincalibrate.com/faqs/yes.-if-your-plan-doesnt-cover-mounjaro-your-calib",
+    "https://www.joincalibrate.com/faqs/zepbound-carries-a-boxed-warning-for-risk-of-medul",
+    "https://www.joincalibrate.com/medications/mounjaro-tirzepatide-weight-loss",
+    "https://www.joincalibrate.com/resources/compounded-semaglutide-tirzepatide",
+    "https://www.joincalibrate.com/resources/foods-to-avoid-while-on-mounjaro-tirzepatide",
+    "https://www.joincalibrate.com/resources/how-much-does-mounjaro-cost",
+    "https://www.joincalibrate.com/resources/mounjaro-tirzepatide-for-weight-loss",
+    "https://www.joincalibrate.com/resources/mounjaro-vs-trulicity",
+    "https://www.joincalibrate.com/resources/questions-mounjaro",
+    "https://www.joincalibrate.com/resources/tirzepatide-vs-semaglutide",
+    "https://www.joincalibrate.com/resources/wegovy-vs-mounjaro",
+    "https://www.joincalibrate.com/resources/what-is-tirzepatide",
+    "https://www.joincalibrate.com/resources/zepbound-single-dose-vials-approved",
+    "https://www.joincalibrate.com/resources/zepbound-tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://www.joincalibrate.com/faqs/can-i-use-my-hsafsa-account-to-pay-for-my-calibrate-membership",
+    "https://www.joincalibrate.com/faqs/compounded-glp-1-medications-may-cost-less-than-br",
+    "https://www.joincalibrate.com/faqs/coverage-may-vary-by-plan-and-provider.-some-insur",
+    "https://www.joincalibrate.com/faqs/difference-between-in-it-together-and-metabolic-reset-membership",
+    "https://www.joincalibrate.com/faqs/how-much-does-an-in-it-together-membership-cost",
+    "https://www.joincalibrate.com/faqs/how-much-does-joining-calibrate-cost",
+    "https://www.joincalibrate.com/faqs/how-much-does-medication-cost-rockwell-automation",
+    "https://www.joincalibrate.com/faqs/how-much-does-the-monthly-metabolic-reset-cost",
+    "https://www.joincalibrate.com/faqs/how-much-of-a-time-commitment-are-the-one-year-memberships",
+    "https://www.joincalibrate.com/faqs/how-much-will-glp-1-medication-cost",
+    "https://www.joincalibrate.com/faqs/if-i-sign-up-for-the-coaching--membership-program",
+    "https://www.joincalibrate.com/faqs/my-insurance-plan-has-a-deductible",
+    "https://www.joincalibrate.com/faqs/what-does-ozempic-cost",
+    "https://www.joincalibrate.com/faqs/what-does-wegovy-cost",
+    "https://www.joincalibrate.com/faqs/what-if-im-on-a-high-deductible-health-plan",
+    "https://www.joincalibrate.com/faqs/what-is-my-copay-information-and-what-is-the-cost-for",
+    "https://www.joincalibrate.com/faqs/what-to-do-to-keep-in-it-together-membership",
+    "https://www.joincalibrate.com/faqs/whats-not-included-in-the-cost-of-my-calibrate-membership",
+    "https://www.joincalibrate.com/faqs/when-does-my-in-it-together-membership-begin",
+    "https://www.joincalibrate.com/faqs/will-there-be-meal-plans-what-if-i-have-a-special-dietary-need",
+    "https://www.joincalibrate.com/faqs/yes.-if-your-plan-doesnt-cover-mounjaro-your-calib",
+    "https://www.joincalibrate.com/legal/in-it-together-membership-terms-and-conditions",
+    "https://www.joincalibrate.com/legal/membership-terms-and-conditions",
+    "https://www.joincalibrate.com/legal/membership-terms-and-conditions-archived",
+    "https://www.joincalibrate.com/legal/membership-terms-and-conditions-mar2023-may2024",
+    "https://www.joincalibrate.com/lp/pricing1",
+    "https://www.joincalibrate.com/pricing",
+    "https://www.joincalibrate.com/resources/cost-of-obesity-employers",
+    "https://www.joincalibrate.com/resources/employee-wellness-and-reduced-healthcare-costs",
+    "https://www.joincalibrate.com/resources/how-employers-can-finally-take-control-of-glp-1-costs-a-new-model-for-sustainable-access",
+    "https://www.joincalibrate.com/resources/how-much-does-mounjaro-cost",
+    "https://www.joincalibrate.com/resources/ozempic-wegovy-pricing-capitol-hill"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.joincalibrate.com/faqs/because-glp-1-medications-work-best-when-paired-wi",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/both-use-tirzepatide-but-mounjaro-is-fda-approved-",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/calibrate-combines-fda-approved-glp-1-medications-",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/calibrates-outcomes-include-an-average-15-weight-l",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/can-i-lose-visceral-fat-without-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/can-i-use-my-hsafsa-account-to-pay-for-my-calibrate-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/can-ozempic-lower-my-risk-for-major-cardiovascular-events",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/can-youcommit-to-prescribing-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/clinical-trials-show-average-weight-reductions-of-",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/compounded-glp-1-medications-may-cost-less-than-br",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/coverage-may-vary-by-plan-and-provider.-some-insur",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/currently-taking-weight-loss-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/difference-between-in-it-together-and-metabolic-reset-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/do-masters-programs-include-a-prescription-for-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/does-calibrate-prescribe-mounjaro-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/does-calibrate-prescribe-tirzepatidemounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/does-calibrate-prescribe-wegovy-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/does-my-insurance-cover-glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/general--what-if-i-have-a-prescription-for-a-glp-1-from-my-personal-doctor-ingredion",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/general-what-if-i-have-a-prescription-for-a-glp-1-from-my-personal-doctor",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/glp-1-medication-shortages",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/glp-1-medications-begin-improving-blood-glucose-le",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/glp-1-receptor-agonists-are-a-class-of-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/glp-1-tapering-is-the-gradual-adjustment-of-glp-1-",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/glp-1s-are-not-intended-to-be-a-quick-fix-or-short",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/glp-1s-lower-biological-resistancecurbing-hunger-s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/glp-different",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/glp1-mj",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-do-glp-1-medications-work",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-does-mounjaro-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-does-the-mounjaro-patient-access-program-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-is-calibrate-different-from-other-weight-loss-programs",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-much-does-an-in-it-together-membership-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-much-does-joining-calibrate-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-much-does-medication-cost-rockwell-automation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-much-does-the-monthly-metabolic-reset-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-much-of-a-time-commitment-are-the-one-year-memberships",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-much-weight-do-calibrate-members-lose-on-average",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/how-much-will-glp-1-medication-cost",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/i-tried-to-get-a-glp-1-through-my-insurance-before",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/if-i-sign-up-for-the-coaching--membership-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/im-being-switched-to-another-glp-1-will-it-be-effective",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/in-clinical-trials-mounjaro-tirzepatide-has-delive",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/in-most-cases-yes.-glp-1s-are-safe-to-take-alongsi",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/ive-already-started-level-5-what-changes-should-i-expect",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/like-other-glp-1-medications-zepbound-may-cause-mi",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/losing-weight-on-mj",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/most-members-begin-their-glp-1-medication-within-a",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/mounjaro-tirzepatide-is-unique-because-it-targets-",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/my-insurance-plan-has-a-deductible",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/new-glp-1-and-glp-1-combination-medications-like-s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/no-tapering-is-never-mandatory.-if-ongoing-glp-1-u",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/no.-glp-1s-arent-a-shortcutthey-remove-biological-",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/not-exactly.-while-all-glp-1s-work-by-influencing-",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/not-necessarily.-mounjaro-tirzepatide-isnt-a-one-s",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/only-the-manufacturers-novo-nordisk-for-semaglutid",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/ozempic-may-not-be-safe-for-individuals-with-a-his",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/possibly.-switching-between-glp-1-medications-can-",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/should-i-expect-to-lose-weight-during-masters",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/some-people-may-regain-weight-if-they-stop-glp-1-m",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/there-are-several-fda-approved-glp-1-medications-a",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/there-are-several-glp-1-medications-available-toda",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/theres-no-evidence-that-glp-1s-cause-withdrawal-or",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/weight-regain-is-not-inevitable.-research-shows-th",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-are-glp-1-medications-used-for",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-are-mounjaroside-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-are-some-foods--eating-tips-for-mounjaro-users",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-does-ozempic-cost",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-does-wegovy-cost",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-if-i-can-access-affordable-glp1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-if-im-on-a-high-deductible-health-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-a-healthy-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-glp-1-and-why-is-it-important-for-metabolic-health",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-microdosing-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-mounjaro-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-my-copay-information-and-what-is-the-cost-for",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-ozempic-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-the-fda-guidance-for-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-the-most-common-mounjaro-dosage--titration",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-is-wegovy-how-is-it-different-from-other-glp1s",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-makes-some-glp-1s-different",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/what-to-do-to-keep-in-it-together-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/whats-not-included-in-the-cost-of-my-calibrate-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/when-do-i-start-tracking-in-the-calibrate-app",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/when-does-my-in-it-together-membership-begin",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/which-glp-1-medications-are-fda-approved-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/which-is-better-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/while-glp-1-medications-are-powerful-on-their-own-",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/while-glp-1s-are-a-powerful-starting-point-long-te",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/while-glp-1s-help-regulate-appetite-and-metabolic-",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/who-can-take-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/who-is-eligible-for-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/why-aim-for-10-body-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/why-can-microdosing-ozempic-be-risky",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/why-does-calibrate-prescribe-wegovy--semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/why-does-calibrates-comprehensive-approach-matter-when-pairing-with-a-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/why-is-the-weight-loss-goal-10",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/will-there-be-meal-plans-what-if-i-have-a-special-dietary-need",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/will-this-program-include-a-prescription-for-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/yes.-along-with-supporting-weight-management-glp-1",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/yes.-both-contain-the-same-active-ingredienttirzep",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/yes.-if-your-plan-doesnt-cover-mounjaro-your-calib",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/yes.-some-individuals-who-regain-weight-after-bari",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/faqs/zepbound-carries-a-boxed-warning-for-risk-of-medul",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/legal/consent-to-telehealth",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/legal/florida-weight-loss-consumer-bill-of-rights",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/legal/in-it-together-membership-terms-and-conditions",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/legal/membership-terms-and-conditions",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/legal/membership-terms-and-conditions-archived",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/legal/membership-terms-and-conditions-mar2023-may2024",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/lp/pricing1",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/medications/glp-1-medications",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/medications/mounjaro-tirzepatide-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/medications/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/medications/saxenda-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/medications/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/pages/can-you-use-hsa-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/pages/prescription-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/pricing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/beyond-weight-loss-the-unexpected-psychological-effects-of-glp-1s-on-your-workforce",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/breaking-down-menopause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/calibrate-weight-loss-before-and-after",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/calibrate-weight-loss-reviews-jasons-weight-loss-journey",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/compounded-semaglutide-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/cost-of-obesity-employers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/decoding-glp1-tapering",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/does-turmeric-help-with-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/employee-wellness-and-reduced-healthcare-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/foods-to-avoid-while-on-mounjaro-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/from-bariatric-surgery-to-glp-1s-how-obesity-treat",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/glp-1-access-and-clinical-outcomes-for-obesity-treatment",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/glp-1-agonist-list",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/glp-1-overview",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/glp-1s-and-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/how-employers-can-finally-take-control-of-glp-1-costs-a-new-model-for-sustainable-access",
+      "categories": [
+        "Pricing",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/how-long-does-it-take-to-lose-weight-on-ozempic",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/how-much-does-mounjaro-cost",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/how-much-weight-can-you-lose-in-a-week",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/how-to-inject-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/how-to-reset-metabolism-for-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/is-it-possible-to-increase-glp-1-naturally",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/is-wegovy-covered-by-insurance-heres-what-you-need",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss--wellness-what-these-terms-really",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss-california",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss-nj",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss-pennsylvania",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss-recipes",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss-recipes-brookfield",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss-recipes-fedex",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medical-weight-loss-recipes-pcc",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medication-in-the-calibrate-program-a-guide-to-glp1s",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/medication-in-the-calibrate-program-introducing-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/member-moment-how-jen-tapered-off-glp-1-medication",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/member-moment-how-jen-tapered-off-glp-1-medication-for-employers",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/menopause-metabolic-health-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/microdosing-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/mounjaro-tirzepatide-for-weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/mounjaro-vs-trulicity",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/moving-beyond-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/next-generation-glp1-medications-enterprise",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/oatmeal-ozempic-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/oral-glp-1s-are-here-and-what-this-means-to-employers",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/ozempic-and-addiction",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/ozempic-foods-to-avoid-while-taking-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/ozempic-semaglutide-for-pcos",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/ozempic-wegovy-pricing-capitol-hill",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/questions-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/reimagining-weight-loss-oprahs-brave-journey",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/supporting-front-line-workers-why-weight-loss-solutions-must-be-customizable",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/texas-medical-weight-loss-clinic",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/the-best-way-to-lose-weight-four-pillars-of-metabolic-health",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/the-latest-glp-1-oral-medication-foundayo-what-employers-need-to-know",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/tirzepatide-vs-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/unlocking-the-future-of-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/virtual-weight-loss-employee-benefits",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/wegovy-vs-mounjaro",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/wegovy-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/wegovy-vs-saxenda",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/weight-loss-and-motivation-why-willpower-wont-work",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/weight-loss-clinics-near-me",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/weight-loss-coach",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/weight-loss-myths",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/what-happens-when-you-lose-10-of-your-body-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/what-happens-when-you-lose-10-of-your-body-weight-for-employers",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/what-is-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/why-it-takes-more-than-a-healthy-diet-to-lose-weight",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/why-the-most-effective-solution-for-weight-loss-addresses-your-metabolic-health-first",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/you-hit-a-weight-loss-plateau-what-next",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/zepbound-single-dose-vials-approved",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joincalibrate.com/resources/zepbound-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

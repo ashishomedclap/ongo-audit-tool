@@ -1,0 +1,264 @@
+{
+  "name": "PlushCare",
+  "domain": "plushcare.com",
+  "total_urls": 1098,
+  "semaglutide_pages": [
+    "https://plushcare.com/blog/wegovy-shortage-alternatives",
+    "https://plushcare.com/ozempic",
+    "https://plushcare.com/ozempic/onset-time",
+    "https://plushcare.com/semaglutide-prescription",
+    "https://plushcare.com/wegovy-semaglutide-prescription",
+    "https://plushcare.com/weight-loss/saxenda-vs-wegovy",
+    "https://plushcare.com/weight-loss/zepbound-vs-wegovy"
+  ],
+  "tirzepatide_pages": [
+    "https://plushcare.com/compounded-tirzepatide",
+    "https://plushcare.com/mounjaro-tirzepatide-prescription",
+    "https://plushcare.com/mounjaro-tirzepatide-prescription/common-side-effects",
+    "https://plushcare.com/mounjaro-tirzepatide-prescription/weight-loss",
+    "https://plushcare.com/weight-loss/zepbound-vs-mounjaro",
+    "https://plushcare.com/weight-loss/zepbound-vs-wegovy",
+    "https://plushcare.com/zepbound-tirzepatide-prescription",
+    "https://plushcare.com/zepbound-tirzepatide-prescription/common-side-effects",
+    "https://plushcare.com/zepbound-tirzepatide-prescription/diabetes"
+  ],
+  "pricing_pages": [
+    "https://plushcare.com/blog/cost-of-your-period",
+    "https://plushcare.com/blog/vasectomy-cost",
+    "https://plushcare.com/corticosteroid-prescription",
+    "https://plushcare.com/membership",
+    "https://plushcare.com/primary-care/costa-mesa-doctors",
+    "https://plushcare.com/primary-care/plano-doctors",
+    "https://plushcare.com/primary-care/plantation-doctors"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://plushcare.com/blog/cost-of-your-period",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/health-coach-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/labs-for-weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/medicare-and-telehealth",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/medications-that-cause-weight-gain",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/nutrition-for-weight-management",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/sleep-weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/telehealth-for-seniors",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/vasectomy-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/blog/wegovy-shortage-alternatives",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/compounded-tirzepatide",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/corticosteroid-prescription",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/glp-1-prescription",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/mounjaro-tirzepatide-prescription",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/mounjaro-tirzepatide-prescription/common-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/mounjaro-tirzepatide-prescription/weight-loss",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/ozempic/onset-time",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/primary-care/costa-mesa-doctors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/primary-care/plano-doctors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/primary-care/plantation-doctors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/semaglutide-prescription",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/telehealth-appointments",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/telehealth-appointments/intro-to-telemedicine",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/telehealth-appointments/pros-and-cons",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/telehealth-appointments/telehealth-benefits",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/telehealth-appointments/virtual-doctor-visit",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/videos/how-to-start-a-doctor-video-visit",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/wegovy-semaglutide-prescription",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/weight-loss",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/weight-loss/saxenda-vs-wegovy",
+      "categories": [
+        "Semaglutide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/weight-loss/zepbound-vs-mounjaro",
+      "categories": [
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/weight-loss/zepbound-vs-wegovy",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "GLP-1 / Intake"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/zepbound-tirzepatide-prescription",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/zepbound-tirzepatide-prescription/common-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://plushcare.com/zepbound-tirzepatide-prescription/diabetes",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

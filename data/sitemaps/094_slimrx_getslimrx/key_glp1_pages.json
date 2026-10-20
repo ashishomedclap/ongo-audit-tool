@@ -1,0 +1,40 @@
+{
+  "name": "SlimRx (GetSlimRx)",
+  "domain": "getslimrx.com",
+  "total_urls": 17,
+  "semaglutide_pages": [
+    "https://getslimrx.com/medications/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://getslimrx.com/medications/tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://getslimrx.com/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://getslimrx.com/medications/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://getslimrx.com/medications/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://getslimrx.com/pricing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://getslimrx.com/quiz",
+      "categories": [
+        "GLP-1 / Intake"
+      ]
+    }
+  ]
+}
