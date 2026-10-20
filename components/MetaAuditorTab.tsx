@@ -16,6 +16,7 @@ import {
 } from 'lucide-react';
 import { OngoMetaItem } from '@/lib/data';
 import { MetaAuditResult } from '@/app/api/audit-meta/route';
+import ContextCue from './ContextCue';
 
 interface MetaAuditorTabProps {
   ongoMeta: Record<string, OngoMetaItem>;
@@ -64,6 +65,31 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <ContextCue
+        badge="On-Page Metadata Cues"
+        title="SERP Snippet Optimization & Real-Time HTML Auditor"
+        summary="You are viewing on-page SEO meta tag analysis. Mode A compares Ongo's live tags against search-optimal character limits. Mode B lets you audit any live competitor URL and preview its simulated Google Desktop & Mobile search card."
+        details={[
+          {
+            label: "Title Limits (50–60 chars)",
+            description: "Google truncates desktop search titles exceeding ~600px with an ellipsis ('...'). Keeping titles within 50–60 characters prevents cut-off."
+          },
+          {
+            label: "Description Limits (140–160 chars)",
+            description: "Google cuts off descriptions beyond ~960px (~160 chars). Aim for 140–160 chars with compelling medical value propositions and CTAs."
+          },
+          {
+            label: "H1 Heading Hierarchy",
+            description: "Every indexable page should contain exactly one <h1> tag summarizing the primary medication or service."
+          },
+          {
+            label: "Social OpenGraph Cards",
+            description: "Evaluates whether og:title, og:description, and og:image are set for rich social link sharing across messaging apps."
+          }
+        ]}
+        tip="Use the copy buttons on the Recommended Title/Description cards to easily paste optimized tags into Ongo's CMS or web framework."
+      />
+
       {/* Top Header Bento Box */}
       <div className="bento-card" style={{ padding: '24px' }}>
         <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '16px' }}>

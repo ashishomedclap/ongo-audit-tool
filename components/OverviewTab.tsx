@@ -17,6 +17,7 @@ import {
   FileText
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
+import ContextCue from './ContextCue';
 
 interface OverviewTabProps {
   competitors: CompetitorSummary[];
@@ -69,7 +70,29 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
   };
 
   return (
-    <div className="bento-grid">
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <ContextCue
+        badge="Dashboard Overview"
+        title="GLP-1 Telehealth Competitive Landscape"
+        summary="This dashboard synthesizes architectural, sitemap, and SEO data from 100 US compounded semaglutide & tirzepatide telehealth competitors to establish an optimization benchmark for Ongo Weight Loss."
+        details={[
+          {
+            label: "Sitemaps Tracked",
+            description: "74 of 100 competitors expose public XML sitemaps containing 35,420 mapped URLs. 26 brands use heavy Cloudflare/Akamai bot management or headless architectures without public feeds."
+          },
+          {
+            label: "Molecule Distribution",
+            description: "Competitors index more than double the volume of Semaglutide pages (2,400+) compared to Tirzepatide (1,100+), reflecting historic Ozempic/Wegovy demand."
+          },
+          {
+            label: "Ongo Expansion Target",
+            description: "While top competitors average 350+ URLs, Ongo currently operates 11 core live pages. The 217-page roadmap provides a step-by-step checklist to bridge this organic reach gap."
+          }
+        ]}
+        tip="Use the Live Ping box on the right to test connectivity and response latency for any sitemap or URL in real-time."
+      />
+
+      <div className="bento-grid">
       {/* Bento Item 1: Executive Mission & Navigation (Span 8) */}
       <div className="bento-card bento-col-8" style={{ padding: '32px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
         <div>
@@ -395,6 +418,7 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
           ))}
         </div>
       </div>
+    </div>
     </div>
   );
 }

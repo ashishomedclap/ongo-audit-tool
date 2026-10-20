@@ -13,6 +13,7 @@ import {
   Activity
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
+import ContextCue from './ContextCue';
 
 interface SitemapsTabProps {
   competitors: CompetitorSummary[];
@@ -99,6 +100,31 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <ContextCue
+        badge="Sitemap Health & Crawl Cues"
+        title="Direct Competitor Sitemap Crawler & Live Connectivity"
+        summary="You are viewing the real-time sitemap feed status and crawl inventories for 100 US telehealth competitors. This reveals how competitors expose their catalog to Google and Bing."
+        details={[
+          {
+            label: "Valid Sitemaps (Green)",
+            description: "74 brands have standard public XML sitemaps containing 35,420 mapped URLs. All sitemaps were crawled and parsed into local inventories."
+          },
+          {
+            label: "Blocked / No Sitemap (Red)",
+            description: "26 brands (e.g. Ro, Hims, Sequence) return HTTP 403 bot blocks via Cloudflare or employ dynamic single-page applications without public XML feeds."
+          },
+          {
+            label: "Live Ping Measurement",
+            description: "The 'Ping' button initiates a real-time server-side test to measure HTTP response code, connection latency in milliseconds, and content-type."
+          },
+          {
+            label: "Inspect URLs Action",
+            description: "Clicking 'Inspect' opens a detailed drawer with the full list of crawled URLs, searchable paths, and automatic GLP-1 medication categorization."
+          }
+        ]}
+        tip="Sort by 'Semaglutide' or 'Tirzepatide' to immediately identify which competitors have built dedicated landing page clusters for each compound."
+      />
+
       {/* Top Filter Bento Header */}
       <div className="bento-card" style={{ padding: '24px' }}>
         <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '16px' }}>

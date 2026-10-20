@@ -11,6 +11,7 @@ import {
   AlertCircle
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
+import ContextCue from './ContextCue';
 
 interface CompetitorsTabProps {
   competitors: CompetitorSummary[];
@@ -54,6 +55,31 @@ export default function CompetitorsTab({ competitors, onInspectCompetitor }: Com
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <ContextCue
+        badge="Competitor Directory Cues"
+        title="Top 100 US Telehealth Competitors Landscape"
+        summary="You are viewing the structured market directory of 100 compounded semaglutide & tirzepatide brands. Each card displays rank, domain, total indexed URLs, and compound-specific landing page counts."
+        details={[
+          {
+            label: "Rank Evaluation",
+            description: "Ranks (#1 to #100) are determined by brand search volume, patient review authority, telehealth infrastructure, and organic footprint."
+          },
+          {
+            label: "SEMA vs TIRZ Pills",
+            description: "The volume of dedicated URLs mentioning Semaglutide/Wegovy vs Tirzepatide/Mounjaro/Zepbound in their URL structure."
+          },
+          {
+            label: "Pricing Transparency",
+            description: "Indicates whether the brand publishes explicit pricing, cost calculator, or subscription plan pages in their public sitemaps."
+          },
+          {
+            label: "Quick Actions",
+            description: "Use 'Inspect URLs' to view all crawled paths or 'XML' to view the raw sitemap in a new browser tab."
+          }
+        ]}
+        tip="Brands with high SEMA and TIRZ counts (e.g. Mochi, Eden, Zealthy) dominate long-tail dosage, titration, and side effect queries on Google."
+      />
+
       {/* Top Filter Bento Header */}
       <div className="bento-card" style={{ padding: '24px' }}>
         <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '16px' }}>

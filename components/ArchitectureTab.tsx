@@ -10,6 +10,7 @@ import {
   CheckCircle2
 } from 'lucide-react';
 import { MasterUrlItem } from '@/lib/data';
+import ContextCue from './ContextCue';
 
 interface ArchitectureTabProps {
   architectureOverview: Record<string, number>;
@@ -62,6 +63,27 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <ContextCue
+        badge="Architecture & Roadmap Cues"
+        title="Content Silo Breakdown & 217-Page Roadmap"
+        summary="You are viewing the macro content distribution across 36,000+ competitor URLs categorized into 6 core silos, alongside Ongo's recommended 217-page checklist."
+        details={[
+          {
+            label: "Content Silo Taxonomy",
+            description: "URLs are grouped into Blog Hubs (26%), Core Treatments (9%), Patient Education (5%), Conversion Intake Funnels (2.3%), Pricing Plans (1.8%), and Doctors & E-E-A-T (1.6%)."
+          },
+          {
+            label: "Priority Tiers",
+            description: "P0 indicates mission-critical launch pages (core product, transparent pricing, intake). P1 indicates high-converting comparison/state pages. P2 covers long-tail symptom and dosage articles."
+          },
+          {
+            label: "Interactive State Tracking",
+            description: "Clicking any checklist row cycles through Todo → In Progress → Done. Your state automatically persists in your browser's local storage."
+          }
+        ]}
+        tip="Filter by 'P0' to focus exclusively on essential launch pages needed before scaling high-volume blog content."
+      />
+
       {/* Top Header Bento Box */}
       <div className="bento-card" style={{ padding: '24px' }}>
         <h1 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--text-primary)' }}>

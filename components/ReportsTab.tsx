@@ -14,6 +14,8 @@ interface ReportsTabProps {
   reportsList: ReportMeta[];
 }
 
+import ContextCue from './ContextCue';
+
 export default function ReportsTab({ reportsList }: ReportsTabProps) {
   const [selectedReport, setSelectedReport] = useState<string>(
     reportsList.find(r => r.filename.includes('SITEMAP_INTELLIGENCE_REPORT'))?.filename || reportsList[0]?.filename || ''
@@ -59,7 +61,33 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
   );
 
   return (
-    <div style={{ display: 'grid', gridTemplateColumns: '260px 1fr', gap: '16px', alignItems: 'start' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <ContextCue
+        badge="Intelligence Report Cues"
+        title="Curated Competitive Research Documents"
+        summary="You are viewing the markdown research artifacts and audits produced during this intelligence sprint. Use the left column to switch between reports, copy raw content, or export to markdown."
+        details={[
+          {
+            label: "Sitemap Intelligence Report",
+            description: "Executive synthesis covering competitive market share, public vs blocked sitemaps, and content publishing cadence."
+          },
+          {
+            label: "Recommended Pages Checklist",
+            description: "The 217-page blueprint mapping high-converting topics across P0, P1, and P2 priority tiers."
+          },
+          {
+            label: "Meta Optimization & Comparison",
+            description: "Direct comparison between Ongo's live titles/descriptions and search-optimal recommendations."
+          },
+          {
+            label: "100 Competitors List",
+            description: "Directory of all 100 brands with domains, tier classifications, and service models."
+          }
+        ]}
+        tip="Click 'Download' to save any report locally as a .md file for sharing with team members or loading into documentation."
+      />
+
+      <div style={{ display: 'grid', gridTemplateColumns: '260px 1fr', gap: '16px', alignItems: 'start' }}>
       {/* Sidebar Bento Tile */}
       <div className="bento-card" style={{ padding: '18px', position: 'sticky', top: '80px' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '12px' }}>
@@ -171,6 +199,7 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
           </div>
         )}
       </div>
+    </div>
     </div>
   );
 }

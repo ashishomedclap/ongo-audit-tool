@@ -10,6 +10,7 @@ import {
   ArrowRight
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
+import ContextCue from './ContextCue';
 
 interface KeywordsTabProps {
   competitors: CompetitorSummary[];
@@ -76,6 +77,27 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <ContextCue
+        badge="Keyword Scanner Cues"
+        title="35,000+ URL Reverse Keyword Search Engine"
+        summary="You are using a live search engine querying all 35,000+ crawled competitor URLs. This reveals which brands dominate commercial, clinical, and symptom-related search queries."
+        details={[
+          {
+            label: "Intent Preset Clusters",
+            description: "Click high-converting pills (Semaglutide, Tirzepatide, Compounded, Oral, Pricing, Dosing, Doctor, Texas) to immediately view top ranking domains."
+          },
+          {
+            label: "Custom Search",
+            description: "Enter any custom query (e.g. 'hair loss', 'nausea', 'maintenance dose', 'b12', 'insurance') to scan all competitor URLs in real-time."
+          },
+          {
+            label: "URL Inspection",
+            description: "Click any sample URL to study competitor landing page structure, CTA placement, and medical disclaimers."
+          }
+        ]}
+        tip="Queries where top competitors have 50+ dedicated pages (such as 'tirzepatide dosing' or 'compounded semaglutide cost') indicate high organic search demand."
+      />
+
       {/* Search Bento Header */}
       <div className="bento-card" style={{ padding: '24px' }}>
         <div style={{ marginBottom: '14px' }}>
