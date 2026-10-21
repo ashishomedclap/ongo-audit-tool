@@ -114,17 +114,77 @@ export default function AuditDashboard({
         onClose={() => setInspectFolder(null)}
       />
 
-      {/* Footer */}
+      {/* Ongo Weight Loss Executive Footer */}
       <footer style={{
         borderTop: '1px solid var(--border-subtle)',
-        padding: '24px',
-        textAlign: 'center',
-        fontSize: '0.8rem',
-        color: 'var(--text-dim)',
-        marginTop: '40px'
+        backgroundColor: '#ffffff',
+        padding: '32px 24px',
+        marginTop: '48px',
+        color: 'var(--text-secondary)'
       }}>
-        Ongo Weight Loss &bull; Compounded GLP-1 Telehealth Competitor Audit & Intelligence Suite &bull; 2026
+        <div style={{
+          maxWidth: '1440px',
+          margin: '0 auto',
+          display: 'flex',
+          flexWrap: 'wrap',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          gap: '20px'
+        }}>
+          <div>
+            <div style={{ fontWeight: 700, fontSize: '0.9rem', color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
+              Ongo Weight Loss &bull; Doctor-Led Medical Weight Loss Care
+            </div>
+            <div style={{ fontSize: '0.78rem', color: 'var(--text-tertiary)', maxWidth: '680px' }}>
+              Doctor-supervised virtual GLP-1 weight loss program. HIPAA-compliant telehealth care across all 50 U.S. states with temperature-sensitive medication shipping from licensed compounding pharmacies.
+            </div>
+          </div>
+
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '14px', fontSize: '0.78rem' }}>
+            <a 
+              href="https://ongoweightloss.com/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ color: 'var(--color-primary-dark)', fontWeight: 600, textDecoration: 'none' }}
+            >
+              Live Homepage ↗
+            </a>
+            <a 
+              href="https://ongoweightloss.com/how-it-works/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
+            >
+              How It Works
+            </a>
+            <a 
+              href="https://ongoweightloss.com/pricing/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
+            >
+              Pricing
+            </a>
+            <a 
+              href="https://ongoweightloss.com/medical-team/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
+            >
+              Medical Team
+            </a>
+            <a 
+              href="https://ongoweightloss.com/weightloss-onboard/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ color: 'var(--color-accent)', fontWeight: 600, textDecoration: 'none' }}
+            >
+              See If I'm Eligible ↗
+            </a>
+          </div>
+        </div>
       </footer>
     </div>
   );
 }
+

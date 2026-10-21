@@ -1,44 +1,63 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
 
 :root {
-  /* Minimal Neutral Palette (Zinc / Graphite / Obsidian) */
-  --bg-canvas: #09090b;
-  --bg-surface: #111114;
-  --bg-surface-elevated: #18181b;
-  --bg-surface-hover: #202024;
-  --bg-input: #141417;
+  /* ==========================================================================
+     Ongo Weight Loss (ongoweightloss.com) Design Tokens & Palette
+     ========================================================================== */
   
-  --border-subtle: rgba(255, 255, 255, 0.08);
-  --border-medium: rgba(255, 255, 255, 0.14);
-  --border-hover: rgba(255, 255, 255, 0.22);
-  --border-focus: #ffffff;
+  /* Brand Core Colors */
+  --color-primary: #347e5d;          /* Forest Jade Green */
+  --color-primary-dark: #1b4332;     /* Deep British Racing Green */
+  --color-primary-light: #74c69d;    /* Soft Mint Green */
+  --color-primary-soft: #d8f3dc;     /* Pastel Sage Green Wash */
   
-  /* Text */
-  --text-primary: #fafafa;
-  --text-secondary: #a1a1aa;
-  --text-tertiary: #71717a;
-  --text-muted: #52525b;
+  --color-accent: #e76f51;           /* Signature Warm Terracotta Coral */
+  --color-accent-hover: #d95d3f;
+  --color-accent-soft: #fce4dc;      /* Soft Peachy Coral Tint */
+  --color-accent-warm: #f4a261;      /* Golden Warm Sand / Apricot */
   
-  /* Minimal Discrete Accents */
-  --accent-neutral: #e4e4e7;
+  /* Canvas & Surfaces (Warm Organic Cream Foundation) */
+  --bg-canvas: #fffbf5;              /* Ongo signature warm cream canvas */
+  --bg-surface: #ffffff;             /* Crisp pure white bento cards */
+  --bg-surface-elevated: #ffffff;
+  --bg-surface-alt: #f7f4ed;         /* Soft sandstone neutral background */
+  --bg-surface-hover: #faf7f2;
+  --bg-input: #ffffff;
+  
+  /* Warm Sandstone Borders */
+  --border-subtle: #ede7de;
+  --border-medium: #dfd7cc;
+  --border-hover: #c4b9a8;
+  --border-focus: #1b4332;
+  
+  /* High-Contrast Typography */
+  --text-primary: #14211d;           /* Deep Forest Black / Obsidian */
+  --text-secondary: #4a5568;         /* Warm Charcoal Slate */
+  --text-tertiary: #718096;         /* Subdued Graphite */
+  --text-muted: #94a3b8;            /* Soft Muted Gray */
+  --text-dim: #a0aec0;
+  
+  /* Functional Accents */
   --accent-emerald: #10b981;
-  --accent-emerald-subtle: rgba(16, 185, 129, 0.12);
-  --accent-cyan: #06b6d4;
-  --accent-purple: #a855f7;
-  --accent-amber: #f59e0b;
-  --accent-rose: #f43f5e;
+  --accent-emerald-subtle: rgba(16, 185, 129, 0.14);
+  --accent-cyan: #0891b2;
+  --accent-purple: #7c3aed;
+  --accent-amber: #d97706;
+  --accent-rose: #e11d48;
   
-  /* Radius & Shadows */
+  /* Radius & Soft Shadows */
   --radius-xs: 6px;
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
   --radius-xl: 20px;
   --radius-bento: 18px;
+  --radius-pill: 9999px;
   
-  --shadow-bento: 0 1px 2px rgba(0, 0, 0, 0.6), 0 4px 16px rgba(0, 0, 0, 0.4);
-  --shadow-bento-hover: 0 8px 30px rgba(0, 0, 0, 0.6), 0 0 1px rgba(255, 255, 255, 0.2);
+  --shadow-bento: 0 4px 20px -2px rgba(27, 67, 50, 0.05), 0 1px 3px rgba(0, 0, 0, 0.03);
+  --shadow-bento-hover: 0 16px 36px -8px rgba(27, 67, 50, 0.12), 0 4px 12px rgba(20, 17, 13, 0.05);
   
+  /* Typography Stacks */
   --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
 }
@@ -56,24 +75,24 @@ html, body {
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
   background-image: 
-    radial-gradient(ellipse at 50% 0%, rgba(255, 255, 255, 0.03) 0%, transparent 60%);
+    radial-gradient(ellipse at 50% 0%, #f7efe4 0%, #fffbf5 65%);
   background-attachment: fixed;
 }
 
-/* Custom Scrollbars */
+/* Custom Scrollbars in Warm Sage */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 7px;
+  height: 7px;
 }
 ::-webkit-scrollbar-track {
   background: var(--bg-canvas);
 }
 ::-webkit-scrollbar-thumb {
-  background: #27272a;
-  border-radius: 3px;
+  background: #d4e2d8;
+  border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #3f3f46;
+  background: #9ebbaf;
 }
 
 /* Bento Tile Card */
@@ -89,6 +108,10 @@ html, body {
 
 .bento-card:hover {
   border-color: var(--border-medium);
+}
+
+.bento-card-interactive {
+  cursor: pointer;
 }
 
 .bento-card-interactive:hover {
@@ -127,59 +150,67 @@ html, body {
   }
 }
 
-/* Minimal Badges */
+/* Ongo Badges & Pills */
 .badge-minimal {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  padding: 3px 8px;
-  border-radius: 9999px;
+  padding: 3px 9px;
+  border-radius: var(--radius-pill);
   font-size: 0.72rem;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0.01em;
-  background: rgba(255, 255, 255, 0.05);
+  background: var(--bg-surface-alt);
   border: 1px solid var(--border-subtle);
-  color: var(--text-secondary);
+  color: var(--color-primary-dark);
 }
 
 .badge-minimal-success {
-  background: rgba(16, 185, 129, 0.1);
-  border-color: rgba(16, 185, 129, 0.25);
-  color: #34d399;
+  background: var(--color-primary-soft);
+  border-color: #b7e4c7;
+  color: #1b4332;
 }
 
 .badge-minimal-danger {
-  background: rgba(244, 63, 94, 0.1);
-  border-color: rgba(244, 63, 94, 0.25);
-  color: #fb7185;
+  background: #fee2e2;
+  border-color: #fecaca;
+  color: #991b1b;
 }
 
 .badge-minimal-neutral {
-  background: #27272a;
-  border-color: #3f3f46;
-  color: #fafafa;
+  background: #1b4332;
+  border-color: #143527;
+  color: #ffffff;
 }
 
-/* Minimal Buttons */
+.badge-minimal-coral {
+  background: var(--color-accent-soft);
+  border-color: #f8bbad;
+  color: #c84b2c;
+}
+
+/* Buttons */
 .btn-minimal-primary {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   gap: 8px;
-  background: #fafafa;
-  color: #09090b;
+  background: linear-gradient(135deg, #e76f51 0%, #ee8a4f 100%);
+  color: #ffffff;
   font-weight: 600;
   font-size: 0.825rem;
-  padding: 8px 16px;
-  border-radius: var(--radius-sm);
-  border: 1px solid #ffffff;
+  padding: 8px 18px;
+  border-radius: var(--radius-pill);
+  border: 1px solid #e76f51;
   cursor: pointer;
-  transition: opacity 0.15s ease, transform 0.15s ease;
+  box-shadow: 0 2px 8px rgba(231, 111, 81, 0.25);
+  transition: all 0.2s ease;
 }
 
 .btn-minimal-primary:hover {
-  opacity: 0.9;
+  background: linear-gradient(135deg, #d95d3f 0%, #e76f51 100%);
   transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(231, 111, 81, 0.35);
 }
 
 .btn-minimal-secondary {
@@ -187,41 +218,64 @@ html, body {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  background: rgba(255, 255, 255, 0.04);
-  color: var(--text-primary);
-  font-weight: 500;
+  background: #ffffff;
+  color: var(--color-primary-dark);
+  font-weight: 600;
   font-size: 0.825rem;
-  padding: 8px 14px;
-  border-radius: var(--radius-sm);
-  border: 1px solid var(--border-subtle);
+  padding: 8px 16px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-medium);
   cursor: pointer;
   transition: all 0.15s ease;
 }
 
 .btn-minimal-secondary:hover {
-  background: rgba(255, 255, 255, 0.08);
-  border-color: var(--border-medium);
+  background: var(--bg-surface-hover);
+  border-color: var(--color-primary);
+  color: var(--color-primary-dark);
+  transform: translateY(-1px);
+}
+
+.btn-minimal-forest {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: #1b4332;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.825rem;
+  padding: 8px 16px;
+  border-radius: var(--radius-pill);
+  border: 1px solid #143527;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-minimal-forest:hover {
+  background: #24553f;
+  transform: translateY(-1px);
 }
 
 /* Inputs */
 .input-minimal {
   width: 100%;
-  background: var(--bg-input);
-  border: 1px solid var(--border-subtle);
+  background: #ffffff;
+  border: 1px solid var(--border-medium);
   border-radius: var(--radius-sm);
   padding: 9px 12px;
   color: var(--text-primary);
   font-size: 0.85rem;
   outline: none;
-  transition: border-color 0.15s ease;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
 .input-minimal:focus {
-  border-color: var(--border-medium);
-  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.15);
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(52, 126, 93, 0.12);
 }
 
-/* Table styles */
+/* Neutral Clean Table */
 .neutral-table {
   width: 100%;
   border-collapse: collapse;
@@ -231,47 +285,55 @@ html, body {
 
 .neutral-table th {
   padding: 12px 16px;
-  color: var(--text-tertiary);
-  font-weight: 600;
-  font-size: 0.75rem;
-  letter-spacing: 0.02em;
+  color: var(--color-primary-dark);
+  font-weight: 700;
+  font-size: 0.73rem;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
-  border-bottom: 1px solid var(--border-subtle);
-  background: rgba(255, 255, 255, 0.01);
+  border-bottom: 1px solid var(--border-medium);
+  background: #f7f4ee;
 }
 
 .neutral-table td {
   padding: 12px 16px;
   border-bottom: 1px solid var(--border-subtle);
   color: var(--text-secondary);
+  background: #ffffff;
 }
 
 .neutral-table tr:hover td {
-  background: rgba(255, 255, 255, 0.02);
+  background: #fbf9f4;
   color: var(--text-primary);
 }
 
 /* Markdown prose styling */
 .markdown-prose {
   color: var(--text-secondary);
-  line-height: 1.7;
-  font-size: 0.875rem;
+  line-height: 1.75;
+  font-size: 0.885rem;
 }
 
 .markdown-prose h1 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--text-primary);
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #1b4332;
   margin: 1.5rem 0 1rem;
-  border-bottom: 1px solid var(--border-subtle);
+  border-bottom: 2px solid var(--border-subtle);
   padding-bottom: 0.5rem;
 }
 
 .markdown-prose h2 {
-  font-size: 1.2rem;
-  font-weight: 600;
-  color: var(--text-primary);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #1b4332;
   margin: 1.25rem 0 0.5rem;
+}
+
+.markdown-prose h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #1b4332;
+  margin: 1rem 0 0.35rem;
 }
 
 .markdown-prose p {
@@ -280,10 +342,10 @@ html, body {
 
 .markdown-prose code {
   font-family: var(--font-mono);
-  background: #18181b;
-  color: #e4e4e7;
-  padding: 2px 5px;
+  background: #f3efe6;
+  color: #1b4332;
+  padding: 2px 6px;
   border-radius: 4px;
   font-size: 0.85em;
-  border: 1px solid rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-subtle);
 }

@@ -17,7 +17,8 @@ import {
   ArrowRight,
   TrendingUp,
   FileCheck,
-  SplitSquareVertical
+  SplitSquareVertical,
+  ShieldCheck
 } from 'lucide-react';
 import { COMMON_PAGE_PATTERNS, UNIQUE_PAGE_PATTERNS, CommonPagePattern, UniquePagePattern } from '@/lib/patterns-data';
 import ContextCue from './ContextCue';
@@ -55,47 +56,62 @@ export default function CommonVsUniqueTab() {
   });
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       {/* Context Cue Banner */}
       <ContextCue
-        badge="Differentiation & Moat Intelligence"
-        title="Common Pages vs. Unique Pages Analysis & Strategic Rationale"
-        summary="This audit reveals which pages are universal market table-stakes (Common Pages found on 70%+ of competitors) versus unique high-converting silos built by top market innovators (Unique Pages found on < 10% of competitors) and why they cover them."
-        details={[
+        badge="Competitive Moats"
+        title="Common Baseline vs. Unique Differentiation Pages"
+        about="This page provides competitive pattern intelligence, contrasting 'Common Pages' (table-stakes pages found on 70%+ of telehealth clinics) against 'Unique Pages' (high-converting competitive moats found on fewer than 10% of clinics). It deconstructs the customer friction points, strategic rationale, and SEO intent advantages behind every page pattern to guide Ongo's differentiation."
+        whatYouCanDo={[
           {
-            label: "Common Pages (The Baseline)",
-            description: "Essential transactional and compliance pages (Semaglutide, Tirzepatide, Pricing, How It Works, Medical Team, 50-State Locations) required to compete in the GLP-1 telehealth space."
+            action: "Analyze Table-Stakes Baseline",
+            description: "Explore the 'Common Pages' view (Semaglutide product, transparent pricing, medical team, telehealth intake, state hubs) required to establish baseline trust."
           },
           {
-            label: "Unique Pages (The Differentiators)",
-            description: "Innovative silos (Oral Sublingual Lozenges, 503A Sterility Certificates, Flat-Rate Dosing Guarantees, GLP-1 Tapering, TSA Travel Guides, HSA/FSA Optimizers) designed to overcome specific patient objections."
+            action: "Discover High-Converting Moats",
+            description: "Switch to 'Unique Pages' to inspect rare, high-leverage pages (503A Sterility Certificates, Flat-Rate Dosing Guarantees, GLP-1 Tapering Off Protocols, TSA Airport Cold-Chain Travel Guides, HSA/FSA Reimbursement Portals)."
           },
           {
-            label: "Why Unique Pages Cover These Topics",
-            description: "Each unique page is broken down by its Strategic Rationale, the specific Customer Objection it resolves, its Search Intent advantage, and its conversion lift."
+            action: "Examine Customer Friction Callouts",
+            description: "Read the exact patient fears (needle phobia, hidden tier price jumps, pharmacy legitimacy) that each unique page is engineered to neutralize."
           },
           {
-            label: "Ongo Actionable Recommendation",
-            description: "Direct recommendations with suggested URL slugs and priority tiers (P0, P1, P2) for Ongo to outrank competitors."
+            action: "Filter by Strategic Content Silo",
+            description: "Filter pages by Core Clinical, Pricing & Insurance, Medical Authority (E-E-A-T), Patient Retention, or State-Specific Telehealth."
+          },
+          {
+            action: "Review Ongo Recommended Slugs",
+            description: "Inspect recommended URL slugs and implementation priority tiers (P0, P1, P2) for Ongo to outrank competitors on specific patient searches."
           }
         ]}
-        tip="Review the 'Customer Objection' field for unique pages to understand the exact patient fears (price jumps, needle anxiety, fake compounds) that competitors are neutralizing to win customers."
+        tip="Review the 'Customer Objection' callout for unique pages to understand the exact patient fears (needle phobia, hidden tier pricing, pharmacy legitimacy) that Ongo can neutralize."
       />
 
       {/* Mode Switcher & Filter Bento Card */}
       <div className="bento-card" style={{ padding: '24px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '16px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '18px' }}>
           <div>
-            <h1 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--text-primary)' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+              <span className="badge-minimal badge-minimal-neutral">Ongo Moat Intelligence</span>
+              <span className="badge-minimal badge-minimal-coral">Pattern Analysis</span>
+            </div>
+            <h1 style={{ fontSize: '1.35rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
               Page Pattern Intelligence: Common vs. Unique Pages
             </h1>
-            <p style={{ fontSize: '0.825rem', color: 'var(--text-tertiary)', marginTop: '2px' }}>
+            <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
               Identify table-stakes industry standards vs. high-converting competitive moats
             </p>
           </div>
 
           {/* Segmented View Selector */}
-          <div style={{ display: 'flex', gap: '4px', background: 'rgba(255, 255, 255, 0.03)', padding: '3px', borderRadius: '8px', border: '1px solid var(--border-subtle)' }}>
+          <div style={{ 
+            display: 'flex', 
+            gap: '4px', 
+            background: 'var(--bg-canvas)', 
+            padding: '4px', 
+            borderRadius: '9999px', 
+            border: '1px solid var(--border-medium)' 
+          }}>
             <button
               onClick={() => {
                 setActiveView('unique');
@@ -105,18 +121,19 @@ export default function CommonVsUniqueTab() {
                 display: 'flex',
                 alignItems: 'center',
                 gap: '6px',
-                padding: '6px 14px',
-                fontSize: '0.8rem',
-                borderRadius: '6px',
+                padding: '6px 16px',
+                fontSize: '0.78rem',
+                borderRadius: '9999px',
                 border: 'none',
-                background: activeView === 'unique' ? 'rgba(255, 255, 255, 0.1)' : 'transparent',
-                color: activeView === 'unique' ? '#fafafa' : 'var(--text-tertiary)',
+                background: activeView === 'unique' ? '#1b4332' : 'transparent',
+                color: activeView === 'unique' ? '#ffffff' : 'var(--text-secondary)',
                 cursor: 'pointer',
-                fontWeight: 600
+                fontWeight: 700,
+                transition: 'all 0.15s ease'
               }}
             >
-              <Sparkles size={14} />
-              Unique Pages & Why Covered ({UNIQUE_PAGE_PATTERNS.length})
+              <Sparkles size={13} color={activeView === 'unique' ? '#f4a261' : 'var(--color-primary)'} />
+              Unique Moats ({UNIQUE_PAGE_PATTERNS.length})
             </button>
 
             <button
@@ -128,70 +145,77 @@ export default function CommonVsUniqueTab() {
                 display: 'flex',
                 alignItems: 'center',
                 gap: '6px',
-                padding: '6px 14px',
-                fontSize: '0.8rem',
-                borderRadius: '6px',
+                padding: '6px 16px',
+                fontSize: '0.78rem',
+                borderRadius: '9999px',
                 border: 'none',
-                background: activeView === 'common' ? 'rgba(255, 255, 255, 0.1)' : 'transparent',
-                color: activeView === 'common' ? '#fafafa' : 'var(--text-tertiary)',
+                background: activeView === 'common' ? '#1b4332' : 'transparent',
+                color: activeView === 'common' ? '#ffffff' : 'var(--text-secondary)',
                 cursor: 'pointer',
-                fontWeight: 600
+                fontWeight: 700,
+                transition: 'all 0.15s ease'
               }}
             >
-              <Layers size={14} />
-              Common Baseline Pages ({COMMON_PAGE_PATTERNS.length})
+              <Layers size={13} color={activeView === 'common' ? '#f4a261' : 'var(--color-primary)'} />
+              Common Baseline ({COMMON_PAGE_PATTERNS.length})
             </button>
           </div>
         </div>
 
         {/* Search & Category Filter */}
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', alignItems: 'center' }}>
-          <div style={{ position: 'relative', flex: '1 1 300px' }}>
-            <Search size={14} color="var(--text-muted)" style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)' }} />
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center' }}>
+          <div style={{ position: 'relative', flex: '1 1 320px' }}>
+            <Search size={15} color="var(--color-primary)" style={{ position: 'absolute', left: '14px', top: '50%', transform: 'translateY(-50%)' }} />
             <input
               type="text"
-              placeholder={`Search ${activeView === 'unique' ? 'unique differentiators, brands, objections' : 'common pages, patterns'}...`}
+              placeholder={`Search ${activeView === 'unique' ? 'unique differentiators, brands, objections...' : 'common pages, patterns...'}`}
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
               className="input-minimal"
-              style={{ paddingLeft: '34px' }}
+              style={{ paddingLeft: '38px', borderRadius: '9999px' }}
             />
           </div>
 
           {/* Silo Pills */}
-          <div style={{ display: 'flex', gap: '4px', flexWrap: 'wrap' }}>
-            {(activeView === 'unique' ? uniqueSilos : commonSilos).map(silo => (
-              <button
-                key={silo}
-                onClick={() => setSelectedSilo(silo)}
-                style={{
-                  padding: '4px 8px',
-                  fontSize: '0.72rem',
-                  borderRadius: '5px',
-                  border: '1px solid var(--border-subtle)',
-                  background: selectedSilo === silo ? 'rgba(255, 255, 255, 0.08)' : 'rgba(255, 255, 255, 0.02)',
-                  color: selectedSilo === silo ? '#fafafa' : 'var(--text-tertiary)',
-                  cursor: 'pointer'
-                }}
-              >
-                {silo}
-              </button>
-            ))}
+          <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
+            {(activeView === 'unique' ? uniqueSilos : commonSilos).map(silo => {
+              const isActive = selectedSilo === silo;
+              return (
+                <button
+                  key={silo}
+                  onClick={() => setSelectedSilo(silo)}
+                  style={{
+                    padding: '5px 12px',
+                    fontSize: '0.73rem',
+                    borderRadius: '9999px',
+                    border: '1px solid',
+                    borderColor: isActive ? '#1b4332' : 'var(--border-medium)',
+                    background: isActive ? '#1b4332' : '#ffffff',
+                    color: isActive ? '#ffffff' : 'var(--text-secondary)',
+                    fontWeight: isActive ? 700 : 600,
+                    cursor: 'pointer',
+                    transition: 'all 0.15s ease'
+                  }}
+                >
+                  {silo}
+                </button>
+              );
+            })}
           </div>
         </div>
       </div>
 
       {/* VIEW 1: UNIQUE PAGES & WHY THEY COVER THEM */}
       {activeView === 'unique' && (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-            <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-primary)' }}>
-              Showing {filteredUnique.length} Unique Pages Across Competitors
+            <span style={{ fontSize: '0.885rem', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
+              Showing {filteredUnique.length} Unique Differentiation Pages
             </span>
-            <span className="badge-minimal">Rare Content Moats (&lt; 15% prevalence)</span>
+            <span className="badge-minimal badge-minimal-coral">Rare Moat Silos (&lt; 15% prevalence)</span>
           </div>
 
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
             {filteredUnique.map((item) => {
               const isExpanded = expandedUniqueId === item.id;
 
@@ -200,7 +224,8 @@ export default function CommonVsUniqueTab() {
                   key={item.id}
                   className="bento-card"
                   style={{
-                    padding: '20px',
+                    padding: '22px',
+                    border: '1px solid var(--border-medium)',
                     transition: 'border-color 0.15s ease'
                   }}
                 >
@@ -216,143 +241,149 @@ export default function CommonVsUniqueTab() {
                   onClick={() => setExpandedUniqueId(isExpanded ? null : item.id)}
                   >
                     <div>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
                         <span className="badge-minimal badge-minimal-neutral" style={{ fontSize: '0.68rem', fontFamily: 'var(--font-mono)' }}>
                           {item.silo}
                         </span>
-                        <span className="badge-minimal" style={{ fontSize: '0.68rem', color: '#fb7185', borderColor: 'rgba(244, 63, 94, 0.25)' }}>
+                        <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.68rem' }}>
                           {item.rarity}
                         </span>
-                        <span className="badge-minimal" style={{ fontSize: '0.68rem', color: item.ongoRecommendation.priority === 'P0' ? '#fb7185' : '#34d399' }}>
-                          Ongo {item.ongoRecommendation.priority}
+                        <span className={`badge-minimal ${item.ongoRecommendation.priority === 'P0' ? 'badge-minimal-danger' : 'badge-minimal-success'}`} style={{ fontSize: '0.68rem' }}>
+                          Ongo {item.ongoRecommendation.priority} Target
                         </span>
                       </div>
 
-                      <h2 style={{ fontSize: '1.05rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '3px' }}>
+                      <h2 style={{ fontSize: '1.15rem', fontWeight: 800, color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
                         {item.name}
                       </h2>
 
-                      <code style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', background: 'var(--bg-canvas)', padding: '2px 6px', borderRadius: '4px', fontFamily: 'var(--font-mono)' }}>
+                      <code style={{ fontSize: '0.76rem', color: 'var(--color-primary-dark)', background: 'var(--bg-canvas)', border: '1px solid var(--border-subtle)', padding: '3px 8px', borderRadius: '4px', fontFamily: 'var(--font-mono)' }}>
                         {item.urlPattern}
                       </code>
                     </div>
 
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
                       <div style={{ textAlign: 'right' }}>
-                        <div style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)' }}>Observed On:</div>
-                        <div style={{ fontSize: '0.78rem', color: 'var(--text-secondary)', fontWeight: 500 }}>
+                        <div style={{ fontSize: '0.68rem', color: 'var(--text-tertiary)', fontWeight: 600 }}>Observed On:</div>
+                        <div style={{ fontSize: '0.8rem', color: 'var(--color-primary-dark)', fontWeight: 700 }}>
                           {item.primaryBrands.join(', ')}
                         </div>
                       </div>
 
                       <button
                         style={{
-                          background: 'transparent',
-                          border: 'none',
-                          color: 'var(--text-tertiary)',
-                          padding: '4px',
+                          background: 'var(--bg-canvas)',
+                          border: '1px solid var(--border-medium)',
+                          color: 'var(--color-primary-dark)',
+                          borderRadius: '50%',
+                          width: '28px',
+                          height: '28px',
+                          display: 'flex',
+                          alignItems: 'center',
+                          justifyContent: 'center',
                           cursor: 'pointer'
                         }}
                       >
-                        {isExpanded ? <ChevronUp size={18} /> : <ChevronDown size={18} />}
+                        {isExpanded ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
                       </button>
                     </div>
                   </div>
 
-                  {/* Customer Objection Callout Strip */}
+                  {/* Customer Objection Callout Strip in Ongo Coral */}
                   <div style={{
-                    marginTop: '12px',
-                    padding: '8px 12px',
-                    borderRadius: '6px',
-                    background: 'rgba(244, 63, 94, 0.05)',
-                    border: '1px solid rgba(244, 63, 94, 0.15)',
+                    marginTop: '14px',
+                    padding: '10px 14px',
+                    borderRadius: '8px',
+                    background: 'var(--color-accent-soft)',
+                    border: '1px solid #f8bbad',
                     display: 'flex',
                     alignItems: 'center',
-                    gap: '8px',
-                    fontSize: '0.78rem',
-                    color: '#fca5a5'
+                    gap: '10px',
+                    fontSize: '0.8rem',
+                    color: '#c84b2c'
                   }}>
-                    <ShieldAlert size={14} style={{ flexShrink: 0 }} />
-                    <span><strong>Customer Objection It Solves:</strong> {item.whyCovered.customerObjection}</span>
+                    <ShieldAlert size={16} style={{ flexShrink: 0 }} />
+                    <span><strong>Customer Friction Point Resolved:</strong> {item.whyCovered.customerObjection}</span>
                   </div>
 
-                  {/* Expanded Breakdown: WHY IT COVERS THIS */}
+                  {/* Expanded Breakdown */}
                   {isExpanded && (
                     <div style={{
-                      marginTop: '14px',
-                      paddingTop: '14px',
+                      marginTop: '16px',
+                      paddingTop: '16px',
                       borderTop: '1px solid var(--border-subtle)',
                       display: 'flex',
                       flexDirection: 'column',
-                      gap: '12px'
+                      gap: '14px'
                     }}>
                       {/* 3-Column Bento Grid: Why They Covered It */}
                       <div style={{
                         display: 'grid',
                         gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))',
-                        gap: '10px'
+                        gap: '12px'
                       }}>
                         {/* Strategic Rationale */}
-                        <div style={{ background: 'var(--bg-canvas)', padding: '12px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--border-subtle)' }}>
-                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.75rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '4px' }}>
-                            <Target size={13} color="var(--text-secondary)" />
+                        <div style={{ background: 'var(--bg-canvas)', padding: '14px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--border-subtle)' }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.78rem', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
+                            <Target size={14} color="var(--color-primary)" />
                             Strategic Rationale
                           </div>
-                          <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', lineHeight: 1.45 }}>
+                          <p style={{ fontSize: '0.76rem', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
                             {item.whyCovered.strategicRationale}
                           </p>
                         </div>
 
                         {/* Conversion & Retention Impact */}
-                        <div style={{ background: 'var(--bg-canvas)', padding: '12px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--border-subtle)' }}>
-                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.75rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '4px' }}>
-                            <TrendingUp size={13} color="#34d399" />
-                            Conversion & LTV Impact
+                        <div style={{ background: 'var(--bg-canvas)', padding: '14px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--border-subtle)' }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.78rem', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
+                            <TrendingUp size={14} color="#347e5d" />
+                            Conversion & Retention Impact
                           </div>
-                          <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', lineHeight: 1.45 }}>
+                          <p style={{ fontSize: '0.76rem', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
                             {item.whyCovered.conversionImpact}
                           </p>
                         </div>
 
-                        {/* SEO & Search Advantage */}
-                        <div style={{ background: 'var(--bg-canvas)', padding: '12px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--border-subtle)' }}>
-                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.75rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '4px' }}>
-                            <Search size={13} color="#38bdf8" />
+                        {/* SEO Search Advantage */}
+                        <div style={{ background: 'var(--bg-canvas)', padding: '14px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--border-subtle)' }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.78rem', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
+                            <Search size={14} color="var(--color-accent)" />
                             SEO Search Advantage
                           </div>
-                          <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', lineHeight: 1.45 }}>
+                          <p style={{ fontSize: '0.76rem', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
                             {item.whyCovered.seoAdvantage}
                           </p>
                         </div>
                       </div>
 
-                      {/* Ongo Recommendation Box */}
+                      {/* Ongo Tactical Action Plan Box */}
                       <div style={{
-                        padding: '12px 14px',
+                        padding: '16px',
                         borderRadius: 'var(--radius-sm)',
-                        background: 'var(--bg-surface-elevated)',
-                        border: '1px solid var(--border-medium)',
+                        background: '#ffffff',
+                        border: '2px solid #b7e4c7',
+                        boxShadow: '0 4px 14px rgba(27, 67, 50, 0.05)',
                         display: 'flex',
                         flexWrap: 'wrap',
                         justifyContent: 'space-between',
                         alignItems: 'center',
-                        gap: '10px'
+                        gap: '12px'
                       }}>
-                        <div style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', maxWidth: '720px' }}>
-                          <Lightbulb size={16} color="#fbbf24" style={{ marginTop: '2px', flexShrink: 0 }} />
+                        <div style={{ display: 'flex', alignItems: 'flex-start', gap: '10px', maxWidth: '720px' }}>
+                          <Lightbulb size={18} color="#f4a261" style={{ marginTop: '2px', flexShrink: 0 }} />
                           <div>
-                            <div style={{ fontSize: '0.78rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '2px' }}>
+                            <div style={{ fontSize: '0.82rem', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '2px' }}>
                               Ongo Tactical Action Plan ({item.ongoRecommendation.priority}):
                             </div>
-                            <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', lineHeight: 1.4 }}>
+                            <p style={{ fontSize: '0.77rem', color: 'var(--text-secondary)', lineHeight: 1.45 }}>
                               {item.ongoRecommendation.recommendation}
                             </p>
                           </div>
                         </div>
 
                         <div style={{ textAlign: 'right' }}>
-                          <span style={{ fontSize: '0.68rem', color: 'var(--text-tertiary)', display: 'block' }}>Suggested Slug:</span>
-                          <code style={{ fontSize: '0.72rem', color: '#38bdf8', fontFamily: 'var(--font-mono)' }}>
+                          <span style={{ fontSize: '0.68rem', color: 'var(--text-tertiary)', display: 'block', fontWeight: 600 }}>Suggested URL Slug:</span>
+                          <code style={{ fontSize: '0.76rem', color: '#1b4332', background: 'var(--color-primary-soft)', padding: '3px 8px', borderRadius: '4px', fontFamily: 'var(--font-mono)', fontWeight: 700 }}>
                             {item.ongoRecommendation.suggestedSlug}
                           </code>
                         </div>
@@ -368,9 +399,9 @@ export default function CommonVsUniqueTab() {
 
       {/* VIEW 2: COMMON BASELINE PAGES */}
       {activeView === 'common' && (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-            <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-primary)' }}>
+            <span style={{ fontSize: '0.885rem', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
               Showing {filteredCommon.length} Common Table-Stakes Pages
             </span>
             <span className="badge-minimal badge-minimal-success">Standard Baseline (&gt; 70% prevalence)</span>
@@ -379,10 +410,10 @@ export default function CommonVsUniqueTab() {
           <div style={{
             display: 'grid',
             gridTemplateColumns: 'repeat(auto-fit, minmax(340px, 1fr))',
-            gap: '12px'
+            gap: '14px'
           }}>
             {filteredCommon.map((item) => (
-              <div key={item.id} className="bento-card" style={{ padding: '18px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', gap: '12px' }}>
+              <div key={item.id} className="bento-card" style={{ padding: '20px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', gap: '12px', border: '1px solid var(--border-medium)' }}>
                 <div>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
                     <span className="badge-minimal" style={{ fontSize: '0.68rem' }}>
@@ -393,22 +424,22 @@ export default function CommonVsUniqueTab() {
                     </span>
                   </div>
 
-                  <h3 style={{ fontSize: '0.95rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '3px' }}>
+                  <h3 style={{ fontSize: '1rem', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '3px' }}>
                     {item.name}
                   </h3>
-                  <code style={{ fontSize: '0.72rem', color: 'var(--text-tertiary)', fontFamily: 'var(--font-mono)', display: 'block', marginBottom: '8px' }}>
+                  <code style={{ fontSize: '0.74rem', color: 'var(--color-primary)', fontFamily: 'var(--font-mono)', display: 'block', marginBottom: '8px' }}>
                     {item.pattern}
                   </code>
 
-                  <p style={{ fontSize: '0.78rem', color: 'var(--text-secondary)', lineHeight: 1.45, marginBottom: '10px' }}>
+                  <p style={{ fontSize: '0.78rem', color: 'var(--text-secondary)', lineHeight: 1.5, marginBottom: '12px' }}>
                     {item.purpose}
                   </p>
 
-                  <div style={{ background: 'var(--bg-canvas)', padding: '8px 10px', borderRadius: '5px', border: '1px solid var(--border-subtle)', marginBottom: '10px' }}>
-                    <div style={{ fontSize: '0.68rem', fontWeight: 600, color: 'var(--text-tertiary)', textTransform: 'uppercase', marginBottom: '4px' }}>
+                  <div style={{ background: 'var(--bg-canvas)', padding: '10px 12px', borderRadius: '6px', border: '1px solid var(--border-subtle)', marginBottom: '10px' }}>
+                    <div style={{ fontSize: '0.68rem', fontWeight: 700, color: 'var(--color-primary-dark)', textTransform: 'uppercase', marginBottom: '4px' }}>
                       Essential Page Elements:
                     </div>
-                    <ul style={{ paddingLeft: '14px', fontSize: '0.72rem', color: 'var(--text-secondary)', margin: 0 }}>
+                    <ul style={{ paddingLeft: '14px', fontSize: '0.73rem', color: 'var(--text-secondary)', margin: 0 }}>
                       {item.keyElements.map((el, i) => (
                         <li key={i} style={{ marginBottom: '2px' }}>{el}</li>
                       ))}
@@ -418,14 +449,14 @@ export default function CommonVsUniqueTab() {
 
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderTop: '1px solid var(--border-subtle)', paddingTop: '10px' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                    <span style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)' }}>Ongo Status:</span>
+                    <span style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)', fontWeight: 600 }}>Ongo Status:</span>
                     <span className={`badge-minimal ${item.ongoStatus === 'implemented' ? 'badge-minimal-success' : 'badge-minimal-neutral'}`} style={{ fontSize: '0.68rem' }}>
                       {item.ongoStatus === 'implemented' ? 'Live on Ongo' : 'Planned'}
                     </span>
                   </div>
 
                   {item.ongoPath && (
-                    <code style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)', fontFamily: 'var(--font-mono)' }}>
+                    <code style={{ fontSize: '0.72rem', color: 'var(--color-primary-dark)', fontFamily: 'var(--font-mono)', fontWeight: 600 }}>
                       {item.ongoPath}
                     </code>
                   )}

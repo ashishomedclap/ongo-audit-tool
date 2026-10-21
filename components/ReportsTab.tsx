@@ -1,7 +1,8 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { FileText, Download, Copy, Check, Search } from 'lucide-react';
+import { FileText, Download, Copy, Check, Search, ShieldCheck } from 'lucide-react';
+import ContextCue from './ContextCue';
 
 interface ReportMeta {
   id: string;
@@ -13,8 +14,6 @@ interface ReportMeta {
 interface ReportsTabProps {
   reportsList: ReportMeta[];
 }
-
-import ContextCue from './ContextCue';
 
 export default function ReportsTab({ reportsList }: ReportsTabProps) {
   const [selectedReport, setSelectedReport] = useState<string>(
@@ -61,145 +60,150 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
   );
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <ContextCue
-        badge="Intelligence Report Cues"
+        badge="Executive Briefs"
         title="Curated Competitive Research Documents"
-        summary="You are viewing the markdown research artifacts and audits produced during this intelligence sprint. Use the left column to switch between reports, copy raw content, or export to markdown."
-        details={[
+        about="This page serves as an executive library of structured research documents, audit syntheses, and strategic briefs prepared specifically for Ongo Weight Loss leadership. It compiles the full findings of the 100-competitor census, sitemap crawl data, meta optimizations, and content blueprints into presentation-ready reports."
+        whatYouCanDo={[
           {
-            label: "Sitemap Intelligence Report",
-            description: "Executive synthesis covering competitive market share, public vs blocked sitemaps, and content publishing cadence."
+            action: "Browse Executive Research Documents",
+            description: "Select between key reports including the 'Competitor Sitemap Census', '217-Page Architecture Checklist', 'Meta Optimization Scorecard', and '100 Competitors Master Directory'."
           },
           {
-            label: "Recommended Pages Checklist",
-            description: "The 217-page blueprint mapping high-converting topics across P0, P1, and P2 priority tiers."
+            action: "Read Formatted Strategic Briefings",
+            description: "Review executive summaries, key data tables, clinical recommendations, and strategic action plans in a clean, high-readability briefing format."
           },
           {
-            label: "Meta Optimization & Comparison",
-            description: "Direct comparison between Ongo's live titles/descriptions and search-optimal recommendations."
+            action: "1-Click Copy Full Report Content",
+            description: "Click 'Copy Markdown' to copy the entire document to your clipboard for pasting into team Slack channels, Notion, or internal memos."
           },
           {
-            label: "100 Competitors List",
-            description: "Directory of all 100 brands with domains, tier classifications, and service models."
+            action: "Download Raw Markdown Files",
+            description: "Click 'Download' to save the complete structured markdown report locally to your computer for offline archiving or sharing with developers and copywriters."
+          },
+          {
+            action: "Search Briefing Topics",
+            description: "Use the report search bar to quickly jump to specific documents by keyword or topic."
           }
         ]}
         tip="Click 'Download' to save any report locally as a .md file for sharing with team members or loading into documentation."
       />
 
-      <div style={{ display: 'grid', gridTemplateColumns: '260px 1fr', gap: '16px', alignItems: 'start' }}>
-      {/* Sidebar Bento Tile */}
-      <div className="bento-card" style={{ padding: '18px', position: 'sticky', top: '80px' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '12px' }}>
-          <FileText size={16} color="var(--text-secondary)" />
-          <h2 style={{ fontSize: '0.95rem', fontWeight: 600, color: 'var(--text-primary)' }}>
-            Artifacts
-          </h2>
+      <div style={{ display: 'grid', gridTemplateColumns: '270px 1fr', gap: '16px', alignItems: 'start' }}>
+        {/* Sidebar Bento Tile */}
+        <div className="bento-card" style={{ padding: '20px', position: 'sticky', top: '80px', border: '1px solid var(--border-medium)' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '14px' }}>
+            <FileText size={16} color="var(--color-primary)" />
+            <h2 style={{ fontSize: '0.95rem', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
+              Executive Reports
+            </h2>
+          </div>
+
+          <div style={{ position: 'relative', marginBottom: '14px' }}>
+            <Search size={13} color="var(--color-primary)" style={{ position: 'absolute', left: '10px', top: '50%', transform: 'translateY(-50%)' }} />
+            <input
+              type="text"
+              placeholder="Search reports..."
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              className="input-minimal"
+              style={{ padding: '6px 10px 6px 30px', fontSize: '0.75rem', borderRadius: '9999px' }}
+            />
+          </div>
+
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '4px', maxHeight: '520px', overflowY: 'auto' }}>
+            {filteredReports.map((rep) => {
+              const isSelected = selectedReport === rep.filename;
+
+              return (
+                <button
+                  key={rep.filename}
+                  onClick={() => setSelectedReport(rep.filename)}
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'flex-start',
+                    padding: '10px 12px',
+                    borderRadius: '8px',
+                    border: isSelected ? '1px solid #1b4332' : '1px solid transparent',
+                    background: isSelected ? '#1b4332' : 'transparent',
+                    cursor: 'pointer',
+                    textAlign: 'left',
+                    transition: 'all 0.15s ease'
+                  }}
+                >
+                  <div style={{ fontSize: '0.82rem', fontWeight: 700, color: isSelected ? '#ffffff' : 'var(--color-primary-dark)' }}>
+                    {rep.title}
+                  </div>
+                  <div style={{ fontSize: '0.7rem', color: isSelected ? '#b7e4c7' : 'var(--text-tertiary)', fontFamily: 'var(--font-mono)', marginTop: '2px' }}>
+                    {rep.sizeKb} KB
+                  </div>
+                </button>
+              );
+            })}
+          </div>
         </div>
 
-        <div style={{ position: 'relative', marginBottom: '12px' }}>
-          <Search size={12} color="var(--text-muted)" style={{ position: 'absolute', left: '10px', top: '50%', transform: 'translateY(-50%)' }} />
-          <input
-            type="text"
-            placeholder="Search reports..."
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            className="input-minimal"
-            style={{ padding: '5px 8px 5px 28px', fontSize: '0.75rem' }}
-          />
-        </div>
+        {/* Main Report Viewer Bento Tile */}
+        <div className="bento-card" style={{ padding: '30px', border: '1px solid var(--border-medium)' }}>
+          <div style={{
+            display: 'flex',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            borderBottom: '1px solid var(--border-subtle)',
+            paddingBottom: '16px',
+            marginBottom: '22px'
+          }}>
+            <div>
+              <span style={{ fontSize: '0.7rem', color: 'var(--color-accent)', textTransform: 'uppercase', fontFamily: 'var(--font-mono)', fontWeight: 700 }}>
+                Ongo Intelligence Artifact
+              </span>
+              <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
+                {selectedReport}
+              </h1>
+            </div>
 
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '4px', maxHeight: '480px', overflowY: 'auto' }}>
-          {filteredReports.map((rep) => {
-            const isSelected = selectedReport === rep.filename;
-
-            return (
+            <div style={{ display: 'flex', gap: '8px' }}>
               <button
-                key={rep.filename}
-                onClick={() => setSelectedReport(rep.filename)}
-                style={{
-                  display: 'flex',
-                  flexDirection: 'column',
-                  alignItems: 'flex-start',
-                  padding: '8px 10px',
-                  borderRadius: '6px',
-                  border: isSelected ? '1px solid var(--border-medium)' : '1px solid transparent',
-                  background: isSelected ? 'rgba(255, 255, 255, 0.08)' : 'transparent',
-                  cursor: 'pointer',
-                  textAlign: 'left'
-                }}
+                onClick={handleCopy}
+                className="btn-minimal-secondary"
+                style={{ padding: '6px 14px', fontSize: '0.76rem' }}
               >
-                <div style={{ fontSize: '0.8rem', fontWeight: 500, color: isSelected ? '#fafafa' : 'var(--text-secondary)' }}>
-                  {rep.title}
-                </div>
-                <div style={{ fontSize: '0.68rem', color: 'var(--text-muted)', fontFamily: 'var(--font-mono)' }}>
-                  {rep.sizeKb} KB
-                </div>
+                {copied ? <Check size={13} color="#1b4332" /> : <Copy size={13} />}
+                {copied ? 'Copied' : 'Copy Text'}
               </button>
-            );
-          })}
+              <button
+                onClick={handleDownload}
+                className="btn-minimal-primary"
+                style={{ padding: '6px 14px', fontSize: '0.76rem' }}
+              >
+                <Download size={13} />
+                Download .md
+              </button>
+            </div>
+          </div>
+
+          {loading ? (
+            <div style={{ padding: '40px', textAlign: 'center', color: 'var(--text-tertiary)', fontSize: '0.85rem' }}>
+              Loading document...
+            </div>
+          ) : (
+            <div className="markdown-prose">
+              <pre style={{
+                whiteSpace: 'pre-wrap',
+                wordBreak: 'break-word',
+                fontFamily: 'inherit',
+                lineHeight: 1.7,
+                fontSize: '0.885rem',
+                color: 'var(--text-secondary)'
+              }}>
+                {content}
+              </pre>
+            </div>
+          )}
         </div>
       </div>
-
-      {/* Main Report Viewer Bento Tile */}
-      <div className="bento-card" style={{ padding: '28px' }}>
-        <div style={{
-          display: 'flex',
-          justifyContent: 'space-between',
-          alignItems: 'center',
-          borderBottom: '1px solid var(--border-subtle)',
-          paddingBottom: '14px',
-          marginBottom: '20px'
-        }}>
-          <div>
-            <span style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)', textTransform: 'uppercase', fontFamily: 'var(--font-mono)' }}>
-              Markdown Document
-            </span>
-            <h1 style={{ fontSize: '1.2rem', fontWeight: 700, color: 'var(--text-primary)' }}>
-              {selectedReport}
-            </h1>
-          </div>
-
-          <div style={{ display: 'flex', gap: '6px' }}>
-            <button
-              onClick={handleCopy}
-              className="btn-minimal-secondary"
-              style={{ padding: '6px 10px', fontSize: '0.75rem' }}
-            >
-              {copied ? <Check size={12} /> : <Copy size={12} />}
-              {copied ? 'Copied' : 'Copy'}
-            </button>
-            <button
-              onClick={handleDownload}
-              className="btn-minimal-primary"
-              style={{ padding: '6px 10px', fontSize: '0.75rem' }}
-            >
-              <Download size={12} />
-              Download
-            </button>
-          </div>
-        </div>
-
-        {loading ? (
-          <div style={{ padding: '40px', textAlign: 'center', color: 'var(--text-muted)', fontSize: '0.85rem' }}>
-            Loading document...
-          </div>
-        ) : (
-          <div className="markdown-prose">
-            <pre style={{
-              whiteSpace: 'pre-wrap',
-              wordBreak: 'break-word',
-              fontFamily: 'inherit',
-              lineHeight: 1.6,
-              fontSize: '0.85rem',
-              color: 'var(--text-secondary)'
-            }}>
-              {content}
-            </pre>
-          </div>
-        )}
-      </div>
-    </div>
     </div>
   );
 }

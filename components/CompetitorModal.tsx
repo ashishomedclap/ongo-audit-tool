@@ -6,7 +6,8 @@ import {
   ExternalLink, 
   Search, 
   Copy, 
-  Check
+  Check,
+  ShieldCheck
 } from 'lucide-react';
 import { CompetitorDetail } from '@/lib/data';
 
@@ -60,7 +61,7 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
     <div style={{
       position: 'fixed',
       inset: 0,
-      backgroundColor: 'rgba(0, 0, 0, 0.75)',
+      backgroundColor: 'rgba(15, 44, 36, 0.65)',
       backdropFilter: 'blur(8px)',
       zIndex: 100,
       display: 'flex',
@@ -70,48 +71,50 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
     }}>
       <div className="bento-card" style={{
         width: '100%',
-        maxWidth: '900px',
+        maxWidth: '920px',
         maxHeight: '88vh',
         display: 'flex',
         flexDirection: 'column',
         overflow: 'hidden',
         border: '1px solid var(--border-medium)',
-        boxShadow: 'var(--shadow-bento-hover)'
+        boxShadow: '0 24px 60px rgba(15, 44, 36, 0.35)',
+        background: '#ffffff'
       }}>
         {/* Header */}
         <div style={{
-          padding: '18px 24px',
+          padding: '20px 26px',
           borderBottom: '1px solid var(--border-subtle)',
           display: 'flex',
           justifyContent: 'space-between',
-          alignItems: 'center'
+          alignItems: 'center',
+          background: 'linear-gradient(180deg, #faf7f2 0%, #ffffff 100%)'
         }}>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-              <span style={{ fontSize: '0.72rem', fontFamily: 'var(--font-mono)', color: 'var(--text-tertiary)' }}>
-                #{detail?.summary.rank || '—'}
+              <span style={{ fontSize: '0.72rem', fontFamily: 'var(--font-mono)', color: 'var(--color-primary-dark)', fontWeight: 700 }}>
+                RANK #{detail?.summary.rank || '—'}
               </span>
-              <h2 style={{ fontSize: '1.15rem', fontWeight: 700, color: 'var(--text-primary)' }}>
+              <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
                 {detail?.summary.name || 'Competitor Detail'}
               </h2>
             </div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginTop: '3px' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginTop: '4px' }}>
               <a
                 href={`https://${detail?.summary.domain}`}
                 target="_blank"
                 rel="noreferrer"
-                style={{ fontSize: '0.78rem', color: 'var(--text-tertiary)', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '4px', fontFamily: 'var(--font-mono)' }}
+                style={{ fontSize: '0.78rem', color: 'var(--color-primary)', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '4px', fontFamily: 'var(--font-mono)', fontWeight: 600 }}
               >
-                {detail?.summary.domain} <ExternalLink size={10} />
+                {detail?.summary.domain} <ExternalLink size={11} />
               </a>
               {detail?.summary.primarySitemap && (
                 <a
                   href={detail.summary.primarySitemap}
                   target="_blank"
                   rel="noreferrer"
-                  style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '4px' }}
+                  style={{ fontSize: '0.74rem', color: 'var(--text-tertiary)', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '4px' }}
                 >
-                  XML <ExternalLink size={10} />
+                  XML Sitemap <ExternalLink size={10} />
                 </a>
               )}
             </div>
@@ -120,12 +123,17 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
           <button
             onClick={onClose}
             style={{
-              background: 'transparent',
-              border: '1px solid var(--border-subtle)',
-              borderRadius: '6px',
-              padding: '6px',
-              color: 'var(--text-tertiary)',
-              cursor: 'pointer'
+              background: 'var(--bg-canvas)',
+              border: '1px solid var(--border-medium)',
+              borderRadius: '50%',
+              width: '32px',
+              height: '32px',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              color: 'var(--color-primary-dark)',
+              cursor: 'pointer',
+              transition: 'all 0.15s ease'
             }}
           >
             <X size={16} />
@@ -134,41 +142,41 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
 
         {/* Content Body */}
         {loading ? (
-          <div style={{ padding: '50px', textAlign: 'center', color: 'var(--text-muted)', fontSize: '0.85rem' }}>
-            Loading competitor data...
+          <div style={{ padding: '60px', textAlign: 'center', color: 'var(--text-tertiary)', fontSize: '0.85rem' }}>
+            Loading competitor crawled URLs...
           </div>
         ) : (
           <div style={{ display: 'flex', flexDirection: 'column', flex: 1, overflow: 'hidden' }}>
-            {/* Stats row */}
+            {/* Stats row in warm cream */}
             <div style={{
               display: 'grid',
               gridTemplateColumns: 'repeat(4, 1fr)',
-              gap: '10px',
-              padding: '14px 24px',
+              gap: '12px',
+              padding: '16px 26px',
               borderBottom: '1px solid var(--border-subtle)',
               background: 'var(--bg-canvas)'
             }}>
               <div>
-                <div style={{ fontSize: '0.68rem', color: 'var(--text-muted)' }}>TOTAL INDEXED</div>
-                <div style={{ fontSize: '1.05rem', fontWeight: 600, color: 'var(--text-primary)', fontFamily: 'var(--font-mono)' }}>
+                <div style={{ fontSize: '0.67rem', color: 'var(--text-tertiary)', fontWeight: 700 }}>TOTAL INDEXED</div>
+                <div style={{ fontSize: '1.15rem', fontWeight: 800, color: 'var(--color-primary-dark)', fontFamily: 'var(--font-mono)' }}>
                   {detail?.allUrls.length || detail?.summary.totalUrls || 0}
                 </div>
               </div>
               <div>
-                <div style={{ fontSize: '0.68rem', color: 'var(--text-muted)' }}>SEMAGLUTIDE</div>
-                <div style={{ fontSize: '1.05rem', fontWeight: 600, color: 'var(--text-primary)', fontFamily: 'var(--font-mono)' }}>
+                <div style={{ fontSize: '0.67rem', color: 'var(--text-tertiary)', fontWeight: 700 }}>SEMAGLUTIDE</div>
+                <div style={{ fontSize: '1.15rem', fontWeight: 800, color: 'var(--color-primary)', fontFamily: 'var(--font-mono)' }}>
                   {semaPages.length}
                 </div>
               </div>
               <div>
-                <div style={{ fontSize: '0.68rem', color: 'var(--text-muted)' }}>TIRZEPATIDE</div>
-                <div style={{ fontSize: '1.05rem', fontWeight: 600, color: 'var(--text-primary)', fontFamily: 'var(--font-mono)' }}>
+                <div style={{ fontSize: '0.67rem', color: 'var(--text-tertiary)', fontWeight: 700 }}>TIRZEPATIDE</div>
+                <div style={{ fontSize: '1.15rem', fontWeight: 800, color: 'var(--color-accent)', fontFamily: 'var(--font-mono)' }}>
                   {tirzPages.length}
                 </div>
               </div>
               <div>
-                <div style={{ fontSize: '0.68rem', color: 'var(--text-muted)' }}>PRICING</div>
-                <div style={{ fontSize: '1.05rem', fontWeight: 600, color: 'var(--text-primary)', fontFamily: 'var(--font-mono)' }}>
+                <div style={{ fontSize: '0.67rem', color: 'var(--text-tertiary)', fontWeight: 700 }}>PRICING</div>
+                <div style={{ fontSize: '1.15rem', fontWeight: 800, color: 'var(--color-accent-warm)', fontFamily: 'var(--font-mono)' }}>
                   {pricingPages.length}
                 </div>
               </div>
@@ -176,61 +184,68 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
 
             {/* Filter Tabs & Search */}
             <div style={{
-              padding: '10px 24px',
+              padding: '12px 26px',
               display: 'flex',
               flexWrap: 'wrap',
               justifyContent: 'space-between',
               alignItems: 'center',
-              gap: '10px',
-              borderBottom: '1px solid var(--border-subtle)'
+              gap: '12px',
+              borderBottom: '1px solid var(--border-subtle)',
+              background: '#ffffff'
             }}>
-              <div style={{ display: 'flex', gap: '4px' }}>
+              <div style={{ display: 'flex', gap: '6px' }}>
                 {[
                   { id: 'all', label: `All (${allUrls.length})` },
                   { id: 'semaglutide', label: `Semaglutide (${semaPages.length})` },
                   { id: 'tirzepatide', label: `Tirzepatide (${tirzPages.length})` },
                   { id: 'pricing', label: `Pricing (${pricingPages.length})` }
-                ].map(tab => (
-                  <button
-                    key={tab.id}
-                    onClick={() => setActiveUrlTab(tab.id as typeof activeUrlTab)}
-                    style={{
-                      padding: '4px 8px',
-                      fontSize: '0.75rem',
-                      borderRadius: '5px',
-                      border: 'none',
-                      background: activeUrlTab === tab.id ? 'rgba(255, 255, 255, 0.08)' : 'transparent',
-                      color: activeUrlTab === tab.id ? '#fafafa' : 'var(--text-tertiary)',
-                      cursor: 'pointer'
-                    }}
-                  >
-                    {tab.label}
-                  </button>
-                ))}
+                ].map(tab => {
+                  const isActive = activeUrlTab === tab.id;
+                  return (
+                    <button
+                      key={tab.id}
+                      onClick={() => setActiveUrlTab(tab.id as typeof activeUrlTab)}
+                      style={{
+                        padding: '5px 12px',
+                        fontSize: '0.74rem',
+                        borderRadius: '9999px',
+                        border: '1px solid',
+                        borderColor: isActive ? '#1b4332' : 'var(--border-medium)',
+                        background: isActive ? '#1b4332' : '#ffffff',
+                        color: isActive ? '#ffffff' : 'var(--text-secondary)',
+                        fontWeight: isActive ? 700 : 500,
+                        cursor: 'pointer',
+                        transition: 'all 0.15s ease'
+                      }}
+                    >
+                      {tab.label}
+                    </button>
+                  );
+                })}
               </div>
 
               {/* URL Search input */}
-              <div style={{ position: 'relative', width: '220px' }}>
-                <Search size={12} color="var(--text-muted)" style={{ position: 'absolute', left: '10px', top: '50%', transform: 'translateY(-50%)' }} />
+              <div style={{ position: 'relative', width: '240px' }}>
+                <Search size={13} color="var(--color-primary)" style={{ position: 'absolute', left: '10px', top: '50%', transform: 'translateY(-50%)' }} />
                 <input
                   type="text"
                   placeholder="Filter URL paths..."
                   value={urlSearch}
                   onChange={(e) => setUrlSearch(e.target.value)}
                   className="input-minimal"
-                  style={{ padding: '4px 8px 4px 26px', fontSize: '0.75rem' }}
+                  style={{ padding: '5px 10px 5px 30px', fontSize: '0.75rem', borderRadius: '9999px' }}
                 />
               </div>
             </div>
 
             {/* URL List */}
-            <div style={{ flex: 1, overflowY: 'auto', padding: '14px 24px' }}>
+            <div style={{ flex: 1, overflowY: 'auto', padding: '16px 26px', background: '#ffffff' }}>
               {filteredUrls.length === 0 ? (
-                <div style={{ textAlign: 'center', color: 'var(--text-muted)', padding: '30px', fontSize: '0.8rem' }}>
+                <div style={{ textAlign: 'center', color: 'var(--text-tertiary)', padding: '36px', fontSize: '0.8rem' }}>
                   No URLs match this filter.
                 </div>
               ) : (
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
                   {filteredUrls.map((url, idx) => (
                     <div
                       key={idx}
@@ -238,10 +253,10 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
                         display: 'flex',
                         alignItems: 'center',
                         justifyContent: 'space-between',
-                        padding: '6px 10px',
+                        padding: '8px 12px',
                         background: 'var(--bg-canvas)',
                         border: '1px solid var(--border-subtle)',
-                        borderRadius: '5px',
+                        borderRadius: '6px',
                         fontSize: '0.78rem'
                       }}
                     >
@@ -250,24 +265,27 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
                         color: 'var(--text-secondary)',
                         fontFamily: 'var(--font-mono)',
                         fontSize: '0.75rem',
-                        marginRight: '10px'
+                        marginRight: '12px'
                       }}>
                         {url}
                       </span>
 
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '4px', flexShrink: 0 }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '6px', flexShrink: 0 }}>
                         <button
                           onClick={() => handleCopy(url)}
                           title="Copy URL"
                           style={{
-                            background: 'transparent',
-                            border: 'none',
-                            color: copiedUrl === url ? '#34d399' : 'var(--text-muted)',
+                            background: '#ffffff',
+                            border: '1px solid var(--border-medium)',
+                            borderRadius: '4px',
+                            color: copiedUrl === url ? '#1b4332' : 'var(--text-tertiary)',
                             cursor: 'pointer',
-                            padding: '2px'
+                            padding: '3px 6px',
+                            display: 'flex',
+                            alignItems: 'center'
                           }}
                         >
-                          {copiedUrl === url ? <Check size={11} /> : <Copy size={11} />}
+                          {copiedUrl === url ? <Check size={11} color="#347e5d" /> : <Copy size={11} />}
                         </button>
 
                         <a
@@ -275,10 +293,14 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
                           target="_blank"
                           rel="noreferrer"
                           style={{
-                            color: 'var(--text-tertiary)',
+                            background: '#ffffff',
+                            border: '1px solid var(--border-medium)',
+                            borderRadius: '4px',
+                            color: 'var(--color-primary-dark)',
                             textDecoration: 'none',
                             display: 'flex',
-                            alignItems: 'center'
+                            alignItems: 'center',
+                            padding: '3px 6px'
                           }}
                         >
                           <ExternalLink size={11} />

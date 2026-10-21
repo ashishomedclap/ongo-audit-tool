@@ -346,3 +346,17 @@ export function getReportContent(filename: string): string {
     return '# Error Reading Report';
   }
 }
+
+export interface KeywordExplorerItem {
+  id: number;
+  keyword: string;
+  url: string;
+  competitor: string;
+  position: number;
+  volume: number;
+  kd: number;
+  traffic: number;
+  intent: string;
+  opportunityScore: number;
+}
+

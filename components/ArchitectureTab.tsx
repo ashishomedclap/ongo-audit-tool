@@ -7,7 +7,9 @@ import {
   Square, 
   Search, 
   Clock, 
-  CheckCircle2
+  CheckCircle2,
+  ShieldCheck,
+  Sparkles
 } from 'lucide-react';
 import { MasterUrlItem } from '@/lib/data';
 import ContextCue from './ContextCue';
@@ -44,7 +46,7 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
     });
   };
 
-  const totalAnalyzed = Object.values(architectureOverview).reduce((a, b) => a + b, 0) || 36626;
+  const totalAnalyzed = Object.values(architectureOverview).reduce((a, b) => a + b, 0) || 35420;
 
   const filteredUrls = masterUrls.filter(item => {
     const matchesSearch = 
@@ -62,84 +64,98 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
   const inProgressCount = Object.values(pageStatuses).filter(s => s === 'in_progress').length;
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <ContextCue
-        badge="Architecture & Roadmap Cues"
-        title="Content Silo Breakdown & 217-Page Roadmap"
-        summary="You are viewing the macro content distribution across 36,000+ competitor URLs categorized into 6 core silos, alongside Ongo's recommended 217-page checklist."
-        details={[
+        badge="Strategic Architecture"
+        title="Content Silo Breakdown & Ongo 217-Page Roadmap"
+        about="This page maps the macro content architecture of 35,420 competitor URLs across 6 clinical silos and presents Ongo Weight Loss's comprehensive 217-Page Organic Expansion Roadmap. It provides a prioritized, actionable blueprint to scale Ongo from its current 11 live pages to 228 authoritative URLs."
+        whatYouCanDo={[
           {
-            label: "Content Silo Taxonomy",
-            description: "URLs are grouped into Blog Hubs (26%), Core Treatments (9%), Patient Education (5%), Conversion Intake Funnels (2.3%), Pricing Plans (1.8%), and Doctors & E-E-A-T (1.6%)."
+            action: "Track Execution with Local Persistence",
+            description: "Click the status badge on any of the 217 pages to cycle between 'Todo' → 'In Progress' → 'Done'. Your progress saves automatically in browser localStorage."
           },
           {
-            label: "Priority Tiers",
-            description: "P0 indicates mission-critical launch pages (core product, transparent pricing, intake). P1 indicates high-converting comparison/state pages. P2 covers long-tail symptom and dosage articles."
+            action: "Filter by Priority Tiers (P0, P1, P2)",
+            description: "Filter to 'P0: Mission Critical' (immediate commercial revenue funnels), 'P1: High Impact' (state hubs and dosage comparisons), or 'P2: Scale & Dominance' (long-tail guides)."
           },
           {
-            label: "Interactive State Tracking",
-            description: "Clicking any checklist row cycles through Todo → In Progress → Done. Your state automatically persists in your browser's local storage."
+            action: "Browse by Content Silo",
+            description: "Filter pages across Core Treatments, Pricing & Transparency, Clinical Authority (E-E-A-T), State Telehealth Landing Pages, or Patient Education."
+          },
+          {
+            action: "Inspect Slugs & Search Intent",
+            description: "Review recommended URL slugs, target keywords, monthly search volume estimates, and patient intent for all 217 blueprint pages."
+          },
+          {
+            action: "View Competitor Silo Allocations",
+            description: "Benchmark how the 100 competitors allocate content (26% blogs, 9% treatments, 5% education, 1.8% pricing) to optimize Ongo's publishing cadence."
           }
         ]}
-        tip="Filter by 'P0' to focus exclusively on essential launch pages needed before scaling high-volume blog content."
+        tip="Filter by 'P0' to focus exclusively on high-priority commercial funnels needed to capture immediate Google search traffic."
       />
 
       {/* Top Header Bento Box */}
       <div className="bento-card" style={{ padding: '24px' }}>
-        <h1 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--text-primary)' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+          <span className="badge-minimal badge-minimal-neutral">Ongo Expansion Suite</span>
+          <span className="badge-minimal badge-minimal-coral">217 Target Pages</span>
+        </div>
+        <h1 style={{ fontSize: '1.35rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
           Page Architecture & 217-Page Expansion Checklist
         </h1>
-        <p style={{ fontSize: '0.825rem', color: 'var(--text-tertiary)', marginTop: '2px' }}>
-          Macro category breakdown of 36,000+ competitor URLs paired with Ongo&apos;s strategic roadmap
+        <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
+          Macro category breakdown of 35,000+ competitor URLs paired with Ongo&apos;s strategic roadmap
         </p>
       </div>
 
       {/* Category Architecture Distribution Bento Grid */}
-      <div className="bento-card" style={{ padding: '24px' }}>
-        <h2 style={{ fontSize: '0.95rem', fontWeight: 600, color: 'var(--text-primary)', marginBottom: '4px' }}>
-          Competitor Content Silo Distribution (36k+ URLs)
+      <div className="bento-card" style={{ padding: '24px', border: '1px solid var(--border-medium)' }}>
+        <h2 style={{ fontSize: '1.05rem', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
+          Competitor Content Silo Distribution (35,420 URLs)
         </h2>
-        <p style={{ fontSize: '0.78rem', color: 'var(--text-tertiary)', marginBottom: '16px' }}>
-          Proportional volume of pages published across the 100 compounded GLP-1 providers
+        <p style={{ fontSize: '0.78rem', color: 'var(--text-secondary)', marginBottom: '18px' }}>
+          Proportional volume of pages published across 100 compounded GLP-1 providers
         </p>
 
         <div style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))',
-          gap: '10px'
+          gap: '12px'
         }}>
-          {Object.entries(architectureOverview).map(([cat, count]) => {
+          {Object.entries(architectureOverview).map(([cat, count], idx) => {
             const pct = Math.round((count / totalAnalyzed) * 100);
+            const colors = ['#347e5d', '#e76f51', '#f4a261', '#1b4332', '#10b981', '#7c3aed'];
+            const barColor = colors[idx % colors.length];
 
             return (
               <div
                 key={cat}
                 style={{
-                  padding: '14px',
+                  padding: '16px',
                   borderRadius: 'var(--radius-sm)',
                   background: 'var(--bg-canvas)',
-                  border: '1px solid var(--border-subtle)',
+                  border: '1px solid var(--border-medium)',
                   display: 'flex',
                   flexDirection: 'column',
                   justifyContent: 'space-between'
                 }}
               >
                 <div>
-                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '4px' }}>
-                    <span style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--text-primary)' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px' }}>
+                    <span style={{ fontSize: '0.82rem', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
                       {cat}
                     </span>
-                    <span style={{ fontSize: '0.72rem', fontFamily: 'var(--font-mono)', color: 'var(--text-tertiary)' }}>
+                    <span style={{ fontSize: '0.74rem', fontFamily: 'var(--font-mono)', color: 'var(--text-secondary)', fontWeight: 600 }}>
                       {pct}%
                     </span>
                   </div>
-                  <div style={{ fontSize: '1.15rem', fontWeight: 700, color: 'var(--text-primary)', fontFamily: 'var(--font-mono)', marginBottom: '8px' }}>
-                    {count.toLocaleString()} <span style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)', fontWeight: 400 }}>URLs</span>
+                  <div style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)', fontFamily: 'var(--font-mono)', marginBottom: '10px' }}>
+                    {count.toLocaleString()} <span style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)', fontWeight: 500 }}>URLs</span>
                   </div>
                 </div>
 
-                <div style={{ height: '3px', width: '100%', background: 'rgba(255, 255, 255, 0.05)', borderRadius: '2px', overflow: 'hidden' }}>
-                  <div style={{ height: '100%', width: `${pct}%`, background: '#e4e4e7' }} />
+                <div style={{ height: '5px', width: '100%', background: '#ede7de', borderRadius: '9999px', overflow: 'hidden' }}>
+                  <div style={{ height: '100%', width: `${pct}%`, background: barColor, borderRadius: '9999px' }} />
                 </div>
               </div>
             );
@@ -148,61 +164,67 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
       </div>
 
       {/* 217 Pages Master Checklist Bento Box */}
-      <div className="bento-card" style={{ padding: '24px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
+      <div className="bento-card" style={{ padding: '24px', border: '1px solid var(--border-medium)' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '12px', marginBottom: '18px' }}>
           <div>
-            <h2 style={{ fontSize: '0.95rem', fontWeight: 600, color: 'var(--text-primary)' }}>
-              Ongo 217-Page Recommended Checklist
+            <h2 style={{ fontSize: '1.05rem', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
+              Ongo 217-Page Expansion Blueprint
             </h2>
-            <p style={{ fontSize: '0.78rem', color: 'var(--text-tertiary)' }}>
-              Click items to toggle status: Todo &rarr; In Progress &rarr; Done. Progress is saved locally.
+            <p style={{ fontSize: '0.78rem', color: 'var(--text-secondary)' }}>
+              Click items to toggle status: Todo &rarr; In Progress &rarr; Done. Progress is saved locally in your browser.
             </p>
           </div>
 
           <div style={{ display: 'flex', gap: '6px' }}>
-            <span className="badge-minimal badge-minimal-success">{doneCount} Done</span>
-            <span className="badge-minimal">{inProgressCount} In Progress</span>
-            <span className="badge-minimal">{masterUrls.length - doneCount - inProgressCount} Todo</span>
+            <span className="badge-minimal badge-minimal-success" style={{ padding: '4px 10px' }}>{doneCount} Done</span>
+            <span className="badge-minimal badge-minimal-coral" style={{ padding: '4px 10px' }}>{inProgressCount} In Progress</span>
+            <span className="badge-minimal badge-minimal-neutral" style={{ padding: '4px 10px' }}>{masterUrls.length - doneCount - inProgressCount} Todo</span>
           </div>
         </div>
 
         {/* Filter bar */}
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', alignItems: 'center', marginBottom: '14px' }}>
-          <div style={{ position: 'relative', flex: '1 1 280px' }}>
-            <Search size={14} color="var(--text-muted)" style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)' }} />
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center', marginBottom: '16px' }}>
+          <div style={{ position: 'relative', flex: '1 1 300px' }}>
+            <Search size={15} color="var(--color-primary)" style={{ position: 'absolute', left: '14px', top: '50%', transform: 'translateY(-50%)' }} />
             <input
               type="text"
-              placeholder="Search planned page by path or title..."
+              placeholder="Search planned page by path, compound, or title..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               className="input-minimal"
-              style={{ paddingLeft: '34px' }}
+              style={{ paddingLeft: '38px', borderRadius: '9999px' }}
             />
           </div>
 
-          <div style={{ display: 'flex', gap: '4px' }}>
-            {['ALL', 'P0', 'P1', 'P2'].map(p => (
-              <button
-                key={p}
-                onClick={() => setActivePriority(p)}
-                style={{
-                  padding: '5px 10px',
-                  fontSize: '0.75rem',
-                  borderRadius: '5px',
-                  border: '1px solid var(--border-subtle)',
-                  background: activePriority === p ? 'rgba(255, 255, 255, 0.08)' : 'rgba(255, 255, 255, 0.02)',
-                  color: activePriority === p ? '#fafafa' : 'var(--text-tertiary)',
-                  cursor: 'pointer'
-                }}
-              >
-                {p === 'ALL' ? 'All' : p}
-              </button>
-            ))}
+          <div style={{ display: 'flex', gap: '6px' }}>
+            {['ALL', 'P0', 'P1', 'P2'].map(p => {
+              const isActive = activePriority === p;
+              return (
+                <button
+                  key={p}
+                  onClick={() => setActivePriority(p)}
+                  style={{
+                    padding: '6px 14px',
+                    fontSize: '0.78rem',
+                    borderRadius: '9999px',
+                    border: '1px solid',
+                    borderColor: isActive ? '#1b4332' : 'var(--border-medium)',
+                    background: isActive ? '#1b4332' : '#ffffff',
+                    color: isActive ? '#ffffff' : 'var(--text-secondary)',
+                    fontWeight: 700,
+                    cursor: 'pointer',
+                    transition: 'all 0.15s ease'
+                  }}
+                >
+                  {p === 'ALL' ? 'All Tiers' : `${p} Priority`}
+                </button>
+              );
+            })}
           </div>
         </div>
 
         {/* Checklist items */}
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '6px', maxHeight: '550px', overflowY: 'auto' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', maxHeight: '580px', overflowY: 'auto' }}>
           {filteredUrls.map((item) => {
             const status = pageStatuses[item.id] || 'todo';
 
@@ -214,49 +236,51 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'space-between',
-                  padding: '10px 14px',
+                  padding: '12px 16px',
                   borderRadius: 'var(--radius-sm)',
-                  background: status === 'done' ? 'rgba(16, 185, 129, 0.04)' : 'var(--bg-canvas)',
-                  border: `1px solid ${status === 'done' ? 'rgba(16, 185, 129, 0.2)' : 'var(--border-subtle)'}`,
+                  background: status === 'done' ? '#f0fdf4' : '#ffffff',
+                  border: `1px solid ${status === 'done' ? '#86efac' : 'var(--border-medium)'}`,
                   cursor: 'pointer',
-                  transition: 'border-color 0.15s ease'
+                  boxShadow: '0 1px 3px rgba(0,0,0,0.02)',
+                  transition: 'all 0.15s ease'
                 }}
               >
-                <div style={{ display: 'flex', alignItems: 'flex-start', gap: '10px' }}>
-                  <div style={{ marginTop: '2px', color: status === 'done' ? '#34d399' : 'var(--text-muted)' }}>
-                    {status === 'done' ? <CheckSquare size={16} /> : status === 'in_progress' ? <Clock size={16} /> : <Square size={16} />}
+                <div style={{ display: 'flex', alignItems: 'flex-start', gap: '12px' }}>
+                  <div style={{ marginTop: '2px', color: status === 'done' ? '#1b4332' : status === 'in_progress' ? '#d97706' : 'var(--text-muted)' }}>
+                    {status === 'done' ? <CheckSquare size={17} color="#1b4332" /> : status === 'in_progress' ? <Clock size={17} color="#d97706" /> : <Square size={17} />}
                   </div>
 
                   <div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '2px' }}>
-                      <span style={{ fontWeight: 600, fontSize: '0.85rem', color: status === 'done' ? 'var(--text-tertiary)' : 'var(--text-primary)', textDecoration: status === 'done' ? 'line-through' : 'none' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '3px' }}>
+                      <span style={{ fontWeight: 700, fontSize: '0.885rem', color: status === 'done' ? 'var(--text-tertiary)' : 'var(--color-primary-dark)', textDecoration: status === 'done' ? 'line-through' : 'none' }}>
                         {item.name}
                       </span>
-                      <code style={{ fontSize: '0.72rem', color: 'var(--text-secondary)', background: 'rgba(255,255,255,0.03)', padding: '1px 5px', borderRadius: '3px' }}>
+                      <code style={{ fontSize: '0.74rem', color: 'var(--color-primary)', background: 'var(--color-primary-soft)', padding: '2px 6px', borderRadius: '4px', fontFamily: 'var(--font-mono)', fontWeight: 600 }}>
                         {item.path}
                       </code>
                     </div>
-                    <p style={{ fontSize: '0.72rem', color: 'var(--text-tertiary)' }}>
+                    <p style={{ fontSize: '0.74rem', color: 'var(--text-secondary)' }}>
                       {item.description}
                     </p>
                   </div>
                 </div>
 
-                <div style={{ display: 'flex', alignItems: 'center', gap: '6px', flexShrink: 0 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexShrink: 0 }}>
                   <span style={{
                     fontSize: '0.68rem',
                     fontFamily: 'var(--font-mono)',
-                    fontWeight: 600,
-                    padding: '2px 5px',
-                    borderRadius: '4px',
-                    background: item.priority === 'P0' ? 'rgba(244, 63, 94, 0.1)' : 'rgba(255, 255, 255, 0.04)',
-                    color: item.priority === 'P0' ? '#fb7185' : 'var(--text-tertiary)'
+                    fontWeight: 700,
+                    padding: '3px 7px',
+                    borderRadius: '9999px',
+                    background: item.priority === 'P0' ? '#fee2e2' : 'var(--bg-canvas)',
+                    color: item.priority === 'P0' ? '#991b1b' : 'var(--color-primary-dark)',
+                    border: `1px solid ${item.priority === 'P0' ? '#fecaca' : 'var(--border-subtle)'}`
                   }}>
                     {item.priority}
                   </span>
 
-                  <span className={`badge-minimal ${status === 'done' ? 'badge-minimal-success' : ''}`} style={{ fontSize: '0.65rem' }}>
-                    {status === 'done' ? 'DONE' : status === 'in_progress' ? 'PROGRESS' : 'TODO'}
+                  <span className={`badge-minimal ${status === 'done' ? 'badge-minimal-success' : status === 'in_progress' ? 'badge-minimal-coral' : ''}`} style={{ fontSize: '0.67rem' }}>
+                    {status === 'done' ? 'DONE' : status === 'in_progress' ? 'IN PROGRESS' : 'TODO'}
                   </span>
                 </div>
               </div>

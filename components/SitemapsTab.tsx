@@ -10,7 +10,8 @@ import {
   ArrowUpDown,
   RefreshCw,
   Eye,
-  Activity
+  Activity,
+  ShieldCheck
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
 import ContextCue from './ContextCue';
@@ -99,76 +100,94 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
   };
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <ContextCue
-        badge="Sitemap Health & Crawl Cues"
-        title="Direct Competitor Sitemap Crawler & Live Connectivity"
-        summary="You are viewing the real-time sitemap feed status and crawl inventories for 100 US telehealth competitors. This reveals how competitors expose their catalog to Google and Bing."
-        details={[
+        badge="Sitemap Intelligence"
+        title="100 Competitor Sitemaps vs Ongo Weight Loss Benchmark"
+        about="This page is an XML sitemap census and live HTTP connectivity auditor covering 100 US telehealth competitors. It indexes 35,420 crawled URLs to reveal which clinics expose transparent XML sitemap feeds (74 brands) versus those that gate content behind Cloudflare WAFs or dynamic client-side applications (26 brands). It also benchmarks dedicated Semaglutide and Tirzepatide landing page depth across each competitor."
+        whatYouCanDo={[
           {
-            label: "Valid Sitemaps (Green)",
-            description: "74 brands have standard public XML sitemaps containing 35,420 mapped URLs. All sitemaps were crawled and parsed into local inventories."
+            action: "Ping Real-Time HTTP Connectivity",
+            description: "Click 'Ping' on any competitor domain or sitemap URL to test live HTTP status codes (200, 403, 404), TLS handshake latency in ms, and response headers."
           },
           {
-            label: "Blocked / No Sitemap (Red)",
-            description: "26 brands (e.g. Ro, Hims, Sequence) return HTTP 403 bot blocks via Cloudflare or employ dynamic single-page applications without public XML feeds."
+            action: "Inspect Crawled URL Inventories",
+            description: "Click 'Inspect URLs' on any brand to open a deep-dive drawer listing all crawled paths, drug categorization tags, and last-modified dates."
           },
           {
-            label: "Live Ping Measurement",
-            description: "The 'Ping' button initiates a real-time server-side test to measure HTTP response code, connection latency in milliseconds, and content-type."
+            action: "Filter by Feed Status",
+            description: "Toggle between 'All Feeds', 'Valid XML Sitemaps' (74 active), and 'Gated / Blocked' (26 brands) to see transparent vs. gated telehealth competitors."
           },
           {
-            label: "Inspect URLs Action",
-            description: "Clicking 'Inspect' opens a detailed drawer with the full list of crawled URLs, searchable paths, and automatic GLP-1 medication categorization."
+            action: "Sort by Medication Depth",
+            description: "Sort by total Semaglutide or Tirzepatide pages to see which clinics have created high-volume dosage and comparison landing pages."
+          },
+          {
+            action: "Search Any Telehealth Clinic",
+            description: "Use the search bar to filter by brand name, domain, CMS platform (WordPress, Webflow, Next.js), or mapped URL count."
           }
         ]}
-        tip="Sort by 'Semaglutide' or 'Tirzepatide' to immediately identify which competitors have built dedicated landing page clusters for each compound."
+        tip="Sort by 'Semaglutide' or 'Tirzepatide' to find out which clinics have built aggressive long-tail dosage and comparison funnels."
       />
 
       {/* Top Filter Bento Header */}
       <div className="bento-card" style={{ padding: '24px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '16px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '18px' }}>
           <div>
-            <h1 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--text-primary)' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+              <span className="badge-minimal badge-minimal-neutral">Ongo Audit Suite</span>
+              <span className="badge-minimal badge-minimal-success">74 Active Feeds</span>
+              <span className="badge-minimal badge-minimal-danger">26 Gated / No Feeds</span>
+            </div>
+            <h1 style={{ fontSize: '1.35rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
               Sitemap Inspector & Live Health Verifier
             </h1>
-            <p style={{ fontSize: '0.825rem', color: 'var(--text-tertiary)', marginTop: '2px' }}>
-              Verify status, response codes, latency, and crawl depth for all 100 competitors
+            <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
+              Benchmark Ongo Weight Loss against all 100 telehealth competitors with live connectivity checks
             </p>
           </div>
 
-          <div style={{ display: 'flex', gap: '6px' }}>
-            <span className="badge-minimal badge-minimal-success">74 Active Sitemaps</span>
-            <span className="badge-minimal badge-minimal-danger">26 Blocked</span>
+          <div style={{ display: 'flex', gap: '8px' }}>
+            <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.75rem', padding: '4px 10px' }}>
+              {filtered.length} Competitors Shown
+            </span>
           </div>
         </div>
 
         {/* Search & Status Pill Filters */}
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', alignItems: 'center' }}>
-          <div style={{ position: 'relative', flex: '1 1 300px' }}>
-            <Search size={14} color="var(--text-muted)" style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)' }} />
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center' }}>
+          <div style={{ position: 'relative', flex: '1 1 320px' }}>
+            <Search size={15} color="var(--color-primary)" style={{ position: 'absolute', left: '14px', top: '50%', transform: 'translateY(-50%)' }} />
             <input
               type="text"
-              placeholder="Search competitor name or domain..."
+              placeholder="Search competitor brand, domain, or rank (e.g. Mochi, Henry, Fridays)..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               className="input-minimal"
-              style={{ paddingLeft: '34px' }}
+              style={{ paddingLeft: '38px', borderRadius: '9999px' }}
             />
           </div>
 
-          <div style={{ display: 'flex', gap: '4px', background: 'rgba(255, 255, 255, 0.03)', padding: '3px', borderRadius: '8px', border: '1px solid var(--border-subtle)' }}>
+          <div style={{ 
+            display: 'flex', 
+            gap: '4px', 
+            background: 'var(--bg-canvas)', 
+            padding: '4px', 
+            borderRadius: '9999px', 
+            border: '1px solid var(--border-medium)' 
+          }}>
             <button
               onClick={() => setStatusFilter('ALL')}
               style={{
-                padding: '5px 10px',
-                fontSize: '0.75rem',
-                borderRadius: '6px',
+                padding: '6px 14px',
+                fontSize: '0.78rem',
+                borderRadius: '9999px',
                 border: 'none',
-                background: statusFilter === 'ALL' ? 'rgba(255, 255, 255, 0.08)' : 'transparent',
-                color: statusFilter === 'ALL' ? '#fafafa' : 'var(--text-tertiary)',
+                background: statusFilter === 'ALL' ? '#1b4332' : 'transparent',
+                color: statusFilter === 'ALL' ? '#ffffff' : 'var(--text-secondary)',
                 cursor: 'pointer',
-                fontWeight: 500
+                fontWeight: 700,
+                transition: 'all 0.15s ease'
               }}
             >
               All ({competitors.length})
@@ -176,14 +195,15 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
             <button
               onClick={() => setStatusFilter('SUCCESS')}
               style={{
-                padding: '5px 10px',
-                fontSize: '0.75rem',
-                borderRadius: '6px',
+                padding: '6px 14px',
+                fontSize: '0.78rem',
+                borderRadius: '9999px',
                 border: 'none',
-                background: statusFilter === 'SUCCESS' ? 'rgba(16, 185, 129, 0.12)' : 'transparent',
-                color: statusFilter === 'SUCCESS' ? '#34d399' : 'var(--text-tertiary)',
+                background: statusFilter === 'SUCCESS' ? '#d8f3dc' : 'transparent',
+                color: statusFilter === 'SUCCESS' ? '#1b4332' : 'var(--text-secondary)',
                 cursor: 'pointer',
-                fontWeight: 500
+                fontWeight: 700,
+                transition: 'all 0.15s ease'
               }}
             >
               Active Sitemaps (74)
@@ -191,14 +211,15 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
             <button
               onClick={() => setStatusFilter('NO_SITEMAP')}
               style={{
-                padding: '5px 10px',
-                fontSize: '0.75rem',
-                borderRadius: '6px',
+                padding: '6px 14px',
+                fontSize: '0.78rem',
+                borderRadius: '9999px',
                 border: 'none',
-                background: statusFilter === 'NO_SITEMAP' ? 'rgba(244, 63, 94, 0.12)' : 'transparent',
-                color: statusFilter === 'NO_SITEMAP' ? '#fb7185' : 'var(--text-tertiary)',
+                background: statusFilter === 'NO_SITEMAP' ? '#fee2e2' : 'transparent',
+                color: statusFilter === 'NO_SITEMAP' ? '#991b1b' : 'var(--text-secondary)',
                 cursor: 'pointer',
-                fontWeight: 500
+                fontWeight: 700,
+                transition: 'all 0.15s ease'
               }}
             >
               No Sitemap (26)
@@ -207,12 +228,12 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
         </div>
       </div>
 
-      {/* Minimal Neutral Table */}
-      <div className="bento-card" style={{ overflowX: 'auto', padding: '0' }}>
+      {/* Sitemaps Table */}
+      <div className="bento-card" style={{ overflowX: 'auto', padding: '0', border: '1px solid var(--border-medium)' }}>
         <table className="neutral-table">
           <thead>
             <tr>
-              <th onClick={() => toggleSort('rank')} style={{ cursor: 'pointer', width: '70px' }}>
+              <th onClick={() => toggleSort('rank')} style={{ cursor: 'pointer', width: '75px' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
                   Rank {sortBy === 'rank' && <ArrowUpDown size={12} />}
                 </div>
@@ -234,7 +255,7 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
                   Tirzepatide {sortBy === 'tirzepatideUrls' && <ArrowUpDown size={12} />}
                 </div>
               </th>
-              <th>Live Status</th>
+              <th>Live Ping</th>
               <th style={{ textAlign: 'right' }}>Actions</th>
             </tr>
           </thead>
@@ -245,35 +266,35 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
 
               return (
                 <tr key={comp.domain}>
-                  <td style={{ fontFamily: 'var(--font-mono)', color: 'var(--text-tertiary)' }}>
+                  <td style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-primary-dark)', fontWeight: 700 }}>
                     #{comp.rank}
                   </td>
                   <td>
-                    <div style={{ fontWeight: 600, color: 'var(--text-primary)' }}>
+                    <div style={{ fontWeight: 700, color: 'var(--color-primary-dark)', fontSize: '0.865rem' }}>
                       {comp.name}
                     </div>
-                    <div style={{ fontSize: '0.75rem', color: 'var(--text-tertiary)', fontFamily: 'var(--font-mono)' }}>
+                    <div style={{ fontSize: '0.74rem', color: 'var(--text-tertiary)', fontFamily: 'var(--font-mono)' }}>
                       {comp.domain}
                     </div>
                   </td>
                   <td>
                     {comp.status === 'SUCCESS' ? (
                       <span className="badge-minimal badge-minimal-success">
-                        <CheckCircle2 size={10} /> Valid ({comp.totalSitemaps} xml)
+                        <CheckCircle2 size={11} /> Valid ({comp.totalSitemaps} xml)
                       </span>
                     ) : (
                       <span className="badge-minimal badge-minimal-danger">
-                        <AlertCircle size={10} /> Blocked
+                        <AlertCircle size={11} /> Blocked / Gated
                       </span>
                     )}
                   </td>
-                  <td style={{ fontFamily: 'var(--font-mono)', fontWeight: 600, color: comp.totalUrls > 0 ? 'var(--text-primary)' : 'var(--text-muted)' }}>
+                  <td style={{ fontFamily: 'var(--font-mono)', fontWeight: 700, color: comp.totalUrls > 0 ? 'var(--color-primary-dark)' : 'var(--text-muted)' }}>
                     {comp.totalUrls.toLocaleString()}
                   </td>
-                  <td style={{ fontFamily: 'var(--font-mono)', color: comp.semaglutideUrls > 0 ? 'var(--text-primary)' : 'var(--text-muted)' }}>
+                  <td style={{ fontFamily: 'var(--font-mono)', fontWeight: 600, color: comp.semaglutideUrls > 0 ? 'var(--color-primary)' : 'var(--text-muted)' }}>
                     {comp.semaglutideUrls}
                   </td>
-                  <td style={{ fontFamily: 'var(--font-mono)', color: comp.tirzepatideUrls > 0 ? 'var(--text-primary)' : 'var(--text-muted)' }}>
+                  <td style={{ fontFamily: 'var(--font-mono)', fontWeight: 600, color: comp.tirzepatideUrls > 0 ? 'var(--color-accent)' : 'var(--text-muted)' }}>
                     {comp.tirzepatideUrls}
                   </td>
                   <td>
@@ -282,7 +303,7 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
                         <span className={`badge-minimal ${checkInfo.reachable ? 'badge-minimal-success' : 'badge-minimal-danger'}`}>
                           HTTP {checkInfo.status}
                         </span>
-                        <span style={{ fontSize: '0.72rem', fontFamily: 'var(--font-mono)', color: 'var(--text-tertiary)' }}>
+                        <span style={{ fontSize: '0.72rem', fontFamily: 'var(--font-mono)', color: 'var(--color-primary-dark)', fontWeight: 600 }}>
                           {checkInfo.latency}ms
                         </span>
                       </div>
@@ -294,16 +315,18 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
                           display: 'inline-flex',
                           alignItems: 'center',
                           gap: '4px',
-                          padding: '3px 8px',
+                          padding: '4px 10px',
                           fontSize: '0.72rem',
-                          background: 'rgba(255, 255, 255, 0.04)',
-                          border: '1px solid var(--border-subtle)',
-                          borderRadius: '4px',
-                          color: 'var(--text-secondary)',
-                          cursor: 'pointer'
+                          fontWeight: 600,
+                          background: 'var(--bg-canvas)',
+                          border: '1px solid var(--border-medium)',
+                          borderRadius: '9999px',
+                          color: 'var(--color-primary-dark)',
+                          cursor: 'pointer',
+                          transition: 'all 0.15s ease'
                         }}
                       >
-                        {isLoading ? <RefreshCw size={10} className="animate-spin" /> : <Activity size={10} />}
+                        {isLoading ? <RefreshCw size={10} className="animate-spin" /> : <Activity size={10} color="var(--color-primary)" />}
                         {isLoading ? 'Pinging...' : 'Ping'}
                       </button>
                     )}
@@ -316,7 +339,7 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
                           target="_blank"
                           rel="noreferrer"
                           className="btn-minimal-secondary"
-                          style={{ padding: '4px 8px', fontSize: '0.72rem' }}
+                          style={{ padding: '5px 10px', fontSize: '0.72rem' }}
                         >
                           XML <ExternalLink size={10} />
                         </a>
@@ -324,7 +347,7 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
                       <button
                         onClick={() => onInspectCompetitor(comp.localFolder)}
                         className="btn-minimal-primary"
-                        style={{ padding: '4px 10px', fontSize: '0.72rem' }}
+                        style={{ padding: '5px 12px', fontSize: '0.72rem' }}
                       >
                         <Eye size={10} /> Inspect
                       </button>
