@@ -29,7 +29,7 @@ import OngoLogo from './OngoLogo';
 
 interface OverviewTabProps {
   competitors: CompetitorSummary[];
-  onSelectTab: (tab: 'sitemaps' | 'competitors' | 'keywords' | 'patterns' | 'meta' | 'architecture' | 'reports') => void;
+  onSelectTab: (tab: 'sitemaps' | 'competitors' | 'keywords' | 'patterns' | 'compliance' | 'meta' | 'architecture' | 'reports') => void;
   onInspectCompetitor: (folder: string) => void;
 }
 

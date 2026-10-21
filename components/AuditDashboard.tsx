@@ -10,8 +10,9 @@ import MetaAuditorTab from './MetaAuditorTab';
 import ArchitectureTab from './ArchitectureTab';
 import ReportsTab from './ReportsTab';
 import CommonVsUniqueTab from './CommonVsUniqueTab';
+import ComplianceTab from './ComplianceTab';
 import CompetitorModal from './CompetitorModal';
-import { CompetitorSummary, MasterUrlItem, OngoMetaItem } from '@/lib/data';
+import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem } from '@/lib/data';
 
 interface AuditDashboardProps {
   initialCompetitors: CompetitorSummary[];
@@ -19,6 +20,7 @@ interface AuditDashboardProps {
   ongoMeta: Record<string, OngoMetaItem>;
   masterUrls: MasterUrlItem[];
   reportsList: { id: string; title: string; filename: string; sizeKb: number }[];
+  complianceData?: CompetitorComplianceItem[];
 }
 
 export default function AuditDashboard({
@@ -26,7 +28,8 @@ export default function AuditDashboard({
   architectureOverview,
   ongoMeta,
   masterUrls,
-  reportsList
+  reportsList,
+  complianceData
 }: AuditDashboardProps) {
   const [activeTab, setActiveTab] = useState<TabType>('overview');
   const [inspectFolder, setInspectFolder] = useState<string | null>(null);
@@ -86,6 +89,13 @@ export default function AuditDashboard({
 
         {activeTab === 'patterns' && (
           <CommonVsUniqueTab />
+        )}
+
+        {activeTab === 'compliance' && (
+          <ComplianceTab
+            complianceData={complianceData || []}
+            onInspectCompetitor={(folder) => setInspectFolder(folder)}
+          />
         )}
 
         {activeTab === 'meta' && (

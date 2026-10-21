@@ -349,3 +349,14 @@ html, body {
   font-size: 0.85em;
   border: 1px solid var(--border-subtle);
 }
+
+/* Hide scrollbar for clean horizontal nav scrolling */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+

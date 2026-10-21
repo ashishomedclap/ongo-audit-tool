@@ -3,7 +3,8 @@ import {
   getArchitectureAnalysis, 
   getOngoMeta, 
   getMasterUrlInventory, 
-  getAvailableReports 
+  getAvailableReports,
+  getCompetitorComplianceData 
 } from '@/lib/data';
 import AuditDashboard from '@/components/AuditDashboard';
 
@@ -13,6 +14,7 @@ export default function Home() {
   const ongoMeta = getOngoMeta();
   const masterUrls = getMasterUrlInventory();
   const reportsList = getAvailableReports();
+  const complianceData = getCompetitorComplianceData();
 
   return (
     <AuditDashboard
@@ -21,6 +23,7 @@ export default function Home() {
       ongoMeta={ongoMeta}
       masterUrls={masterUrls}
       reportsList={reportsList}
+      complianceData={complianceData}
     />
   );
 }

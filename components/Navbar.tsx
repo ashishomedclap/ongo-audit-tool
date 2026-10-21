@@ -15,7 +15,7 @@ import {
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 
-export type TabType = 'overview' | 'sitemaps' | 'competitors' | 'keywords' | 'patterns' | 'meta' | 'architecture' | 'reports';
+export type TabType = 'overview' | 'sitemaps' | 'competitors' | 'keywords' | 'patterns' | 'compliance' | 'meta' | 'architecture' | 'reports';
 
 interface NavbarProps {
   activeTab: TabType;
@@ -34,6 +34,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
     { id: 'competitors', label: 'Competitors', icon: Users },
     { id: 'keywords', label: 'Keyword Explorer', icon: Search },
     { id: 'patterns', label: 'Common vs Unique', icon: SplitSquareVertical },
+    { id: 'compliance', label: 'Doctors & Policies', icon: Stethoscope },
     { id: 'meta', label: 'Meta Auditor', icon: Tag },
     { id: 'architecture', label: 'Architecture', icon: Layers },
     { id: 'reports', label: 'Reports', icon: FileText },
@@ -45,81 +46,103 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       top: 0,
       zIndex: 50,
       backdropFilter: 'blur(16px)',
-      backgroundColor: 'rgba(27, 67, 50, 0.96)', /* Ongo Deep Forest Racing Green */
+      backgroundColor: 'rgba(27, 67, 50, 0.97)', /* Ongo Deep Forest Racing Green */
       borderBottom: '1px solid rgba(116, 198, 157, 0.22)',
       boxShadow: '0 4px 20px -2px rgba(15, 44, 36, 0.35)'
     }}>
       <div style={{
-        maxWidth: '1440px',
+        maxWidth: '1520px',
         margin: '0 auto',
-        padding: '12px 24px',
+        padding: '10px 20px',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'space-between',
-        gap: '16px'
+        gap: '12px'
       }}>
-        {/* Brand: Genuine Ongo Logo */}
-        <div style={{ display: 'flex', alignItems: 'center' }}>
-          <a 
-            href="/" 
+        {/* Brand: Genuine Ongo Logo (Click switches to Overview without full page reload) */}
+        <div style={{ display: 'flex', alignItems: 'center', flexShrink: 0 }}>
+          <button
+            onClick={() => setActiveTab('overview')}
             style={{ 
               display: 'flex', 
               alignItems: 'center', 
-              textDecoration: 'none' 
+              background: 'none',
+              border: 'none',
+              cursor: 'pointer',
+              padding: 0
             }}
-            title="Ongo Weight Loss Home"
+            title="Ongo Weight Loss Executive Intelligence Suite"
           >
-            <OngoLogo variant="dark" height={36} />
-          </a>
+            <OngoLogo variant="dark" height={34} />
+          </button>
         </div>
 
-        {/* Segmented Control Navigation */}
-        <nav style={{
+        {/* Center: Segmented Control Navigation with Smooth Horizontal Scrolling */}
+        <div style={{
           display: 'flex',
           alignItems: 'center',
-          gap: '3px',
-          background: 'rgba(15, 44, 36, 0.65)',
-          border: '1px solid rgba(255, 255, 255, 0.12)',
-          borderRadius: '9999px',
-          padding: '4px 6px'
+          justifyContent: 'center',
+          flex: '1 1 auto',
+          minWidth: 0,
+          overflow: 'hidden'
         }}>
-          {tabs.map(tab => {
-            const Icon = tab.icon;
-            const isActive = activeTab === tab.id;
-            return (
-              <button
-                key={tab.id}
-                onClick={() => setActiveTab(tab.id as TabType)}
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: '6px',
-                  padding: '7px 14px',
-                  fontSize: '0.8rem',
-                  fontWeight: isActive ? 700 : 500,
-                  color: isActive ? '#ffffff' : '#d8f3dc',
-                  background: isActive 
-                    ? 'linear-gradient(135deg, #e76f51 0%, #ee8a4f 100%)' 
-                    : 'transparent',
-                  border: 'none',
-                  borderRadius: '9999px',
-                  cursor: 'pointer',
-                  boxShadow: isActive ? '0 2px 10px rgba(231, 111, 81, 0.4)' : 'none',
-                  transition: 'all 0.18s cubic-bezier(0.16, 1, 0.3, 1)'
-                }}
-              >
-                <Icon size={14} strokeWidth={isActive ? 2.4 : 1.8} />
-                {tab.label}
-              </button>
-            );
-          })}
-        </nav>
+          <nav 
+            className="no-scrollbar"
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: '2px',
+              background: 'rgba(15, 44, 36, 0.72)',
+              border: '1px solid rgba(255, 255, 255, 0.14)',
+              borderRadius: '9999px',
+              padding: '3px 5px',
+              overflowX: 'auto',
+              whiteSpace: 'nowrap',
+              maxWidth: '100%'
+            }}
+          >
+            {tabs.map(tab => {
+              const Icon = tab.icon;
+              const isActive = activeTab === tab.id;
+              return (
+                <button
+                  key={tab.id}
+                  onClick={() => setActiveTab(tab.id as TabType)}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '5px',
+                    padding: '6px 12px',
+                    fontSize: '0.78rem',
+                    fontWeight: isActive ? 700 : 500,
+                    color: isActive ? '#ffffff' : '#d8f3dc',
+                    background: isActive 
+                      ? 'linear-gradient(135deg, #e76f51 0%, #ee8a4f 100%)' 
+                      : 'transparent',
+                    border: 'none',
+                    borderRadius: '9999px',
+                    cursor: 'pointer',
+                    boxShadow: isActive ? '0 2px 10px rgba(231, 111, 81, 0.4)' : 'none',
+                    transition: 'all 0.15s cubic-bezier(0.16, 1, 0.3, 1)',
+                    flexShrink: 0,
+                    whiteSpace: 'nowrap'
+                  }}
+                  title={tab.label}
+                >
+                  <Icon size={13} strokeWidth={isActive ? 2.4 : 1.8} />
+                  <span>{tab.label}</span>
+                </button>
+              );
+            })}
+          </nav>
+        </div>
 
         {/* Right Actions: Live Site CTA & Stats */}
         <div style={{
           display: 'flex',
           alignItems: 'center',
-          gap: '12px'
+          gap: '8px',
+          flexShrink: 0
         }}>
           {/* Quick Pill linking to ongoweightloss.com */}
           <a
@@ -129,35 +152,37 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
             style={{
               display: 'inline-flex',
               alignItems: 'center',
-              gap: '6px',
-              padding: '6px 12px',
+              gap: '5px',
+              padding: '5px 11px',
               borderRadius: '9999px',
-              fontSize: '0.74rem',
+              fontSize: '0.72rem',
               fontWeight: 600,
               color: '#1b4332',
               background: '#ffffff',
               textDecoration: 'none',
               border: '1px solid #b7e4c7',
               boxShadow: '0 2px 6px rgba(0, 0, 0, 0.08)',
-              transition: 'all 0.15s ease'
+              transition: 'all 0.15s ease',
+              whiteSpace: 'nowrap'
             }}
           >
             <span>ongoweightloss.com</span>
-            <ExternalLink size={12} color="#1b4332" />
+            <ExternalLink size={11} color="#1b4332" />
           </a>
 
           {/* Census Count Badge */}
           <div style={{
             display: 'flex',
             alignItems: 'center',
-            gap: '6px',
-            fontSize: '0.72rem',
+            gap: '5px',
+            fontSize: '0.7rem',
             color: '#b7e4c7',
             fontFamily: 'var(--font-mono)',
-            background: 'rgba(255, 255, 255, 0.07)',
-            padding: '4px 10px',
+            background: 'rgba(255, 255, 255, 0.08)',
+            padding: '4px 9px',
             borderRadius: '9999px',
-            border: '1px solid rgba(255, 255, 255, 0.1)'
+            border: '1px solid rgba(255, 255, 255, 0.12)',
+            whiteSpace: 'nowrap'
           }}>
             <span style={{
               width: '6px',

@@ -360,3 +360,80 @@ export interface KeywordExplorerItem {
   opportunityScore: number;
 }
 
+export interface DoctorProfile {
+  name: string;
+  specialty?: string;
+  role: string;
+  npiId?: string;
+  npiRegistryUrl?: string;
+  statesCount?: number;
+  states?: string[];
+  sitemapUrl: string;
+  bio: string;
+}
+
+export interface CompetitorComplianceItem {
+  rank: number;
+  name: string;
+  domain: string;
+  isBenchmark: boolean;
+  doctors: {
+    medicalDirector: string;
+    physicianSupervised: string;
+    doctorCredentials: string[];
+    consultationType: string;
+    namedDoctorsCount: number;
+    doctorTeamSample: string[];
+    doctorPagesCount?: number;
+    doctorUrls: string[];
+    doctorProfiles?: DoctorProfile[];
+  };
+  authors: {
+    editorialReviewByDoctors: boolean;
+    authorBylinesPresent: boolean;
+    namedAuthorsCount: number;
+    eeatGrade: string;
+    reviewProtocol: string;
+    authorUrls: string[];
+  };
+  categories: {
+    medications: string[];
+    forms: string[];
+    ancillaryServices: string[];
+    specializations: string[];
+  };
+  policies: {
+    pricingModel: string;
+    membershipFee: string;
+    pharmacyType: string;
+    namedPharmacies: string[];
+    cancellationPolicy: string;
+    refundPolicy: string;
+    labRequirements: string;
+    bmiEligibility: string;
+    shippingPolicy: string;
+    policyUrls: string[];
+  };
+  states: {
+    totalStatesCovered: number;
+    coverageSummary: string;
+    isFullNationwide: boolean;
+    excludedStates: string[];
+    synchronousMandates: string;
+    stateLandingPagesCount?: number;
+    sampleStateUrls: string[];
+  };
+}
+
+export function getCompetitorComplianceData(): CompetitorComplianceItem[] {
+  try {
+    const filePath = path.join(DATA_DIR, 'competitor_clinical_compliance.json');
+    if (!fs.existsSync(filePath)) return [];
+    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  } catch (err) {
+    console.error('Error loading competitor compliance data:', err);
+    return [];
+  }
+}
+
+
