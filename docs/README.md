@@ -29,3 +29,4 @@ docs/
 
 ### 2. Live Site Audits (`docs/audits/`)
 * **[vallejo420_gsc_performance_and_seo_audit.md](file:///d:/research%20work/ongo-audit-tool/docs/audits/vallejo420_gsc_performance_and_seo_audit.md)**: Complete Google Search Console performance audit for `vallejo420md.com`, detailing top queries, WoW surge trends, 28-URL casino spam injection diagnostics, and geotargeted landing page blueprints for Sacramento, San Jose, and Oakland.
+

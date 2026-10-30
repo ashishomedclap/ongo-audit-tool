@@ -87,3 +87,4 @@ The tool immediately renders a split-screen comparative audit:
 
 ### Phase 3: Build the Structured Data & Schema Validator (Priority 3)
 * Automatically extracts JSON-LD from any live URL and highlights missing required medical fields.
+

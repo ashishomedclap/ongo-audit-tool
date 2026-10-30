@@ -130,3 +130,4 @@ Medical E-E-A-T Scoring                                 Rank Tracking
 - [ ] **Step 5:** Optimize meta titles and descriptions using conversational human search queries without brand fluff.
 - [ ] **Step 6:** Validate Schema.org markup (`MedicalWebPage`, `Physician`, `FAQPage`) using Google Rich Results Test.
 - [ ] **Step 7:** Set up weekly GSC rank and CTR monitoring to measure organic traffic growth.
+
