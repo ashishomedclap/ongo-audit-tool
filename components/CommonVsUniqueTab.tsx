@@ -59,6 +59,9 @@ export default function CommonVsUniqueTab() {
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       {/* Context Cue Banner */}
       <ContextCue
+        level={2}
+        toolNumber={9}
+        useCase="Identify baseline table-stakes vs. unique competitive moat topics across the GLP-1 industry."
         badge="Competitive Moats"
         title="Common Baseline vs. Unique Differentiation Pages"
         about="This page provides competitive pattern intelligence, contrasting 'Common Pages' (table-stakes pages found on 70%+ of telehealth clinics) against 'Unique Pages' (high-converting competitive moats found on fewer than 10% of clinics). It deconstructs the customer friction points, strategic rationale, and SEO intent advantages behind every page pattern to guide Ongo's differentiation."

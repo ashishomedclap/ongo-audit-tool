@@ -18,13 +18,20 @@ import {
   GitCompare,
   FolderTree,
   ChevronDown,
-  LayoutGrid
+  LayoutGrid,
+  BookOpen,
+  ArrowRight,
+  ShieldCheck,
+  Activity,
+  CheckCircle2
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 import ToolsSitemapModal from './ToolsSitemapModal';
+import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition } from '@/lib/tools-sitemap';
 
 export type TabType = 
   | 'overview' 
+  | 'books'
   | 'ongo-pages' 
   | 'keywords-harvester' 
   | 'internal-links' 
@@ -51,43 +58,72 @@ interface NavbarProps {
 
 export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) {
   const [sitemapModalOpen, setSitemapModalOpen] = useState(false);
-  const [dropdownOpen, setDropdownOpen] = useState(false);
-  const dropdownRef = useRef<HTMLDivElement>(null);
+  const [openDropdown, setOpenDropdown] = useState<'level-1' | 'level-2' | 'level-3' | null>(null);
+  const navRef = useRef<HTMLDivElement>(null);
 
   // Close dropdown on outside click
   useEffect(() => {
     const handleClickOutside = (e: MouseEvent) => {
-      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) {
-        setDropdownOpen(false);
+      if (navRef.current && !navRef.current.contains(e.target as Node)) {
+        setOpenDropdown(null);
       }
     };
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
-  // Primary featured tools shown directly in the top pill bar
-  const primaryTabs = [
-    { id: 'overview', label: 'Overview', icon: BarChart2 },
-    { id: 'ongo-pages', label: 'Ongo Pages (34)', icon: Compass },
-    { id: 'keywords-harvester', label: 'PAA Harvester', icon: Sparkles, badge: 'New' },
-    { id: 'internal-links', label: 'Internal Links', icon: Link2, badge: 'New' },
-    { id: 'competitor-gap', label: 'Content Roadmap', icon: GitCompare, badge: '33k' },
-  ];
+  // Find active tool details
+  const activeTool = TOOLS_DIRECTORY.find(t => t.id === activeTab);
 
-  // Secondary tools accessible in the categorized "More Tools" dropdown
-  const secondaryTabs = [
-    { id: 'sitemaps', label: 'Competitor Sitemaps', icon: Globe, category: 'Core & Health', desc: '74 XML sitemaps parsed' },
-    { id: 'competitors', label: '100 Competitors Census', icon: Users, category: 'Core & Health', desc: 'National telehealth clinic census' },
-    { id: 'keywords', label: 'Keyword Explorer', icon: Search, category: 'SEO & Research', desc: 'GLP-1 search volume & difficulty' },
-    { id: 'patterns', label: 'Common vs Unique Moats', icon: SplitSquareVertical, category: 'SEO & Research', desc: 'Differentiating clinical moats' },
-    { id: 'compliance', label: 'Doctors & Policies (E-E-A-T)', icon: Stethoscope, category: 'Intel & Roadmap', desc: 'NPIs, MD licenses & state rules' },
-    { id: 'meta', label: 'Meta Tags Auditor', icon: Tag, category: 'Intel & Roadmap', desc: 'Human query SERP rewrites' },
-    { id: 'architecture', label: '217-Page Silo Architecture', icon: Layers, category: 'Silos & Linking', desc: '6 core telehealth silos' },
-    { id: 'reports', label: 'Strategy Reports Library', icon: FileText, category: 'Intel & Roadmap', desc: 'Executive markdown blueprints' },
-  ];
+  const getToolIcon = (iconName: string, size = 15) => {
+    switch (iconName) {
+      case 'BarChart2': return <BarChart2 size={size} />;
+      case 'BookOpen': return <BookOpen size={size} />;
+      case 'Compass': return <Compass size={size} />;
+      case 'Users': return <Users size={size} />;
+      case 'Globe': return <Globe size={size} />;
+      case 'GitCompare': return <GitCompare size={size} />;
+      case 'Sparkles': return <Sparkles size={size} />;
+      case 'Search': return <Search size={size} />;
+      case 'SplitSquareVertical': return <SplitSquareVertical size={size} />;
+      case 'Link2': return <Link2 size={size} />;
+      case 'Layers': return <Layers size={size} />;
+      case 'Stethoscope': return <Stethoscope size={size} />;
+      case 'Tag': return <Tag size={size} />;
+      case 'FileText': return <FileText size={size} />;
+      default: return <Activity size={size} />;
+    }
+  };
 
-  const isSecondaryActive = secondaryTabs.some(t => t.id === activeTab);
-  const activeSecondaryItem = secondaryTabs.find(t => t.id === activeTab);
+  const levelCategories = [
+    {
+      id: 'level-1' as const,
+      levelNum: 1,
+      name: 'Level 1: Foundation',
+      shortLabel: 'L1 Foundation',
+      useCase: 'Assess current Ongo telemetry, study onboarding books & benchmark 100 competitors',
+      accentColor: '#347e5d',
+      tools: TOOLS_DIRECTORY.filter(t => t.level === 1)
+    },
+    {
+      id: 'level-2' as const,
+      levelNum: 2,
+      name: 'Level 2: Research & Gaps',
+      shortLabel: 'L2 Research & Gaps',
+      useCase: 'Discover keyword vacuums, harvest Google user questions ($0) & find clinical moats',
+      accentColor: '#d97706',
+      tools: TOOLS_DIRECTORY.filter(t => t.level === 2)
+    },
+    {
+      id: 'level-3' as const,
+      levelNum: 3,
+      name: 'Level 3: Silos & Compliance',
+      shortLabel: 'L3 Silos & Governance',
+      useCase: 'Scale 6 topic silos, enforce 4 internal linking rules & verify doctor E-E-A-T credentials',
+      accentColor: '#e76f51',
+      tools: TOOLS_DIRECTORY.filter(t => t.level === 3)
+    }
+  ];
 
   return (
     <>
@@ -96,21 +132,21 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
         top: 0,
         zIndex: 50,
         backdropFilter: 'blur(16px)',
-        backgroundColor: 'rgba(27, 67, 50, 0.97)', /* Ongo Deep Forest Racing Green */
+        backgroundColor: 'rgba(27, 67, 50, 0.98)', /* Ongo Deep Forest Racing Green */
         borderBottom: '1px solid rgba(116, 198, 157, 0.22)',
         boxShadow: '0 4px 20px -2px rgba(15, 44, 36, 0.35)'
       }}>
         <div style={{
-          maxWidth: '1520px',
+          maxWidth: '1560px',
           margin: '0 auto',
           padding: '10px 20px',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
-          gap: '12px'
+          gap: '14px'
         }}>
           {/* Brand: Genuine Ongo Logo */}
-          <div style={{ display: 'flex', alignItems: 'center', flexShrink: 0 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexShrink: 0 }}>
             <button
               onClick={() => setActiveTab('overview')}
               style={{ 
@@ -125,10 +161,37 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
             >
               <OngoLogo variant="dark" height={34} />
             </button>
+
+            {/* Active Level Cue */}
+            {activeTool && (
+              <div style={{
+                display: 'none',
+                alignItems: 'center',
+                gap: '6px',
+                background: 'rgba(15, 44, 36, 0.6)',
+                border: '1px solid rgba(116, 198, 157, 0.2)',
+                borderRadius: '6px',
+                padding: '3px 8px',
+                fontSize: '11px',
+                color: '#d8f3dc'
+              }} className="md-flex">
+                <span style={{
+                  color: '#74c69d',
+                  fontWeight: 800,
+                  fontSize: '10px',
+                  background: 'rgba(116, 198, 157, 0.2)',
+                  padding: '1px 5px',
+                  borderRadius: '4px'
+                }}>
+                  L{activeTool.level}
+                </span>
+                <span style={{ fontWeight: 600 }}>{activeTool.shortName}</span>
+              </div>
+            )}
           </div>
 
-          {/* Center: Optimized Primary Menu Segmented Bar */}
-          <div style={{
+          {/* Center: Reorganized Level 1, 2, 3 Use-Case Segmented Navigation */}
+          <div ref={navRef} style={{
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
@@ -136,350 +199,262 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
             minWidth: 0
           }}>
             <nav 
-              className="no-scrollbar"
               style={{
                 display: 'flex',
                 alignItems: 'center',
-                gap: '3px',
-                background: 'rgba(15, 44, 36, 0.72)',
-                border: '1px solid rgba(255, 255, 255, 0.14)',
+                gap: '6px',
+                background: 'rgba(15, 44, 36, 0.78)',
+                border: '1px solid rgba(255, 255, 255, 0.16)',
                 borderRadius: '9999px',
-                padding: '3px 5px',
-                overflowX: 'auto',
-                whiteSpace: 'nowrap'
+                padding: '4px 6px',
+                overflowX: 'visible',
+                position: 'relative'
               }}
             >
-              {/* Primary 5 Featured Core Tools */}
-              {primaryTabs.map(tab => {
-                const Icon = tab.icon;
-                const isActive = activeTab === tab.id;
+              {/* Level 1, Level 2, Level 3 Categorized Menus */}
+              {levelCategories.map((cat) => {
+                const isLevelActive = cat.tools.some(t => t.id === activeTab);
+                const isOpen = openDropdown === cat.id;
+
                 return (
-                  <button
-                    key={tab.id}
-                    onClick={() => setActiveTab(tab.id as TabType)}
-                    style={{
-                      display: 'flex',
-                      alignItems: 'center',
-                      gap: '5px',
-                      padding: '6px 12px',
-                      fontSize: '0.78rem',
-                      fontWeight: isActive ? 700 : 500,
-                      color: isActive ? '#ffffff' : '#d8f3dc',
-                      background: isActive 
-                        ? 'linear-gradient(135deg, #e76f51 0%, #ee8a4f 100%)' 
-                        : 'transparent',
-                      border: 'none',
-                      borderRadius: '9999px',
-                      cursor: 'pointer',
-                      boxShadow: isActive ? '0 2px 10px rgba(231, 111, 81, 0.4)' : 'none',
-                      transition: 'all 0.15s cubic-bezier(0.16, 1, 0.3, 1)',
-                      flexShrink: 0,
-                      whiteSpace: 'nowrap'
-                    }}
-                    title={tab.label}
-                  >
-                    <Icon size={13} strokeWidth={isActive ? 2.4 : 1.8} />
-                    <span>{tab.label}</span>
-                    {tab.badge && !isActive && (
-                      <span style={{
-                        fontSize: '0.65rem',
-                        padding: '1px 5px',
+                  <div key={cat.id} style={{ position: 'relative' }}>
+                    <button
+                      onClick={() => setOpenDropdown(isOpen ? null : cat.id)}
+                      style={{
+                        display: 'flex',
+                        alignItems: 'center',
+                        gap: '6px',
+                        padding: '6px 14px',
+                        fontSize: '0.8rem',
+                        fontWeight: isLevelActive ? 700 : 500,
+                        color: isLevelActive ? '#ffffff' : '#d8f3dc',
+                        background: isLevelActive 
+                          ? 'linear-gradient(135deg, #2d6a4f 0%, #1b4332 100%)' 
+                          : isOpen ? 'rgba(255, 255, 255, 0.14)' : 'transparent',
+                        border: isLevelActive ? '1px solid #74c69d' : '1px solid transparent',
                         borderRadius: '9999px',
-                        background: 'rgba(231, 111, 81, 0.35)',
-                        color: '#ffcbbd',
-                        fontWeight: 700
+                        cursor: 'pointer',
+                        transition: 'all 0.15s ease',
+                        whiteSpace: 'nowrap'
+                      }}
+                      title={cat.useCase}
+                    >
+                      <span style={{
+                        background: isLevelActive ? '#74c69d' : 'rgba(255, 255, 255, 0.18)',
+                        color: isLevelActive ? '#081c15' : '#ffffff',
+                        padding: '1px 5px',
+                        borderRadius: '4px',
+                        fontSize: '9px',
+                        fontWeight: 800
                       }}>
-                        {tab.badge}
+                        L{cat.levelNum}
                       </span>
+                      <span>{cat.shortLabel}</span>
+                      <ChevronDown size={11} style={{ transform: isOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.15s' }} />
+                    </button>
+
+                    {/* Level Dropdown Menu with Ordered Use Cases */}
+                    {isOpen && (
+                      <div style={{
+                        position: 'absolute',
+                        top: 'calc(100% + 10px)',
+                        left: cat.levelNum === 1 ? '0' : cat.levelNum === 2 ? '50%' : 'auto',
+                        right: cat.levelNum === 3 ? '0' : 'auto',
+                        transform: cat.levelNum === 2 ? 'translateX(-50%)' : 'none',
+                        width: '380px',
+                        backgroundColor: '#ffffff',
+                        borderRadius: '16px',
+                        boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.35)',
+                        border: '1px solid #e2e8f0',
+                        padding: '12px',
+                        zIndex: 100,
+                        display: 'flex',
+                        flexDirection: 'column',
+                        gap: '6px'
+                      }}>
+                        {/* Dropdown Header with Explicit Use Case Banner */}
+                        <div style={{
+                          padding: '10px 12px',
+                          backgroundColor: '#f8fafc',
+                          borderRadius: '10px',
+                          border: '1px solid #e2e8f0',
+                          marginBottom: '4px'
+                        }}>
+                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '4px' }}>
+                            <span style={{ fontSize: '11px', fontWeight: 800, color: '#1b4332', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+                              {cat.name}
+                            </span>
+                            <span style={{ fontSize: '10px', background: '#e2e8f0', padding: '1px 6px', borderRadius: '4px', fontWeight: 700, color: '#475569' }}>
+                              {cat.tools.length} Tools
+                            </span>
+                          </div>
+                          <p style={{ margin: 0, fontSize: '11px', color: '#64748b', lineHeight: 1.4 }}>
+                            <strong>Use Case:</strong> {cat.useCase}
+                          </p>
+                        </div>
+
+                        {/* List of Ordered Tools in this Level */}
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '3px' }}>
+                          {cat.tools.map(tool => {
+                            const isCurrent = activeTab === tool.id;
+                            return (
+                              <button
+                                key={tool.id}
+                                onClick={() => {
+                                  setActiveTab(tool.id as TabType);
+                                  setOpenDropdown(null);
+                                }}
+                                style={{
+                                  display: 'flex',
+                                  alignItems: 'flex-start',
+                                  gap: '10px',
+                                  padding: '8px 10px',
+                                  borderRadius: '8px',
+                                  border: isCurrent ? '1px solid #a7f3d0' : '1px solid transparent',
+                                  background: isCurrent ? '#f0fdf4' : 'transparent',
+                                  color: isCurrent ? '#166534' : '#1e293b',
+                                  cursor: 'pointer',
+                                  textAlign: 'left',
+                                  width: '100%',
+                                  transition: 'all 0.12s ease'
+                                }}
+                                onMouseEnter={(e) => {
+                                  if (!isCurrent) e.currentTarget.style.backgroundColor = '#f8fafc';
+                                }}
+                                onMouseLeave={(e) => {
+                                  if (!isCurrent) e.currentTarget.style.backgroundColor = 'transparent';
+                                }}
+                              >
+                                <div style={{
+                                  width: '28px',
+                                  height: '28px',
+                                  borderRadius: '6px',
+                                  backgroundColor: isCurrent ? '#1b4332' : '#f1f5f9',
+                                  color: isCurrent ? '#ffffff' : '#334155',
+                                  display: 'flex',
+                                  alignItems: 'center',
+                                  justifyContent: 'center',
+                                  flexShrink: 0,
+                                  marginTop: '1px'
+                                }}>
+                                  {getToolIcon(tool.categoryIcon, 14)}
+                                </div>
+
+                                <div style={{ flex: 1, minWidth: 0 }}>
+                                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                                    <span style={{ fontSize: '13px', fontWeight: isCurrent ? 700 : 600 }}>
+                                      {tool.name}
+                                    </span>
+                                    {tool.badge && (
+                                      <span style={{
+                                        fontSize: '10px',
+                                        padding: '1px 6px',
+                                        borderRadius: '9999px',
+                                        background: tool.badgeBg || '#e2e8f0',
+                                        color: tool.badgeColor || '#334155',
+                                        fontWeight: 700
+                                      }}>
+                                        {tool.badge}
+                                      </span>
+                                    )}
+                                  </div>
+                                  <div style={{ fontSize: '11px', color: '#64748b', marginTop: '2px', lineHeight: 1.3 }}>
+                                    {tool.useCase}
+                                  </div>
+                                </div>
+                              </button>
+                            );
+                          })}
+                        </div>
+                      </div>
                     )}
-                  </button>
+                  </div>
                 );
               })}
 
-              {/* Categorized "More Tools ▾" Dropdown Menu */}
-              <div ref={dropdownRef} style={{ position: 'relative' }}>
-                <button
-                  onClick={() => setDropdownOpen(!dropdownOpen)}
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '5px',
-                    padding: '6px 12px',
-                    fontSize: '0.78rem',
-                    fontWeight: isSecondaryActive ? 700 : 500,
-                    color: isSecondaryActive ? '#ffffff' : '#d8f3dc',
-                    background: isSecondaryActive 
-                      ? 'linear-gradient(135deg, #347e5d 0%, #24553f 100%)' 
-                      : dropdownOpen ? 'rgba(255, 255, 255, 0.12)' : 'transparent',
-                    border: isSecondaryActive ? '1px solid rgba(116, 198, 157, 0.4)' : 'none',
-                    borderRadius: '9999px',
-                    cursor: 'pointer',
-                    transition: 'all 0.15s ease',
-                    flexShrink: 0
-                  }}
-                  title="More SEO Audits & Intelligence Tools"
-                >
-                  <Layers size={13} />
-                  <span>
-                    {isSecondaryActive && activeSecondaryItem ? activeSecondaryItem.label : 'More Tools'}
-                  </span>
-                  <ChevronDown size={12} style={{ transform: dropdownOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.15s' }} />
-                </button>
-
-                {/* Dropdown Menu Panel */}
-                {dropdownOpen && (
-                  <div style={{
-                    position: 'absolute',
-                    top: 'calc(100% + 8px)',
-                    left: '50%',
-                    transform: 'translateX(-50%)',
-                    width: '320px',
-                    backgroundColor: '#ffffff',
-                    borderRadius: '16px',
-                    boxShadow: '0 20px 45px -10px rgba(0, 0, 0, 0.35)',
-                    border: '1px solid var(--border-medium)',
-                    padding: '10px',
-                    zIndex: 60,
-                    display: 'flex',
-                    flexDirection: 'column',
-                    gap: '4px'
-                  }}>
-                    <div style={{
-                      padding: '6px 10px',
-                      fontSize: '0.7rem',
-                      fontWeight: 700,
-                      color: 'var(--text-tertiary)',
-                      textTransform: 'uppercase',
-                      borderBottom: '1px solid var(--border-subtle)',
-                      marginBottom: '4px',
-                      display: 'flex',
-                      justifyContent: 'space-between',
-                      alignItems: 'center'
-                    }}>
-                      <span>Specialized SEO Audits</span>
-                      <span style={{ color: 'var(--color-primary)' }}>8 Tools</span>
-                    </div>
-
-                    {secondaryTabs.map(tab => {
-                      const Icon = tab.icon;
-                      const isActive = activeTab === tab.id;
-                      return (
-                        <button
-                          key={tab.id}
-                          onClick={() => {
-                            setActiveTab(tab.id as TabType);
-                            setDropdownOpen(false);
-                          }}
-                          style={{
-                            display: 'flex',
-                            alignItems: 'center',
-                            gap: '10px',
-                            padding: '8px 10px',
-                            borderRadius: '10px',
-                            border: 'none',
-                            background: isActive ? 'var(--color-primary-soft)' : 'transparent',
-                            color: isActive ? 'var(--color-primary-dark)' : 'var(--text-primary)',
-                            cursor: 'pointer',
-                            textAlign: 'left',
-                            width: '100%',
-                            transition: 'background-color 0.15s'
-                          }}
-                          onMouseEnter={(e) => {
-                            if (!isActive) e.currentTarget.style.backgroundColor = 'var(--bg-surface-alt)';
-                          }}
-                          onMouseLeave={(e) => {
-                            if (!isActive) e.currentTarget.style.backgroundColor = 'transparent';
-                          }}
-                        >
-                          <div style={{
-                            width: '26px',
-                            height: '26px',
-                            borderRadius: '6px',
-                            backgroundColor: isActive ? 'var(--color-primary)' : 'rgba(52, 126, 93, 0.1)',
-                            color: isActive ? '#ffffff' : 'var(--color-primary-dark)',
-                            display: 'flex',
-                            alignItems: 'center',
-                            justifyContent: 'center',
-                            flexShrink: 0
-                          }}>
-                            <Icon size={14} />
-                          </div>
-
-                          <div style={{ flex: 1, minWidth: 0 }}>
-                            <div style={{ fontSize: '0.78rem', fontWeight: isActive ? 700 : 600 }}>
-                              {tab.label}
-                            </div>
-                            <div style={{ fontSize: '0.7rem', color: 'var(--text-tertiary)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                              {tab.desc}
-                            </div>
-                          </div>
-                        </button>
-                      );
-                    })}
-
-                    <div style={{
-                      borderTop: '1px solid var(--border-subtle)',
-                      marginTop: '4px',
-                      paddingTop: '6px'
-                    }}>
-                      <button
-                        onClick={() => {
-                          setDropdownOpen(false);
-                          setSitemapModalOpen(true);
-                        }}
-                        style={{
-                          display: 'flex',
-                          alignItems: 'center',
-                          justifyContent: 'center',
-                          gap: '6px',
-                          width: '100%',
-                          padding: '8px',
-                          borderRadius: '8px',
-                          border: 'none',
-                          background: 'var(--bg-surface-alt)',
-                          color: 'var(--color-primary-dark)',
-                          fontSize: '0.75rem',
-                          fontWeight: 700,
-                          cursor: 'pointer'
-                        }}
-                      >
-                        <FolderTree size={13} color="var(--color-primary)" />
-                        <span>View Master Tools Sitemap (13)</span>
-                      </button>
-                    </div>
-                  </div>
-                )}
-              </div>
-
-              {/* Tools Sitemap Tab Button */}
+              {/* Master Sitemap Button directly in the pill menu */}
               <button
-                onClick={() => setActiveTab('suite-sitemap')}
+                onClick={() => {
+                  setOpenDropdown(null);
+                  setActiveTab('suite-sitemap');
+                }}
                 style={{
                   display: 'flex',
                   alignItems: 'center',
-                  gap: '5px',
-                  padding: '6px 12px',
-                  fontSize: '0.78rem',
-                  fontWeight: activeTab === 'suite-sitemap' ? 700 : 500,
+                  gap: '6px',
+                  padding: '6px 14px',
+                  fontSize: '0.8rem',
+                  fontWeight: activeTab === 'suite-sitemap' ? 700 : 600,
                   color: activeTab === 'suite-sitemap' ? '#ffffff' : '#d8f3dc',
                   background: activeTab === 'suite-sitemap' 
-                    ? 'linear-gradient(135deg, #10b981 0%, #059669 100%)' 
-                    : 'transparent',
-                  border: 'none',
+                    ? 'linear-gradient(135deg, #e76f51 0%, #ee8a4f 100%)' 
+                    : 'rgba(231, 111, 81, 0.22)',
+                  border: '1px solid rgba(231, 111, 81, 0.45)',
                   borderRadius: '9999px',
                   cursor: 'pointer',
-                  boxShadow: activeTab === 'suite-sitemap' ? '0 2px 10px rgba(16, 185, 129, 0.4)' : 'none',
+                  boxShadow: activeTab === 'suite-sitemap' ? '0 2px 10px rgba(231, 111, 81, 0.4)' : 'none',
                   transition: 'all 0.15s ease',
-                  flexShrink: 0
+                  whiteSpace: 'nowrap'
                 }}
-                title="Visual Tools Sitemap Index"
+                title="Open Visual Master Sitemap (All 3 Levels & Use Cases)"
               >
                 <FolderTree size={13} />
-                <span>Tools Sitemap</span>
+                <span>Sitemap (14 Tools)</span>
               </button>
             </nav>
           </div>
 
-          {/* Right Actions: Quick Access Sitemap Launcher & Live Site CTA */}
-          <div style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: '8px',
-            flexShrink: 0
-          }}>
-            {/* Quick-Launch Command Palette / Tools Sitemap Button */}
+          {/* Right Action: Quick Modal Sitemap Button & Stats */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexShrink: 0 }}>
             <button
               onClick={() => setSitemapModalOpen(true)}
               style={{
-                display: 'inline-flex',
+                display: 'flex',
                 alignItems: 'center',
                 gap: '6px',
                 padding: '6px 12px',
-                borderRadius: '9999px',
-                fontSize: '0.75rem',
-                fontWeight: 700,
-                color: '#1b4332',
-                background: '#d8f3dc',
-                border: '1px solid #74c69d',
+                fontSize: '12px',
+                fontWeight: 600,
+                color: '#d8f3dc',
+                background: 'rgba(255, 255, 255, 0.08)',
+                border: '1px solid rgba(255, 255, 255, 0.18)',
+                borderRadius: '8px',
                 cursor: 'pointer',
-                boxShadow: '0 2px 8px rgba(0, 0, 0, 0.1)',
-                transition: 'all 0.15s ease',
-                whiteSpace: 'nowrap'
+                transition: 'all 0.15s ease'
               }}
-              title="Search and access all 13 tools (⌘K / Ctrl+K)"
+              title="Open Quick Search Sitemap Modal"
             >
-              <LayoutGrid size={13} color="#1b4332" />
-              <span>All 13 Tools</span>
-              <kbd style={{
-                fontSize: '0.65rem',
-                padding: '1px 5px',
-                background: '#ffffff',
-                borderRadius: '4px',
-                border: '1px solid #b7e4c7',
-                fontFamily: 'var(--font-mono)'
-              }}>
-                ⌘K
-              </kbd>
+              <Search size={13} />
+              <span>Sitemap Modal</span>
             </button>
 
-            {/* Live Website Link */}
-            <a
-              href="https://ongoweightloss.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                display: 'inline-flex',
+            {stats && (
+              <div style={{
+                display: 'none',
                 alignItems: 'center',
-                gap: '5px',
-                padding: '5px 11px',
-                borderRadius: '9999px',
-                fontSize: '0.72rem',
-                fontWeight: 600,
-                color: '#ffffff',
-                background: 'rgba(255, 255, 255, 0.12)',
-                textDecoration: 'none',
-                border: '1px solid rgba(255, 255, 255, 0.22)',
-                transition: 'all 0.15s ease',
-                whiteSpace: 'nowrap'
-              }}
-            >
-              <span>ongoweightloss.com</span>
-              <ExternalLink size={11} color="#ffffff" />
-            </a>
-
-            {/* Census Count Badge */}
-            <div style={{
-              display: 'flex',
-              alignItems: 'center',
-              gap: '5px',
-              fontSize: '0.7rem',
-              color: '#b7e4c7',
-              fontFamily: 'var(--font-mono)',
-              background: 'rgba(255, 255, 255, 0.08)',
-              padding: '4px 9px',
-              borderRadius: '9999px',
-              border: '1px solid rgba(255, 255, 255, 0.12)',
-              whiteSpace: 'nowrap'
-            }}>
-              <span style={{
-                width: '6px',
-                height: '6px',
-                borderRadius: '50%',
-                backgroundColor: '#52b788',
-                display: 'inline-block',
-                boxShadow: '0 0 6px #52b788'
-              }} />
-              <span>{stats?.totalCompetitors || 100} Brands</span>
-            </div>
+                gap: '8px',
+                fontSize: '11px',
+                color: 'rgba(255, 255, 255, 0.75)',
+                borderLeft: '1px solid rgba(255, 255, 255, 0.15)',
+                paddingLeft: '10px'
+              }} className="lg-flex">
+                <span><strong>100</strong> Brands</span>
+                <span>•</span>
+                <span><strong>35k</strong> URLs</span>
+              </div>
+            )}
           </div>
         </div>
       </header>
 
-      {/* Global Interactive Tools Sitemap Modal */}
+      {/* Global Visual Tools Sitemap Modal */}
       <ToolsSitemapModal
         isOpen={sitemapModalOpen}
         onClose={() => setSitemapModalOpen(false)}
-        onSelectTool={setActiveTab}
+        onSelectTool={(tab: TabType) => {
+          setActiveTab(tab);
+          setSitemapModalOpen(false);
+        }}
         activeTab={activeTab}
       />
     </>

@@ -152,6 +152,9 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
       
       {/* Page Guide Header */}
       <ContextCue
+        level={3}
+        toolNumber={12}
+        useCase="Audit doctor credentials, NPI registrations, state licenses, and compounding disclaimers for E-E-A-T."
         badge="Clinical & E-E-A-T Intelligence"
         title="Competitor Clinical Radar: Doctors, Authors, Policies & State Coverage"
         about="This page provides a specialized clinical compliance, medical authority, and regulatory audit comparing Ongo Weight Loss (#00 Flagship Benchmark) against 100 US telehealth competitors across 5 mission-critical dimensions: (1) Physician oversight & named doctors info, (2) Medical author attribution & editorial review standards, (3) Treatment categories & compounding formulations, (4) Pharmacy sourcing, pricing policies, cancellation terms & lab mandates, and (5) 50-state geographic telehealth coverage."

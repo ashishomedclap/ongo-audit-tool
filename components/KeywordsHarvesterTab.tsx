@@ -368,6 +368,9 @@ export default function KeywordsHarvesterTab() {
       </div>
 
       <ContextCue
+        level={2}
+        toolNumber={7}
+        useCase="Harvest real-time Google search suggestions and question trees across 8 GLP-1 seeds."
         title="Topical Cluster Intelligence"
         about="Google Suggest queries reflect raw, unfiltered patient hesitations and decision queries. Mined questions are grouped directly into Ongo's 8 Hub-and-Spoke Silos so you can copy and deploy them as FAQ schema sections, subheadings (H2/H3), or dedicated blog spokes."
       />

@@ -62,6 +62,9 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <ContextCue
+        level={3}
+        toolNumber={14}
+        useCase="Read and download comprehensive architectural, compliance, and competitive strategy blueprints."
         badge="Executive Briefs"
         title="Curated Competitive Research Documents"
         about="This page serves as an executive library of structured research documents, audit syntheses, and strategic briefs prepared specifically for Ongo Weight Loss leadership. It compiles the full findings of the 100-competitor census, sitemap crawl data, meta optimizations, and content blueprints into presentation-ready reports."

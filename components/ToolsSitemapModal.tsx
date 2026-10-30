@@ -21,7 +21,9 @@ import {
   Activity,
   Check,
   Copy,
-  ChevronRight
+  ChevronRight,
+  BookOpen,
+  FolderTree
 } from 'lucide-react';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition } from '@/lib/tools-sitemap';
 import { TabType } from './Navbar';
@@ -40,7 +42,7 @@ export default function ToolsSitemapModal({
   activeTab
 }: ToolsSitemapModalProps) {
   const [search, setSearch] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState<string>('all');
+  const [selectedLevel, setSelectedLevel] = useState<number | 'all'>('all');
   const [copiedPath, setCopiedPath] = useState<string | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -79,6 +81,7 @@ export default function ToolsSitemapModal({
   const getIcon = (iconName: string, size = 16) => {
     switch (iconName) {
       case 'BarChart2': return <BarChart2 size={size} />;
+      case 'BookOpen': return <BookOpen size={size} />;
       case 'Compass': return <Compass size={size} />;
       case 'Sparkles': return <Sparkles size={size} />;
       case 'Link2': return <Link2 size={size} />;
@@ -96,13 +99,14 @@ export default function ToolsSitemapModal({
   };
 
   const filteredTools = TOOLS_DIRECTORY.filter(tool => {
-    if (selectedCategory !== 'all' && tool.category !== selectedCategory) return false;
+    if (selectedLevel !== 'all' && tool.level !== selectedLevel) return false;
     if (search.trim()) {
       const q = search.toLowerCase();
       return (
         tool.name.toLowerCase().includes(q) ||
         tool.shortName.toLowerCase().includes(q) ||
         tool.description.toLowerCase().includes(q) ||
+        tool.useCase.toLowerCase().includes(q) ||
         tool.path.toLowerCase().includes(q) ||
         tool.keywords.some(k => k.toLowerCase().includes(q))
       );
@@ -111,367 +115,257 @@ export default function ToolsSitemapModal({
   });
 
   return (
-    <div
-      style={{
-        position: 'fixed',
-        inset: 0,
-        zIndex: 100,
-        backgroundColor: 'rgba(15, 33, 26, 0.75)',
-        backdropFilter: 'blur(8px)',
+    <div style={{
+      position: 'fixed',
+      top: 0,
+      left: 0,
+      right: 0,
+      bottom: 0,
+      backgroundColor: 'rgba(15, 23, 42, 0.75)',
+      backdropFilter: 'blur(8px)',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      padding: '20px',
+      zIndex: 100
+    }}>
+      <div style={{
+        backgroundColor: '#ffffff',
+        borderRadius: '20px',
+        width: '100%',
+        maxWidth: '820px',
+        maxHeight: '85vh',
+        boxShadow: '0 25px 60px -15px rgba(0, 0, 0, 0.3)',
+        border: '1px solid #e2e8f0',
         display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        padding: '20px'
-      }}
-      onClick={onClose}
-    >
-      <div
-        style={{
-          width: '100%',
-          maxWidth: '1020px',
-          maxHeight: '90vh',
-          backgroundColor: '#ffffff',
-          borderRadius: '20px',
-          boxShadow: '0 25px 60px -15px rgba(0, 0, 0, 0.45)',
-          border: '1px solid var(--border-medium)',
-          display: 'flex',
-          flexDirection: 'column',
-          overflow: 'hidden'
-        }}
-        onClick={(e) => e.stopPropagation()}
-      >
-        {/* Header with Search */}
+        flexDirection: 'column',
+        overflow: 'hidden'
+      }}>
+        {/* Modal Header */}
         <div style={{
-          padding: '24px 28px',
-          borderBottom: '1px solid var(--border-subtle)',
-          backgroundColor: '#fbfaf7'
+          padding: '20px 24px',
+          borderBottom: '1px solid #e2e8f0',
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)',
+          color: '#ffffff'
         }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
-            <div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                <span style={{
-                  padding: '3px 10px',
-                  borderRadius: '9999px',
-                  backgroundColor: 'var(--color-primary-soft)',
-                  color: 'var(--color-primary-dark)',
-                  fontSize: '0.72rem',
-                  fontWeight: 700,
-                  textTransform: 'uppercase'
-                }}>
-                  Suite Architecture & Sitemap
-                </span>
-                <span style={{ fontSize: '0.75rem', color: 'var(--text-tertiary)' }}>
-                  13 Specialized In-House Tools
-                </span>
-              </div>
-              <h2 style={{ fontSize: '1.4rem', fontWeight: 800, color: 'var(--color-primary-dark)', marginTop: '4px' }}>
-                Master Tools Sitemap & Quick Access Directory
-              </h2>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+            <div style={{
+              width: '36px',
+              height: '36px',
+              borderRadius: '10px',
+              backgroundColor: 'rgba(255, 255, 255, 0.15)',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center'
+            }}>
+              <FolderTree size={20} color="#74c69d" />
             </div>
-
-            <button
-              onClick={onClose}
-              style={{
-                width: '36px',
-                height: '36px',
-                borderRadius: '50%',
-                border: '1px solid var(--border-medium)',
-                background: '#ffffff',
-                cursor: 'pointer',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                color: 'var(--text-secondary)'
-              }}
-              title="Close (Esc)"
-            >
-              <X size={18} />
-            </button>
+            <div>
+              <h2 style={{ fontSize: '18px', fontWeight: 800, margin: 0, color: '#ffffff' }}>
+                Master Tools Sitemap · Level 1, 2, 3 Index
+              </h2>
+              <span style={{ fontSize: '12px', color: '#d8f3dc' }}>
+                Jump to any of Ongo's 14 proprietary SEO audit and growth tools
+              </span>
+            </div>
           </div>
 
-          {/* Search Box */}
-          <div style={{ position: 'relative' }}>
-            <Search
-              size={18}
-              style={{
-                position: 'absolute',
-                left: '16px',
-                top: '50%',
-                transform: 'translateY(-50%)',
-                color: 'var(--color-primary-dark)',
-                pointerEvents: 'none'
-              }}
-            />
+          <button
+            onClick={onClose}
+            style={{
+              background: 'rgba(255, 255, 255, 0.12)',
+              border: 'none',
+              borderRadius: '8px',
+              width: '32px',
+              height: '32px',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              color: '#ffffff',
+              cursor: 'pointer'
+            }}
+          >
+            <X size={18} />
+          </button>
+        </div>
+
+        {/* Search Bar & Level Filters */}
+        <div style={{ padding: '16px 24px', borderBottom: '1px solid #f1f5f9', backgroundColor: '#f8fafc' }}>
+          <div style={{
+            display: 'flex',
+            alignItems: 'center',
+            backgroundColor: '#ffffff',
+            borderRadius: '10px',
+            border: '1px solid #cbd5e1',
+            padding: '4px 14px',
+            marginBottom: '12px'
+          }}>
+            <Search size={16} color="#64748b" style={{ marginRight: '10px' }} />
             <input
               ref={inputRef}
               type="text"
+              placeholder="Search tools by name, use case, or path (e.g. books, gap, sitemaps, PAA)..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              placeholder="Search by tool name, SEO intent, or keyword (e.g. harvester, internal links, gap, sitemaps, pricing)..."
               style={{
                 width: '100%',
-                padding: '13px 44px 13px 46px',
-                borderRadius: '12px',
-                border: '1.5px solid var(--border-medium)',
-                fontSize: '0.9rem',
-                color: 'var(--text-primary)',
-                background: '#ffffff',
+                border: 'none',
                 outline: 'none',
-                boxShadow: '0 2px 8px rgba(0, 0, 0, 0.04)'
+                padding: '8px 0',
+                fontSize: '14px',
+                color: '#1b4332'
               }}
             />
             {search && (
               <button
                 onClick={() => setSearch('')}
-                style={{
-                  position: 'absolute',
-                  right: '14px',
-                  top: '50%',
-                  transform: 'translateY(-50%)',
-                  background: 'none',
-                  border: 'none',
-                  cursor: 'pointer',
-                  color: 'var(--text-tertiary)'
-                }}
+                style={{ background: 'none', border: 'none', color: '#94a3b8', cursor: 'pointer', fontSize: '12px' }}
               >
-                <X size={16} />
+                Clear
               </button>
             )}
           </div>
 
-          {/* Category Filter Pills */}
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginTop: '14px' }}>
+          {/* Level Filter Pills */}
+          <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
             <button
-              onClick={() => setSelectedCategory('all')}
+              onClick={() => setSelectedLevel('all')}
               style={{
-                padding: '5px 12px',
-                borderRadius: '9999px',
-                border: selectedCategory === 'all' ? '1px solid var(--color-primary)' : '1px solid var(--border-subtle)',
-                background: selectedCategory === 'all' ? 'var(--color-primary-dark)' : '#ffffff',
-                color: selectedCategory === 'all' ? '#ffffff' : 'var(--text-secondary)',
-                fontSize: '0.75rem',
-                fontWeight: 600,
+                padding: '4px 12px',
+                borderRadius: '6px',
+                border: 'none',
+                background: selectedLevel === 'all' ? '#1b4332' : '#e2e8f0',
+                color: selectedLevel === 'all' ? '#ffffff' : '#475569',
+                fontSize: '11px',
+                fontWeight: 700,
                 cursor: 'pointer'
               }}
             >
-              All Categories ({TOOLS_DIRECTORY.length})
+              All Levels (14)
             </button>
-            {TOOL_CATEGORIES.map(cat => (
+            {[1, 2, 3].map(lvl => (
               <button
-                key={cat.id}
-                onClick={() => setSelectedCategory(cat.id)}
+                key={lvl}
+                onClick={() => setSelectedLevel(lvl)}
                 style={{
-                  padding: '5px 12px',
-                  borderRadius: '9999px',
-                  border: selectedCategory === cat.id ? `1px solid ${cat.accentColor}` : '1px solid var(--border-subtle)',
-                  background: selectedCategory === cat.id ? cat.accentColor : '#ffffff',
-                  color: selectedCategory === cat.id ? '#ffffff' : 'var(--text-secondary)',
-                  fontSize: '0.75rem',
-                  fontWeight: 600,
+                  padding: '4px 12px',
+                  borderRadius: '6px',
+                  border: 'none',
+                  background: selectedLevel === lvl ? '#1b4332' : '#e2e8f0',
+                  color: selectedLevel === lvl ? '#ffffff' : '#475569',
+                  fontSize: '11px',
+                  fontWeight: 700,
                   cursor: 'pointer'
                 }}
               >
-                {cat.name} ({cat.tools.length})
+                Level {lvl}
               </button>
             ))}
           </div>
         </div>
 
-        {/* Tools Grid (Scrollable Body) */}
-        <div style={{
-          flex: 1,
-          overflowY: 'auto',
-          padding: '24px 28px',
-          backgroundColor: 'var(--bg-canvas)'
-        }}>
+        {/* Tools List */}
+        <div style={{ padding: '16px 24px', overflowY: 'auto', flex: 1, display: 'flex', flexDirection: 'column', gap: '8px' }}>
           {filteredTools.length === 0 ? (
-            <div style={{ textAlign: 'center', padding: '60px 20px', color: 'var(--text-tertiary)' }}>
-              <div style={{ fontSize: '1rem', fontWeight: 600, marginBottom: '6px' }}>No tools matched "{search}"</div>
-              <div style={{ fontSize: '0.82rem' }}>Try searching for "harvester", "links", "gap", or "meta"</div>
+            <div style={{ textAlign: 'center', padding: '40px', color: '#94a3b8' }}>
+              No tools matching "{search}".
             </div>
           ) : (
-            <div style={{
-              display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))',
-              gap: '14px'
-            }}>
-              {filteredTools.map(tool => {
-                const isActive = activeTab === tool.id;
-                const isCopied = copiedPath === tool.path;
+            filteredTools.map(tool => {
+              const isActive = activeTab === tool.id;
+              const isCopied = copiedPath === tool.path;
 
-                return (
-                  <div
-                    key={tool.id}
-                    onClick={() => {
-                      onSelectTool(tool.id as TabType);
-                      onClose();
-                    }}
-                    style={{
-                      backgroundColor: isActive ? '#f0fdf4' : '#ffffff',
-                      border: isActive ? '2px solid var(--color-primary)' : '1px solid var(--border-subtle)',
-                      borderRadius: '14px',
-                      padding: '18px',
-                      cursor: 'pointer',
-                      display: 'flex',
-                      flexDirection: 'column',
-                      justifyContent: 'space-between',
-                      gap: '12px',
-                      transition: 'all 0.15s ease',
-                      boxShadow: 'var(--shadow-bento)'
-                    }}
-                    onMouseEnter={(e) => {
-                      if (!isActive) e.currentTarget.style.borderColor = 'var(--color-primary-light)';
-                    }}
-                    onMouseLeave={(e) => {
-                      if (!isActive) e.currentTarget.style.borderColor = 'var(--border-subtle)';
-                    }}
-                  >
-                    <div>
-                      {/* Top Row: Icon + Badges */}
-                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '8px' }}>
-                        <div style={{
-                          width: '34px',
-                          height: '34px',
-                          borderRadius: '10px',
-                          backgroundColor: isActive ? 'var(--color-primary)' : 'var(--color-primary-soft)',
-                          color: isActive ? '#ffffff' : 'var(--color-primary-dark)',
-                          display: 'flex',
-                          alignItems: 'center',
-                          justifyContent: 'center'
-                        }}>
-                          {getIcon(tool.categoryIcon, 17)}
-                        </div>
-
-                        <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                          {tool.badge && (
-                            <span style={{
-                              padding: '2px 8px',
-                              borderRadius: '9999px',
-                              fontSize: '0.68rem',
-                              fontWeight: 700,
-                              backgroundColor: tool.badgeBg || 'var(--color-primary-soft)',
-                              color: tool.badgeColor || 'var(--color-primary-dark)'
-                            }}>
-                              {tool.badge}
-                            </span>
-                          )}
-                          {isActive && (
-                            <span style={{
-                              padding: '2px 8px',
-                              borderRadius: '9999px',
-                              fontSize: '0.68rem',
-                              fontWeight: 700,
-                              backgroundColor: 'var(--color-primary)',
-                              color: '#ffffff'
-                            }}>
-                              Active
-                            </span>
-                          )}
-                        </div>
-                      </div>
-
-                      {/* Tool Title & Slug */}
-                      <div style={{ fontWeight: 700, fontSize: '0.92rem', color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
-                        {tool.name}
-                      </div>
-
-                      <div style={{
-                        display: 'flex',
-                        alignItems: 'center',
-                        gap: '6px',
-                        marginBottom: '8px'
-                      }}>
-                        <code style={{
-                          fontFamily: 'var(--font-mono)',
-                          fontSize: '0.72rem',
-                          color: 'var(--color-primary)',
-                          background: 'rgba(52, 126, 93, 0.08)',
-                          padding: '2px 6px',
-                          borderRadius: '4px'
-                        }}>
-                          {tool.path}
-                        </code>
-                        <button
-                          onClick={(e) => handleCopyPath(e, tool.path)}
-                          style={{
-                            background: 'none',
-                            border: 'none',
-                            cursor: 'pointer',
-                            color: 'var(--text-tertiary)',
-                            display: 'flex',
-                            alignItems: 'center',
-                            padding: '2px'
-                          }}
-                          title="Copy direct URL"
-                        >
-                          {isCopied ? <Check size={12} color="#10b981" /> : <Copy size={12} />}
-                        </button>
-                      </div>
-
-                      {/* Description */}
-                      <p style={{
-                        fontSize: '0.78rem',
-                        lineHeight: 1.45,
-                        color: 'var(--text-secondary)',
-                        margin: 0
-                      }}>
-                        {tool.description}
-                      </p>
-                    </div>
-
-                    {/* Bottom CTA & Metrics */}
+              return (
+                <div
+                  key={tool.id}
+                  onClick={() => onSelectTool(tool.id as TabType)}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    padding: '12px 16px',
+                    borderRadius: '12px',
+                    border: isActive ? '1px solid #74c69d' : '1px solid #f1f5f9',
+                    backgroundColor: isActive ? '#f0fdf4' : '#ffffff',
+                    cursor: 'pointer',
+                    transition: 'all 0.15s ease'
+                  }}
+                  onMouseEnter={(e) => {
+                    if (!isActive) e.currentTarget.style.backgroundColor = '#f8fafc';
+                  }}
+                  onMouseLeave={(e) => {
+                    if (!isActive) e.currentTarget.style.backgroundColor = '#ffffff';
+                  }}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '14px', flex: 1, minWidth: 0 }}>
                     <div style={{
+                      width: '36px',
+                      height: '36px',
+                      borderRadius: '8px',
+                      backgroundColor: isActive ? '#1b4332' : '#f1f5f9',
+                      color: isActive ? '#ffffff' : '#1b4332',
                       display: 'flex',
                       alignItems: 'center',
-                      justifyContent: 'space-between',
-                      borderTop: '1px solid var(--border-subtle)',
-                      paddingTop: '10px',
-                      marginTop: '4px'
+                      justifyContent: 'center',
+                      flexShrink: 0
                     }}>
-                      <span style={{ fontSize: '0.72rem', color: 'var(--text-tertiary)', fontWeight: 600 }}>
-                        {tool.keyMetrics}
-                      </span>
+                      {getIcon(tool.categoryIcon, 18)}
+                    </div>
 
-                      <div style={{
-                        display: 'inline-flex',
-                        alignItems: 'center',
-                        gap: '4px',
-                        fontSize: '0.76rem',
-                        fontWeight: 700,
-                        color: 'var(--color-accent)'
-                      }}>
-                        <span>Open Tool</span>
-                        <ChevronRight size={13} />
+                    <div style={{ flex: 1, minWidth: 0 }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '2px' }}>
+                        <span style={{ fontSize: '10px', fontWeight: 800, background: '#f1f5f9', color: '#475569', padding: '1px 6px', borderRadius: '4px' }}>
+                          L{tool.level}
+                        </span>
+                        <span style={{ fontSize: '14px', fontWeight: 700, color: '#0f172a' }}>
+                          {tool.name}
+                        </span>
+                        {tool.badge && (
+                          <span style={{
+                            fontSize: '10px',
+                            fontWeight: 700,
+                            padding: '1px 6px',
+                            borderRadius: '9999px',
+                            background: tool.badgeBg || '#e2e8f0',
+                            color: tool.badgeColor || '#334155'
+                          }}>
+                            {tool.badge}
+                          </span>
+                        )}
+                      </div>
+                      <div style={{ fontSize: '12px', color: '#64748b', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                        <strong>Use Case:</strong> {tool.useCase}
                       </div>
                     </div>
                   </div>
-                );
-              })}
-            </div>
-          )}
-        </div>
 
-        {/* Footer */}
-        <div style={{
-          padding: '14px 28px',
-          borderTop: '1px solid var(--border-subtle)',
-          backgroundColor: '#ffffff',
-          display: 'flex',
-          justifyContent: 'space-between',
-          alignItems: 'center',
-          fontSize: '0.76rem',
-          color: 'var(--text-tertiary)'
-        }}>
-          <div>
-            Press <kbd style={{ padding: '2px 6px', borderRadius: '4px', background: 'var(--bg-surface-alt)', border: '1px solid var(--border-medium)', fontFamily: 'var(--font-mono)' }}>Esc</kbd> to exit or click any tool to jump instantly.
-          </div>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-            <span>Shortcut:</span>
-            <kbd style={{ padding: '2px 6px', borderRadius: '4px', background: 'var(--bg-surface-alt)', border: '1px solid var(--border-medium)', fontFamily: 'var(--font-mono)' }}>⌘K / Ctrl+K</kbd>
-          </div>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginLeft: '12px' }}>
+                    <button
+                      onClick={(e) => handleCopyPath(e, tool.path)}
+                      style={{
+                        background: 'none',
+                        border: 'none',
+                        color: isCopied ? '#16a34a' : '#94a3b8',
+                        cursor: 'pointer',
+                        padding: '4px',
+                        display: 'flex',
+                        alignItems: 'center'
+                      }}
+                      title="Copy URL path"
+                    >
+                      {isCopied ? <Check size={14} /> : <Copy size={14} />}
+                    </button>
+                    <ChevronRight size={16} color="#94a3b8" />
+                  </div>
+                </div>
+              );
+            })
+          )}
         </div>
       </div>
     </div>
   );
 }
-

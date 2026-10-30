@@ -102,6 +102,9 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <ContextCue
+        level={1}
+        toolNumber={5}
+        useCase="Explore XML sitemaps and deep URL hierarchies across competitor domains."
         badge="Sitemap Intelligence"
         title="100 Competitor Sitemaps vs Ongo Weight Loss Benchmark"
         about="This page is an XML sitemap census and live HTTP connectivity auditor covering 100 US telehealth competitors. It indexes 35,420 crawled URLs to reveal which clinics expose transparent XML sitemap feeds (74 brands) versus those that gate content behind Cloudflare WAFs or dynamic client-side applications (26 brands). It also benchmarks dedicated Semaglutide and Tirzepatide landing page depth across each competitor."

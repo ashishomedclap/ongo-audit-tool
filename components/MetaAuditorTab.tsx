@@ -68,6 +68,9 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <ContextCue
+        level={3}
+        toolNumber={13}
+        useCase="Rewrite robotic, symbol-heavy SERP titles into natural human search queries that maximize CTR."
         badge="Metadata Optimization"
         title="SERP Snippet Optimization & Real-Time HTML Auditor"
         about="This page is a real-time Google SERP Snippet Simulator and Meta Tag Optimization Auditor designed specifically for Ongo Weight Loss. It validates meta titles and meta descriptions against Google's desktop and mobile character/pixel display limits, checks for essential clinical authority signals (E-E-A-T), and audits live competitor URLs on the fly."

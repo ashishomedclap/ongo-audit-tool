@@ -23,7 +23,10 @@ import {
   ArrowRight,
   ShieldCheck,
   FolderTree,
-  Filter
+  Filter,
+  BookOpen,
+  CheckCircle2,
+  Zap
 } from 'lucide-react';
 import ContextCue from './ContextCue';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition } from '@/lib/tools-sitemap';
@@ -45,21 +48,22 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
   };
 
   const handleExportSitemapCsv = () => {
-    const headers = ['Category', 'Tool Name', 'Path', 'Badge', 'Description', 'Key Metrics', 'Keywords'];
+    const headers = ['Level', 'Category', 'Tool Name', 'Path', 'Use Case', 'Badge', 'Description', 'Key Metrics'];
     const rows = TOOLS_DIRECTORY.map(t => [
+      `"Level ${t.level}"`,
       `"${t.categoryLabel}"`,
       `"${t.name.replace(/"/g, '""')}"`,
       `"${t.path}"`,
+      `"${t.useCase.replace(/"/g, '""')}"`,
       `"${t.badge || ''}"`,
       `"${t.description.replace(/"/g, '""')}"`,
-      `"${t.keyMetrics}"`,
-      `"${t.keywords.join(', ')}"`
+      `"${t.keyMetrics}"`
     ]);
     const csvContent = 'data:text/csv;charset=utf-8,' + [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
     const encodedUri = encodeURI(csvContent);
     const link = document.createElement('a');
     link.setAttribute('href', encodedUri);
-    link.setAttribute('download', `ongo_suite_tools_sitemap_${new Date().toISOString().slice(0, 10)}.csv`);
+    link.setAttribute('download', `ongo_suite_tools_sitemap_l1_l2_l3_${new Date().toISOString().slice(0, 10)}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -68,6 +72,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
   const getIcon = (iconName: string, size = 18) => {
     switch (iconName) {
       case 'BarChart2': return <BarChart2 size={size} />;
+      case 'BookOpen': return <BookOpen size={size} />;
       case 'Compass': return <Compass size={size} />;
       case 'Sparkles': return <Sparkles size={size} />;
       case 'Link2': return <Link2 size={size} />;
@@ -92,6 +97,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
         tool.name.toLowerCase().includes(q) ||
         tool.shortName.toLowerCase().includes(q) ||
         tool.description.toLowerCase().includes(q) ||
+        tool.useCase.toLowerCase().includes(q) ||
         tool.path.toLowerCase().includes(q) ||
         tool.keywords.some(k => k.toLowerCase().includes(q))
       );
@@ -103,7 +109,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
     <div style={{ display: 'flex', flexDirection: 'column', gap: '28px' }}>
       {/* Strategic Header */}
       <div style={{
-        background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)',
+        background: 'linear-gradient(135deg, #1b4332 0%, #081c15 100%)',
         borderRadius: '20px',
         padding: '32px 36px',
         color: '#ffffff',
@@ -111,8 +117,8 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
         position: 'relative',
         overflow: 'hidden'
       }}>
-        <div style={{ position: 'relative', zIndex: 1, maxWidth: '960px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '12px' }}>
+        <div style={{ position: 'relative', zIndex: 1, maxWidth: '1000px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '12px', flexWrap: 'wrap' }}>
             <span style={{
               display: 'inline-flex',
               alignItems: 'center',
@@ -128,7 +134,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
               color: '#d8f3dc'
             }}>
               <FolderTree size={13} color="#74c69d" />
-              Suite Architecture
+              Hierarchical Sitemap
             </span>
             <span style={{
               display: 'inline-flex',
@@ -142,18 +148,18 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
               fontWeight: 700,
               color: '#ffcbbd'
             }}>
-              13 Integrated In-House SEO Tools
+              Level 1, 2, 3 Use-Case Architecture (14 Tools)
             </span>
           </div>
 
           <h1 style={{
-            fontSize: '1.9rem',
+            fontSize: '2rem',
             fontWeight: 800,
             lineHeight: 1.25,
             marginBottom: '10px',
             color: '#ffffff'
           }}>
-            Dashboard Tools Sitemap & Access Index
+            Master Suite Sitemap & Use-Case Directory
           </h1>
 
           <p style={{
@@ -162,7 +168,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
             color: 'rgba(255, 255, 255, 0.85)',
             marginBottom: '24px'
           }}>
-            Complete visual sitemap and architectural directory of every custom SEO tool built for Ongo Weight Loss. Click any tool card to launch it instantly, copy its dedicated URL path, or review its functional role in the 8-Silo organic acquisition strategy.
+            Organized sequentially across <strong>Level 1 (Foundation & Baseline)</strong>, <strong>Level 2 (SEO Research & Content Engine)</strong>, and <strong>Level 3 (Architecture, Linking & Governance)</strong>. Click any card to launch the tool, copy its route path, or inspect its functional role in Ongo's organic growth roadmap.
           </p>
 
           {/* Quick Search & Export */}
@@ -175,7 +181,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
                   left: '14px',
                   top: '50%',
                   transform: 'translateY(-50%)',
-                  color: 'var(--color-primary-dark)',
+                  color: '#2d6a4f',
                   pointerEvents: 'none'
                 }}
               />
@@ -183,7 +189,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
                 type="text"
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
-                placeholder="Search tools by name, intent, or path..."
+                placeholder="Search across all levels, use cases, or paths..."
                 style={{
                   width: '100%',
                   padding: '11px 16px 11px 40px',
@@ -215,15 +221,16 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
               }}
             >
               <Download size={14} />
-              Export Tools Sitemap (CSV)
+              Export Sitemap (CSV)
             </button>
           </div>
         </div>
       </div>
 
       <ContextCue
-        title="13 In-House Proprietary Tools"
-        about="Each tool in this suite operates with zero monthly subscription cost ($0 SaaS). Use the categorized directory below to jump into live page audits, Google PAA harvesting, automated internal link recommendations, or the 33,108-URL competitor gap comparator."
+        useCase="Explore the full visual directory across all 3 levels, ordered use cases, and 14 intelligence tools."
+        title="Ordered Workflow: Level 1 ➔ Level 2 ➔ Level 3"
+        about="Start with Level 1 to baseline Ongo's live pages and absorb the 7 onboarding books. Progress to Level 2 to discover content vacuums and harvest high-intent questions. Finally, execute Level 3 to construct topic silos, pass internal link equity, and enforce E-E-A-T doctor compliance."
       />
 
       {/* Category Filter Tabs */}
@@ -232,23 +239,23 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
         flexWrap: 'wrap',
         alignItems: 'center',
         gap: '8px',
-        borderBottom: '1px solid var(--border-subtle)',
+        borderBottom: '1px solid #e2e8f0',
         paddingBottom: '12px'
       }}>
         <button
           onClick={() => setActiveCategory('all')}
           style={{
-            padding: '8px 16px',
+            padding: '8px 18px',
             borderRadius: '9999px',
-            border: activeCategory === 'all' ? '2px solid var(--color-primary)' : '1px solid var(--border-medium)',
-            background: activeCategory === 'all' ? 'var(--color-primary-dark)' : 'var(--bg-surface)',
-            color: activeCategory === 'all' ? '#ffffff' : 'var(--text-secondary)',
+            border: activeCategory === 'all' ? '2px solid #1b4332' : '1px solid #cbd5e1',
+            background: activeCategory === 'all' ? '#1b4332' : '#ffffff',
+            color: activeCategory === 'all' ? '#ffffff' : '#334155',
             fontSize: '0.82rem',
             fontWeight: 700,
             cursor: 'pointer'
           }}
         >
-          All 13 Tools
+          All 3 Levels (14 Tools)
         </button>
 
         {TOOL_CATEGORIES.map(cat => (
@@ -256,17 +263,17 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
             key={cat.id}
             onClick={() => setActiveCategory(cat.id)}
             style={{
-              padding: '8px 16px',
+              padding: '8px 18px',
               borderRadius: '9999px',
-              border: activeCategory === cat.id ? `2px solid ${cat.accentColor}` : '1px solid var(--border-medium)',
-              background: activeCategory === cat.id ? cat.accentColor : 'var(--bg-surface)',
-              color: activeCategory === cat.id ? '#ffffff' : 'var(--text-secondary)',
+              border: activeCategory === cat.id ? `2px solid ${cat.accentColor}` : '1px solid #cbd5e1',
+              background: activeCategory === cat.id ? cat.accentColor : '#ffffff',
+              color: activeCategory === cat.id ? '#ffffff' : '#334155',
               fontSize: '0.82rem',
               fontWeight: 700,
               cursor: 'pointer'
             }}
           >
-            {cat.name} ({cat.tools.length})
+            Level {cat.level} ({cat.tools.length})
           </button>
         ))}
       </div>
@@ -277,28 +284,57 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
         if (categoryTools.length === 0) return null;
 
         return (
-          <div key={category.id} style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-              <div style={{
-                width: '8px',
-                height: '24px',
-                borderRadius: '4px',
-                backgroundColor: category.accentColor
-              }} />
-              <div>
-                <h3 style={{ fontSize: '1.2rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-                  {category.name}
-                </h3>
-                <p style={{ fontSize: '0.8rem', color: 'var(--text-tertiary)' }}>
-                  {category.shortDescription}
-                </p>
+          <div key={category.id} style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+            {/* Section Level Header */}
+            <div style={{
+              background: '#f8fafc',
+              border: '1px solid #e2e8f0',
+              borderRadius: '14px',
+              padding: '16px 20px',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'space-between',
+              flexWrap: 'wrap',
+              gap: '12px'
+            }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+                <span style={{
+                  background: category.accentColor,
+                  color: '#ffffff',
+                  padding: '4px 10px',
+                  borderRadius: '8px',
+                  fontSize: '12px',
+                  fontWeight: 800
+                }}>
+                  LEVEL 0{category.level}
+                </span>
+                <div>
+                  <h3 style={{ fontSize: '1.2rem', fontWeight: 800, color: '#0f172a', margin: 0 }}>
+                    {category.name}
+                  </h3>
+                  <p style={{ fontSize: '0.82rem', color: '#64748b', margin: '2px 0 0 0' }}>
+                    <strong>Use Case:</strong> {category.useCase}
+                  </p>
+                </div>
               </div>
+
+              <span style={{
+                fontSize: '11px',
+                fontWeight: 700,
+                color: '#475569',
+                background: '#e2e8f0',
+                padding: '3px 10px',
+                borderRadius: '9999px'
+              }}>
+                {categoryTools.length} Tools
+              </span>
             </div>
 
+            {/* Grid of Tool Cards in this Level */}
             <div style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))',
-              gap: '16px'
+              gridTemplateColumns: 'repeat(auto-fill, minmax(340px, 1fr))',
+              gap: '18px'
             }}>
               {categoryTools.map(tool => {
                 const isCopied = copiedId === tool.id;
@@ -307,29 +343,37 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
                   <div
                     key={tool.id}
                     style={{
-                      background: 'var(--bg-surface)',
+                      background: '#ffffff',
                       borderRadius: '16px',
-                      padding: '20px',
-                      border: '1px solid var(--border-subtle)',
-                      boxShadow: 'var(--shadow-bento)',
+                      padding: '22px',
+                      border: '1px solid #e2e8f0',
+                      boxShadow: '0 2px 8px rgba(0,0,0,0.03)',
                       display: 'flex',
                       flexDirection: 'column',
                       justifyContent: 'space-between',
                       gap: '14px',
                       transition: 'all 0.15s ease'
                     }}
-                    onMouseEnter={(e) => (e.currentTarget.style.borderColor = 'var(--color-primary-light)')}
-                    onMouseLeave={(e) => (e.currentTarget.style.borderColor = 'var(--border-subtle)')}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.borderColor = category.accentColor;
+                      e.currentTarget.style.boxShadow = '0 8px 24px rgba(0,0,0,0.07)';
+                      e.currentTarget.style.transform = 'translateY(-2px)';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.borderColor = '#e2e8f0';
+                      e.currentTarget.style.boxShadow = '0 2px 8px rgba(0,0,0,0.03)';
+                      e.currentTarget.style.transform = 'none';
+                    }}
                   >
                     <div>
-                      {/* Top Bar */}
-                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '10px' }}>
+                      {/* Card Top Bar */}
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '12px' }}>
                         <div style={{
-                          width: '40px',
-                          height: '40px',
+                          width: '42px',
+                          height: '42px',
                           borderRadius: '12px',
-                          backgroundColor: 'var(--color-primary-soft)',
-                          color: 'var(--color-primary-dark)',
+                          backgroundColor: '#f1f5f9',
+                          color: '#1b4332',
                           display: 'flex',
                           alignItems: 'center',
                           justifyContent: 'center'
@@ -337,75 +381,91 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
                           {getIcon(tool.categoryIcon, 20)}
                         </div>
 
-                        {tool.badge && (
+                        <div style={{ display: 'flex', gap: '6px', alignItems: 'center' }}>
                           <span style={{
-                            padding: '3px 10px',
-                            borderRadius: '9999px',
-                            fontSize: '0.72rem',
-                            fontWeight: 700,
-                            backgroundColor: tool.badgeBg || 'var(--color-primary-soft)',
-                            color: tool.badgeColor || 'var(--color-primary-dark)'
+                            fontSize: '10px',
+                            fontWeight: 800,
+                            padding: '2px 7px',
+                            borderRadius: '6px',
+                            background: '#f1f5f9',
+                            color: '#475569'
                           }}>
-                            {tool.badge}
+                            L{tool.level}
                           </span>
-                        )}
+                          {tool.badge && (
+                            <span style={{
+                              fontSize: '11px',
+                              fontWeight: 700,
+                              padding: '2px 8px',
+                              borderRadius: '9999px',
+                              background: tool.badgeBg || '#e8f5e9',
+                              color: tool.badgeColor || '#1b4332'
+                            }}>
+                              {tool.badge}
+                            </span>
+                          )}
+                        </div>
                       </div>
 
-                      {/* Title & Path */}
-                      <h4 style={{ fontSize: '1rem', fontWeight: 800, color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
+                      {/* Tool Name */}
+                      <h4 style={{ fontSize: '1.05rem', fontWeight: 700, color: '#0f172a', margin: '0 0 6px 0' }}>
                         {tool.name}
                       </h4>
 
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '10px' }}>
+                      {/* Explicit Use Case Callout */}
+                      <div style={{
+                        background: '#f8fafc',
+                        borderLeft: `3px solid ${category.accentColor}`,
+                        padding: '6px 10px',
+                        borderRadius: '0 6px 6px 0',
+                        fontSize: '12px',
+                        color: '#334155',
+                        marginBottom: '10px',
+                        lineHeight: 1.4
+                      }}>
+                        <strong>Use Case:</strong> {tool.useCase}
+                      </div>
+
+                      <p style={{ fontSize: '13px', color: '#64748b', margin: 0, lineHeight: 1.5 }}>
+                        {tool.description}
+                      </p>
+                    </div>
+
+                    {/* Bottom Action Footer */}
+                    <div style={{
+                      borderTop: '1px solid #f1f5f9',
+                      paddingTop: '14px',
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'space-between',
+                      gap: '8px'
+                    }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                         <code style={{
-                          fontFamily: 'var(--font-mono)',
-                          fontSize: '0.75rem',
-                          color: 'var(--color-primary)',
-                          background: 'rgba(52, 126, 93, 0.08)',
-                          padding: '2px 8px',
+                          fontSize: '11px',
+                          color: '#64748b',
+                          background: '#f1f5f9',
+                          padding: '3px 6px',
                           borderRadius: '4px'
                         }}>
                           {tool.path}
                         </code>
-
                         <button
                           onClick={() => handleCopy(window.location.origin + tool.path, tool.id)}
                           style={{
                             background: 'none',
                             border: 'none',
                             cursor: 'pointer',
-                            color: 'var(--text-tertiary)',
+                            color: isCopied ? '#16a34a' : '#94a3b8',
+                            padding: '2px',
                             display: 'flex',
-                            alignItems: 'center',
-                            padding: '2px'
+                            alignItems: 'center'
                           }}
-                          title="Copy direct URL path"
+                          title="Copy full URL"
                         >
-                          {isCopied ? <Check size={13} color="#10b981" /> : <Copy size={13} />}
+                          {isCopied ? <Check size={13} /> : <Copy size={13} />}
                         </button>
                       </div>
-
-                      {/* Description */}
-                      <p style={{ fontSize: '0.82rem', lineHeight: 1.5, color: 'var(--text-secondary)', marginBottom: '10px' }}>
-                        {tool.description}
-                      </p>
-
-                      <div style={{ fontSize: '0.75rem', color: 'var(--text-tertiary)', fontStyle: 'italic' }}>
-                        &bull; {tool.valueProp}
-                      </div>
-                    </div>
-
-                    {/* Bottom Action Button */}
-                    <div style={{
-                      display: 'flex',
-                      alignItems: 'center',
-                      justifyContent: 'space-between',
-                      borderTop: '1px solid var(--border-subtle)',
-                      paddingTop: '12px'
-                    }}>
-                      <span style={{ fontSize: '0.72rem', color: 'var(--text-tertiary)', fontWeight: 600 }}>
-                        {tool.keyMetrics}
-                      </span>
 
                       <button
                         onClick={() => onSelectTab(tool.id as TabType)}
@@ -413,18 +473,20 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
                           display: 'inline-flex',
                           alignItems: 'center',
                           gap: '6px',
-                          padding: '6px 14px',
+                          padding: '7px 14px',
                           borderRadius: '8px',
                           border: 'none',
-                          background: 'var(--color-primary-soft)',
-                          color: 'var(--color-primary-dark)',
-                          fontSize: '0.78rem',
-                          fontWeight: 700,
+                          background: '#1b4332',
+                          color: '#ffffff',
+                          fontSize: '12px',
+                          fontWeight: 600,
                           cursor: 'pointer',
-                          transition: 'all 0.15s ease'
+                          transition: 'background 0.15s ease'
                         }}
+                        onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#2d6a4f')}
+                        onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = '#1b4332')}
                       >
-                        <span>Launch Tool</span>
+                        Launch
                         <ArrowRight size={13} />
                       </button>
                     </div>
@@ -438,4 +500,3 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
     </div>
   );
 }
-

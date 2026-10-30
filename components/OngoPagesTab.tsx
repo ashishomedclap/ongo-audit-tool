@@ -167,6 +167,9 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
       <ContextCue
+        level={1}
+        toolNumber={3}
+        useCase="Audit Ongo's current 34 live URLs for title tag lengths, meta descriptions, and CTR hooks."
         badge="Live Sitemap Auditor"
         title="Ongo Live Pages Explorer & CTR Normalization Engine"
         about="This is a real-time URL and metadata crawler for ongoweightloss.com. It connects directly to your live sitemap.xml, extracts the current live <title> and meta descriptions for all pages, and displays them side-by-side with CTR-normalized recommendations tailored to match transactional patient search intent."

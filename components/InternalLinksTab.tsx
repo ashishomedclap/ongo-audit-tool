@@ -231,6 +231,9 @@ export default function InternalLinksTab() {
       </div>
 
       <ContextCue
+        level={3}
+        toolNumber={10}
+        useCase="Deploy 4 strategic internal linking rules to distribute PageRank equity and prevent orphan pages."
         title="Automated Silo Link Rules"
         about="Never place internal links randomly. Rule 1 enforces vertical funneling from informational spokes to money pages. Rule 2 connects guides to high-dwell utility tools. Rule 3 connects articles to doctor E-E-A-T credentials. Rule 4 guarantees every page funnels qualified patients to /weightloss-onboard/."
       />

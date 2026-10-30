@@ -1,0 +1,514 @@
+'use client';
+
+import React, { useState } from 'react';
+import { 
+  BookOpen, 
+  Download, 
+  ExternalLink, 
+  ChevronLeft, 
+  ChevronRight, 
+  Maximize2, 
+  Layers, 
+  LayoutGrid, 
+  Sparkles,
+  FileText
+} from 'lucide-react';
+import { BooksIndexData, ONGO_PDF_BOOKS, PdfBookItem } from '@/lib/books-data';
+import ContextCue from './ContextCue';
+
+interface BooksLibraryTabProps {
+  initialIndex?: BooksIndexData;
+  initialSlug?: string;
+}
+
+export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibraryTabProps) {
+  const books = initialIndex?.books || ONGO_PDF_BOOKS;
+  
+  // Default to initialSlug if provided, otherwise the first book
+  const defaultBook = initialSlug 
+    ? books.find(b => b.slug === initialSlug) || books[0]
+    : books[0];
+
+  const [selectedBook, setSelectedBook] = useState<PdfBookItem>(defaultBook);
+  const [viewMode, setViewMode] = useState<'reader' | 'grid'>('reader');
+
+  const currentIndex = books.findIndex(b => b.slug === selectedBook.slug);
+  const prevBook = currentIndex > 0 ? books[currentIndex - 1] : null;
+  const nextBook = currentIndex < books.length - 1 ? books[currentIndex + 1] : null;
+
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
+      {/* Context Cue */}
+      <ContextCue
+        level={1}
+        toolNumber={2}
+        badge="7 Books (PDF)"
+        title="7 Onboarding Books Digital Library"
+        useCase="Study the exact onboarding playbooks covering clinical GLP-1 compounding laws, Next.js technical SEO, off-page PR, and analytics before executing site audits."
+        about="This digital library embeds all 7 official onboarding books (2,924 pages, 518,620 words) written for the Ongo Weight Loss team. It renders the original updated PDF volumes directly inside your browser with full table-of-contents navigation, search (Ctrl+F), page zoom, bookmarks, and one-click downloads."
+        whatYouCanDo={[
+          {
+            action: "Read Full PDF Volumes",
+            description: "Read books 1 through 7 with browser-native zooming, multi-page layout, thumbnail panel, and text selection."
+          },
+          {
+            action: "Switch Volumes with One Click",
+            description: "Jump instantly between books using the top volume pill bar or keyboard-friendly next/prev selectors."
+          },
+          {
+            action: "Toggle Reader vs Grid View",
+            description: "Switch between the focused distraction-free PDF viewer and the multi-volume visual catalog."
+          },
+          {
+            action: "Download Original PDFs",
+            description: "Download any of the 7 updated PDF volumes for offline study or local clinical reference."
+          }
+        ]}
+        tip="Use your browser's native search (Ctrl+F / Cmd+F) inside the embedded PDF viewer to search any clinical phrase, pharmacy statute, or Next.js code snippet across 2,924 pages."
+      />
+
+      {/* Top Header Banner */}
+      <div style={{
+        background: 'linear-gradient(135deg, #1b4332 0%, #081c15 100%)',
+        color: '#ffffff',
+        borderRadius: '16px',
+        padding: '24px 28px',
+        border: '1px solid rgba(116, 198, 157, 0.25)',
+        boxShadow: '0 8px 30px rgba(8, 28, 21, 0.15)'
+      }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '16px' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
+              <span style={{
+                background: 'rgba(116, 198, 157, 0.2)',
+                color: '#74c69d',
+                padding: '3px 8px',
+                borderRadius: '9999px',
+                fontSize: '11px',
+                fontWeight: 700,
+                letterSpacing: '0.05em',
+                textTransform: 'uppercase'
+              }}>
+                Interactive PDF Library
+              </span>
+              <span style={{ color: 'rgba(255,255,255,0.65)', fontSize: '13px' }}>
+                7 Volumes · October 2026 Edition · Ashish Osten
+              </span>
+            </div>
+            <h1 style={{ fontSize: '24px', fontWeight: 800, margin: '0 0 6px 0', letterSpacing: '-0.02em' }}>
+              Ongo Weight Loss · Direct PDF Reader
+            </h1>
+            <p style={{ color: 'rgba(255,255,255,0.85)', fontSize: '14px', maxWidth: '780px', margin: 0, lineHeight: 1.5 }}>
+              Original updated PDFs rendered directly in your browser with full vector graphics, tables, charts, illustrations, and native PDF search/zoom controls.
+            </p>
+          </div>
+
+          {/* View Toggle */}
+          <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+            <div style={{
+              display: 'flex',
+              background: 'rgba(255, 255, 255, 0.12)',
+              borderRadius: '8px',
+              padding: '3px',
+              border: '1px solid rgba(255, 255, 255, 0.18)'
+            }}>
+              <button
+                onClick={() => setViewMode('reader')}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '6px',
+                  padding: '6px 12px',
+                  fontSize: '12px',
+                  fontWeight: 600,
+                  borderRadius: '6px',
+                  border: 'none',
+                  cursor: 'pointer',
+                  background: viewMode === 'reader' ? '#ffffff' : 'transparent',
+                  color: viewMode === 'reader' ? '#1b4332' : 'rgba(255,255,255,0.85)',
+                  transition: 'all 0.15s ease'
+                }}
+              >
+                <BookOpen size={14} />
+                PDF Reader
+              </button>
+              <button
+                onClick={() => setViewMode('grid')}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '6px',
+                  padding: '6px 12px',
+                  fontSize: '12px',
+                  fontWeight: 600,
+                  borderRadius: '6px',
+                  border: 'none',
+                  cursor: 'pointer',
+                  background: viewMode === 'grid' ? '#ffffff' : 'transparent',
+                  color: viewMode === 'grid' ? '#1b4332' : 'rgba(255,255,255,0.85)',
+                  transition: 'all 0.15s ease'
+                }}
+              >
+                <LayoutGrid size={14} />
+                Shelf Grid
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {/* Horizontal Book Switcher Tabs */}
+        <div style={{
+          marginTop: '18px',
+          paddingTop: '16px',
+          borderTop: '1px solid rgba(255, 255, 255, 0.12)',
+          display: 'flex',
+          gap: '8px',
+          overflowX: 'auto',
+          paddingBottom: '4px'
+        }} className="no-scrollbar">
+          {books.map(b => {
+            const isSelected = selectedBook.slug === b.slug;
+            return (
+              <button
+                key={b.slug}
+                onClick={() => {
+                  setSelectedBook(b);
+                  setViewMode('reader');
+                }}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '8px',
+                  padding: '7px 12px',
+                  borderRadius: '8px',
+                  border: isSelected ? '1px solid #74c69d' : '1px solid rgba(255, 255, 255, 0.15)',
+                  background: isSelected ? 'rgba(116, 198, 157, 0.25)' : 'rgba(255, 255, 255, 0.06)',
+                  color: '#ffffff',
+                  fontSize: '12px',
+                  fontWeight: isSelected ? 700 : 500,
+                  cursor: 'pointer',
+                  whiteSpace: 'nowrap',
+                  transition: 'all 0.15s ease'
+                }}
+              >
+                <span style={{
+                  background: isSelected ? '#74c69d' : 'rgba(255, 255, 255, 0.2)',
+                  color: isSelected ? '#081c15' : '#ffffff',
+                  padding: '1px 6px',
+                  borderRadius: '4px',
+                  fontSize: '10px',
+                  fontWeight: 800
+                }}>
+                  0{b.bookNumber}
+                </span>
+                <span>{b.title}</span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* Main Body: Reader Mode or Shelf Grid */}
+      {viewMode === 'reader' ? (
+        /* DIRECT EMBEDDED PDF VIEWER */
+        <div style={{
+          backgroundColor: '#ffffff',
+          borderRadius: '16px',
+          border: '1px solid #cbd5e1',
+          boxShadow: '0 4px 20px rgba(0,0,0,0.06)',
+          overflow: 'hidden',
+          display: 'flex',
+          flexDirection: 'column'
+        }}>
+          {/* Reader Top Bar */}
+          <div style={{
+            padding: '12px 20px',
+            backgroundColor: '#f8fafc',
+            borderBottom: '1px solid #e2e8f0',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            flexWrap: 'wrap',
+            gap: '12px'
+          }}>
+            {/* Book Info */}
+            <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+              <span style={{
+                background: '#1b4332',
+                color: '#74c69d',
+                padding: '3px 8px',
+                borderRadius: '6px',
+                fontSize: '11px',
+                fontWeight: 800
+              }}>
+                BOOK 0{selectedBook.bookNumber}
+              </span>
+              <div>
+                <h3 style={{ margin: 0, fontSize: '15px', fontWeight: 700, color: '#0f172a' }}>
+                  {selectedBook.title}
+                </h3>
+                <span style={{ fontSize: '12px', color: '#64748b' }}>
+                  {selectedBook.subtitle} · {selectedBook.totalPages} pages ({selectedBook.fileSize})
+                </span>
+              </div>
+            </div>
+
+            {/* Actions: Prev / Next / Fullscreen / Open New Tab / Download */}
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+              {/* Prev Book Button */}
+              <button
+                disabled={!prevBook}
+                onClick={() => prevBook && setSelectedBook(prevBook)}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '4px',
+                  padding: '6px 10px',
+                  borderRadius: '6px',
+                  border: '1px solid #cbd5e1',
+                  background: prevBook ? '#ffffff' : '#f1f5f9',
+                  color: prevBook ? '#1b4332' : '#94a3b8',
+                  fontSize: '12px',
+                  fontWeight: 600,
+                  cursor: prevBook ? 'pointer' : 'not-allowed'
+                }}
+                title={prevBook ? `Go to Book ${prevBook.bookNumber}: ${prevBook.title}` : ''}
+              >
+                <ChevronLeft size={14} />
+                Prev Book
+              </button>
+
+              {/* Next Book Button */}
+              <button
+                disabled={!nextBook}
+                onClick={() => nextBook && setSelectedBook(nextBook)}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '4px',
+                  padding: '6px 10px',
+                  borderRadius: '6px',
+                  border: '1px solid #cbd5e1',
+                  background: nextBook ? '#ffffff' : '#f1f5f9',
+                  color: nextBook ? '#1b4332' : '#94a3b8',
+                  fontSize: '12px',
+                  fontWeight: 600,
+                  cursor: nextBook ? 'pointer' : 'not-allowed'
+                }}
+                title={nextBook ? `Go to Book ${nextBook.bookNumber}: ${nextBook.title}` : ''}
+              >
+                Next Book
+                <ChevronRight size={14} />
+              </button>
+
+              {/* Open in New Window Button */}
+              <a
+                href={selectedBook.pdfUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '6px',
+                  padding: '6px 12px',
+                  borderRadius: '6px',
+                  border: '1px solid #cbd5e1',
+                  background: '#ffffff',
+                  color: '#1b4332',
+                  fontSize: '12px',
+                  fontWeight: 600,
+                  textDecoration: 'none'
+                }}
+                title="Open PDF in new browser tab"
+              >
+                <Maximize2 size={13} />
+                Open in Full Window
+              </a>
+
+              {/* Download PDF Button */}
+              <a
+                href={selectedBook.pdfUrl}
+                download={selectedBook.fileName}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '6px',
+                  padding: '6px 12px',
+                  borderRadius: '6px',
+                  border: 'none',
+                  background: '#1b4332',
+                  color: '#ffffff',
+                  fontSize: '12px',
+                  fontWeight: 600,
+                  textDecoration: 'none'
+                }}
+              >
+                <Download size={13} />
+                Download PDF
+              </a>
+            </div>
+          </div>
+
+          {/* Interactive Native PDF Iframe */}
+          <div style={{
+            position: 'relative',
+            width: '100%',
+            height: 'calc(100vh - 240px)',
+            minHeight: '820px',
+            backgroundColor: '#525659'
+          }}>
+            <iframe
+              key={selectedBook.slug}
+              src={`${selectedBook.pdfUrl}#toolbar=1&navpanes=1&scrollbar=1`}
+              title={`Ongo Weight Loss - Book ${selectedBook.bookNumber}: ${selectedBook.title}`}
+              style={{
+                width: '100%',
+                height: '100%',
+                border: 'none',
+                display: 'block'
+              }}
+            />
+          </div>
+        </div>
+      ) : (
+        /* SHELF GRID VIEW */
+        <div>
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fill, minmax(360px, 1fr))',
+            gap: '20px'
+          }}>
+            {books.map(b => (
+              <div
+                key={b.slug}
+                onClick={() => {
+                  setSelectedBook(b);
+                  setViewMode('reader');
+                }}
+                style={{
+                  backgroundColor: '#ffffff',
+                  borderRadius: '14px',
+                  border: '1px solid #e2e8f0',
+                  padding: '24px',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  justifyContent: 'space-between',
+                  boxShadow: '0 2px 10px rgba(0,0,0,0.03)',
+                  transition: 'all 0.2s ease',
+                  cursor: 'pointer'
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.transform = 'translateY(-3px)';
+                  e.currentTarget.style.boxShadow = '0 10px 25px rgba(27, 67, 50, 0.12)';
+                  e.currentTarget.style.borderColor = '#74c69d';
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.transform = 'none';
+                  e.currentTarget.style.boxShadow = '0 2px 10px rgba(0,0,0,0.03)';
+                  e.currentTarget.style.borderColor = '#e2e8f0';
+                }}
+              >
+                <div>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
+                    <span style={{
+                      backgroundColor: '#e8f5e9',
+                      color: '#2d6a4f',
+                      padding: '3px 10px',
+                      borderRadius: '9999px',
+                      fontSize: '11px',
+                      fontWeight: 700
+                    }}>
+                      BOOK 0{b.bookNumber}
+                    </span>
+                    <span style={{ fontSize: '11px', color: '#64748b', fontWeight: 500 }}>
+                      {b.totalPages} pages · {b.fileSize}
+                    </span>
+                  </div>
+
+                  <h3 style={{ fontSize: '18px', fontWeight: 700, color: '#1b4332', margin: '0 0 6px 0', lineHeight: 1.3 }}>
+                    {b.title}
+                  </h3>
+                  
+                  <p style={{ fontSize: '13px', color: '#475569', margin: '0 0 14px 0', lineHeight: 1.5 }}>
+                    {b.subtitle}
+                  </p>
+
+                  <div style={{
+                    display: 'inline-block',
+                    fontSize: '11px',
+                    color: '#15803d',
+                    backgroundColor: '#f0fdf4',
+                    border: '1px solid #bbf7d0',
+                    padding: '2px 8px',
+                    borderRadius: '6px',
+                    marginBottom: '16px'
+                  }}>
+                    {b.category}
+                  </div>
+                </div>
+
+                <div style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  borderTop: '1px solid #f1f5f9',
+                  paddingTop: '16px',
+                  marginTop: '12px'
+                }}>
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setSelectedBook(b);
+                      setViewMode('reader');
+                    }}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '6px',
+                      backgroundColor: '#1b4332',
+                      color: '#ffffff',
+                      border: 'none',
+                      borderRadius: '8px',
+                      padding: '8px 14px',
+                      fontSize: '12px',
+                      fontWeight: 600,
+                      cursor: 'pointer',
+                      transition: 'background 0.15s ease'
+                    }}
+                    onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#2d6a4f')}
+                    onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = '#1b4332')}
+                  >
+                    <BookOpen size={14} />
+                    Open PDF in Reader
+                  </button>
+
+                  <a
+                    href={b.pdfUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    onClick={(e) => e.stopPropagation()}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '4px',
+                      color: '#475569',
+                      fontSize: '12px',
+                      textDecoration: 'none',
+                      padding: '8px 10px',
+                      borderRadius: '8px',
+                      border: '1px solid #e2e8f0',
+                      background: '#f8fafc'
+                    }}
+                  >
+                    <ExternalLink size={13} />
+                    Full Window
+                  </a>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}

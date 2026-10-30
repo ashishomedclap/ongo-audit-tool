@@ -66,6 +66,9 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <ContextCue
+        level={3}
+        toolNumber={11}
+        useCase="Execute the 217-page silo roadmap spanning Treatment, Condition, Comparison, and Clinical silos."
         badge="Strategic Architecture"
         title="Content Silo Breakdown & Ongo 217-Page Roadmap"
         about="This page maps the macro content architecture of 35,420 competitor URLs across 6 clinical silos and presents Ongo Weight Loss's comprehensive 217-Page Organic Expansion Roadmap. It provides a prioritized, actionable blueprint to scale Ongo from its current 11 live pages to 228 authoritative URLs."

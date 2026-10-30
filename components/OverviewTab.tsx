@@ -24,12 +24,15 @@ import {
   BadgeCheck,
   Compass,
   Link2,
-  GitCompare
+  GitCompare,
+  BookOpen,
+  FolderTree
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
 import { TabType } from './Navbar';
 import ContextCue from './ContextCue';
 import OngoLogo from './OngoLogo';
+import { TOOLS_DIRECTORY, TOOL_CATEGORIES } from '@/lib/tools-sitemap';
 
 interface OverviewTabProps {
   competitors: CompetitorSummary[];
@@ -86,6 +89,9 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
       
       {/* Context Cue */}
       <ContextCue
+        level={1}
+        toolNumber={1}
+        useCase="Assess high-level Ongo telemetry, clinical metrics ($179/mo Semaglutide, $249/mo Tirzepatide), and macro competitive landscape across 100 brands."
         badge="Executive Overview"
         title="Market Intelligence & Competitor Benchmark Suite"
         about="This page provides the central executive overview for Ongo Weight Loss, benchmarking our 50-state virtual telehealth clinic against 100 US compounded GLP-1 competitors. It consolidates data from 35,420 crawled competitor URLs, monitors real-time system metrics, visualizes clinical pricing models ($179/mo Semaglutide, $249/mo Tirzepatide), and tracks our 217-page organic acquisition roadmap against national telehealth leaders."
@@ -288,6 +294,14 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
 
           {/* Action Navigation Pills */}
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+            <button className="btn-minimal-primary" onClick={() => onSelectTab('books')} style={{ background: 'linear-gradient(135deg, #059669 0%, #047857 100%)', color: '#ffffff' }}>
+              <BookOpen size={14} color="#d1fae5" />
+              7 Onboarding Books (PDF)
+            </button>
+            <button className="btn-minimal-primary" onClick={() => onSelectTab('suite-sitemap')} style={{ background: 'linear-gradient(135deg, #1b4332 0%, #24553f 100%)', color: '#ffffff' }}>
+              <FolderTree size={14} color="#74c69d" />
+              Master Sitemap (14 Tools)
+            </button>
             <button className="btn-minimal-primary" onClick={() => onSelectTab('keywords-harvester')} style={{ background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)', color: '#ffffff' }}>
               <Sparkles size={14} color="#74c69d" />
               Keyword & PAA Harvester
@@ -552,6 +566,158 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
           >
             Review 217-Page Roadmap Checklist <ChevronRight size={14} />
           </button>
+        </div>
+
+        
+        {/* Bento Item: Complete SEO & Clinical Intelligence Hierarchy (Levels 1–3) */}
+        <div className="bento-card bento-col-12" style={{ padding: '28px', background: '#ffffff', border: '1px solid var(--border-medium)' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '16px', marginBottom: '22px' }}>
+            <div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '8px' }}>
+                <span className="badge-minimal badge-minimal-success" style={{ fontSize: '0.72rem', textTransform: 'uppercase' }}>
+                  Ordered Workflow Architecture
+                </span>
+                <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.72rem' }}>
+                  3 Levels • 14 Specialized Tools
+                </span>
+              </div>
+              <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)', margin: 0, letterSpacing: '-0.02em' }}>
+                Complete SEO & Clinical Intelligence Suite Hierarchy
+              </h2>
+              <p style={{ fontSize: '0.82rem', color: 'var(--text-secondary)', margin: '4px 0 0 0' }}>
+                Every tool is organized by its strategic level, its ordered use case, and what it achieves for Ongo Weight Loss.
+              </p>
+            </div>
+
+            <button 
+              className="btn-minimal-primary" 
+              onClick={() => onSelectTab('suite-sitemap')}
+              style={{ fontSize: '0.8rem', padding: '8px 16px', background: 'var(--color-primary-dark)', color: '#ffffff' }}
+            >
+              <FolderTree size={14} color="#74c69d" />
+              Open Visual Master Sitemap <ChevronRight size={14} />
+            </button>
+          </div>
+
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '20px' }}>
+            {TOOL_CATEGORIES.map((category) => (
+              <div 
+                key={category.id} 
+                style={{
+                  background: 'var(--bg-canvas)',
+                  border: '1px solid var(--border-subtle)',
+                  borderRadius: 'var(--radius-md)',
+                  padding: '20px',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: '14px'
+                }}
+              >
+                {/* Level Category Header */}
+                <div style={{ paddingBottom: '12px', borderBottom: '1px solid var(--border-subtle)' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
+                    <span style={{
+                      fontSize: '0.68rem',
+                      fontWeight: 800,
+                      padding: '2px 8px',
+                      borderRadius: '9999px',
+                      background: category.level === 1 ? '#dcfce7' : category.level === 2 ? '#fef3c7' : '#ffedd5',
+                      color: category.level === 1 ? '#166534' : category.level === 2 ? '#92400e' : '#9a3412',
+                      border: '1px solid rgba(0,0,0,0.06)',
+                      textTransform: 'uppercase'
+                    }}>
+                      Level {category.level}
+                    </span>
+                    <span style={{ fontSize: '0.74rem', color: 'var(--text-tertiary)', fontWeight: 600 }}>
+                      {category.tools.length} Tools
+                    </span>
+                  </div>
+                  <h3 style={{ fontSize: '0.98rem', fontWeight: 800, color: 'var(--color-primary-dark)', margin: '0 0 6px 0' }}>
+                    {category.name}
+                  </h3>
+                  <div style={{
+                    fontSize: '0.76rem',
+                    color: 'var(--text-secondary)',
+                    lineHeight: 1.45,
+                    padding: '8px 10px',
+                    borderRadius: '6px',
+                    background: 'rgba(255, 255, 255, 0.7)',
+                    border: '1px solid var(--border-subtle)'
+                  }}>
+                    <strong style={{ color: 'var(--color-primary-dark)' }}>Core Use Case:</strong> {category.useCase}
+                  </div>
+                </div>
+
+                {/* Tool List in this Level */}
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', flex: 1 }}>
+                  {category.tools.map((tool, idx) => {
+                    const stepNum = category.level === 1 ? idx + 1 : category.level === 2 ? idx + 6 : idx + 10;
+                    return (
+                      <div 
+                        key={tool.id}
+                        style={{
+                          padding: '12px 14px',
+                          background: '#ffffff',
+                          borderRadius: '8px',
+                          border: '1px solid var(--border-subtle)',
+                          display: 'flex',
+                          flexDirection: 'column',
+                          gap: '6px',
+                          transition: 'all 0.15s ease'
+                        }}
+                      >
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                            <span style={{
+                              fontSize: '0.65rem',
+                              fontWeight: 800,
+                              padding: '1px 6px',
+                              borderRadius: '4px',
+                              background: 'var(--color-primary-soft)',
+                              color: 'var(--color-primary-dark)',
+                              fontFamily: 'var(--font-mono)'
+                            }}>
+                              #{stepNum}
+                            </span>
+                            <span style={{ fontSize: '0.84rem', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
+                              {tool.name}
+                            </span>
+                          </div>
+                          <button
+                            onClick={() => onSelectTab(tool.id as any)}
+                            style={{
+                              background: 'var(--bg-canvas)',
+                              border: '1px solid var(--border-subtle)',
+                              padding: '3px 8px',
+                              borderRadius: '4px',
+                              fontSize: '0.68rem',
+                              fontWeight: 600,
+                              color: 'var(--color-primary-dark)',
+                              cursor: 'pointer',
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: '3px'
+                            }}
+                          >
+                            <span>Open</span>
+                            <ChevronRight size={11} />
+                          </button>
+                        </div>
+
+                        <div style={{ fontSize: '0.74rem', color: 'var(--text-secondary)', lineHeight: 1.4 }}>
+                          {tool.description}
+                        </div>
+
+                        <div style={{ fontSize: '0.71rem', color: 'var(--color-primary)', fontWeight: 600 }}>
+                          ↳ <em>Use Case: {tool.useCase}</em>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
 
         {/* Bento Item 9: Top Competitor Radar (Span 12) */}

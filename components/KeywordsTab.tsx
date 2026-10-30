@@ -297,6 +297,9 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
       
       {/* Page Guide Header */}
       <ContextCue
+        level={2}
+        toolNumber={8}
+        useCase="Explore 54,841 prioritized keywords with difficulty, volume, and patient intent ratings."
         badge="Keyword Explorer"
         title="54,000+ Keyword Intelligence & Opportunity Radar"
         about="This page is a live Keyword Explorer powered by real organic keyword datasets extracted from 11 top telehealth weight loss competitors (GoodRx, Ro, WeightWatchers, Hims, Noom, PlushCare, Join Mochi, LifeMD, Lemonaid Health, Join Fridays, and Brello Health). It indexes 54,841 keywords with verified monthly search volume, keyword difficulty (KD), Google rankings, search intent, and weighted opportunity scores to pinpoint high-ROI patient acquisition targets for Ongo Weight Loss."

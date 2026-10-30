@@ -8,7 +8,7 @@ import {
   ChevronUp, 
   Sparkles, 
   CheckCircle2,
-  Info
+  Compass
 } from 'lucide-react';
 
 export interface ActionItem {
@@ -20,6 +20,9 @@ export interface ActionItem {
 export interface ContextCueProps {
   badge?: string;
   title: string;
+  level?: 1 | 2 | 3;
+  toolNumber?: number;
+  useCase?: string;
   // Explicit "What this page is about"
   about?: string | React.ReactNode;
   // Explicit "What you can do from this page"
@@ -36,6 +39,9 @@ export interface ContextCueProps {
 export default function ContextCue({
   badge = 'Page Guide',
   title,
+  level,
+  toolNumber,
+  useCase,
   about,
   whatYouCanDo,
   summary,
@@ -53,6 +59,23 @@ export default function ContextCue({
     : details
     ? details.map(d => ({ action: d.label, description: d.description }))
     : [];
+
+  const levelMeta = level === 1 ? {
+    label: 'Level 1 · Foundation & Baseline',
+    bg: '#dcfce7',
+    color: '#166534',
+    border: '#bbf7d0'
+  } : level === 2 ? {
+    label: 'Level 2 · SEO Research & Content Engine',
+    bg: '#fef3c7',
+    color: '#92400e',
+    border: '#fde68a'
+  } : level === 3 ? {
+    label: 'Level 3 · Architecture, Linking & Governance',
+    bg: '#ffedd5',
+    color: '#9a3412',
+    border: '#fed7aa'
+  } : null;
 
   return (
     <div style={{
@@ -73,10 +96,41 @@ export default function ContextCue({
         justifyContent: 'space-between',
         gap: '14px'
       }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flexWrap: 'wrap' }}>
-          <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.7rem', padding: '2px 9px', letterSpacing: '0.02em' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+          {levelMeta && (
+            <span style={{
+              fontSize: '0.68rem',
+              fontWeight: 800,
+              padding: '2px 8px',
+              borderRadius: '9999px',
+              background: levelMeta.bg,
+              color: levelMeta.color,
+              border: `1px solid ${levelMeta.border}`,
+              letterSpacing: '0.02em',
+              textTransform: 'uppercase'
+            }}>
+              {levelMeta.label}
+            </span>
+          )}
+
+          {toolNumber && (
+            <span style={{
+              fontSize: '0.68rem',
+              fontWeight: 700,
+              padding: '2px 8px',
+              borderRadius: '9999px',
+              background: 'rgba(27, 67, 50, 0.08)',
+              color: 'var(--color-primary-dark)',
+              border: '1px solid rgba(27, 67, 50, 0.15)'
+            }}>
+              Tool #{toolNumber} of 14
+            </span>
+          )}
+
+          <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.68rem', padding: '2px 8px', letterSpacing: '0.02em' }}>
             {badge}
           </span>
+
           <h2 style={{
             fontSize: '0.95rem',
             fontWeight: 800,
@@ -105,16 +159,41 @@ export default function ContextCue({
             flexShrink: 0,
             transition: 'all 0.15s ease'
           }}
-          title={collapsed ? "Expand page instructions" : "Collapse page instructions"}
+          title={collapsed ? "Expand tool instructions" : "Collapse tool instructions"}
         >
-          <span>{collapsed ? 'Show Page Guide' : 'Hide Page Guide'}</span>
+          <span>{collapsed ? 'Show Tool Guide' : 'Hide Tool Guide'}</span>
           {collapsed ? <ChevronDown size={13} /> : <ChevronUp size={13} />}
         </button>
       </div>
 
-      {/* Guide Content: What this page is about & What you can do from this page */}
+      {/* Guide Content: Use Case Banner, What this page is about & What you can do */}
       {!collapsed && (
         <div style={{ padding: '18px 20px' }}>
+          {/* Primary Use Case Banner */}
+          {useCase && (
+            <div style={{
+              padding: '10px 14px',
+              background: 'rgba(27, 67, 50, 0.035)',
+              border: '1px solid rgba(27, 67, 50, 0.12)',
+              borderLeft: '4px solid var(--color-primary)',
+              borderRadius: '6px',
+              marginBottom: '16px',
+              fontSize: '0.82rem',
+              color: 'var(--color-primary-dark)',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '10px'
+            }}>
+              <Compass size={16} style={{ flexShrink: 0, color: 'var(--color-primary)' }} />
+              <div>
+                <span style={{ fontWeight: 800, textTransform: 'uppercase', fontSize: '0.72rem', letterSpacing: '0.03em', color: 'var(--color-primary)' }}>
+                  Ordered Workflow Use Case:{' '}
+                </span>
+                <span style={{ fontWeight: 600 }}>{useCase}</span>
+              </div>
+            </div>
+          )}
+
           <div style={{
             display: 'grid',
             gridTemplateColumns: 'repeat(auto-fit, minmax(360px, 1fr))',
@@ -158,7 +237,7 @@ export default function ContextCue({
                   color: 'var(--color-primary-dark)',
                   margin: 0
                 }}>
-                  What this page is about
+                  What this tool does
                 </h3>
               </div>
 
@@ -213,7 +292,7 @@ export default function ContextCue({
                   color: 'var(--color-primary-dark)',
                   margin: 0
                 }}>
-                  What you can do from this page
+                  What you can do from this tool
                 </h3>
               </div>
 

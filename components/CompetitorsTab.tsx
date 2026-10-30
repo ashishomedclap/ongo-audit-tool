@@ -61,6 +61,9 @@ export default function CompetitorsTab({ competitors, onInspectCompetitor }: Com
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <ContextCue
+        level={1}
+        toolNumber={4}
+        useCase="Filter, search, and benchmark 100 compounded GLP-1 telehealth competitors."
         badge="Market Census"
         title="100 Telehealth Competitors vs Ongo Weight Loss Benchmark"
         about="This page is a comprehensive market directory and competitor radar evaluating 100 US telehealth providers offering compounded Semaglutide and Tirzepatide. It benchmarks each competitor against Ongo Weight Loss (#00 Flagship Benchmark), analyzing organic search ranking, crawled URL footprint, GLP-1 medication specialization, doctor supervision models, and pricing transparency."

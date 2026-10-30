@@ -261,6 +261,9 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
       </div>
 
       <ContextCue
+        level={2}
+        toolNumber={6}
+        useCase="Compare 33,000+ competitor URLs against Ongo to uncover missing clinical topics, formats, and patient intent clusters."
         title="Content Gap Strategy"
         about="Competitors like OrderlyMeds, Mochi, and Ro generate 60%+ of their organic patients through middle-of-funnel comparison and dosing pages. Ongo currently has 34 pages focused primarily on core policies and homepage. Launching the 6 P0 Roadmap pages below instantly plugs our biggest organic traffic leaks."
       />

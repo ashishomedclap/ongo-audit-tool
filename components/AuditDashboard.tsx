@@ -16,8 +16,10 @@ import KeywordsHarvesterTab from './KeywordsHarvesterTab';
 import InternalLinksTab from './InternalLinksTab';
 import CompetitorGapTab from './CompetitorGapTab';
 import ToolsSitemapTab from './ToolsSitemapTab';
+import BooksLibraryTab from './BooksLibraryTab';
 import CompetitorModal from './CompetitorModal';
-import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
+import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData} from '@/lib/data';
+import { BooksIndexData } from '@/lib/books-data';
 
 interface AuditDashboardProps {
   initialCompetitors: CompetitorSummary[];
@@ -27,6 +29,8 @@ interface AuditDashboardProps {
   reportsList: { id: string; title: string; filename: string; sizeKb: number }[];
   complianceData?: CompetitorComplianceItem[];
   ongoLivePages?: OngoLivePagesData;
+  booksIndex?: BooksIndexData;
+  initialBookSlug?: string;
   defaultTab?: TabType;
 }
 
@@ -38,6 +42,8 @@ export default function AuditDashboard({
   reportsList,
   complianceData,
   ongoLivePages,
+  booksIndex,
+  initialBookSlug,
   defaultTab = 'overview'
 }: AuditDashboardProps) {
   const [activeTab, setActiveTab] = useState<TabType>(defaultTab);
@@ -67,6 +73,10 @@ export default function AuditDashboard({
         margin: '0 auto',
         padding: '32px 24px'
       }}>
+        {activeTab === 'books' && (
+          <BooksLibraryTab initialIndex={booksIndex} initialSlug={initialBookSlug} />
+        )}
+
         {activeTab === 'overview' && (
           <OverviewTab
             competitors={initialCompetitors}
