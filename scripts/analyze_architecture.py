@@ -4,7 +4,9 @@ import json
 from collections import defaultdict
 from urllib.parse import urlparse
 
-BASE_DIR = r"d:\research work\ongo-weightloss-competitors sitemaps"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_SITEMAPS = os.path.join(SCRIPT_DIR, "..", "data", "sitemaps")
+BASE_DIR = DATA_SITEMAPS if os.path.exists(DATA_SITEMAPS) else r"d:\research work\ongo-weightloss-competitors sitemaps"
 
 categories = {
     "Trust & Compliance": [

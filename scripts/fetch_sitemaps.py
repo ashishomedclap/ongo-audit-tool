@@ -15,7 +15,9 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-BASE_DIR = r"d:\research work\ongo-weightloss-competitors sitemaps"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_SITEMAPS = os.path.join(SCRIPT_DIR, "..", "data", "sitemaps")
+BASE_DIR = DATA_SITEMAPS if os.path.exists(DATA_SITEMAPS) else r"d:\research work\ongo-weightloss-competitors sitemaps"
 
 def extract_competitors_from_md(md_path):
     competitors = []
@@ -265,7 +267,9 @@ def process_competitor(comp):
     }
 
 if __name__ == "__main__":
-    md_file = r"d:\research work\ongo-weightloss-competitors sitemaps\100_competitors_list.md"
+    local_md = os.path.join(SCRIPT_DIR, "..", "data", "reports", "100_compounded_glp1_competitors.md")
+    alt_md = r"d:\research work\ongo-weightloss-competitors sitemaps\100_competitors_list.md"
+    md_file = local_md if os.path.exists(local_md) else alt_md
     competitors = extract_competitors_from_md(md_file)
     print(f"Loaded {len(competitors)} competitors from markdown.")
     

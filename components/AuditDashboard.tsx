@@ -11,8 +11,13 @@ import ArchitectureTab from './ArchitectureTab';
 import ReportsTab from './ReportsTab';
 import CommonVsUniqueTab from './CommonVsUniqueTab';
 import ComplianceTab from './ComplianceTab';
+import OngoPagesTab from './OngoPagesTab';
+import KeywordsHarvesterTab from './KeywordsHarvesterTab';
+import InternalLinksTab from './InternalLinksTab';
+import CompetitorGapTab from './CompetitorGapTab';
+import ToolsSitemapTab from './ToolsSitemapTab';
 import CompetitorModal from './CompetitorModal';
-import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem } from '@/lib/data';
+import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
 
 interface AuditDashboardProps {
   initialCompetitors: CompetitorSummary[];
@@ -21,6 +26,8 @@ interface AuditDashboardProps {
   masterUrls: MasterUrlItem[];
   reportsList: { id: string; title: string; filename: string; sizeKb: number }[];
   complianceData?: CompetitorComplianceItem[];
+  ongoLivePages?: OngoLivePagesData;
+  defaultTab?: TabType;
 }
 
 export default function AuditDashboard({
@@ -29,9 +36,11 @@ export default function AuditDashboard({
   ongoMeta,
   masterUrls,
   reportsList,
-  complianceData
+  complianceData,
+  ongoLivePages,
+  defaultTab = 'overview'
 }: AuditDashboardProps) {
-  const [activeTab, setActiveTab] = useState<TabType>('overview');
+  const [activeTab, setActiveTab] = useState<TabType>(defaultTab);
   const [inspectFolder, setInspectFolder] = useState<string | null>(null);
 
   const totalUrls = initialCompetitors.reduce((acc, c) => acc + (c.totalUrls || 0), 0);
@@ -39,7 +48,7 @@ export default function AuditDashboard({
 
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
-      {/* Sticky Top Navbar */}
+      {/* Sticky Top Navbar with Optimized Primary Navigation & Tools Sitemap */}
       <Navbar
         activeTab={activeTab}
         setActiveTab={setActiveTab}
@@ -64,6 +73,26 @@ export default function AuditDashboard({
             onSelectTab={(tab) => setActiveTab(tab)}
             onInspectCompetitor={(folder) => setInspectFolder(folder)}
           />
+        )}
+
+        {activeTab === 'ongo-pages' && (
+          <OngoPagesTab initialData={ongoLivePages} />
+        )}
+
+        {activeTab === 'keywords-harvester' && (
+          <KeywordsHarvesterTab />
+        )}
+
+        {activeTab === 'internal-links' && (
+          <InternalLinksTab />
+        )}
+
+        {activeTab === 'competitor-gap' && (
+          <CompetitorGapTab />
+        )}
+
+        {activeTab === 'suite-sitemap' && (
+          <ToolsSitemapTab onSelectTab={(tab) => setActiveTab(tab)} />
         )}
 
         {activeTab === 'sitemaps' && (
@@ -151,6 +180,20 @@ export default function AuditDashboard({
           </div>
 
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '14px', fontSize: '0.78rem' }}>
+            <button
+              onClick={() => setActiveTab('suite-sitemap')}
+              style={{
+                background: 'none',
+                border: 'none',
+                color: 'var(--color-primary-dark)',
+                fontWeight: 700,
+                cursor: 'pointer',
+                padding: 0,
+                fontSize: '0.78rem'
+              }}
+            >
+              Tools Sitemap Directory ↗
+            </button>
             <a 
               href="https://ongoweightloss.com/" 
               target="_blank" 
@@ -197,4 +240,3 @@ export default function AuditDashboard({
     </div>
   );
 }
-

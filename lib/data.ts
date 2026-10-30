@@ -157,78 +157,78 @@ export function getOngoMeta(): Record<string, OngoMetaItem> {
 function getRecommendationForUrl(url: string, currentTitle: string, currentDesc: string) {
   if (url === 'https://ongoweightloss.com/') {
     return {
-      recommendedTitle: 'Doctor-Led Medical Weight Loss & Compounded GLP-1 | Ongo',
-      recommendedDescription: 'Doctor-led telehealth weight loss with compounded semaglutide & tirzepatide vials. Licensed clinician care, transparent pricing, delivered to your door.',
-      primaryKeyword: 'Doctor-Led Medical Weight Loss, Compounded GLP-1',
-      notes: 'Current title is 55 chars. Recommended enhances intent with Compounded GLP-1 and clinician care.'
+      recommendedTitle: 'Doctor prescribed compounded semaglutide and tirzepatide online',
+      recommendedDescription: 'Get doctor prescribed compounded semaglutide and tirzepatide delivered directly to your home with transparent monthly pricing and no insurance needed',
+      primaryKeyword: 'compounded semaglutide and tirzepatide online',
+      notes: 'Natural human search query matching patients searching how to get prescribed compounded GLP-1 medications online without brand fluff or symbols'
     };
   }
   if (url.includes('compounded-semaglutide')) {
     return {
-      recommendedTitle: 'Compounded Semaglutide Vials & Telehealth Rx | Ongo Weight Loss',
-      recommendedDescription: 'Order compounded semaglutide vials online. Doctor-prescribed GLP-1 weight loss medication delivered discreetly with ongoing clinical titration and support.',
-      primaryKeyword: 'Compounded Semaglutide Vials, GLP-1 Telehealth',
-      notes: 'Focus on high-converting transactional queries: vials, doctor-prescribed, discreet delivery.'
+      recommendedTitle: 'How to get compounded semaglutide online prescribed by doctors',
+      recommendedDescription: 'Find out how to get compounded semaglutide prescribed online by licensed physicians and delivered refrigerated to your door with all injection supplies',
+      primaryKeyword: 'how to get compounded semaglutide online',
+      notes: 'Matches conversational transactional search intent for affordable doctor prescribed semaglutide without rigid corporate brand tags'
     };
   }
   if (url.includes('compounded-tirzepatide')) {
     return {
-      recommendedTitle: 'Compounded Tirzepatide Vials & Telehealth Rx | Ongo Weight Loss',
-      recommendedDescription: 'Dual GIP/GLP-1 compounded tirzepatide vials for weight loss. Licensed doctor consultations, personalized titration schedules, and fast direct shipping.',
-      primaryKeyword: 'Compounded Tirzepatide Vials, Dual GIP/GLP-1',
-      notes: 'Highlight dual GIP/GLP-1 receptor benefit and physician consultation.'
+      recommendedTitle: 'How to get compounded tirzepatide prescribed online for weight loss',
+      recommendedDescription: 'Learn how to get dual GIP and GLP-1 compounded tirzepatide prescribed online by licensed doctors with fast home delivery and ongoing medical support',
+      primaryKeyword: 'compounded tirzepatide prescribed online for weight loss',
+      notes: 'Direct human query for patients seeking compounded tirzepatide for superior weight reduction results'
     };
   }
   if (url.includes('pricing')) {
     return {
-      recommendedTitle: 'GLP-1 Pricing & Plans: Semaglutide & Tirzepatide | Ongo',
-      recommendedDescription: 'Transparent GLP-1 weight loss pricing with no hidden membership fees. Affordable compounded semaglutide and tirzepatide with doctor care included.',
-      primaryKeyword: 'GLP-1 Pricing, Semaglutide Cost, Affordable Weight Loss',
-      notes: 'Directly target cost and transparency searches.'
+      recommendedTitle: 'How much does compounded semaglutide and tirzepatide cost per month',
+      recommendedDescription: 'See transparent monthly costs for compounded semaglutide and tirzepatide including doctor consults medication supplies and free shipping with no hidden fees',
+      primaryKeyword: 'how much does compounded semaglutide cost per month',
+      notes: 'Exact query typed by patients researching out-of-pocket costs and comparing telehealth clinics'
     };
   }
   if (url.includes('how-it-works')) {
     return {
-      recommendedTitle: 'How Ongo Works: 3 Steps to Medical Weight Loss Online',
-      recommendedDescription: 'Learn how Ongo connects you with licensed doctors for GLP-1 weight management: 5-minute intake, provider consultation, and home delivery.',
-      primaryKeyword: 'How Ongo Works, Telehealth Weight Loss Steps',
-      notes: 'Add clarity on 3 simple steps (intake, consultation, delivery).'
+      recommendedTitle: 'How online weight loss consultations and medication delivery works',
+      recommendedDescription: 'See how virtual medical weight loss works in three simple steps from an online health intake to doctor review and home delivery of your medication',
+      primaryKeyword: 'how online medical weight loss works',
+      notes: 'Answers the searcher question of what to expect during virtual weight loss telehealth'
     };
   }
   if (url.includes('eligibility')) {
     return {
-      recommendedTitle: 'GLP-1 Weight Loss Eligibility & BMI Requirements | Ongo',
-      recommendedDescription: 'Check if you qualify for semaglutide or tirzepatide weight loss treatments. Review BMI guidelines, clinical medical criteria, and health history checks.',
-      primaryKeyword: 'GLP-1 Eligibility, BMI Requirements',
-      notes: 'Captures patients researching qualification before signing up.'
+      recommendedTitle: 'Find out if you qualify for glp 1 medical weight loss online',
+      recommendedDescription: 'Check the BMI criteria and medical qualifications required to receive doctor prescribed compounded semaglutide or tirzepatide online',
+      primaryKeyword: 'qualify for glp 1 medical weight loss online',
+      notes: 'Matches diagnostic queries from prospective patients asking if their BMI qualifies'
     };
   }
   if (url.includes('medical-team')) {
     return {
-      recommendedTitle: 'Licensed Medical Team & Clinical Weight Loss Doctors | Ongo',
-      recommendedDescription: 'Meet our US-licensed doctors and healthcare clinicians specializing in obesity medicine, medical weight management, and personalized GLP-1 therapies.',
-      primaryKeyword: 'Ongo Medical Team, Obesity Medicine Doctors, E-E-A-T',
-      notes: 'Crucial for Google Health E-E-A-T trust signals.'
+      recommendedTitle: 'Meet our team of board certified doctors specializing in weight loss',
+      recommendedDescription: 'Learn about our US licensed physicians and clinical specialists who provide medical evaluations ongoing dosage adjustments and virtual weight loss care',
+      primaryKeyword: 'board certified doctors specializing in weight loss',
+      notes: 'Builds authentic medical trust and E-E-A-T without stiff corporate titling'
     };
   }
   if (url.includes('locations')) {
     return {
-      recommendedTitle: 'Online Weight Loss Clinics in All 50 States | Ongo',
-      recommendedDescription: 'Access licensed telehealth weight loss care across all 50 states. Licensed clinicians, compounded GLP-1 prescriptions, and direct pharmacy shipping.',
-      primaryKeyword: 'Telehealth Weight Loss All 50 States, State Availability',
-      notes: 'Builds authority across state-specific patient queries.'
+      recommendedTitle: 'States where doctor prescribed compounded glp 1 can be shipped',
+      recommendedDescription: 'Check the list of US states where licensed physicians provide virtual medical consultations and ship compounded semaglutide and tirzepatide to your home',
+      primaryKeyword: 'states where compounded glp 1 can be shipped',
+      notes: 'Answers the searcher question of whether telehealth delivery is legal in their state'
     };
   }
   if (url.includes('faq')) {
     return {
-      recommendedTitle: 'Medical Weight Loss FAQs: GLP-1, Semaglutide, Shipping | Ongo',
-      recommendedDescription: 'Get answers to frequently asked questions about compounded GLP-1 medications, doctor visits, delivery timelines, dosing, and eligibility with Ongo.',
-      primaryKeyword: 'GLP-1 FAQ, Semaglutide Questions',
-      notes: 'Optimized for Google FAQ rich snippet indexing.'
+      recommendedTitle: 'Common questions about compounded semaglutide and tirzepatide',
+      recommendedDescription: 'Find clear answers to frequently asked questions about compounded GLP-1 prescriptions injection instructions side effect relief and shipping timelines',
+      primaryKeyword: 'questions about compounded semaglutide and tirzepatide',
+      notes: 'Direct Q&A intent matching user queries about safety and logistics'
     };
   }
   return {
-    recommendedTitle: currentTitle,
+    recommendedTitle: currentTitle.replace(/[|—–:;•]/g, ' ').replace(/&/g, 'and').replace(/\bOngo\s+Weight\s+Loss\b/gi, '').replace(/\bOngo\b/gi, '').replace(/\s+/g, ' ').trim(),
     recommendedDescription: currentDesc,
     primaryKeyword: 'GLP-1 Weight Loss',
     notes: 'Well-aligned with search intent.'
@@ -435,5 +435,59 @@ export function getCompetitorComplianceData(): CompetitorComplianceItem[] {
     return [];
   }
 }
+
+export interface OngoLivePageItem {
+  id: number;
+  url: string;
+  path: string;
+  status_code: number;
+  title: string;
+  title_length: number;
+  title_status: 'optimal' | 'too_short' | 'too_long' | 'missing';
+  description: string;
+  description_length: number;
+  description_status: 'optimal' | 'too_short' | 'too_long' | 'missing';
+  h1: string;
+  canonical: string;
+  category: string;
+  intent: string;
+  priority: string;
+  recommended_title: string;
+  recommended_description: string;
+  primary_keyword: string;
+  intent_gap: string;
+  ctr_hook: string;
+}
+
+export interface OngoLivePagesData {
+  last_updated: string;
+  total_pages: number;
+  source: string;
+  pages: OngoLivePageItem[];
+}
+
+export function getOngoLivePages(): OngoLivePagesData {
+  try {
+    const filePath = path.join(DATA_DIR, 'inventory', 'ongo_live_pages.json');
+    if (!fs.existsSync(filePath)) {
+      return {
+        last_updated: new Date().toISOString(),
+        total_pages: 0,
+        source: 'https://ongoweightloss.com/sitemap.xml',
+        pages: []
+      };
+    }
+    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  } catch (err) {
+    console.error('Error loading ongo live pages:', err);
+    return {
+      last_updated: new Date().toISOString(),
+      total_pages: 0,
+      source: 'https://ongoweightloss.com/sitemap.xml',
+      pages: []
+    };
+  }
+}
+
 
 

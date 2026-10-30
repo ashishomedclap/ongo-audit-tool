@@ -4,7 +4,8 @@ import {
   getOngoMeta, 
   getMasterUrlInventory, 
   getAvailableReports,
-  getCompetitorComplianceData 
+  getCompetitorComplianceData,
+  getOngoLivePages 
 } from '@/lib/data';
 import AuditDashboard from '@/components/AuditDashboard';
 
@@ -15,6 +16,7 @@ export default function Home() {
   const masterUrls = getMasterUrlInventory();
   const reportsList = getAvailableReports();
   const complianceData = getCompetitorComplianceData();
+  const ongoLivePages = getOngoLivePages();
 
   return (
     <AuditDashboard
@@ -24,6 +26,7 @@ export default function Home() {
       masterUrls={masterUrls}
       reportsList={reportsList}
       complianceData={complianceData}
+      ongoLivePages={ongoLivePages}
     />
   );
 }

@@ -21,15 +21,19 @@ import {
   Stethoscope,
   Truck,
   HeartPulse,
-  BadgeCheck
+  BadgeCheck,
+  Compass,
+  Link2,
+  GitCompare
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
+import { TabType } from './Navbar';
 import ContextCue from './ContextCue';
 import OngoLogo from './OngoLogo';
 
 interface OverviewTabProps {
   competitors: CompetitorSummary[];
-  onSelectTab: (tab: 'sitemaps' | 'competitors' | 'keywords' | 'patterns' | 'compliance' | 'meta' | 'architecture' | 'reports') => void;
+  onSelectTab: (tab: TabType) => void;
   onInspectCompetitor: (folder: string) => void;
 }
 
@@ -193,15 +197,39 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
             gap: '10px',
             minWidth: '220px'
           }}>
+            <button
+              onClick={() => onSelectTab('ongo-pages')}
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                gap: '8px',
+                padding: '10px 18px',
+                borderRadius: '9999px',
+                background: 'linear-gradient(135deg, #e76f51 0%, #ee8a4f 100%)',
+                color: '#ffffff',
+                border: 'none',
+                fontSize: '0.84rem',
+                fontWeight: 700,
+                cursor: 'pointer',
+                boxShadow: '0 3px 12px rgba(231, 111, 81, 0.4)',
+                transition: 'all 0.15s ease'
+              }}
+              title="Open the live page and URL inventory for ongoweightloss.com with live refresh"
+            >
+              <Compass size={16} />
+              <span>Audit Ongo Live Pages (34)</span>
+            </button>
+
             <a
               href="https://ongoweightloss.com/weightloss-onboard/"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-minimal-primary"
-              style={{ padding: '10px 18px', fontSize: '0.85rem', textDecoration: 'none' }}
+              style={{ padding: '8px 16px', fontSize: '0.8rem', textDecoration: 'none' }}
             >
               <span>See If I'm Eligible</span>
-              <ArrowUpRight size={15} />
+              <ArrowUpRight size={14} />
             </a>
             
             <a
@@ -260,7 +288,19 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
 
           {/* Action Navigation Pills */}
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-            <button className="btn-minimal-primary" onClick={() => onSelectTab('sitemaps')}>
+            <button className="btn-minimal-primary" onClick={() => onSelectTab('keywords-harvester')} style={{ background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)', color: '#ffffff' }}>
+              <Sparkles size={14} color="#74c69d" />
+              Keyword & PAA Harvester
+            </button>
+            <button className="btn-minimal-primary" onClick={() => onSelectTab('internal-links')} style={{ background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)', color: '#ffffff' }}>
+              <Link2 size={14} color="#74c69d" />
+              Internal Link Recommender
+            </button>
+            <button className="btn-minimal-primary" onClick={() => onSelectTab('competitor-gap')} style={{ background: 'linear-gradient(135deg, #e76f51 0%, #d95d3f 100%)', color: '#ffffff' }}>
+              <GitCompare size={14} />
+              Competitor Gap Roadmap
+            </button>
+            <button className="btn-minimal-secondary" onClick={() => onSelectTab('sitemaps')}>
               <Globe size={14} />
               Sitemap Inspector
             </button>
