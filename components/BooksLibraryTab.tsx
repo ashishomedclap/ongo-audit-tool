@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { 
   BookOpen, 
   Download, 
@@ -8,10 +8,11 @@ import {
   ChevronLeft, 
   ChevronRight, 
   Maximize2, 
-  Layers, 
   LayoutGrid, 
-  Sparkles,
-  FileText
+  ChevronDown,
+  Check,
+  Search,
+  Sparkles
 } from 'lucide-react';
 import { BooksIndexData, ONGO_PDF_BOOKS, PdfBookItem } from '@/lib/books-data';
 import ContextCue from './ContextCue';
@@ -19,9 +20,10 @@ import ContextCue from './ContextCue';
 interface BooksLibraryTabProps {
   initialIndex?: BooksIndexData;
   initialSlug?: string;
+  onBookChange?: (slug: string) => void;
 }
 
-export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibraryTabProps) {
+export default function BooksLibraryTab({ initialIndex, initialSlug, onBookChange }: BooksLibraryTabProps) {
   const books = initialIndex?.books || ONGO_PDF_BOOKS;
   
   // Default to initialSlug if provided, otherwise the first book
@@ -31,10 +33,62 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
 
   const [selectedBook, setSelectedBook] = useState<PdfBookItem>(defaultBook);
   const [viewMode, setViewMode] = useState<'reader' | 'grid'>('reader');
+  const [dropdownOpen, setDropdownOpen] = useState(false);
+  const [dropdownFilter, setDropdownFilter] = useState('');
+  const dropdownRef = useRef<HTMLDivElement>(null);
+
+  // Sync if initialSlug prop changes (e.g. from browser popstate or route navigation)
+  useEffect(() => {
+    if (initialSlug) {
+      const match = books.find(b => b.slug === initialSlug);
+      if (match && match.slug !== selectedBook.slug) {
+        setSelectedBook(match);
+      }
+    }
+  }, [initialSlug, books, selectedBook.slug]);
+
+  // Close dropdown on outside click
+  useEffect(() => {
+    const handleOutside = (e: MouseEvent) => {
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) {
+        setDropdownOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handleOutside);
+    return () => document.removeEventListener('mousedown', handleOutside);
+  }, []);
+
+  // Central book selection with URL synchronization & scroll-to-top
+  const handleSelectBook = (b: PdfBookItem) => {
+    setSelectedBook(b);
+    setViewMode('reader');
+    setDropdownOpen(false);
+    onBookChange?.(b.slug);
+
+    if (typeof window !== 'undefined') {
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+
+      const targetUrl = `/books/${b.slug}`;
+      if (window.location.pathname !== targetUrl) {
+        window.history.pushState({ tab: 'books', bookSlug: b.slug }, '', targetUrl);
+      }
+    }
+  };
 
   const currentIndex = books.findIndex(b => b.slug === selectedBook.slug);
   const prevBook = currentIndex > 0 ? books[currentIndex - 1] : null;
   const nextBook = currentIndex < books.length - 1 ? books[currentIndex + 1] : null;
+
+  const filteredDropdownBooks = dropdownFilter.trim()
+    ? books.filter(b => 
+        b.title.toLowerCase().includes(dropdownFilter.toLowerCase()) ||
+        b.subtitle.toLowerCase().includes(dropdownFilter.toLowerCase()) ||
+        b.category.toLowerCase().includes(dropdownFilter.toLowerCase()) ||
+        String(b.bookNumber).includes(dropdownFilter)
+      )
+    : books;
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
@@ -48,12 +102,12 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
         about="This digital library embeds all 7 official onboarding books (2,924 pages, 518,620 words) written for the Ongo Weight Loss team. It renders the original updated PDF volumes directly inside your browser with full table-of-contents navigation, search (Ctrl+F), page zoom, bookmarks, and one-click downloads."
         whatYouCanDo={[
           {
-            action: "Read Full PDF Volumes",
-            description: "Read books 1 through 7 with browser-native zooming, multi-page layout, thumbnail panel, and text selection."
+            action: "Switch Books via Dropdown Menu",
+            description: "Use the dedicated volume dropdown menu to switch books instantly while updating the browser URL to /books/[slug]."
           },
           {
-            action: "Switch Volumes with One Click",
-            description: "Jump instantly between books using the top volume pill bar or keyboard-friendly next/prev selectors."
+            action: "Read Full PDF Volumes",
+            description: "Read books 1 through 7 with browser-native zooming, multi-page layout, thumbnail panel, and text selection."
           },
           {
             action: "Toggle Reader vs Grid View",
@@ -67,7 +121,7 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
         tip="Use your browser's native search (Ctrl+F / Cmd+F) inside the embedded PDF viewer to search any clinical phrase, pharmacy statute, or Next.js code snippet across 2,924 pages."
       />
 
-      {/* Top Header Banner */}
+      {/* Top Header Banner with Dropdown Menu */}
       <div style={{
         background: 'linear-gradient(135deg, #1b4332 0%, #081c15 100%)',
         color: '#ffffff',
@@ -76,8 +130,8 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
         border: '1px solid rgba(116, 198, 157, 0.25)',
         boxShadow: '0 8px 30px rgba(8, 28, 21, 0.15)'
       }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '16px' }}>
-          <div>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '20px' }}>
+          <div style={{ maxWidth: '780px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
               <span style={{
                 background: 'rgba(116, 198, 157, 0.2)',
@@ -98,13 +152,195 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
             <h1 style={{ fontSize: '24px', fontWeight: 800, margin: '0 0 6px 0', letterSpacing: '-0.02em' }}>
               Ongo Weight Loss · Direct PDF Reader
             </h1>
-            <p style={{ color: 'rgba(255,255,255,0.85)', fontSize: '14px', maxWidth: '780px', margin: 0, lineHeight: 1.5 }}>
+            <p style={{ color: 'rgba(255,255,255,0.85)', fontSize: '14px', margin: 0, lineHeight: 1.5 }}>
               Original updated PDFs rendered directly in your browser with full vector graphics, tables, charts, illustrations, and native PDF search/zoom controls.
             </p>
           </div>
 
-          {/* View Toggle */}
-          <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+          {/* Controls: Book Switcher Dropdown & View Mode Toggle */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
+            {/* Dedicated Dropdown Menu to Change the Book */}
+            <div ref={dropdownRef} style={{ position: 'relative' }}>
+              <button
+                type="button"
+                onClick={() => setDropdownOpen(!dropdownOpen)}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '10px',
+                  padding: '8px 14px',
+                  background: 'rgba(255, 255, 255, 0.15)',
+                  border: '1px solid rgba(116, 198, 157, 0.4)',
+                  borderRadius: '10px',
+                  color: '#ffffff',
+                  fontSize: '13px',
+                  fontWeight: 700,
+                  cursor: 'pointer',
+                  transition: 'all 0.15s ease',
+                  backdropFilter: 'blur(8px)'
+                }}
+                onMouseEnter={(e) => (e.currentTarget.style.background = 'rgba(255, 255, 255, 0.22)')}
+                onMouseLeave={(e) => (e.currentTarget.style.background = 'rgba(255, 255, 255, 0.15)')}
+                title="Click to open dropdown menu and switch book"
+              >
+                <div style={{
+                  background: '#74c69d',
+                  color: '#081c15',
+                  padding: '2px 6px',
+                  borderRadius: '4px',
+                  fontSize: '11px',
+                  fontWeight: 800
+                }}>
+                  0{selectedBook.bookNumber}
+                </div>
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', textAlign: 'left' }}>
+                  <span style={{ fontSize: '10px', color: '#a7f3d0', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+                    Change Book Volume
+                  </span>
+                  <span style={{ fontSize: '13px', fontWeight: 700, maxWidth: '210px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                    {selectedBook.title}
+                  </span>
+                </div>
+                <ChevronDown size={15} style={{ transform: dropdownOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.15s', color: '#74c69d' }} />
+              </button>
+
+              {/* Floating Book Dropdown Menu */}
+              {dropdownOpen && (
+                <div style={{
+                  position: 'absolute',
+                  top: 'calc(100% + 8px)',
+                  right: 0,
+                  width: '380px',
+                  backgroundColor: '#ffffff',
+                  borderRadius: '14px',
+                  boxShadow: '0 20px 50px rgba(0, 0, 0, 0.35)',
+                  border: '1px solid #cbd5e1',
+                  padding: '10px',
+                  zIndex: 100,
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: '6px'
+                }}>
+                  {/* Dropdown Header */}
+                  <div style={{
+                    padding: '8px 10px',
+                    backgroundColor: '#f8fafc',
+                    borderRadius: '8px',
+                    border: '1px solid #e2e8f0',
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'center'
+                  }}>
+                    <span style={{ fontSize: '11px', fontWeight: 800, color: '#1b4332', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+                      Select Onboarding Volume
+                    </span>
+                    <span style={{ fontSize: '10px', background: '#dcfce7', color: '#166534', padding: '1px 6px', borderRadius: '4px', fontWeight: 700 }}>
+                      7 Books Available
+                    </span>
+                  </div>
+
+                  {/* Search inside dropdown */}
+                  <div style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '6px',
+                    padding: '6px 10px',
+                    background: '#f1f5f9',
+                    borderRadius: '6px',
+                    border: '1px solid #e2e8f0'
+                  }}>
+                    <Search size={13} color="#64748b" />
+                    <input
+                      type="text"
+                      placeholder="Filter books by title or topic..."
+                      value={dropdownFilter}
+                      onChange={(e) => setDropdownFilter(e.target.value)}
+                      style={{
+                        background: 'transparent',
+                        border: 'none',
+                        outline: 'none',
+                        fontSize: '12px',
+                        width: '100%',
+                        color: '#1e293b'
+                      }}
+                      autoFocus
+                    />
+                  </div>
+
+                  {/* List of Books */}
+                  <div style={{
+                    maxHeight: '360px',
+                    overflowY: 'auto',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    gap: '4px'
+                  }}>
+                    {filteredDropdownBooks.map(b => {
+                      const isSelected = b.slug === selectedBook.slug;
+                      return (
+                        <button
+                          key={b.slug}
+                          onClick={() => handleSelectBook(b)}
+                          style={{
+                            display: 'flex',
+                            alignItems: 'flex-start',
+                            gap: '10px',
+                            padding: '10px',
+                            borderRadius: '8px',
+                            border: isSelected ? '1px solid #86efac' : '1px solid transparent',
+                            background: isSelected ? '#f0fdf4' : 'transparent',
+                            color: isSelected ? '#166534' : '#1e293b',
+                            cursor: 'pointer',
+                            textAlign: 'left',
+                            width: '100%',
+                            transition: 'all 0.12s ease'
+                          }}
+                          onMouseEnter={(e) => {
+                            if (!isSelected) e.currentTarget.style.backgroundColor = '#f8fafc';
+                          }}
+                          onMouseLeave={(e) => {
+                            if (!isSelected) e.currentTarget.style.backgroundColor = 'transparent';
+                          }}
+                        >
+                          <div style={{
+                            width: '32px',
+                            height: '32px',
+                            borderRadius: '6px',
+                            backgroundColor: isSelected ? '#1b4332' : '#f1f5f9',
+                            color: isSelected ? '#74c69d' : '#475569',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            fontWeight: 800,
+                            fontSize: '12px',
+                            flexShrink: 0
+                          }}>
+                            0{b.bookNumber}
+                          </div>
+
+                          <div style={{ flex: 1, minWidth: 0 }}>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                              <span style={{ fontSize: '13px', fontWeight: isSelected ? 800 : 700, color: isSelected ? '#166534' : '#0f172a' }}>
+                                {b.title}
+                              </span>
+                              {isSelected && <Check size={14} color="#166534" />}
+                            </div>
+                            <div style={{ fontSize: '11px', color: '#64748b', marginTop: '1px', lineHeight: 1.3 }}>
+                              {b.category}
+                            </div>
+                            <div style={{ fontSize: '10px', color: '#94a3b8', marginTop: '3px' }}>
+                              {b.totalPages} pages · {b.fileSize}
+                            </div>
+                          </div>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* View Mode Switcher */}
             <div style={{
               display: 'flex',
               background: 'rgba(255, 255, 255, 0.12)',
@@ -171,10 +407,7 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
             return (
               <button
                 key={b.slug}
-                onClick={() => {
-                  setSelectedBook(b);
-                  setViewMode('reader');
-                }}
+                onClick={() => handleSelectBook(b)}
                 style={{
                   display: 'flex',
                   alignItems: 'center',
@@ -253,12 +486,42 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
               </div>
             </div>
 
-            {/* Actions: Prev / Next / Fullscreen / Open New Tab / Download */}
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            {/* Actions: Direct Quick Select Dropdown + Prev / Next / Fullscreen / Download */}
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+              {/* Quick Select Dropdown inside Reader Toolbar */}
+              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <span style={{ fontSize: '11px', color: '#64748b', fontWeight: 600 }}>Switch:</span>
+                <select
+                  value={selectedBook.slug}
+                  onChange={(e) => {
+                    const match = books.find(b => b.slug === e.target.value);
+                    if (match) handleSelectBook(match);
+                  }}
+                  style={{
+                    background: '#ffffff',
+                    border: '1px solid #cbd5e1',
+                    borderRadius: '6px',
+                    padding: '5px 8px',
+                    fontSize: '12px',
+                    fontWeight: 600,
+                    color: '#1b4332',
+                    cursor: 'pointer',
+                    outline: 'none'
+                  }}
+                  title="Quickly switch to another onboarding volume"
+                >
+                  {books.map(b => (
+                    <option key={b.slug} value={b.slug}>
+                      Book 0{b.bookNumber}: {b.title} ({b.totalPages} pgs)
+                    </option>
+                  ))}
+                </select>
+              </div>
+
               {/* Prev Book Button */}
               <button
                 disabled={!prevBook}
-                onClick={() => prevBook && setSelectedBook(prevBook)}
+                onClick={() => prevBook && handleSelectBook(prevBook)}
                 style={{
                   display: 'flex',
                   alignItems: 'center',
@@ -281,7 +544,7 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
               {/* Next Book Button */}
               <button
                 disabled={!nextBook}
-                onClick={() => nextBook && setSelectedBook(nextBook)}
+                onClick={() => nextBook && handleSelectBook(nextBook)}
                 style={{
                   display: 'flex',
                   alignItems: 'center',
@@ -322,7 +585,7 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
                 title="Open PDF in new browser tab"
               >
                 <Maximize2 size={13} />
-                Open in Full Window
+                Full Window
               </a>
 
               {/* Download PDF Button */}
@@ -381,10 +644,7 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
             {books.map(b => (
               <div
                 key={b.slug}
-                onClick={() => {
-                  setSelectedBook(b);
-                  setViewMode('reader');
-                }}
+                onClick={() => handleSelectBook(b)}
                 style={{
                   backgroundColor: '#ffffff',
                   borderRadius: '14px',
@@ -458,8 +718,7 @@ export default function BooksLibraryTab({ initialIndex, initialSlug }: BooksLibr
                   <button
                     onClick={(e) => {
                       e.stopPropagation();
-                      setSelectedBook(b);
-                      setViewMode('reader');
+                      handleSelectBook(b);
                     }}
                     style={{
                       display: 'flex',

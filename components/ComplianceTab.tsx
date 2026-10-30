@@ -27,6 +27,7 @@ import {
 } from 'lucide-react';
 import { CompetitorComplianceItem } from '@/lib/data';
 import ContextCue from './ContextCue';
+import { CircularGaugeMeter, ClinicalEEATPolygon, ComparisonBarMeter } from './VisualMetricsWidgets';
 
 interface ComplianceTabProps {
   complianceData: CompetitorComplianceItem[];
@@ -284,6 +285,60 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
           boxShadow: '0 8px 30px -4px rgba(27, 67, 50, 0.25)',
           position: 'relative'
         }}>
+          
+          {/* Visual Showcase: Real Doctor Team Photo & 5-Axis Clinical Radar */}
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
+            gap: '20px',
+            marginBottom: '24px',
+            alignItems: 'center',
+            backgroundColor: 'rgba(0, 0, 0, 0.22)',
+            borderRadius: '14px',
+            padding: '16px',
+            border: '1px solid rgba(255, 255, 255, 0.12)'
+          }}>
+            {/* Real Doctor Team Image */}
+            <div style={{ borderRadius: '10px', overflow: 'hidden', border: '1px solid rgba(255, 255, 255, 0.2)', position: 'relative' }}>
+              <img 
+                src="/images/ongo/doctors-group.webp" 
+                alt="Ongo Weight Loss Board-Certified Physicians" 
+                style={{ width: '100%', height: 'auto', display: 'block' }}
+              />
+              <div style={{
+                position: 'absolute',
+                bottom: 0,
+                left: 0,
+                right: 0,
+                padding: '8px 12px',
+                background: 'linear-gradient(to top, rgba(0,0,0,0.9) 0%, transparent 100%)',
+                fontSize: '11px',
+                color: '#ffffff'
+              }}>
+                <span style={{ fontWeight: 800, color: '#74c69d' }}>100% US-Licensed MDs:</span> Dr. Okonkwo, Dr. Kramer, Dr. Patel, Dr. Miller, Dr. Krasne
+              </div>
+            </div>
+
+            {/* Radar Polygon & Score Meter */}
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-around', gap: '14px', flexWrap: 'wrap' }}>
+              <CircularGaugeMeter
+                value={95}
+                max={100}
+                label="Ongo Clinical E-E-A-T"
+                subtitle="Grade A+ Authority"
+                color="#74c69d"
+                size={120}
+              />
+
+              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                <ClinicalEEATPolygon size={130} />
+                <span style={{ fontSize: '10px', color: '#b7e4c7', marginTop: '4px' }}>
+                  5-Axis Clinical Verification
+                </span>
+              </div>
+            </div>
+          </div>
+
           <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'flex-start', gap: '16px', marginBottom: '18px' }}>
             <div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>

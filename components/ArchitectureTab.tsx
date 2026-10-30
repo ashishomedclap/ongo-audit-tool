@@ -13,6 +13,7 @@ import {
 } from 'lucide-react';
 import { MasterUrlItem } from '@/lib/data';
 import ContextCue from './ContextCue';
+import { SiloDonutMeter, CircularGaugeMeter } from './VisualMetricsWidgets';
 
 interface ArchitectureTabProps {
   architectureOverview: Record<string, number>;
@@ -109,6 +110,99 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
         <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
           Macro category breakdown of 35,000+ competitor URLs paired with Ongo&apos;s strategic roadmap
         </p>
+      </div>
+
+      
+      {/* Visual Silo Donut Chart & Execution Progress Meter */}
+      <div style={{
+        display: 'grid',
+        gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+        gap: '16px'
+      }}>
+        {/* Card 1: 6-Silo Interactive Donut Meter */}
+        <div className="bento-card" style={{ padding: '22px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
+              <span style={{ fontSize: '11px', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.04em', color: 'var(--color-primary)' }}>
+                Silo Architectural Ratios
+              </span>
+              <span style={{ fontSize: '10px', background: '#dcfce7', color: '#166534', padding: '1px 6px', borderRadius: '4px', fontWeight: 700 }}>
+                217 Pages
+              </span>
+            </div>
+            <SiloDonutMeter
+              size={130}
+              centerTitle="217"
+              centerSubtitle="Roadmap URLs"
+              segments={[
+                { label: 'Core Treatments', value: 70, color: '#1b4332' },
+                { label: 'Conditions & BMI', value: 52, color: '#2d6a4f' },
+                { label: 'Comparisons & Vials', value: 38, color: '#e76f51' },
+                { label: 'Clinical FAQs & Safety', value: 30, color: '#d97706' },
+                { label: 'State Licensing Hubs', value: 17, color: '#52b788' },
+                { label: 'Patient Success', value: 10, color: '#74c69d' }
+              ]}
+            />
+          </div>
+          <div style={{ fontSize: '11px', color: '#64748b', borderTop: '1px solid var(--border-subtle)', paddingTop: '10px', marginTop: '12px' }}>
+            Structured around high-intent transactional search clusters
+          </div>
+        </div>
+
+        {/* Card 2: Interactive Roadmap Checklist Completion Gauge */}
+        <div className="bento-card" style={{ padding: '22px', display: 'flex', alignItems: 'center', justifyContent: 'space-around', gap: '16px' }}>
+          <CircularGaugeMeter
+            value={doneCount + 11}
+            max={217}
+            label="Live Roadmap Execution"
+            subtitle={(doneCount + 11) + ' / 217 Pages Completed'}
+            color="#059669"
+            size={135}
+            badge={doneCount > 0 ? ('+' + doneCount + ' Checklist Items') : '11 Core Live'}
+          />
+
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', minWidth: '160px' }}>
+            <div style={{ fontSize: '12px', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
+              Implementation Status
+            </div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '11px' }}>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', background: '#059669' }} />
+              <span>Live &amp; Indexed: <strong>11 Pages</strong></span>
+            </div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '11px' }}>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', background: '#2563eb' }} />
+              <span>In Progress: <strong>{inProgressCount} Pages</strong></span>
+            </div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '11px' }}>
+              <span style={{ width: '8px', height: '8px', borderRadius: '50%', background: '#94a3b8' }} />
+              <span>Checklist Done: <strong>{doneCount} Pages</strong></span>
+            </div>
+          </div>
+        </div>
+
+        {/* Card 3: 5-Stage Publishing Workflow */}
+        <div className="bento-card" style={{ padding: '22px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div style={{ fontSize: '11px', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.04em', color: '#1b4332', marginBottom: '8px' }}>
+            Clinical Content Workflow
+          </div>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+            {[
+              { num: '01', title: 'Intent Keyword Mapping', desc: 'Targeting transactional search queries' },
+              { num: '02', title: 'Medical Review (MD)', desc: 'Doctor attribution & E-E-A-T sign-off' },
+              { num: '03', title: 'Internal PageRank Linking', desc: '4-rule silo hierarchy linkage' },
+              { num: '04', title: 'CTR Normalization', desc: 'Symbol-free human title tags' }
+            ].map(s => (
+              <div key={s.num} style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '11px' }}>
+                <span style={{ background: '#1b4332', color: '#74c69d', padding: '1px 5px', borderRadius: '4px', fontWeight: 800, fontSize: '10px' }}>
+                  {s.num}
+                </span>
+                <div>
+                  <strong style={{ color: 'var(--color-primary-dark)' }}>{s.title}</strong> &bull; <span style={{ color: '#64748b' }}>{s.desc}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
 
       {/* Category Architecture Distribution Bento Grid */}

@@ -33,6 +33,7 @@ import { TabType } from './Navbar';
 import ContextCue from './ContextCue';
 import OngoLogo from './OngoLogo';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES } from '@/lib/tools-sitemap';
+import { CircularGaugeMeter, BezierAreaCurve, SiloDonutMeter, ClinicalEEATPolygon, ComparisonBarMeter } from './VisualMetricsWidgets';
 
 interface OverviewTabProps {
   competitors: CompetitorSummary[];
@@ -116,153 +117,403 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
         tip="Use the Live Endpoint Connectivity Verifier below to ping ongoweightloss.com or benchmark competitors in real-time."
       />
 
-      {/* Ongo Flagship Clinic Spotlight Banner */}
+      {/* Ongo Flagship Clinic Spotlight Banner with Real Ongo Images */}
       <div className="bento-card" style={{
-        padding: '24px 28px',
+        padding: '0',
         background: 'linear-gradient(135deg, #1b4332 0%, #24553f 65%, #2d6a4f 100%)',
         color: '#ffffff',
         border: '1px solid #347e5d',
-        boxShadow: '0 8px 30px -4px rgba(27, 67, 50, 0.25)'
+        boxShadow: '0 8px 30px -4px rgba(27, 67, 50, 0.25)',
+        overflow: 'hidden'
       }}>
         <div style={{
-          display: 'flex',
-          flexWrap: 'wrap',
-          alignItems: 'center',
-          justifyContent: 'space-between',
-          gap: '20px'
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+          alignItems: 'stretch'
         }}>
-          <div style={{ maxWidth: '780px' }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '10px' }}>
-              <span style={{
-                background: 'rgba(255, 255, 255, 0.15)',
-                color: '#ffffff',
-                padding: '3px 10px',
-                borderRadius: '9999px',
-                fontSize: '0.72rem',
-                fontWeight: 700,
-                letterSpacing: '0.04em',
-                textTransform: 'uppercase'
+          {/* Left Column: Clinic Highlights */}
+          <div style={{ padding: '28px 32px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+            <div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '10px' }}>
+                <span style={{
+                  background: 'rgba(255, 255, 255, 0.15)',
+                  color: '#ffffff',
+                  padding: '3px 10px',
+                  borderRadius: '9999px',
+                  fontSize: '0.72rem',
+                  fontWeight: 700,
+                  letterSpacing: '0.04em',
+                  textTransform: 'uppercase'
+                }}>
+                  Flagship Platform Benchmark
+                </span>
+                <span style={{
+                  background: '#d8f3dc',
+                  color: '#1b4332',
+                  padding: '3px 10px',
+                  borderRadius: '9999px',
+                  fontSize: '0.72rem',
+                  fontWeight: 700,
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: '4px'
+                }}>
+                  <ShieldCheck size={13} color="#1b4332" /> 50 US States Telehealth
+                </span>
+              </div>
+
+              <h2 style={{ fontSize: '1.55rem', fontWeight: 800, letterSpacing: '-0.02em', marginBottom: '8px', color: '#ffffff' }}>
+                Ongo Weight Loss (ongoweightloss.com)
+              </h2>
+
+              <p style={{ fontSize: '0.885rem', lineHeight: 1.6, color: '#e8f5ec', margin: '0 0 16px 0' }}>
+                Doctor-supervised virtual GLP-1 weight loss clinic. Board-certified physicians (MD/MBA) provide personalized telehealth care with compounded Semaglutide &amp; Tirzepatide shipped in discreet, temperature-sensitive cold packaging nationwide.
+              </p>
+
+              <div style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
+                gap: '10px',
+                padding: '14px',
+                background: 'rgba(0, 0, 0, 0.18)',
+                borderRadius: '10px',
+                border: '1px solid rgba(255, 255, 255, 0.12)',
+                fontSize: '0.78rem'
               }}>
-                Flagship Platform Benchmark
-              </span>
-              <span style={{
-                background: '#d8f3dc',
-                color: '#1b4332',
-                padding: '3px 10px',
-                borderRadius: '9999px',
-                fontSize: '0.72rem',
-                fontWeight: 700,
-                display: 'inline-flex',
-                alignItems: 'center',
-                gap: '4px'
-              }}>
-                <ShieldCheck size={13} color="#1b4332" /> 50 US States Telehealth
-              </span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <Stethoscope size={16} color="#74c69d" />
+                  <span><strong>5 Board-Certified MDs:</strong> Okonkwo, Kramer, Patel, Miller, Krasne</span>
+                </div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <HeartPulse size={16} color="#f4a261" />
+                  <span><strong>Molecules:</strong> $179 Sema &bull; $249 Tirz</span>
+                </div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <Truck size={16} color="#74c69d" />
+                  <span><strong>Shipping:</strong> Free Cold-Pack 3-5 Days</span>
+                </div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <BadgeCheck size={16} color="#52b788" />
+                  <span><strong>TrustScore:</strong> 4.9 ★ (1,250+ reviews)</span>
+                </div>
+              </div>
             </div>
 
-            <h2 style={{ fontSize: '1.45rem', fontWeight: 800, letterSpacing: '-0.02em', marginBottom: '8px', color: '#ffffff' }}>
-              Ongo Weight Loss (ongoweightloss.com)
-            </h2>
+            {/* Quick Actions */}
+            <div style={{ display: 'flex', gap: '10px', marginTop: '20px', flexWrap: 'wrap' }}>
+              <button
+                onClick={() => onSelectTab('ongo-pages')}
+                style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: '8px',
+                  padding: '9px 18px',
+                  borderRadius: '9999px',
+                  background: 'linear-gradient(135deg, #e76f51 0%, #ee8a4f 100%)',
+                  color: '#ffffff',
+                  border: 'none',
+                  fontSize: '0.82rem',
+                  fontWeight: 700,
+                  cursor: 'pointer',
+                  boxShadow: '0 3px 12px rgba(231, 111, 81, 0.4)'
+                }}
+              >
+                <Compass size={15} />
+                <span>Audit Ongo Live Pages (34)</span>
+              </button>
 
-            <p style={{ fontSize: '0.865rem', lineHeight: 1.6, color: '#e8f5ec', margin: 0 }}>
-              Doctor-supervised virtual GLP-1 weight loss program. Board-certified physicians (MD/MBA) provide personalized telehealth care with compounded Semaglutide & Tirzepatide shipped in discreet, temperature-sensitive cold packaging nationwide.
-            </p>
-
-            <div style={{
-              display: 'flex',
-              flexWrap: 'wrap',
-              gap: '16px',
-              marginTop: '16px',
-              paddingTop: '14px',
-              borderTop: '1px solid rgba(255, 255, 255, 0.15)',
-              fontSize: '0.78rem'
-            }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                <Stethoscope size={15} color="#74c69d" />
-                <span><strong>5 Board-Certified Doctors:</strong> Okonkwo, Kramer, Patel, Miller, Krasne</span>
-              </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                <HeartPulse size={15} color="#f4a261" />
-                <span><strong>Molecules:</strong> Compounded Semaglutide & Tirzepatide</span>
-              </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                <Truck size={15} color="#74c69d" />
-                <span><strong>Delivery:</strong> Free 3-5 Days Nationwide</span>
-              </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                <BadgeCheck size={15} color="#52b788" />
-                <span><strong>TrustScore:</strong> 4.9 ★ (1,250+ reviews)</span>
-              </div>
+              <a
+                href="https://ongoweightloss.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: '6px',
+                  padding: '9px 16px',
+                  borderRadius: '9999px',
+                  background: 'rgba(255, 255, 255, 0.12)',
+                  color: '#ffffff',
+                  border: '1px solid rgba(255, 255, 255, 0.25)',
+                  fontSize: '0.8rem',
+                  fontWeight: 600,
+                  textDecoration: 'none'
+                }}
+              >
+                <span>Visit Live ongoweightloss.com</span>
+                <ExternalLink size={13} />
+              </a>
             </div>
           </div>
 
-          {/* Right Action Box */}
+          {/* Right Column: Authentic Image from ongoweightloss.com */}
           <div style={{
+            position: 'relative',
+            minHeight: '260px',
+            background: 'url(/images/ongo/hero-right-banner.webp) center/cover no-repeat',
+            borderLeft: '1px solid rgba(255, 255, 255, 0.15)',
             display: 'flex',
             flexDirection: 'column',
-            gap: '10px',
-            minWidth: '220px'
+            justifyContent: 'flex-end',
+            padding: '20px'
           }}>
-            <button
-              onClick={() => onSelectTab('ongo-pages')}
-              style={{
-                display: 'inline-flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                gap: '8px',
-                padding: '10px 18px',
-                borderRadius: '9999px',
-                background: 'linear-gradient(135deg, #e76f51 0%, #ee8a4f 100%)',
-                color: '#ffffff',
-                border: 'none',
-                fontSize: '0.84rem',
-                fontWeight: 700,
-                cursor: 'pointer',
-                boxShadow: '0 3px 12px rgba(231, 111, 81, 0.4)',
-                transition: 'all 0.15s ease'
-              }}
-              title="Open the live page and URL inventory for ongoweightloss.com with live refresh"
-            >
-              <Compass size={16} />
-              <span>Audit Ongo Live Pages (34)</span>
-            </button>
-
-            <a
-              href="https://ongoweightloss.com/weightloss-onboard/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn-minimal-primary"
-              style={{ padding: '8px 16px', fontSize: '0.8rem', textDecoration: 'none' }}
-            >
-              <span>See If I'm Eligible</span>
-              <ArrowUpRight size={14} />
-            </a>
-            
-            <a
-              href="https://ongoweightloss.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                display: 'inline-flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                gap: '6px',
-                padding: '8px 16px',
-                borderRadius: '9999px',
-                background: 'rgba(255, 255, 255, 0.1)',
-                color: '#ffffff',
-                border: '1px solid rgba(255, 255, 255, 0.25)',
-                fontSize: '0.78rem',
-                fontWeight: 600,
-                textDecoration: 'none'
-              }}
-            >
-              <span>Visit Live Website</span>
-              <ExternalLink size={13} />
-            </a>
+            <div style={{
+              position: 'absolute',
+              inset: 0,
+              background: 'linear-gradient(to top, rgba(8, 28, 21, 0.92) 0%, rgba(8, 28, 21, 0.3) 60%, transparent 100%)'
+            }} />
+            <div style={{ position: 'relative', zIndex: 1 }}>
+              <div style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', padding: '3px 8px', borderRadius: '4px', background: 'rgba(0,0,0,0.6)', color: '#74c69d', fontSize: '11px', fontWeight: 700, marginBottom: '6px' }}>
+                <ShieldCheck size={13} /> Official Medication &amp; Patient Delivery
+              </div>
+              <div style={{ fontSize: '13px', fontWeight: 700, color: '#ffffff' }}>
+                Real Doctor-Prescribed Compounded GLP-1 Telehealth Experience
+              </div>
+              <div style={{ fontSize: '11px', color: 'rgba(255,255,255,0.75)' }}>
+                Directly from ongoweightloss.com licensed compounding pharmacy partners
+              </div>
+            </div>
           </div>
         </div>
       </div>
+
+      {/* Visual Graphs, Lines, Curves, Meters & Counts Section */}
+      <div style={{
+        display: 'grid',
+        gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
+        gap: '16px'
+      }}>
+        {/* Card 1: Clinical E-E-A-T Score Meter */}
+        <div className="bento-card" style={{ padding: '22px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'space-between', textAlign: 'center' }}>
+          <div style={{ width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
+            <span style={{ fontSize: '11px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.04em', color: 'var(--color-primary)' }}>
+              Clinical Authority Meter
+            </span>
+            <span style={{ fontSize: '10px', background: '#dcfce7', color: '#166534', padding: '1px 6px', borderRadius: '4px', fontWeight: 700 }}>
+              Top 1% in US
+            </span>
+          </div>
+
+          <CircularGaugeMeter
+            value={95}
+            max={100}
+            label="Clinical E-E-A-T Score"
+            subtitle="5 Board MDs • 50 States • NPI Registered"
+            color="#1b4332"
+            size={135}
+            badge="Clinical Grade A+"
+          />
+
+          <div style={{ width: '100%', marginTop: '14px', borderTop: '1px solid var(--border-subtle)', paddingTop: '10px', display: 'flex', justifyContent: 'space-around', fontSize: '11px' }}>
+            <div>
+              <div style={{ color: '#64748b', fontSize: '10px' }}>Physician Lead</div>
+              <div style={{ fontWeight: 800, color: '#1b4332' }}>100% MD</div>
+            </div>
+            <div>
+              <div style={{ color: '#64748b', fontSize: '10px' }}>State Coverage</div>
+              <div style={{ fontWeight: 800, color: '#1b4332' }}>50 / 50</div>
+            </div>
+            <div>
+              <div style={{ color: '#64748b', fontSize: '10px' }}>Consult Fee</div>
+              <div style={{ fontWeight: 800, color: '#059669' }}>$0 / Free</div>
+            </div>
+          </div>
+        </div>
+
+        {/* Card 2: 12-Month Search Demand Curve (Bezier Line & Area) */}
+        <div className="bento-card" style={{ padding: '22px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
+              <span style={{ fontSize: '11px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.04em', color: '#d97706' }}>
+                Organic Demand Trajectory
+              </span>
+              <span style={{ fontSize: '10px', background: '#fef3c7', color: '#92400e', padding: '1px 6px', borderRadius: '4px', fontWeight: 700 }}>
+                12-Mo Curve
+              </span>
+            </div>
+            
+            <BezierAreaCurve
+              data={[28, 36, 44, 52, 68, 79, 95, 114, 138, 156, 172, 198]}
+              height={95}
+              color="#d97706"
+              title="GLP-1 Patient Demand Curve"
+              currentValue="198,000/mo"
+              delta="+24.6% YoY Surge"
+            />
+          </div>
+
+          <div style={{ marginTop: '12px', borderTop: '1px solid var(--border-subtle)', paddingTop: '10px', fontSize: '11px', color: '#64748b', display: 'flex', justifyContent: 'space-between' }}>
+            <span>Tirzepatide: <strong>+140% growth</strong></span>
+            <span>Semaglutide: <strong>1.2M queries</strong></span>
+          </div>
+        </div>
+
+        {/* Card 3: 217-Page Silo Architecture Donut Chart */}
+        <div className="bento-card" style={{ padding: '22px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px' }}>
+            <span style={{ fontSize: '11px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.04em', color: '#e76f51' }}>
+              217-Page Silo Distribution
+            </span>
+            <span style={{ fontSize: '10px', background: '#ffedd5', color: '#9a3412', padding: '1px 6px', borderRadius: '4px', fontWeight: 700 }}>
+              6 Silos
+            </span>
+          </div>
+
+          <SiloDonutMeter
+            size={130}
+            centerTitle="217"
+            centerSubtitle="Roadmap URLs"
+            segments={[
+              { label: 'Treatments', value: 70, color: '#1b4332' },
+              { label: 'Conditions', value: 52, color: '#2d6a4f' },
+              { label: 'Comparisons', value: 38, color: '#e76f51' },
+              { label: 'Clinical FAQs', value: 30, color: '#d97706' },
+              { label: 'State Hubs', value: 17, color: '#52b788' },
+              { label: 'Patient Guides', value: 10, color: '#74c69d' }
+            ]}
+          />
+        </div>
+
+        {/* Card 4: 5-Axis Clinical E-E-A-T Radar Polygon */}
+        <div className="bento-card" style={{ padding: '22px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div style={{ width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px' }}>
+            <span style={{ fontSize: '11px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.04em', color: '#1b4332' }}>
+              E-E-A-T Radar Polygon
+            </span>
+            <span style={{ fontSize: '10px', background: '#dcfce7', color: '#166534', padding: '1px 6px', borderRadius: '4px', fontWeight: 700 }}>
+              5-Point Axis
+            </span>
+          </div>
+
+          <ClinicalEEATPolygon size={145} />
+        </div>
+      </div>
+
+      {/* Doctor-Led Clinical Team & Treatment Packaging Showcase */}
+      <div className="bento-card" style={{ padding: '28px', background: '#ffffff', border: '1px solid var(--border-medium)' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '14px', marginBottom: '20px' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+              <span className="badge-minimal badge-minimal-success" style={{ fontSize: '0.72rem' }}>
+                Medical Authority (ongoweightloss.com/medical-team)
+              </span>
+              <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.72rem' }}>
+                5 Board-Certified Physicians
+              </span>
+            </div>
+            <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)', margin: 0 }}>
+              Ongo Weight Loss Clinical Leadership &amp; Biological Mechanisms
+            </h2>
+            <p style={{ fontSize: '0.82rem', color: 'var(--text-secondary)', margin: '4px 0 0 0' }}>
+              Doctor-prescribed compounding adhering to 503A USP &lt;797&gt; standards with transparent doctor bylines.
+            </p>
+          </div>
+
+          <div style={{ display: 'flex', gap: '8px' }}>
+            <button 
+              className="btn-minimal-primary" 
+              onClick={() => onSelectTab('compliance')}
+              style={{ fontSize: '0.78rem', padding: '6px 14px' }}
+            >
+              <Stethoscope size={13} />
+              Inspect Doctor Profiles &amp; NPIs
+            </button>
+          </div>
+        </div>
+
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+          gap: '24px',
+          alignItems: 'center'
+        }}>
+          {/* Real Doctor Team Photo from ongoweightloss.com */}
+          <div style={{
+            position: 'relative',
+            borderRadius: '12px',
+            overflow: 'hidden',
+            border: '1px solid #cbd5e1',
+            boxShadow: '0 8px 24px rgba(27, 67, 50, 0.1)'
+          }}>
+            <img 
+              src="/images/ongo/doctors-group.webp" 
+              alt="Ongo Weight Loss Board-Certified Medical Doctors" 
+              style={{ width: '100%', height: 'auto', display: 'block', objectFit: 'cover' }}
+            />
+            <div style={{
+              padding: '12px 16px',
+              backgroundColor: '#1b4332',
+              color: '#ffffff',
+              display: 'flex',
+              justifyContent: 'space-between',
+              alignItems: 'center'
+            }}>
+              <div>
+                <div style={{ fontSize: '12px', fontWeight: 700, color: '#74c69d' }}>
+                  Medical Team &bull; 100% US-Licensed MDs
+                </div>
+                <div style={{ fontSize: '11px', color: '#e8f5ec' }}>
+                  Dr. Okonkwo, Dr. Kramer, Dr. Patel, Dr. Miller, Dr. Krasne
+                </div>
+              </div>
+              <span style={{ fontSize: '10px', background: 'rgba(255,255,255,0.18)', padding: '2px 8px', borderRadius: '4px' }}>
+                Verified NPI
+              </span>
+            </div>
+          </div>
+
+          {/* Clinical Mechanisms & Pricing Comparison */}
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
+            <div style={{ fontSize: '12px', fontWeight: 700, color: 'var(--color-primary-dark)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+              6 Clinical Biological Mechanisms Targeted
+            </div>
+
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
+              {[
+                { icon: '/images/ongo/substantial-body-weight-reduction.svg', label: 'Weight Reduction', desc: 'Up to 15-20% average body loss' },
+                { icon: '/images/ongo/appetite-suppression-and-craving-control.svg', label: 'Craving Control', desc: 'Dual GLP-1/GIP satiety triggers' },
+                { icon: '/images/ongo/delayed-gastric-emptying.svg', label: 'Gastric Delay', desc: 'Prolonged fullness after meals' },
+                { icon: '/images/ongo/improved-blood-sugar-regulation.svg', label: 'Insulin Sensitivity', desc: 'Optimized glycemic regulation' },
+                { icon: '/images/ongo/cardiovascular-health.svg', label: 'Cardio Support', desc: 'Arterial & metabolic benefits' },
+                { icon: '/images/ongo/kidney-and-liver-protection.svg', label: 'Hepatic Care', desc: 'Non-alcoholic fatty liver relief' }
+              ].map((m, idx) => (
+                <div key={idx} style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '10px',
+                  padding: '8px 10px',
+                  borderRadius: '8px',
+                  background: 'var(--bg-canvas)',
+                  border: '1px solid var(--border-subtle)'
+                }}>
+                  <img src={m.icon} alt={m.label} style={{ width: '24px', height: '24px', flexShrink: 0 }} />
+                  <div>
+                    <div style={{ fontSize: '11px', fontWeight: 700, color: 'var(--color-primary-dark)' }}>{m.label}</div>
+                    <div style={{ fontSize: '10px', color: '#64748b' }}>{m.desc}</div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Comparison Progress Meters */}
+            <div style={{
+              marginTop: '6px',
+              padding: '12px 14px',
+              borderRadius: '8px',
+              background: '#f8fafc',
+              border: '1px solid #e2e8f0',
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '8px'
+            }}>
+              <ComparisonBarMeter label="Monthly Patient Cost (Lower is Better)" ongoValue={179} competitorAvgValue={299} max={350} unit="$" />
+              <ComparisonBarMeter label="Initial Doctor Consultation Fee" ongoValue={0} competitorAvgValue={89} max={150} unit="$" />
+              <ComparisonBarMeter label="Physician Oversight (% MD vs NP)" ongoValue={100} competitorAvgValue={42} max={100} unit="%" />
+            </div>
+          </div>
+        </div>
+      </div>
+
 
       {/* Main Bento Grid */}
       <div className="bento-grid">

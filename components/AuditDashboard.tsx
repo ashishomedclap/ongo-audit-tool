@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import Navbar, { TabType } from './Navbar';
 import OverviewTab from './OverviewTab';
 import SitemapsTab from './SitemapsTab';
@@ -18,8 +18,44 @@ import CompetitorGapTab from './CompetitorGapTab';
 import ToolsSitemapTab from './ToolsSitemapTab';
 import BooksLibraryTab from './BooksLibraryTab';
 import CompetitorModal from './CompetitorModal';
-import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData} from '@/lib/data';
+import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
 import { BooksIndexData } from '@/lib/books-data';
+
+export const TAB_TO_URL: Record<TabType, string> = {
+  'overview': '/',
+  'books': '/books',
+  'ongo-pages': '/ongo-pages',
+  'competitors': '/competitors',
+  'sitemaps': '/sitemaps',
+  'competitor-gap': '/competitor-gap',
+  'keywords-harvester': '/keywords-harvester',
+  'keywords': '/keywords',
+  'patterns': '/patterns',
+  'internal-links': '/internal-links',
+  'architecture': '/architecture',
+  'compliance': '/compliance',
+  'meta': '/meta',
+  'reports': '/reports',
+  'suite-sitemap': '/sitemap'
+};
+
+export const URL_TO_TAB: Record<string, TabType> = {
+  '/': 'overview',
+  '/books': 'books',
+  '/ongo-pages': 'ongo-pages',
+  '/competitors': 'competitors',
+  '/sitemaps': 'sitemaps',
+  '/competitor-gap': 'competitor-gap',
+  '/keywords-harvester': 'keywords-harvester',
+  '/keywords': 'keywords',
+  '/patterns': 'patterns',
+  '/internal-links': 'internal-links',
+  '/architecture': 'architecture',
+  '/compliance': 'compliance',
+  '/meta': 'meta',
+  '/reports': 'reports',
+  '/sitemap': 'suite-sitemap'
+};
 
 interface AuditDashboardProps {
   initialCompetitors: CompetitorSummary[];
@@ -46,18 +82,77 @@ export default function AuditDashboard({
   initialBookSlug,
   defaultTab = 'overview'
 }: AuditDashboardProps) {
-  const [activeTab, setActiveTab] = useState<TabType>(defaultTab);
+  const [activeTab, setActiveTabState] = useState<TabType>(defaultTab);
+  const [currentBookSlug, setCurrentBookSlug] = useState<string | undefined>(initialBookSlug);
   const [inspectFolder, setInspectFolder] = useState<string | null>(null);
 
   const totalUrls = initialCompetitors.reduce((acc, c) => acc + (c.totalUrls || 0), 0);
   const activeSitemaps = initialCompetitors.filter(c => c.status === 'SUCCESS').length;
+
+  // URL sync handler when switching tabs or books
+  const handleSelectTab = useCallback((tab: TabType, bookSlug?: string) => {
+    setActiveTabState(tab);
+    if (typeof window === 'undefined') return;
+
+    // Immediately open from start / hero section at top of page
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0;
+
+    let targetUrl = TAB_TO_URL[tab] || '/';
+    if (tab === 'books') {
+      const slug = bookSlug || currentBookSlug;
+      if (slug) {
+        targetUrl = `/books/${slug}`;
+        setCurrentBookSlug(slug);
+      }
+    }
+
+    if (window.location.pathname !== targetUrl) {
+      window.history.pushState({ tab, bookSlug: bookSlug || currentBookSlug }, '', targetUrl);
+    }
+  }, [currentBookSlug]);
+
+  // Scroll to top when activeTab or book changes (including initial load, popstate, and programmatic switch)
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+    }
+  }, [activeTab]);
+
+  // Handle browser back and forward navigation (popstate)
+  useEffect(() => {
+    const handlePopState = () => {
+      if (typeof window === 'undefined') return;
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+
+      const pathname = window.location.pathname;
+      if (pathname.startsWith('/books/')) {
+        const slug = pathname.replace('/books/', '').trim();
+        setActiveTabState('books');
+        if (slug) setCurrentBookSlug(slug);
+      } else {
+        const matched = URL_TO_TAB[pathname];
+        if (matched) {
+          setActiveTabState(matched);
+        }
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
 
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       {/* Sticky Top Navbar with Optimized Primary Navigation & Tools Sitemap */}
       <Navbar
         activeTab={activeTab}
-        setActiveTab={setActiveTab}
+        setActiveTab={handleSelectTab}
         stats={{
           totalCompetitors: initialCompetitors.length,
           activeSitemaps,
@@ -74,13 +169,17 @@ export default function AuditDashboard({
         padding: '32px 24px'
       }}>
         {activeTab === 'books' && (
-          <BooksLibraryTab initialIndex={booksIndex} initialSlug={initialBookSlug} />
+          <BooksLibraryTab 
+            initialIndex={booksIndex} 
+            initialSlug={currentBookSlug || initialBookSlug} 
+            onBookChange={(slug) => handleSelectTab('books', slug)}
+          />
         )}
 
         {activeTab === 'overview' && (
           <OverviewTab
             competitors={initialCompetitors}
-            onSelectTab={(tab) => setActiveTab(tab)}
+            onSelectTab={handleSelectTab}
             onInspectCompetitor={(folder) => setInspectFolder(folder)}
           />
         )}
@@ -102,7 +201,7 @@ export default function AuditDashboard({
         )}
 
         {activeTab === 'suite-sitemap' && (
-          <ToolsSitemapTab onSelectTab={(tab) => setActiveTab(tab)} />
+          <ToolsSitemapTab onSelectTab={handleSelectTab} />
         )}
 
         {activeTab === 'sitemaps' && (
@@ -191,7 +290,7 @@ export default function AuditDashboard({
 
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '14px', fontSize: '0.78rem' }}>
             <button
-              onClick={() => setActiveTab('suite-sitemap')}
+              onClick={() => handleSelectTab('suite-sitemap')}
               style={{
                 background: 'none',
                 border: 'none',

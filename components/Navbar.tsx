@@ -48,7 +48,7 @@ export type TabType =
 
 interface NavbarProps {
   activeTab: TabType;
-  setActiveTab: (tab: TabType) => void;
+  setActiveTab: (tab: TabType, bookSlug?: string) => void;
   stats?: {
     totalCompetitors: number;
     activeSitemaps: number;
@@ -361,6 +361,53 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                                   <div style={{ fontSize: '11px', color: '#64748b', marginTop: '2px', lineHeight: 1.3 }}>
                                     {tool.useCase}
                                   </div>
+
+                                  {tool.id === 'books' && (
+                                    <div style={{
+                                      display: 'flex',
+                                      gap: '4px',
+                                      flexWrap: 'wrap',
+                                      marginTop: '8px',
+                                      paddingTop: '6px',
+                                      borderTop: '1px solid #f1f5f9'
+                                    }} onClick={(e) => e.stopPropagation()}>
+                                      <span style={{ fontSize: '10px', color: '#64748b', fontWeight: 600, alignSelf: 'center', marginRight: '2px' }}>
+                                        Vol:
+                                      </span>
+                                      {[
+                                        { num: 1, slug: 'the-foundation', title: 'Foundation' },
+                                        { num: 2, slug: 'earned-not-built', title: 'Earned' },
+                                        { num: 3, slug: 'site-architecture', title: 'Architecture' },
+                                        { num: 4, slug: 'on-page-seo-for-nextjs', title: 'Next.js SEO' },
+                                        { num: 5, slug: 'organic-social-media', title: 'Social' },
+                                        { num: 6, slug: 'writing-for-a-health-brand', title: 'Writing' },
+                                        { num: 7, slug: 'analytics-and-reporting', title: 'Analytics' }
+                                      ].map(b => (
+                                        <button
+                                          key={b.slug}
+                                          type="button"
+                                          onClick={(e) => {
+                                            e.stopPropagation();
+                                            setActiveTab('books', b.slug);
+                                            setOpenDropdown(null);
+                                          }}
+                                          style={{
+                                            fontSize: '10px',
+                                            fontWeight: 700,
+                                            padding: '2px 5px',
+                                            borderRadius: '4px',
+                                            background: '#f1f5f9',
+                                            color: '#1b4332',
+                                            border: '1px solid #cbd5e1',
+                                            cursor: 'pointer'
+                                          }}
+                                          title={`Jump to Book ${b.num}: ${b.title}`}
+                                        >
+                                          0{b.num}
+                                        </button>
+                                      ))}
+                                    </div>
+                                  )}
                                 </div>
                               </button>
                             );
