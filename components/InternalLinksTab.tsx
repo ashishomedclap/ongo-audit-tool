@@ -32,6 +32,7 @@ import {
   FileText
 } from 'lucide-react';
 import ContextCue from './ContextCue';
+import CustomUrlScanBar from './CustomUrlScanBar';
 import { InternalLinkRecommendation, InternalLinksAuditSummary } from '@/lib/internal-links-engine';
 
 export default function InternalLinksTab() {
@@ -245,6 +246,16 @@ export default function InternalLinksTab() {
           </div>
         </div>
       </div>
+
+      {/* Custom URL Scanner Bar */}
+      <CustomUrlScanBar
+        toolName="Internal Links &amp; Anchors"
+        placeholder="Enter custom URL to audit internal link conduits (e.g. https://ongoweightloss.com/tools/bmi-calculator/)..."
+        onScanComplete={(page) => {
+          if (!page) return;
+          setSearchQuery(page.url);
+        }}
+      />
 
       {/* Sleek PageRank Visualizer Callout Banner */}
       <div style={{

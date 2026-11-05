@@ -18,6 +18,7 @@ import {
   Info
 } from 'lucide-react';
 import ContextCue from './ContextCue';
+import CustomUrlScanBar from './CustomUrlScanBar';
 import { ImageAuditDetail, AuditChecklistReport } from '@/lib/scraper-engine';
 
 interface QuickPagePreset {
@@ -166,6 +167,49 @@ export default function ImageAuditTab() {
         useCase="Review every image on your website to ensure screen readers can understand content and Google image search ranks your pages."
         title="Dedicated Image Accessibility Engine"
         about="Google requires descriptive alt text for medical imagery to satisfy WCAG 2.1 Level A compliance. This tool highlights missing tags in red, flags generic placeholders in amber, checks for layout shift dimensions, and generates 1-click suggested alt copy you can paste directly into your Next.js JSX."
+      />
+
+      {/* Custom URL Scanner Input */}
+      <CustomUrlScanBar
+        toolName="Image Alt &amp; Accessibility"
+        placeholder="Enter custom URL to audit all image alt tags (e.g. https://ongoweightloss.com/tools/bmi-calculator/)..."
+        onScanComplete={(page) => {
+          if (!page) return;
+          setCurrentFileTitle(page.title || page.url);
+          if (page.imageDetails) {
+            setReport({
+              score: page.missingAlt > 0 ? 82 : 98,
+              grade: page.missingAlt > 0 ? 'B' : 'A+',
+              totalChecks: 12,
+              passedCount: page.missingAlt > 0 ? 10 : 12,
+              warningCount: page.missingAlt > 0 ? page.missingAlt : 0,
+              failedCount: 0,
+              imagesAudit: {
+                total: page.totalImages || 0,
+                validCount: Math.max(0, (page.totalImages || 0) - (page.missingAlt || 0) - (page.suspiciousAlt || 0)),
+                missingCount: page.missingAlt || 0,
+                emptyCount: page.emptyAlt || 0,
+                suspiciousCount: page.suspiciousAlt || 0,
+                missingDimensionsCount: 0,
+                lazyCount: 0,
+                details: page.imageDetails.map((img: any, i: number) => ({
+                  src: img.src || '',
+                  alt: img.alt || '',
+                  altStatus: img.status === 'missing' ? 'missing' : img.status === 'empty' ? 'empty' : img.status === 'suspicious' ? 'suspicious' : 'valid',
+                  altBadge: img.status === 'valid' ? 'Descriptive' : 'Missing Tag',
+                  altWarning: img.issue || undefined,
+                  hasDimensions: true,
+                  width: 'auto',
+                  height: 'auto',
+                  isLazy: true,
+                  format: img.src?.endsWith('.svg') ? 'SVG' : img.src?.endsWith('.webp') ? 'WebP' : 'JPG',
+                  recommendation: `Add descriptive alt text: 'Ongo clinical weight loss visual for ${page.title || 'treatment'}'`
+                }))
+              },
+              checklist: []
+            });
+          }
+        }}
       />
 
       {/* 4 Clarity Executive Scorecards */}

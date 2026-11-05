@@ -19,6 +19,7 @@ import {
 import { OngoMetaItem } from '@/lib/data';
 import { MetaAuditResult } from '@/app/api/audit-meta/route';
 import ContextCue from './ContextCue';
+import CustomUrlScanBar from './CustomUrlScanBar';
 
 interface MetaAuditorTabProps {
   ongoMeta: Record<string, OngoMetaItem>;
@@ -99,36 +100,24 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
         tip="Click the Copy icon next to any Recommended Title or Description to paste it directly into Ongo's Next.js metadata configs."
       />
 
-      {/* Sleek Minimalist Tool Header */}
-      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '14px', marginBottom: '14px' }}>
+      {/* Premium GSC / Clarity Header */}
+      <div className="gsc-header">
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '14px' }}>
           <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
-              <span style={{
-                display: 'inline-flex',
-                alignItems: 'center',
-                gap: '5px',
-                padding: '2px 8px',
-                borderRadius: '6px',
-                fontSize: '0.68rem',
-                fontWeight: 700,
-                textTransform: 'uppercase',
-                letterSpacing: '0.04em',
-                background: 'rgba(52, 126, 93, 0.25)',
-                color: '#74c69d',
-                border: '1px solid rgba(116, 198, 157, 0.3)'
-              }}>
-                <Tag size={11} /> Meta &amp; SERP
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
+              <span className="gsc-badge-healthy">
+                <span className="gsc-pulse-dot" />
+                SERP &amp; CTR Simulator
               </span>
-              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
-                11 Benchmark Pages
+              <span className="gsc-badge-neutral">
+                Title &amp; Meta Rewrites
               </span>
             </div>
-            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
+            <h1 style={{ fontSize: '1.45rem', fontWeight: 800, color: '#0f1715', margin: 0, letterSpacing: '-0.02em' }}>
               Meta Tags &amp; Google SERP Simulator
             </h1>
-            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
-              Side-by-side title and description CTR scorecard · Live HTML inspector · E-E-A-T badges
+            <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
+              Side-by-side title and description CTR scorecard &bull; Live Google SERP preview &bull; Human search query rewrites that replace robotic title formatting.
             </p>
           </div>
 
@@ -136,20 +125,20 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
           <div style={{ 
             display: 'flex', 
             gap: '4px', 
-            background: 'rgba(255, 255, 255, 0.08)', 
-            padding: '3px', 
+            background: '#f1f5f9', 
+            padding: '4px', 
             borderRadius: '9999px', 
-            border: '1px solid rgba(255, 255, 255, 0.15)' 
+            border: '1px solid #e2e8f0' 
           }}>
             <button
               onClick={() => setActiveMode('benchmark')}
               style={{
-                padding: '5px 12px',
-                fontSize: '0.75rem',
+                padding: '5px 14px',
+                fontSize: '0.78rem',
                 borderRadius: '9999px',
                 border: 'none',
-                background: activeMode === 'benchmark' ? '#347e5d' : 'transparent',
-                color: '#ffffff',
+                background: activeMode === 'benchmark' ? '#1b4332' : 'transparent',
+                color: activeMode === 'benchmark' ? '#ffffff' : '#64748b',
                 cursor: 'pointer',
                 fontWeight: 700,
                 transition: 'all 0.15s ease'
@@ -160,12 +149,12 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
             <button
               onClick={() => setActiveMode('live')}
               style={{
-                padding: '5px 12px',
-                fontSize: '0.75rem',
+                padding: '5px 14px',
+                fontSize: '0.78rem',
                 borderRadius: '9999px',
                 border: 'none',
-                background: activeMode === 'live' ? '#347e5d' : 'transparent',
-                color: '#ffffff',
+                background: activeMode === 'live' ? '#1b4332' : 'transparent',
+                color: activeMode === 'live' ? '#ffffff' : '#64748b',
                 cursor: 'pointer',
                 fontWeight: 700,
                 transition: 'all 0.15s ease'
@@ -175,48 +164,17 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
             </button>
           </div>
         </div>
-
-        {/* Live URL Input Bar */}
-        <form
-          onSubmit={(e) => {
-            e.preventDefault();
-            handleRunAudit(auditUrl);
-          }}
-          style={{ display: 'flex', gap: '8px' }}
-        >
-          <div style={{ position: 'relative', flex: 1 }}>
-            <Globe size={14} color="#74c69d" style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)' }} />
-            <input
-              type="text"
-              placeholder="Enter any page URL to audit (e.g. https://ongoweightloss.com/pricing/ or competitor)..."
-              value={auditUrl}
-              onChange={(e) => setAuditUrl(e.target.value)}
-              style={{
-                width: '100%',
-                padding: '8px 12px 8px 34px',
-                fontSize: '0.82rem',
-                borderRadius: '8px',
-                border: '1px solid rgba(255, 255, 255, 0.18)',
-                backgroundColor: 'rgba(15, 23, 42, 0.6)',
-                color: '#ffffff',
-                outline: 'none'
-              }}
-            />
-          </div>
-          <button
-            type="submit"
-            disabled={auditing}
-            className="btn-minimal-emerald"
-            style={{
-              padding: '8px 16px',
-              fontSize: '0.78rem',
-              whiteSpace: 'nowrap'
-            }}
-          >
-            {auditing ? 'Auditing...' : 'Audit Live HTML'}
-          </button>
-        </form>
       </div>
+
+      {/* Custom URL Scanner Bar */}
+      <CustomUrlScanBar
+        toolName="SERP &amp; Meta Tags"
+        placeholder="Enter custom URL to audit title tags and meta descriptions..."
+        onScanComplete={(page) => {
+          if (!page) return;
+          handleRunAudit(page.url);
+        }}
+      />
 
       {/* MODE A: Ongo Benchmark & Page Optimization */}
       {activeMode === 'benchmark' && (

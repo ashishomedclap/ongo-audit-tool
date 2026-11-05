@@ -26,10 +26,12 @@ import {
   ShieldCheck,
   Activity,
   CheckCircle2,
-  FileCode
+  FileCode,
+  RefreshCw
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 import ToolsSitemapModal from './ToolsSitemapModal';
+import MasterSiteScanModal from './MasterSiteScanModal';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition } from '@/lib/tools-sitemap';
 
 export type TabType = 
@@ -66,6 +68,7 @@ interface NavbarProps {
 
 export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) {
   const [sitemapModalOpen, setSitemapModalOpen] = useState(false);
+  const [masterScanModalOpen, setMasterScanModalOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState<'level-1' | 'level-2' | 'level-3' | null>(null);
   const navRef = useRef<HTMLDivElement>(null);
 
@@ -464,8 +467,40 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
             </nav>
           </div>
 
-          {/* Right Action: Quick Modal Sitemap Button & Stats */}
+          {/* Right Action: Master Site Scan & Quick Modal Sitemap Button & Stats */}
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexShrink: 0 }}>
+            <button
+              onClick={() => setMasterScanModalOpen(true)}
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px',
+                padding: '6px 12px',
+                fontSize: '12px',
+                fontWeight: 700,
+                color: '#ffffff',
+                background: 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
+                border: '1px solid #34d399',
+                borderRadius: '8px',
+                cursor: 'pointer',
+                boxShadow: '0 2px 10px rgba(16, 185, 129, 0.35)',
+                transition: 'all 0.15s ease'
+              }}
+              title="Crawl entire live website (sitemap.xml) and refresh tools database"
+            >
+              <RefreshCw size={12} />
+              <span>Master Site Scan</span>
+              <span style={{
+                background: 'rgba(0, 0, 0, 0.22)',
+                padding: '1px 5px',
+                borderRadius: '4px',
+                fontSize: '10px',
+                fontWeight: 800
+              }}>
+                56 URLs
+              </span>
+            </button>
+
             <button
               onClick={() => setSitemapModalOpen(true)}
               style={{
@@ -516,6 +551,11 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
           setSitemapModalOpen(false);
         }}
         activeTab={activeTab}
+      />
+      {/* Master Website Scanner Modal */}
+      <MasterSiteScanModal
+        isOpen={masterScanModalOpen}
+        onClose={() => setMasterScanModalOpen(false)}
       />
     </>
   );

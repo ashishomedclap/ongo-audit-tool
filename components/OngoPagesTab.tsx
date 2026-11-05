@@ -27,6 +27,7 @@ import {
 } from 'lucide-react';
 import { OngoLivePagesData, OngoLivePageItem } from '@/lib/data';
 import ContextCue from './ContextCue';
+import CustomUrlScanBar from './CustomUrlScanBar';
 import { CircularGaugeMeter, BezierAreaCurve, ComparisonBarMeter } from './VisualMetricsWidgets';
 
 interface OngoPagesTabProps {
@@ -216,10 +217,10 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
               </span>
             </div>
             <h1 style={{ fontSize: '1.45rem', fontWeight: 800, color: '#0f1715', margin: 0, letterSpacing: '-0.02em' }}>
-              Ongo Live 43 Pages &amp; Coverage Auditor
+              Ongo Live {totalCount} Pages &amp; Coverage Auditor
             </h1>
             <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
-              Live sitemap crawler: <code style={{ color: '#166534', background: '#f0fdf4', padding: '1px 5px', borderRadius: '4px' }}>{data.source}</code> · HTTP status codes &bull; Title tag lengths &bull; CTR optimization hooks &bull; Google SERP preview
+              Live sitemap crawler: <code style={{ color: '#166534', background: '#f0fdf4', padding: '1px 5px', borderRadius: '4px' }}>{data.source}</code> &bull; HTTP status codes &bull; Title tag lengths &bull; CTR optimization hooks &bull; Google SERP preview
             </p>
           </div>
 
@@ -228,7 +229,7 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
             <button
               onClick={handleExportCsv}
               className="gsc-btn-secondary"
-              title={`Export all ${data.total_pages || 43} pages to CSV`}
+              title={`Export all ${data.total_pages || totalCount} pages to CSV`}
             >
               <Download size={14} />
               Export CSV
@@ -263,6 +264,26 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
           </div>
         )}
       </div>
+
+      {/* Custom URL Scanner Bar */}
+      <CustomUrlScanBar
+        toolName="Coverage &amp; Indexation"
+        onScanComplete={(page) => {
+          if (!page) return;
+          setData(prev => {
+            const exists = prev.pages.some(p => p.url === page.url);
+            const updatedList = exists 
+              ? prev.pages.map(p => p.url === page.url ? { ...p, ...page } : p)
+              : [ { id: prev.pages.length + 1, ...page }, ...prev.pages ];
+            return {
+              ...prev,
+              total_pages: updatedList.length,
+              pages: updatedList
+            };
+          });
+          setRefreshMessage(`Custom URL ${page.url} audited successfully! Added to coverage list.`);
+        }}
+      />
 
       
       {/* Live Site Health & CTR Visual Telemetry */}
