@@ -138,13 +138,13 @@ export default function ToolsSitemapModal({
       zIndex: 100
     }}>
       <div style={{
-        backgroundColor: '#ffffff',
+        backgroundColor: 'var(--bg-surface)',
         borderRadius: '20px',
         width: '100%',
         maxWidth: '820px',
         maxHeight: '85vh',
-        boxShadow: '0 25px 60px -15px rgba(0, 0, 0, 0.3)',
-        border: '1px solid #e2e8f0',
+        boxShadow: '0 25px 60px -15px rgba(0, 0, 0, 0.45)',
+        border: '1px solid var(--border-subtle)',
         display: 'flex',
         flexDirection: 'column',
         overflow: 'hidden'
@@ -201,13 +201,13 @@ export default function ToolsSitemapModal({
         </div>
 
         {/* Search Bar & Level Filters */}
-        <div style={{ padding: '16px 24px', borderBottom: '1px solid #f1f5f9', backgroundColor: '#f8fafc' }}>
+        <div style={{ padding: '16px 24px', borderBottom: '1px solid var(--border-subtle)', backgroundColor: 'var(--bg-surface-alt)' }}>
           <div style={{
             display: 'flex',
             alignItems: 'center',
-            backgroundColor: '#ffffff',
+            backgroundColor: 'var(--bg-input)',
             borderRadius: '10px',
-            border: '1px solid #cbd5e1',
+            border: '1px solid var(--border-medium)',
             padding: '4px 14px',
             marginBottom: '12px'
           }}>
@@ -220,11 +220,12 @@ export default function ToolsSitemapModal({
               onChange={(e) => setSearch(e.target.value)}
               style={{
                 width: '100%',
+                background: 'transparent',
                 border: 'none',
                 outline: 'none',
                 padding: '8px 0',
                 fontSize: '14px',
-                color: '#1b4332'
+                color: 'var(--text-primary)'
               }}
             />
             {search && (

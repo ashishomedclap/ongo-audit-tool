@@ -77,8 +77,8 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
         flexDirection: 'column',
         overflow: 'hidden',
         border: '1px solid var(--border-medium)',
-        boxShadow: '0 24px 60px rgba(15, 44, 36, 0.35)',
-        background: '#ffffff'
+        boxShadow: '0 24px 60px rgba(0, 0, 0, 0.45)',
+        background: 'var(--bg-surface)'
       }}>
         {/* Header */}
         <div style={{
@@ -87,7 +87,7 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
           display: 'flex',
           justifyContent: 'space-between',
           alignItems: 'center',
-          background: 'linear-gradient(180deg, #faf7f2 0%, #ffffff 100%)'
+          background: 'var(--bg-surface)'
         }}>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
@@ -191,7 +191,7 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
               alignItems: 'center',
               gap: '12px',
               borderBottom: '1px solid var(--border-subtle)',
-              background: '#ffffff'
+              background: 'var(--bg-surface)'
             }}>
               <div style={{ display: 'flex', gap: '6px' }}>
                 {[
@@ -210,8 +210,8 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
                         fontSize: '0.74rem',
                         borderRadius: '9999px',
                         border: '1px solid',
-                        borderColor: isActive ? '#1b4332' : 'var(--border-medium)',
-                        background: isActive ? '#1b4332' : '#ffffff',
+                        borderColor: isActive ? 'var(--color-primary-dark)' : 'var(--border-medium)',
+                        background: isActive ? 'var(--color-primary-dark)' : 'var(--bg-surface-alt)',
                         color: isActive ? '#ffffff' : 'var(--text-secondary)',
                         fontWeight: isActive ? 700 : 500,
                         cursor: 'pointer',
@@ -239,7 +239,7 @@ export default function CompetitorModal({ folder, onClose }: CompetitorModalProp
             </div>
 
             {/* URL List */}
-            <div style={{ flex: 1, overflowY: 'auto', padding: '16px 26px', background: '#ffffff' }}>
+            <div style={{ flex: 1, overflowY: 'auto', padding: '16px 26px', background: 'var(--bg-surface)' }}>
               {filteredUrls.length === 0 ? (
                 <div style={{ textAlign: 'center', color: 'var(--text-tertiary)', padding: '36px', fontSize: '0.8rem' }}>
                   No URLs match this filter.

@@ -63,9 +63,9 @@ export default function CustomUrlScanBar({
 
   return (
     <div style={{
-      backgroundColor: '#ffffff',
+      backgroundColor: 'var(--bg-surface)',
       borderRadius: '12px',
-      border: '1px solid #e2e8f0',
+      border: '1px solid var(--border-subtle)',
       padding: '16px 20px',
       boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)'
     }}>

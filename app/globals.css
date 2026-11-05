@@ -2,7 +2,7 @@
 
 :root {
   /* ==========================================================================
-     Ongo Weight Loss (ongoweightloss.com) Design Tokens & Palette
+     Ongo Weight Loss (ongoweightloss.com) Design Tokens & Palette - Light Theme
      ========================================================================== */
   
   /* Brand Core Colors */
@@ -62,6 +62,55 @@
   --font-mono: 'JetBrains Mono', monospace;
 }
 
+/* ==========================================================================
+   Dark Mode Palette & Tokens (Obsidian Night & Medical Emerald)
+   ========================================================================== */
+[data-theme='dark'] {
+  /* Brand Core Colors in Dark Mode */
+  --color-primary: #4ade80;          /* Vibrant Mint Emerald */
+  --color-primary-dark: #166534;     /* Deep Forest Jade */
+  --color-primary-light: #86efac;    /* Soft Mint Green */
+  --color-primary-soft: rgba(34, 197, 94, 0.16); /* Emerald Wash */
+  
+  --color-accent: #f97316;           /* Bright Coral / Orange */
+  --color-accent-hover: #ea580c;
+  --color-accent-soft: rgba(249, 115, 22, 0.16);
+  --color-accent-warm: #fbbf24;      /* Amber Warm */
+  
+  /* Canvas & Surfaces (Obsidian Slate & Emerald Night Foundation) */
+  --bg-canvas: #090e0c;              /* Deep Obsidian Black-Green */
+  --bg-surface: #121815;             /* Dark Sleek Bento Surface */
+  --bg-surface-elevated: #16201b;    /* Elevated Floating Card */
+  --bg-surface-alt: #16201b;         /* Alternate Card Surface */
+  --bg-surface-hover: #1c2923;       /* Interactive Hover */
+  --bg-input: #0e1411;               /* Dark Form Input */
+  
+  /* Refined Subtle Dark Borders */
+  --border-subtle: #1e2d26;          /* Dark Emerald Border */
+  --border-medium: #2a3e35;          /* Visible Dark Border */
+  --border-hover: #3d5a4d;           /* Hover Border */
+  --border-focus: #4ade80;           /* Focus Border */
+  
+  /* High-Contrast Dark Mode Typography */
+  --text-primary: #f1f5f3;           /* Crisp Pure White-Mint */
+  --text-secondary: #94a3b8;         /* Slate Neutral Light */
+  --text-tertiary: #64748b;          /* Subdued Slate */
+  --text-muted: #475569;            /* Soft Muted Gray */
+  --text-dim: #334155;
+  
+  /* Functional Accents */
+  --accent-emerald: #10b981;
+  --accent-emerald-subtle: rgba(16, 185, 129, 0.18);
+  --accent-cyan: #22d3ee;
+  --accent-purple: #a855f7;
+  --accent-amber: #f59e0b;
+  --accent-rose: #f43f5e;
+  
+  /* Shadows */
+  --shadow-bento: 0 1px 3px rgba(0, 0, 0, 0.4), 0 4px 14px rgba(0, 0, 0, 0.3);
+  --shadow-bento-hover: 0 6px 20px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -77,6 +126,22 @@ html, body {
   background-image: 
     radial-gradient(ellipse at 50% 0%, #f7efe4 0%, #fffbf5 65%);
   background-attachment: fixed;
+  transition: background-color 0.2s ease, color 0.15s ease;
+}
+
+[data-theme='dark'] html,
+[data-theme='dark'] body,
+html[data-theme='dark'],
+body[data-theme='dark'] {
+  background-color: #090e0c;
+  color: #f1f5f3;
+  background-image: 
+    radial-gradient(ellipse at 50% 0%, #14231b 0%, #090e0c 65%);
+}
+
+/* Smooth theme transition */
+.bento-card, .gsc-card, .gsc-header, .gsc-scorecard, .tool-header-neutral, .productivity-table-wrapper, nav, header, footer {
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.15s ease, box-shadow 0.2s ease;
 }
 
 /* Custom Scrollbars in Warm Sage */
@@ -691,6 +756,178 @@ html, body {
   display: inline-block;
   background-color: #10b981;
   box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
+}
+
+/* ==========================================================================
+   Comprehensive Dark Mode Overrides & Component Support
+   ========================================================================== */
+
+[data-theme='dark'] .bento-card,
+[data-theme='dark'] .gsc-card,
+[data-theme='dark'] .gsc-header,
+[data-theme='dark'] .gsc-scorecard,
+[data-theme='dark'] .tool-header-neutral,
+[data-theme='dark'] .productivity-table-wrapper {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-subtle) !important;
+  color: var(--text-primary) !important;
+}
+
+[data-theme='dark'] .gsc-card:hover,
+[data-theme='dark'] .gsc-header:hover,
+[data-theme='dark'] .gsc-scorecard:hover,
+[data-theme='dark'] .bento-card:hover {
+  border-color: var(--border-medium) !important;
+}
+
+[data-theme='dark'] .gsc-scorecard-value {
+  color: #f1f5f3 !important;
+}
+
+[data-theme='dark'] .gsc-scorecard-label,
+[data-theme='dark'] .gsc-scorecard-sub {
+  color: var(--text-secondary) !important;
+}
+
+/* Tables */
+[data-theme='dark'] table {
+  color: var(--text-primary);
+}
+[data-theme='dark'] th,
+[data-theme='dark'] .gsc-table th,
+[data-theme='dark'] .productivity-table th,
+[data-theme='dark'] .neutral-table th {
+  background: var(--bg-surface-alt) !important;
+  color: var(--text-primary) !important;
+  border-bottom-color: var(--border-subtle) !important;
+}
+
+[data-theme='dark'] td,
+[data-theme='dark'] .gsc-table td,
+[data-theme='dark'] .productivity-table td,
+[data-theme='dark'] .neutral-table td {
+  background: var(--bg-surface) !important;
+  color: var(--text-secondary) !important;
+  border-bottom-color: var(--border-subtle) !important;
+}
+
+[data-theme='dark'] tr:hover td,
+[data-theme='dark'] .gsc-table tr:hover td,
+[data-theme='dark'] .productivity-table tr:hover td,
+[data-theme='dark'] .neutral-table tr:hover td {
+  background: var(--bg-surface-hover) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Inputs, Textareas, Selects */
+[data-theme='dark'] input[type="text"],
+[data-theme='dark'] input[type="search"],
+[data-theme='dark'] input[type="url"],
+[data-theme='dark'] textarea,
+[data-theme='dark'] select,
+[data-theme='dark'] .input-minimal {
+  background-color: var(--bg-input) !important;
+  border-color: var(--border-medium) !important;
+  color: var(--text-primary) !important;
+}
+
+[data-theme='dark'] input::placeholder,
+[data-theme='dark'] textarea::placeholder {
+  color: var(--text-muted) !important;
+}
+
+/* Chips & Secondary Buttons */
+[data-theme='dark'] .chip-filter {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-subtle) !important;
+  color: var(--text-secondary) !important;
+}
+[data-theme='dark'] .chip-filter:hover {
+  background-color: var(--bg-surface-hover) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border-medium) !important;
+}
+[data-theme='dark'] .chip-filter.active {
+  background: #1b4332 !important;
+  color: #4ade80 !important;
+  border-color: #2e7d56 !important;
+}
+
+[data-theme='dark'] .gsc-btn-secondary,
+[data-theme='dark'] .btn-minimal-secondary {
+  background-color: var(--bg-surface-alt) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border-subtle) !important;
+}
+[data-theme='dark'] .gsc-btn-secondary:hover,
+[data-theme='dark'] .btn-minimal-secondary:hover {
+  background-color: var(--bg-surface-hover) !important;
+  border-color: var(--border-medium) !important;
+}
+
+/* Hardcoded White / Light Inline Background Overrides */
+[data-theme='dark'] div[style*="background: rgb(255, 255, 255)"],
+[data-theme='dark'] div[style*="background:#ffffff"],
+[data-theme='dark'] div[style*="background: #ffffff"],
+[data-theme='dark'] div[style*="backgroundColor: rgb(255, 255, 255)"],
+[data-theme='dark'] div[style*="backgroundColor:#ffffff"],
+[data-theme='dark'] div[style*="backgroundColor: #ffffff"] {
+  background-color: var(--bg-surface) !important;
+}
+
+[data-theme='dark'] div[style*="background: rgb(248, 250, 252)"],
+[data-theme='dark'] div[style*="background:#f8fafc"],
+[data-theme='dark'] div[style*="background: #f8fafc"],
+[data-theme='dark'] div[style*="backgroundColor: rgb(248, 250, 252)"],
+[data-theme='dark'] div[style*="backgroundColor:#f8fafc"],
+[data-theme='dark'] div[style*="backgroundColor: #f8fafc"],
+[data-theme='dark'] div[style*="background: #f1f5f9"],
+[data-theme='dark'] div[style*="backgroundColor: #f1f5f9"] {
+  background-color: var(--bg-surface-alt) !important;
+}
+
+[data-theme='dark'] [style*="border: 1px solid #e2e8f0"],
+[data-theme='dark'] [style*="border: 1px solid #cbd5e1"],
+[data-theme='dark'] [style*="border: 1px solid #ede8e0"],
+[data-theme='dark'] [style*="border: 1px solid #dfd9cf"],
+[data-theme='dark'] [style*="border-color: #e2e8f0"],
+[data-theme='dark'] [style*="border-color: #cbd5e1"] {
+  border-color: var(--border-subtle) !important;
+}
+
+[data-theme='dark'] [style*="color: #0f1715"],
+[data-theme='dark'] [style*="color: rgb(15, 23, 21)"] {
+  color: var(--text-primary) !important;
+}
+
+[data-theme='dark'] [style*="color: #1e293b"],
+[data-theme='dark'] [style*="color: #334155"] {
+  color: var(--text-secondary) !important;
+}
+
+/* Modals & Dialogs */
+[data-theme='dark'] [role="dialog"] > div,
+[data-theme='dark'] .modal-content {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-medium) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Footer */
+[data-theme='dark'] footer {
+  background-color: #080d0b !important;
+  border-top-color: var(--border-subtle) !important;
+}
+
+/* Scrollbars in Dark Mode */
+[data-theme='dark'] ::-webkit-scrollbar-track {
+  background: var(--bg-canvas);
+}
+[data-theme='dark'] ::-webkit-scrollbar-thumb {
+  background: #1e3328;
+}
+[data-theme='dark'] ::-webkit-scrollbar-thumb:hover {
+  background: #2a4839;
 }
 
 

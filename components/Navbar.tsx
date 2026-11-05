@@ -28,7 +28,9 @@ import {
   CheckCircle2,
   FileCode,
   FileCheck2,
-  RefreshCw
+  RefreshCw,
+  Sun,
+  Moon
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 import ToolsSitemapModal from './ToolsSitemapModal';
@@ -72,7 +74,36 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
   const [sitemapModalOpen, setSitemapModalOpen] = useState(false);
   const [masterScanModalOpen, setMasterScanModalOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState<'level-1' | 'level-2' | 'level-3' | null>(null);
+  const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const navRef = useRef<HTMLDivElement>(null);
+
+  // Detect and synchronize theme
+  useEffect(() => {
+    const currentTheme = (document.documentElement.getAttribute('data-theme') as 'light' | 'dark') ||
+      (localStorage.getItem('ongo-theme') as 'light' | 'dark') ||
+      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    setTheme(currentTheme);
+
+    const media = window.matchMedia('(prefers-color-scheme: dark)');
+    const listener = (e: MediaQueryListEvent) => {
+      if (!localStorage.getItem('ongo-theme')) {
+        const next = e.matches ? 'dark' : 'light';
+        setTheme(next);
+        document.documentElement.setAttribute('data-theme', next);
+      }
+    };
+    media.addEventListener('change', listener);
+    return () => media.removeEventListener('change', listener);
+  }, []);
+
+  const toggleTheme = () => {
+    const nextTheme = theme === 'light' ? 'dark' : 'light';
+    setTheme(nextTheme);
+    document.documentElement.setAttribute('data-theme', nextTheme);
+    try {
+      localStorage.setItem('ongo-theme', nextTheme);
+    } catch (e) {}
+  };
 
   // Close dropdown on outside click
   useEffect(() => {
@@ -524,6 +555,40 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
             >
               <Search size={13} />
               <span>Sitemap Modal</span>
+            </button>
+
+            {/* Classy Dark / Light Theme Mode Toggle */}
+            <button
+              onClick={toggleTheme}
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px',
+                padding: '6px 12px',
+                fontSize: '12px',
+                fontWeight: 600,
+                color: theme === 'dark' ? '#86efac' : '#d8f3dc',
+                background: theme === 'dark' ? 'rgba(34, 197, 94, 0.16)' : 'rgba(255, 255, 255, 0.08)',
+                border: theme === 'dark' ? '1px solid rgba(74, 222, 128, 0.4)' : '1px solid rgba(255, 255, 255, 0.18)',
+                borderRadius: '8px',
+                cursor: 'pointer',
+                transition: 'all 0.15s ease',
+                boxShadow: theme === 'dark' ? '0 0 10px rgba(74, 222, 128, 0.2)' : 'none'
+              }}
+              title={`Switch to ${theme === 'dark' ? 'Light' : 'Dark'} Mode`}
+              aria-label="Toggle Dark and Light Mode"
+            >
+              {theme === 'dark' ? (
+                <>
+                  <Sun size={13} style={{ color: '#4ade80' }} />
+                  <span>Light</span>
+                </>
+              ) : (
+                <>
+                  <Moon size={13} style={{ color: '#d8f3dc' }} />
+                  <span>Dark</span>
+                </>
+              )}
             </button>
 
             {stats && (

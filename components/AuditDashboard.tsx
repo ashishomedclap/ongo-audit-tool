@@ -315,7 +315,7 @@ export default function AuditDashboard({
       {/* Ongo Weight Loss Executive Footer */}
       <footer style={{
         borderTop: '1px solid var(--border-subtle)',
-        backgroundColor: '#ffffff',
+        backgroundColor: 'var(--bg-surface)',
         padding: '32px 24px',
         marginTop: '48px',
         color: 'var(--text-secondary)'

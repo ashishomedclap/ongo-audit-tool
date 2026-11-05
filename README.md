@@ -493,21 +493,29 @@ All endpoints run on the Next.js App Router (`app/api/`):
 
 ---
 
-## 🎨 Design System: $1,000 GSC + Clarity Minimal Neutral UI
+## 🎨 Design System: $1,000 GSC + Clarity Minimal Neutral UI & Dark/Light Mode
 
-The user interface follows a high-density, low-noise aesthetic modeled after **Google Search Console** and **Microsoft Clarity**:
+The user interface follows a high-density, low-noise aesthetic modeled after **Google Search Console** and **Microsoft Clarity**, featuring a classy, instant **Dark & Light Mode Switcher**:
 
-| Design Token | Value | Purpose |
-| :--- | :--- | :--- |
-| **Primary Brand** | `#1b4332` | Ongo Deep Forest Racing Green (navbar, brand accent) |
-| **Secondary Accent**| `#059669` | Crisp Emerald (success badges, live pulse, high scores) |
-| **Surface Background**| `#ffffff` | Clean white bento cards |
-| **Canvas Background** | `#f8fafc` | Soft slate neutral canvas |
-| **Card Borders** | `#e2e8f0` | Subtle, crisp 1px borders |
-| **Primary Text** | `#0f1715` | High-contrast obsidian typography |
-| **Secondary Text** | `#64748b` | Muted slate descriptions and captions |
-| **Typography** | `Inter, -apple-system, system-ui` | High-legibility technical dashboard font |
-| **Shadows** | `0 1px 3px rgba(0,0,0,0.05)` | Clean, flat, subtle elevation |
+* **Classy Theme Toggle**: Integrated into the top navigation bar with dynamic Sun/Moon iconography.
+* **Persistent Preference**: Remembers the user's manual selection across reloads via `localStorage` (`ongo-theme`) and automatically respects OS system settings (`prefers-color-scheme: dark`) on initial visit.
+* **Zero FOUC (Flash of Unstyled Content)**: Pre-hydration inline script in `<head>` applies `data-theme` immediately before paint.
+* **Smooth Transitions**: 0.2s CSS ease transitions across backgrounds, card borders, and typography.
+
+### Design Tokens by Theme Mode
+
+| Design Token | Light Mode (Warm Canvas) | Dark Mode (Obsidian Emerald) | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Canvas Background** | `#faf8f5` (warm linen) | `#090e0c` (deep obsidian) | Page foundation with subtle radial glow |
+| **Card Surface** | `#ffffff` (crisp white) | `#121815` (sleek dark jade) | Bento cards, panels, and modals |
+| **Elevated Surface** | `#ffffff` | `#16201b` (floating dark card) | Toolbars, inputs, dropdown menus |
+| **Subtle Border** | `#ede8e0` / `#e2e8f0` | `#1e2d26` (dark emerald border) | 1px clean separation lines |
+| **Medium Border** | `#dfd9cf` / `#cbd5e1` | `#2a3e35` (visible border) | Card hover states, active inputs |
+| **Primary Text** | `#0f1715` (obsidian charcoal) | `#f1f5f3` (pure white-mint) | Headers, metric values, high contrast |
+| **Secondary Text** | `#475569` (slate neutral) | `#94a3b8` (silver slate) | Descriptions, data table values |
+| **Primary Brand** | `#1b4332` (Racing Green) | `#1b4332` + glowing emerald | Sticky navbar, brand identity |
+| **Brand Accent** | `#347e5d` (Forest Jade) | `#4ade80` (Vibrant Mint Emerald) | Active indicators, focus rings |
+| **Coral Accent** | `#e76f51` (Warm Terracotta) | `#f97316` (Vivid Coral) | Category icons, secondary buttons |
 
 ---
 

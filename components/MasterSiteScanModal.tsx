@@ -82,14 +82,14 @@ export default function MasterSiteScanModal({
       padding: '20px'
     }}>
       <div style={{
-        backgroundColor: '#ffffff',
+        backgroundColor: 'var(--bg-surface)',
         borderRadius: '16px',
         maxWidth: '720px',
         width: '100%',
         maxHeight: '90vh',
         overflowY: 'auto',
-        boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.25)',
-        border: '1px solid #e2e8f0',
+        boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.4)',
+        border: '1px solid var(--border-subtle)',
         padding: '24px',
         display: 'flex',
         flexDirection: 'column',
