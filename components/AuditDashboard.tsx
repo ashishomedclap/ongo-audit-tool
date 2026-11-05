@@ -22,6 +22,7 @@ import ImageAuditTab from './ImageAuditTab';
 import LinkFlowchartTab from './LinkFlowchartTab';
 import DoctorEeatTab from './DoctorEeatTab';
 import StateLicensingTab from './StateLicensingTab';
+import ContentMatcherTab from './ContentMatcherTab';
 import CompetitorModal from './CompetitorModal';
 import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
 import { BooksIndexData } from '@/lib/books-data';
@@ -44,6 +45,7 @@ export const TAB_TO_URL: Record<TabType, string> = {
   'compliance': '/compliance',
   'doctor-eeat': '/doctor-eeat',
   'state-licensing': '/state-licensing',
+  'content-matcher': '/content-matcher',
   'meta': '/meta',
   'reports': '/reports',
   'suite-sitemap': '/sitemap'
@@ -67,6 +69,7 @@ export const URL_TO_TAB: Record<string, TabType> = {
   '/compliance': 'compliance',
   '/doctor-eeat': 'doctor-eeat',
   '/state-licensing': 'state-licensing',
+  '/content-matcher': 'content-matcher',
   '/meta': 'meta',
   '/reports': 'reports',
   '/sitemap': 'suite-sitemap'
@@ -274,6 +277,12 @@ export default function AuditDashboard({
           <StateLicensingTab
             complianceData={complianceData || []}
             onInspectCompetitor={(folder) => setInspectFolder(folder)}
+          />
+        )}
+
+        {activeTab === 'content-matcher' && (
+          <ContentMatcherTab
+            livePages={ongoLivePages?.pages || []}
           />
         )}
 

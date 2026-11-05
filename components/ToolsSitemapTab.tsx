@@ -34,7 +34,8 @@ import {
   Trash2,
   GitMerge,
   Image as ImageIcon,
-  CheckSquare
+  CheckSquare,
+  FileCheck2
 } from 'lucide-react';
 import ContextCue from './ContextCue';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition, getToolsByRank } from '@/lib/tools-sitemap';
@@ -101,6 +102,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
       case 'Layers': return <Layers size={size} />;
       case 'FileText': return <FileText size={size} />;
       case 'FileCode': return <FileCode size={size} />;
+      case 'FileCheck2': return <FileCheck2 size={size} />;
       default: return <Activity size={size} />;
     }
   };
@@ -202,7 +204,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
       <ContextCue
         useCase="Review what each tool does in detail, how and why to use it, and its ranked business value to decide what to keep, merge, or remove."
         title="Tools Ranking & Simplification Guide"
-        about="Tier 1 tools (Rank #1-#5) are essential organic traffic drivers and core engines. Tier 2 tools (Rank #6-#11) provide high-value strategy and E-E-A-T clinical compliance. Tier 3 tools (Rank #12-#15) are specialized candidates you can merge or remove to keep the suite simple."
+        about="Tier 1 tools are essential organic traffic drivers and core engines. Tier 2 tools provide high-value strategy and E-E-A-T clinical compliance. Tier 3 tools are specialized candidates you can merge or remove to keep the suite simple."
       />
 
       {/* Tier KPI Summary Cards */}

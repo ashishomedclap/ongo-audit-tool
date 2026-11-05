@@ -27,6 +27,7 @@ import {
   Activity,
   CheckCircle2,
   FileCode,
+  FileCheck2,
   RefreshCw
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
@@ -51,6 +52,7 @@ export type TabType =
   | 'compliance' 
   | 'doctor-eeat'
   | 'state-licensing'
+  | 'content-matcher'
   | 'meta' 
   | 'architecture' 
   | 'reports'
@@ -105,6 +107,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       case 'GitMerge': return <GitMerge size={size} />;
       case 'FileText': return <FileText size={size} />;
       case 'FileCode': return <FileCode size={size} />;
+      case 'FileCheck2': return <FileCheck2 size={size} />;
       default: return <Activity size={size} />;
     }
   };
@@ -115,7 +118,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       levelNum: 1,
       name: 'Level 1: Foundation & Baseline',
       shortLabel: 'L1 Foundation',
-      useCase: 'Audit Ongo 43 live URLs, clone clean offline pages, test image alt tags, study 7 books & benchmark 100 competitors',
+      useCase: 'Audit Ongo 56 live URLs, clone clean offline pages, test image alt tags, study 7 books & benchmark 100 competitors',
       accentColor: '#347e5d',
       tools: TOOLS_DIRECTORY.filter(t => t.level === 1)
     },

@@ -153,13 +153,42 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #5: PAGERANK & LINK EQUITY FLOWCHART
+  // RANK #5: CONTENT MATCHER & HEAD-TO-HEAD AUDITOR
+  // ==========================================
+  {
+    id: 'content-matcher',
+    name: 'Content Matcher & Competitor Head-to-Head Auditor',
+    shortName: 'Content Matcher',
+    rank: 5,
+    rankTier: 'Tier 1: Essential Core',
+    level: 2,
+    levelLabel: 'Level 2 · Research',
+    category: 'level-2',
+    categoryLabel: 'Level 2: Research & Content Engine',
+    categoryIcon: 'FileCheck2',
+    path: '/content-matcher',
+    useCase: 'Audit page copy against an 8-point on-page SEO checklist, visualize search intent distribution in an SVG pie/donut chart, and benchmark side-by-side against competitor pages.',
+    description: 'Content quality auditor and head-to-head competitor matcher that evaluates keyword presence, meta tags, word count, clinical E-E-A-T, and generates an intent distribution pie chart.',
+    valueProp: 'Instant 8-point SEO & clinical checklist, interactive search intent donut chart, and direct competitor page comparison.',
+    howToUse: 'Select any Ongo live page or paste draft copy into the editor. Pick a benchmark competitor page (Mochi, Ro, Henry Meds, Hims, Ivím) to run instant head-to-head gap analysis and inspect intent breakdowns.',
+    whyToUse: 'Guarantees every published article satisfies search engine ranking criteria (keywords, word depth, bullet formatting, clinical E-E-A-T) and matches target search intent before publishing.',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Core content optimization and pre-publish governance tool requested to eliminate content quality blind spots.',
+    badge: 'Intent Donut & Checklist',
+    badgeColor: '#059669',
+    badgeBg: '#dcfce7',
+    keyMetrics: '8-Point Checklist • Intent Pie Chart',
+    keywords: ['content matcher', 'checklist', 'intent', 'pie chart', 'competitor compare', 'head-to-head', 'word count', 'seo audit']
+  },
+
+  // ==========================================
+  // RANK #6: PAGERANK & LINK EQUITY FLOWCHART
   // ==========================================
   {
     id: 'link-flowchart',
     name: 'PageRank & Link Equity Flowchart Visualizer',
     shortName: 'Link Flowchart',
-    rank: 5,
+    rank: 6,
     rankTier: 'Tier 1: Essential Core',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -170,7 +199,7 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     useCase: 'Simulate and visualize the directed flow of PageRank equity from page to page with dynamic damping factor calculations.',
     description: 'Interactive visual flowchart simulator calculating PageRank equity conduits between source and target pages with outbound link count tuning and reciprocal silo conservation.',
     valueProp: 'Interactive directed flowchart with live PageRank formula simulation (d = 0.85), exact anchor text badges, and reciprocal silo loopback.',
-    howToUse: 'Select any source and target from Ongo\'s 43 pages (or load strategic presets), adjust the outbound links count slider (N = 1 to 12), and observe the exact PageRank units transferred with 1-click copy of the resulting HTML link.',
+    howToUse: 'Select any source and target from Ongo\'s 56 live pages (or load strategic presets), adjust the outbound links count slider (N = 1 to 12), and observe the exact PageRank units transferred with 1-click copy of the resulting HTML link.',
     whyToUse: 'Prevents link equity dilution and verifies that internal links funnel maximum authority into high-converting medication money pages.',
     recommendation: 'KEEP (Core Asset)',
     recommendationReason: 'Interactive visual tool for modeling and optimizing PageRank distribution across topical silos.',
@@ -182,13 +211,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #6: INTERNAL LINK & ANCHOR RECOMMENDER
+  // RANK #7: INTERNAL LINK & ANCHOR RECOMMENDER
   // ==========================================
   {
     id: 'internal-links',
     name: 'Internal Link & Anchor Text Recommender',
     shortName: 'Internal Links',
-    rank: 6,
+    rank: 7,
     rankTier: 'Tier 1: Essential Core',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -211,13 +240,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #7: ONGO LIVE PAGES & META AUDITOR
+  // RANK #8: ONGO LIVE PAGES & META AUDITOR
   // ==========================================
   {
     id: 'ongo-pages',
     name: 'Ongo Live Pages & Meta Auditor',
     shortName: 'Ongo Live Pages',
-    rank: 7,
+    rank: 8,
     rankTier: 'Tier 1: Essential Core',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
@@ -240,13 +269,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #8: 7 ONBOARDING BOOKS DIGITAL LIBRARY
+  // RANK #9: 7 ONBOARDING BOOKS DIGITAL LIBRARY
   // ==========================================
   {
     id: 'books',
     name: '7 Onboarding Books Digital Library',
     shortName: '7 Books Library',
-    rank: 8,
+    rank: 9,
     rankTier: 'Tier 2: High Value Strategy',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
@@ -269,13 +298,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #9: 100-COMPETITOR CENSUS & DIRECTORY
+  // RANK #10: 100-COMPETITOR CENSUS & DIRECTORY
   // ==========================================
   {
     id: 'competitors',
     name: '100-Competitor Census & Directory',
     shortName: '100 Competitors',
-    rank: 9,
+    rank: 10,
     rankTier: 'Tier 2: High Value Strategy',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
@@ -298,13 +327,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #10: SILO ARCHITECTURE & 217-PAGE ROADMAP
+  // RANK #11: SILO ARCHITECTURE & 217-PAGE ROADMAP
   // ==========================================
   {
     id: 'architecture',
     name: 'Silo Architecture & 217-Page Roadmap',
     shortName: '217-Page Silos',
-    rank: 10,
+    rank: 11,
     rankTier: 'Tier 2: High Value Strategy',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -316,7 +345,7 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     description: 'Structural breakdown of 6 core telehealth silos and master checklist of 217 planned pages.',
     valueProp: 'Full category breakdown with example competitor URLs for each architectural tier.',
     howToUse: 'Navigate through 6 telehealth silos (Medication Guides, Telehealth Programs, State Compliance, Pricing, Clinical Safety, Tools) to see the planned URLs, search intent, and status of all 217 planned pages.',
-    whyToUse: 'Provides a structured blueprint to scale Ongo from 43 pages to a 217-page market authority with zero topic cannibalization.',
+    whyToUse: 'Provides a structured blueprint to scale Ongo from 56 pages to a 217-page market authority with zero topic cannibalization.',
     recommendation: 'KEEP (High Value)',
     recommendationReason: 'Master scoping roadmap for the long-term website expansion.',
     badge: '217-Page Plan',
@@ -327,13 +356,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #11: DOCTOR CREDENTIALS & MEDICAL E-E-A-T AUDITOR
+  // RANK #12: DOCTOR CREDENTIALS & MEDICAL E-E-A-T AUDITOR
   // ==========================================
   {
     id: 'doctor-eeat',
     name: 'Doctor Credentials & Medical E-E-A-T Auditor',
     shortName: 'Doctor E-E-A-T',
-    rank: 11,
+    rank: 12,
     rankTier: 'Tier 1: Essential Core',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -356,13 +385,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #12: 50-STATE TELEHEALTH LICENSING & VIDEO REGULATIONS
+  // RANK #13: 50-STATE TELEHEALTH LICENSING & VIDEO REGULATIONS
   // ==========================================
   {
     id: 'state-licensing',
     name: '50-State Telehealth Licensing & Video Regulations',
     shortName: 'State Licensing',
-    rank: 12,
+    rank: 13,
     rankTier: 'Tier 2: High Value Strategy',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -385,13 +414,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #13: 503A COMPOUNDING PHARMACY & COLD-CHAIN STERILITY
+  // RANK #14: 503A COMPOUNDING PHARMACY & COLD-CHAIN STERILITY
   // ==========================================
   {
     id: 'compliance',
     name: '503A Compounding Pharmacy & Sterility Hub',
     shortName: 'Pharmacy Sterility',
-    rank: 13,
+    rank: 14,
     rankTier: 'Tier 2: High Value Strategy',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -414,13 +443,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #14: META TAGS & CTR AUDITOR
+  // RANK #15: META TAGS & CTR AUDITOR
   // ==========================================
   {
     id: 'meta',
     name: 'Meta Tags & CTR Auditor',
     shortName: 'Meta Auditor',
-    rank: 14,
+    rank: 15,
     rankTier: 'Tier 2: High Value Strategy',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -443,13 +472,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #15: EXECUTIVE INTELLIGENCE OVERVIEW
+  // RANK #16: EXECUTIVE INTELLIGENCE OVERVIEW
   // ==========================================
   {
     id: 'overview',
     name: 'Executive Intelligence Overview',
     shortName: 'Overview',
-    rank: 15,
+    rank: 16,
     rankTier: 'Tier 2: High Value Strategy',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
@@ -472,13 +501,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #16: COMMON VS UNIQUE MOAT PATTERNS
+  // RANK #17: COMMON VS UNIQUE MOAT PATTERNS
   // ==========================================
   {
     id: 'patterns',
     name: 'Common vs. Unique Moat Pattern Engine',
     shortName: 'Common vs Unique',
-    rank: 16,
+    rank: 17,
     rankTier: 'Tier 3: Specialized / Review',
     level: 2,
     levelLabel: 'Level 2 · Research',
@@ -501,13 +530,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #17: COMPETITOR KEYWORD MATRIX
+  // RANK #18: COMPETITOR KEYWORD MATRIX
   // ==========================================
   {
     id: 'keywords',
     name: 'Competitor Keyword & Opportunity Matrix',
     shortName: 'Keyword Explorer',
-    rank: 17,
+    rank: 18,
     rankTier: 'Tier 3: Specialized / Review',
     level: 2,
     levelLabel: 'Level 2 · Research',
@@ -530,13 +559,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #18: EXECUTIVE STRATEGY & COMPLIANCE REPORTS
+  // RANK #19: EXECUTIVE STRATEGY & COMPLIANCE REPORTS
   // ==========================================
   {
     id: 'reports',
     name: 'Executive Strategy & Compliance Reports',
     shortName: 'Reports Library',
-    rank: 18,
+    rank: 19,
     rankTier: 'Tier 3: Specialized / Review',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -550,7 +579,7 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     howToUse: 'Select and read in-depth strategy and compliance markdown reports generated during research.',
     whyToUse: 'Provides detailed executive reading material on market analysis and clinical policies.',
     recommendation: 'CONSIDER MERGING',
-    recommendationReason: 'Could be merged into the 7 Books Digital Library (Tool #8) under a "Special Reports" section to keep all reading materials in one unified tab.',
+    recommendationReason: 'Could be merged into the 7 Books Digital Library (Tool #9) under a "Special Reports" section to keep all reading materials in one unified tab.',
     badge: 'Reports Library',
     badgeColor: '#475569',
     badgeBg: '#f1f5f9',
@@ -559,13 +588,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #19: COMPETITOR SITEMAPS EXPLORER
+  // RANK #20: COMPETITOR SITEMAPS EXPLORER
   // ==========================================
   {
     id: 'sitemaps',
     name: 'Competitor Sitemaps Explorer',
     shortName: 'Sitemaps (74)',
-    rank: 19,
+    rank: 20,
     rankTier: 'Tier 3: Specialized / Review',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
