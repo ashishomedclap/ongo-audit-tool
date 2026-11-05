@@ -90,19 +90,36 @@ export default function CommonVsUniqueTab() {
         tip="Review the 'Customer Objection' callout for unique pages to understand the exact patient fears (needle phobia, hidden tier pricing, pharmacy legitimacy) that Ongo can neutralize."
       />
 
-      {/* Mode Switcher & Filter Bento Card */}
-      <div className="bento-card" style={{ padding: '24px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '18px' }}>
+      {/* Sleek Minimalist Tool Header */}
+      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '14px', marginBottom: '12px' }}>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
-              <span className="badge-minimal badge-minimal-neutral">Ongo Moat Intelligence</span>
-              <span className="badge-minimal badge-minimal-coral">Pattern Analysis</span>
+              <span style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px',
+                padding: '2px 8px',
+                borderRadius: '6px',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.04em',
+                background: 'rgba(52, 126, 93, 0.25)',
+                color: '#74c69d',
+                border: '1px solid rgba(116, 198, 157, 0.3)'
+              }}>
+                <Sparkles size={11} /> Pattern Moats
+              </span>
+              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
+                {UNIQUE_PAGE_PATTERNS.length} Unique Moats · {COMMON_PAGE_PATTERNS.length} Baseline
+              </span>
             </div>
-            <h1 style={{ fontSize: '1.35rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-              Page Pattern Intelligence: Common vs. Unique Pages
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
+              Common vs. Unique Moat Pattern Engine
             </h1>
-            <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-              Identify table-stakes industry standards vs. high-converting competitive moats
+            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
+              Table-stakes baseline pages vs. patient-converting competitive moats
             </p>
           </div>
 
@@ -110,10 +127,10 @@ export default function CommonVsUniqueTab() {
           <div style={{ 
             display: 'flex', 
             gap: '4px', 
-            background: 'var(--bg-canvas)', 
-            padding: '4px', 
+            background: 'rgba(255, 255, 255, 0.08)', 
+            padding: '3px', 
             borderRadius: '9999px', 
-            border: '1px solid var(--border-medium)' 
+            border: '1px solid rgba(255, 255, 255, 0.15)' 
           }}>
             <button
               onClick={() => {
@@ -123,19 +140,19 @@ export default function CommonVsUniqueTab() {
               style={{
                 display: 'flex',
                 alignItems: 'center',
-                gap: '6px',
-                padding: '6px 16px',
-                fontSize: '0.78rem',
+                gap: '5px',
+                padding: '5px 12px',
+                fontSize: '0.75rem',
                 borderRadius: '9999px',
                 border: 'none',
-                background: activeView === 'unique' ? '#1b4332' : 'transparent',
-                color: activeView === 'unique' ? '#ffffff' : 'var(--text-secondary)',
+                background: activeView === 'unique' ? '#347e5d' : 'transparent',
+                color: '#ffffff',
                 cursor: 'pointer',
                 fontWeight: 700,
                 transition: 'all 0.15s ease'
               }}
             >
-              <Sparkles size={13} color={activeView === 'unique' ? '#f4a261' : 'var(--color-primary)'} />
+              <Sparkles size={12} color={activeView === 'unique' ? '#74c69d' : '#94a3b8'} />
               Unique Moats ({UNIQUE_PAGE_PATTERNS.length})
             </button>
 
@@ -147,40 +164,47 @@ export default function CommonVsUniqueTab() {
               style={{
                 display: 'flex',
                 alignItems: 'center',
-                gap: '6px',
-                padding: '6px 16px',
-                fontSize: '0.78rem',
+                gap: '5px',
+                padding: '5px 12px',
+                fontSize: '0.75rem',
                 borderRadius: '9999px',
                 border: 'none',
-                background: activeView === 'common' ? '#1b4332' : 'transparent',
-                color: activeView === 'common' ? '#ffffff' : 'var(--text-secondary)',
+                background: activeView === 'common' ? '#347e5d' : 'transparent',
+                color: '#ffffff',
                 cursor: 'pointer',
                 fontWeight: 700,
                 transition: 'all 0.15s ease'
               }}
             >
-              <Layers size={13} color={activeView === 'common' ? '#f4a261' : 'var(--color-primary)'} />
+              <Layers size={12} color={activeView === 'common' ? '#74c69d' : '#94a3b8'} />
               Common Baseline ({COMMON_PAGE_PATTERNS.length})
             </button>
           </div>
         </div>
 
         {/* Search & Category Filter */}
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center' }}>
-          <div style={{ position: 'relative', flex: '1 1 320px' }}>
-            <Search size={15} color="var(--color-primary)" style={{ position: 'absolute', left: '14px', top: '50%', transform: 'translateY(-50%)' }} />
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', alignItems: 'center' }}>
+          <div style={{ position: 'relative', flex: '1 1 280px' }}>
+            <Search size={14} color="#74c69d" style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)' }} />
             <input
               type="text"
-              placeholder={`Search ${activeView === 'unique' ? 'unique differentiators, brands, objections...' : 'common pages, patterns...'}`}
+              placeholder={`Search ${activeView === 'unique' ? 'unique moat patterns (e.g. pricing quiz, cold shipping)...' : 'common pages (e.g. privacy, faq)...'}`}
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="input-minimal"
-              style={{ paddingLeft: '38px', borderRadius: '9999px' }}
+              style={{
+                width: '100%',
+                padding: '7px 12px 7px 34px',
+                fontSize: '0.82rem',
+                borderRadius: '6px',
+                border: '1px solid rgba(255, 255, 255, 0.18)',
+                backgroundColor: 'rgba(15, 23, 42, 0.6)',
+                color: '#ffffff',
+                outline: 'none'
+              }}
             />
           </div>
 
-          {/* Silo Pills */}
-          <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
+          <div style={{ display: 'flex', gap: '5px', flexWrap: 'wrap' }}>
             {(activeView === 'unique' ? uniqueSilos : commonSilos).map(silo => {
               const isActive = selectedSilo === silo;
               return (
@@ -188,15 +212,15 @@ export default function CommonVsUniqueTab() {
                   key={silo}
                   onClick={() => setSelectedSilo(silo)}
                   style={{
-                    padding: '5px 12px',
-                    fontSize: '0.73rem',
-                    borderRadius: '9999px',
+                    padding: '5px 11px',
+                    fontSize: '0.74rem',
+                    borderRadius: '6px',
                     border: '1px solid',
-                    borderColor: isActive ? '#1b4332' : 'var(--border-medium)',
-                    background: isActive ? '#1b4332' : '#ffffff',
-                    color: isActive ? '#ffffff' : 'var(--text-secondary)',
-                    fontWeight: isActive ? 700 : 600,
+                    borderColor: isActive ? '#74c69d' : 'rgba(255, 255, 255, 0.15)',
+                    background: isActive ? '#347e5d' : 'rgba(255, 255, 255, 0.08)',
+                    color: '#ffffff',
                     cursor: 'pointer',
+                    fontWeight: 700,
                     transition: 'all 0.15s ease'
                   }}
                 >

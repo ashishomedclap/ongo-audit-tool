@@ -121,39 +121,36 @@ export default function BooksLibraryTab({ initialIndex, initialSlug, onBookChang
         tip="Use your browser's native search (Ctrl+F / Cmd+F) inside the embedded PDF viewer to search any clinical phrase, pharmacy statute, or Next.js code snippet across 2,924 pages."
       />
 
-      {/* Top Header Banner with Dropdown Menu */}
-      <div style={{
-        background: 'linear-gradient(135deg, #1b4332 0%, #081c15 100%)',
-        color: '#ffffff',
-        borderRadius: '16px',
-        padding: '24px 28px',
-        border: '1px solid rgba(116, 198, 157, 0.25)',
-        boxShadow: '0 8px 30px rgba(8, 28, 21, 0.15)'
-      }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '20px' }}>
-          <div style={{ maxWidth: '780px' }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
+      {/* Sleek Minimalist Tool Header */}
+      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '14px' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
               <span style={{
-                background: 'rgba(116, 198, 157, 0.2)',
-                color: '#74c69d',
-                padding: '3px 8px',
-                borderRadius: '9999px',
-                fontSize: '11px',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px',
+                padding: '2px 8px',
+                borderRadius: '6px',
+                fontSize: '0.68rem',
                 fontWeight: 700,
-                letterSpacing: '0.05em',
-                textTransform: 'uppercase'
+                textTransform: 'uppercase',
+                letterSpacing: '0.04em',
+                background: 'rgba(52, 126, 93, 0.25)',
+                color: '#74c69d',
+                border: '1px solid rgba(116, 198, 157, 0.3)'
               }}>
-                Interactive PDF Library
+                <BookOpen size={11} /> Digital Library
               </span>
-              <span style={{ color: 'rgba(255,255,255,0.65)', fontSize: '13px' }}>
-                7 Volumes · October 2026 Edition · Ashish Osten
+              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
+                7 Volumes · 2,924 Pages
               </span>
             </div>
-            <h1 style={{ fontSize: '24px', fontWeight: 800, margin: '0 0 6px 0', letterSpacing: '-0.02em' }}>
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
               Ongo Weight Loss · Direct PDF Reader
             </h1>
-            <p style={{ color: 'rgba(255,255,255,0.85)', fontSize: '14px', margin: 0, lineHeight: 1.5 }}>
-              Original updated PDFs rendered directly in your browser with full vector graphics, tables, charts, illustrations, and native PDF search/zoom controls.
+            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
+              Full vector charts, clinical diagrams, and native in-browser PDF search/zoom
             </p>
           </div>
 

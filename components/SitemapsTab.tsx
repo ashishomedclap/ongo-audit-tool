@@ -133,26 +133,45 @@ export default function SitemapsTab({ competitors, onInspectCompetitor }: Sitema
         tip="Sort by 'Semaglutide' or 'Tirzepatide' to find out which clinics have built aggressive long-tail dosage and comparison funnels."
       />
 
-      {/* Top Filter Bento Header */}
-      <div className="bento-card" style={{ padding: '24px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '18px' }}>
+      {/* Sleek Minimalist Tool Header */}
+      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '14px', marginBottom: '12px' }}>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
-              <span className="badge-minimal badge-minimal-neutral">Ongo Audit Suite</span>
-              <span className="badge-minimal badge-minimal-success">74 Active Feeds</span>
-              <span className="badge-minimal badge-minimal-danger">26 Gated / No Feeds</span>
+              <span style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px',
+                padding: '2px 8px',
+                borderRadius: '6px',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.04em',
+                background: 'rgba(52, 126, 93, 0.25)',
+                color: '#74c69d',
+                border: '1px solid rgba(116, 198, 157, 0.3)'
+              }}>
+                <Globe size={11} /> Sitemap Explorer
+              </span>
+              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
+                74 Active XML Feeds
+              </span>
+              <span style={{ fontSize: '0.72rem', color: '#94a3b8' }}>
+                26 Gated / No Feeds · 35,420 URLs
+              </span>
             </div>
-            <h1 style={{ fontSize: '1.35rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-              Sitemap Inspector & Live Health Verifier
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
+              Competitor Sitemaps Explorer &amp; Live Connectivity
             </h1>
-            <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-              Benchmark Ongo Weight Loss against all 100 telehealth competitors with live connectivity checks
+            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
+              Live HTTP status codes · TLS handshake latency · Semaglutide &amp; Tirzepatide URL depth
             </p>
           </div>
 
-          <div style={{ display: 'flex', gap: '8px' }}>
-            <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.75rem', padding: '4px 10px' }}>
-              {filtered.length} Competitors Shown
+          <div style={{ display: 'flex', gap: '6px' }}>
+            <span className="badge-minimal-forest" style={{ fontSize: '0.72rem', padding: '3px 8px' }}>
+              {filtered.length} Competitors Filtered
             </span>
           </div>
         </div>

@@ -1,0 +1,351 @@
+======================================================
+AUDIT REPORT FOR: 02-about.html
+======================================================
+
+NOTE: This script analyzes the HTML files saved locally. 
+External CSS and JS files are referenced (URLs) but not downloaded/audited here.
+
+{
+    "filename": "02-about.html",
+    "content": {
+        "title": "About Ongo Weight Loss | Our Mission & Medical Approach",
+        "h1": [
+            "Your Trusted Online Weight Loss Clinic"
+        ],
+        "h2_to_h6_count": 24,
+        "paragraphs_count": 65,
+        "lists_count": 11,
+        "forms_count": 0,
+        "buttons_count": 6,
+        "iframes_count": 0,
+        "visible_text_length": 95821
+    },
+    "seo": {
+        "metaDescription": "Learn about Ongo Weight Loss, our mission, physician-guided approach, and commitment to personalized, science-backed weight management.",
+        "robots": "index, follow",
+        "viewport": "width=device-width, initial-scale=1",
+        "canonical": "https://ongoweightloss.com/about/",
+        "openGraph": {
+            "og:title": "About Ongo Weight Loss | Our Mission & Medical Approach",
+            "og:description": "Learn about Ongo Weight Loss, our mission, physician-guided approach, and commitment to personalized, science-backed weight management.",
+            "og:url": "https://ongoweightloss.com/about/",
+            "og:site_name": "Ongo Weight Loss",
+            "og:locale": "en_US",
+            "og:image": "https://ongoweightloss.com/images/og-about.webp",
+            "og:image:secure_url": "https://ongoweightloss.com/images/og-about.webp",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "About Ongo Weight Loss",
+            "og:image:type": "image/webp",
+            "og:type": "website"
+        },
+        "twitter": {
+            "twitter:card": "summary_large_image",
+            "twitter:title": "About Ongo Weight Loss | Our Mission & Medical Approach",
+            "twitter:description": "Learn about Ongo Weight Loss, our mission, physician-guided approach, and commitment to personalized, science-backed weight management.",
+            "twitter:image": "https://ongoweightloss.com/images/og-about.webp",
+            "twitter:image:alt": "About Ongo Weight Loss"
+        },
+        "hreflang": []
+    },
+    "structuredData": {
+        "jsonLdScripts": [
+            {
+                "@context": "https://schema.org",
+                "@type": "AboutPage",
+                "@id": "https://ongoweightloss.com/about/#webpage",
+                "url": "https://ongoweightloss.com/about/",
+                "name": "About Ongo Weight Loss",
+                "description": "Learn about Ongo Weight Loss, our mission, physician-guided approach, and commitment to personalized, science-backed weight management.",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                    "@id": "https://ongoweightloss.com/#website"
+                },
+                "publisher": {
+                    "@id": "https://ongoweightloss.com/#organization"
+                },
+                "mainEntity": {
+                    "@id": "https://ongoweightloss.com/#organization"
+                }
+            }
+        ],
+        "microdata_count": 0,
+        "rdfa_count": 12
+    },
+    "hidden": {
+        "displayNoneCount": 0,
+        "visibilityHiddenCount": 0,
+        "hiddenAttributeCount": 1,
+        "ariaHiddenCount": 87,
+        "noscriptCount": 1,
+        "hiddenInputsCount": 0,
+        "visuallyHiddenClassCount": 0,
+        "htmlCommentsCount": 11
+    },
+    "javascript": {
+        "inlineScriptBlocksCount": 16,
+        "externalScriptReferences": [
+            "https://scripts.clarity.ms/0.8.70/clarity.js",
+            "https://www.clarity.ms/tag/yjqnxq44tv?ref=gtm",
+            "https://www.googletagmanager.com/gtag/js?id=G-LD0229PT2F&cx=c&gtm=4e6a51",
+            "https://www.googletagmanager.com/gtag/js?id=AW-18036069252&cx=c&gtm=4e6a51",
+            "https://www.googletagmanager.com/gtm.js?id=GTM-5WNR3TNM",
+            "https://www.clarity.ms/tag/qx7vfolgra",
+            "/_next/static/chunks/fd9d1056-f2f68fbe8581724f.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7023-e0fd6042c010bcd0.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/main-app-cf104a689514aac6.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7138-92c5838945220dfb.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/6648-8a28617cfe6ed40f.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/5421-6f6d56011d19034d.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8313-1ff87b4a764d005c.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/2319-bc3ac7d6c87491f0.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/1088-ad29cfcfde892fb3.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/2887-c7974d74ad73a4c8.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/app/about/page-1cf439ec6e31feb7.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7c5b6e1c-24c5b5872e114124.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/cc44e60b-c86a1d8b870ca3f0.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/1770a7a7-0293be8dca753e08.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/c15bf2b0-ae7e387dcfe55622.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/5236-3bc678cde333c753.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8903-dbb4559a2cf4ca04.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/6960-53c03804dd5fef64.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/9582-8cc4fd66c95643b7.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/4377-3773ef26460cfe12.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8344-2af98d87ada5a166.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/9803-06ca6e687df31c2a.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/app/layout-f1a99180283f4e43.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18036069252/?random=1791374777749&cv=11&fst=1791374777749&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a51v9248730959z89202811401za20gzb9202811401zd9202811401xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280969&u_w=1280&u_h=720&url=https%3A%2F%2Fongoweightloss.com%2Fabout%2F&rcb=2&frm=0&tiba=About%20Ongo%20Weight%20Loss%20%7C%20Our%20Mission%20%26%20Medical%20Approach&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=560843138.1791374774&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+            "/_next/static/chunks/webpack-d30bee25d6b854f5.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2"
+        ],
+        "hasNextJsDataObj": false,
+        "nextJsStaticAssetsCount": 25
+    },
+    "css": {
+        "externalStylesheetReferences": [
+            "/_next/static/css/ce158ecdc890773e.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/bc329fb97f746b00.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/8357b43a557e6e09.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/929619e13ed1b9de.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/8ab62f6418efb6a1.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2"
+        ],
+        "inlineStyleBlocksCount": 1,
+        "elementsWithStyleAttributeCount": 107,
+        "preloadCssLinksCount": 0,
+        "nextJsCssReferencesCount": 5
+    },
+    "media": {
+        "images": [
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FOur%2520Mission%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fwe-believe-banner-a.webp&w=1920&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Patient speaking with a healthcare provider during a virtual consultation"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fwe-believe-banner-b.webp&w=1920&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Doctor providing personalized weight management guidance to a patient"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FOur%2520Vision%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fowner-deep.webp&w=1920&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Deep Chand Sharma, Founder and CEO of Ongo Weight Loss"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2F%240%2520Information%2520Consultation%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FBoard-Certified%2520Physicians%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FConvenience%2520Without%2520Complications%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FMedication%2520Response%2520Guidance%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FMedication%2520Delivered%2520to%2520Your%2520Door%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FSupport%2520When%2520You%2520Need%2520It%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FClearer%2520Expectations%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FNo%2520Pressure%2520to%2520Continue%402x.webp&w=256&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FWhole-Person%2520Care%402x.webp&w=128&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FCare%2520Without%2520Judgment%402x.webp&w=128&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FModern%2520Care%2C%2520Human%2520at%2520Heart%402x.webp&w=128&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fabout-icons%2FTrust%2520Over%2520Transactions%402x.webp&w=128&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fwe-stand-for-banner.webp&w=1920&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Collage of healthy lifestyle moments and Ongo Weight Loss care"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fabout%2Fcare-that-continues.webp&w=1920&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Patient progressing through consultation, treatment, and everyday wellness"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2FFooter%2Flegitscript-badge.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "LegitScript certified"
+            }
+        ],
+        "favicon": "/icon.svg?1aa4ad6f01b78e3b",
+        "videoAudioCount": 0,
+        "preloadAssetsCount": 6
+    },
+    "links": {
+        "internalCount": 44,
+        "externalCount": 3,
+        "nofollowCount": 0,
+        "sponsoredCount": 0,
+        "ugcCount": 0
+    }
+}

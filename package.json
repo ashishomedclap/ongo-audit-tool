@@ -6,11 +6,15 @@
     "dev": "next dev",
     "build": "next build --webpack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "scrape:clean": "node scripts/scrape_clean_offline.js",
+    "scrape:url": "node scripts/scrape_clean_offline.js --url"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
     "lucide-react": "^1.60.0",
     "next": "16.4.2",
+    "playwright": "^1.63.0",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },

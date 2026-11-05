@@ -23,7 +23,10 @@ import {
   Copy,
   ChevronRight,
   BookOpen,
-  FolderTree
+  FolderTree,
+  GitMerge,
+  FileCode,
+  Image as ImageIcon
 } from 'lucide-react';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition } from '@/lib/tools-sitemap';
 import { TabType } from './Navbar';
@@ -92,6 +95,9 @@ export default function ToolsSitemapModal({
       case 'SplitSquareVertical': return <SplitSquareVertical size={size} />;
       case 'Stethoscope': return <Stethoscope size={size} />;
       case 'Tag': return <Tag size={size} />;
+      case 'Image': return <ImageIcon size={size} />;
+      case 'GitMerge': return <GitMerge size={size} />;
+      case 'FileCode': return <FileCode size={size} />;
       case 'Layers': return <Layers size={size} />;
       case 'FileText': return <FileText size={size} />;
       default: return <Activity size={size} />;

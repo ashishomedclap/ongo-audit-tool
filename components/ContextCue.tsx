@@ -48,7 +48,7 @@ export default function ContextCue({
   details,
   tip
 }: ContextCueProps) {
-  const [collapsed, setCollapsed] = useState(false);
+  const [collapsed, setCollapsed] = useState(true);
 
   // Normalize about content
   const aboutContent = about || summary || '';

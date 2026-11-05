@@ -16,6 +16,8 @@ import {
   Sparkles,
   Link2,
   GitCompare,
+  GitMerge,
+  Image as ImageIcon,
   FolderTree,
   ChevronDown,
   LayoutGrid,
@@ -23,7 +25,8 @@ import {
   ArrowRight,
   ShieldCheck,
   Activity,
-  CheckCircle2
+  CheckCircle2,
+  FileCode
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 import ToolsSitemapModal from './ToolsSitemapModal';
@@ -32,8 +35,11 @@ import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition } from '@/lib/tools-si
 export type TabType = 
   | 'overview' 
   | 'books'
-  | 'ongo-pages' 
+  | 'ongo-pages'
+  | 'clean-scraper' 
+  | 'image-audit'
   | 'keywords-harvester' 
+  | 'link-flowchart'
   | 'internal-links' 
   | 'competitor-gap' 
   | 'sitemaps' 
@@ -41,6 +47,8 @@ export type TabType =
   | 'keywords' 
   | 'patterns' 
   | 'compliance' 
+  | 'doctor-eeat'
+  | 'state-licensing'
   | 'meta' 
   | 'architecture' 
   | 'reports'
@@ -90,7 +98,10 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       case 'Layers': return <Layers size={size} />;
       case 'Stethoscope': return <Stethoscope size={size} />;
       case 'Tag': return <Tag size={size} />;
+      case 'Image': return <ImageIcon size={size} />;
+      case 'GitMerge': return <GitMerge size={size} />;
       case 'FileText': return <FileText size={size} />;
+      case 'FileCode': return <FileCode size={size} />;
       default: return <Activity size={size} />;
     }
   };
@@ -99,27 +110,27 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
     {
       id: 'level-1' as const,
       levelNum: 1,
-      name: 'Level 1: Foundation',
+      name: 'Level 1: Foundation & Baseline',
       shortLabel: 'L1 Foundation',
-      useCase: 'Assess current Ongo telemetry, study onboarding books & benchmark 100 competitors',
+      useCase: 'Audit Ongo 43 live URLs, clone clean offline pages, test image alt tags, study 7 books & benchmark 100 competitors',
       accentColor: '#347e5d',
       tools: TOOLS_DIRECTORY.filter(t => t.level === 1)
     },
     {
       id: 'level-2' as const,
       levelNum: 2,
-      name: 'Level 2: Research & Gaps',
-      shortLabel: 'L2 Research & Gaps',
-      useCase: 'Discover keyword vacuums, harvest Google user questions ($0) & find clinical moats',
+      name: 'Level 2: Content & Keywords Engine',
+      shortLabel: 'L2 Content & Keywords',
+      useCase: 'Discover 33k topic vacuums with writer briefs, harvest Google PAA ($0), compare moats & analyze 54k keyword volumes',
       accentColor: '#d97706',
       tools: TOOLS_DIRECTORY.filter(t => t.level === 2)
     },
     {
       id: 'level-3' as const,
       levelNum: 3,
-      name: 'Level 3: Silos & Compliance',
+      name: 'Level 3: Silos, Equity Flow & Trust',
       shortLabel: 'L3 Silos & Governance',
-      useCase: 'Scale 6 topic silos, enforce 4 internal linking rules & verify doctor E-E-A-T credentials',
+      useCase: 'Scale 6 topic silos, visualize PageRank equity flowcharts, audit MD E-E-A-T credentials & executive reports',
       accentColor: '#e76f51',
       tools: TOOLS_DIRECTORY.filter(t => t.level === 3)
     }
@@ -261,7 +272,9 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                         left: cat.levelNum === 1 ? '0' : cat.levelNum === 2 ? '50%' : 'auto',
                         right: cat.levelNum === 3 ? '0' : 'auto',
                         transform: cat.levelNum === 2 ? 'translateX(-50%)' : 'none',
-                        width: '380px',
+                        width: '390px',
+                        maxHeight: '480px',
+                        overflowY: 'auto',
                         backgroundColor: '#ffffff',
                         borderRadius: '16px',
                         boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.35)',
@@ -446,7 +459,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 title="Open Visual Master Sitemap (All 3 Levels & Use Cases)"
               >
                 <FolderTree size={13} />
-                <span>Sitemap (14 Tools)</span>
+                <span>Sitemap ({TOOLS_DIRECTORY.length} Tools)</span>
               </button>
             </nav>
           </div>

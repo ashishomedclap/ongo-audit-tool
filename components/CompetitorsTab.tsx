@@ -92,38 +92,63 @@ export default function CompetitorsTab({ competitors, onInspectCompetitor }: Com
         tip="Notice that top-tier brands (e.g., Mochi, Henry Meds, Eden) index separate URLs for each dosing strength (0.25mg, 0.5mg, 1.0mg, etc.) to capture specific intent."
       />
 
-      {/* Top Filter Bento Header */}
-      <div className="bento-card" style={{ padding: '24px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '18px' }}>
+      {/* Sleek Minimalist Tool Header */}
+      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '14px', marginBottom: '12px' }}>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
-              <span className="badge-minimal badge-minimal-neutral">Ongo Market Radar</span>
-              <span className="badge-minimal badge-minimal-coral">{filtered.length} Competitors</span>
+              <span style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px',
+                padding: '2px 8px',
+                borderRadius: '6px',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.04em',
+                background: 'rgba(52, 126, 93, 0.25)',
+                color: '#74c69d',
+                border: '1px solid rgba(116, 198, 157, 0.3)'
+              }}>
+                <Users size={11} /> Market Census
+              </span>
+              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
+                {filtered.length} Competitors Filtered
+              </span>
             </div>
-            <h1 style={{ fontSize: '1.35rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
               100 Compounded GLP-1 Competitors Directory
             </h1>
-            <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-              Rankings, sitemap crawl volumes, and drug focus breakdown across US telehealth providers
+            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
+              Benchmarked against Ongo Weight Loss (#00) · Crawled sitemap volumes · GLP-1 pricing &amp; doctor supervision
             </p>
           </div>
         </div>
 
         {/* Search & Sort Controls */}
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center' }}>
-          <div style={{ position: 'relative', flex: '1 1 320px' }}>
-            <Search size={15} color="var(--color-primary)" style={{ position: 'absolute', left: '14px', top: '50%', transform: 'translateY(-50%)' }} />
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', alignItems: 'center' }}>
+          <div style={{ position: 'relative', flex: '1 1 280px' }}>
+            <Search size={14} color="#74c69d" style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)' }} />
             <input
               type="text"
               placeholder="Search by brand name, domain, or rank (e.g. Mochi, Henry, Fridays)..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              className="input-minimal"
-              style={{ paddingLeft: '38px', borderRadius: '9999px' }}
+              style={{
+                width: '100%',
+                padding: '7px 12px 7px 34px',
+                fontSize: '0.82rem',
+                borderRadius: '6px',
+                border: '1px solid rgba(255, 255, 255, 0.18)',
+                backgroundColor: 'rgba(15, 23, 42, 0.6)',
+                color: '#ffffff',
+                outline: 'none'
+              }}
             />
           </div>
 
-          <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
+          <div style={{ display: 'flex', gap: '5px', flexWrap: 'wrap' }}>
             {[
               { id: 'rank', label: 'Rank' },
               { id: 'totalUrls', label: 'URLs' },
@@ -137,13 +162,13 @@ export default function CompetitorsTab({ competitors, onInspectCompetitor }: Com
                   key={item.id}
                   onClick={() => toggleSort(item.id as typeof sortBy)}
                   style={{
-                    padding: '6px 14px',
-                    fontSize: '0.78rem',
-                    borderRadius: '9999px',
+                    padding: '5px 11px',
+                    fontSize: '0.75rem',
+                    borderRadius: '6px',
                     border: '1px solid',
-                    borderColor: isActive ? '#1b4332' : 'var(--border-medium)',
-                    background: isActive ? '#1b4332' : '#ffffff',
-                    color: isActive ? '#ffffff' : 'var(--text-secondary)',
+                    borderColor: isActive ? '#74c69d' : 'rgba(255, 255, 255, 0.15)',
+                    background: isActive ? '#347e5d' : 'rgba(255, 255, 255, 0.08)',
+                    color: '#ffffff',
                     cursor: 'pointer',
                     fontWeight: 700,
                     display: 'flex',

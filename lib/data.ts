@@ -1,5 +1,8 @@
 import fs from 'fs';
 import path from 'path';
+import { getScrapedArchive, ScrapedArchiveItem } from './scraper-engine';
+export type { ScrapedArchiveItem };
+export { getScrapedArchive };
 
 export interface CompetitorSummary {
   rank: number;

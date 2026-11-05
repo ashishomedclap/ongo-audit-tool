@@ -219,7 +219,7 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
                 }}
               >
                 <Compass size={15} />
-                <span>Audit Ongo Live Pages (34)</span>
+                <span>Audit Ongo Live Pages (43)</span>
               </button>
 
               <a

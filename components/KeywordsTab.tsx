@@ -336,95 +336,117 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
         tip="Sort by 'Opportunity Score' (descending) with KD ≤ 35 to surface the absolute best commercial keywords Ongo should target first."
       />
 
-      {/* Dual Mode Switcher Banner */}
-      <div className="bento-card" style={{
-        padding: '16px 20px',
-        display: 'flex',
-        flexWrap: 'wrap',
-        alignItems: 'center',
-        justifyContent: 'space-between',
-        gap: '14px',
-        background: '#ffffff'
-      }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <div style={{
-            display: 'flex',
-            background: 'var(--bg-canvas)',
-            padding: '3px',
-            borderRadius: '9999px',
-            border: '1px solid var(--border-subtle)'
-          }}>
-            <button
-              onClick={() => setActiveMode('explorer')}
-              style={{
-                display: 'flex',
+      {/* Sleek Minimalist Tool Header */}
+      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+              <span style={{
+                display: 'inline-flex',
                 alignItems: 'center',
-                gap: '6px',
-                padding: '6px 16px',
-                borderRadius: '9999px',
-                fontSize: '0.8rem',
-                fontWeight: activeMode === 'explorer' ? 700 : 500,
-                border: 'none',
-                cursor: 'pointer',
-                background: activeMode === 'explorer' ? 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)' : 'transparent',
-                color: activeMode === 'explorer' ? '#ffffff' : 'var(--text-secondary)',
-                boxShadow: activeMode === 'explorer' ? '0 2px 8px rgba(27, 67, 50, 0.25)' : 'none',
-                transition: 'all 0.18s ease'
-              }}
-            >
-              <Sparkles size={14} color={activeMode === 'explorer' ? '#ffffff' : '#347e5d'} />
-              <span>Keyword Explorer (54,841 Keywords)</span>
-            </button>
+                gap: '5px',
+                padding: '2px 8px',
+                borderRadius: '6px',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.04em',
+                background: 'rgba(52, 126, 93, 0.25)',
+                color: '#74c69d',
+                border: '1px solid rgba(116, 198, 157, 0.3)'
+              }}>
+                <Sparkles size={11} /> Keyword Matrix
+              </span>
+              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
+                54,841 Keywords Indexed
+              </span>
+              <span style={{ fontSize: '0.72rem', color: '#94a3b8' }}>
+                11 Competitor Datasets
+              </span>
+            </div>
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
+              Competitor Keyword &amp; Opportunity Matrix
+            </h1>
+            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
+              Search volumes · Keyword Difficulty (KD) · Google ranking positions · Opportunity scoring
+            </p>
+          </div>
 
-            <button
-              onClick={() => {
-                setActiveMode('sitemap');
-                if (!sitemapResults) handleSitemapSearch('tirzepatide');
-              }}
-              style={{
-                display: 'flex',
-                alignItems: 'center',
-                gap: '6px',
-                padding: '6px 16px',
-                borderRadius: '9999px',
-                fontSize: '0.8rem',
-                fontWeight: activeMode === 'sitemap' ? 700 : 500,
-                border: 'none',
-                cursor: 'pointer',
-                background: activeMode === 'sitemap' ? 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)' : 'transparent',
-                color: activeMode === 'sitemap' ? '#ffffff' : 'var(--text-secondary)',
-                boxShadow: activeMode === 'sitemap' ? '0 2px 8px rgba(27, 67, 50, 0.25)' : 'none',
-                transition: 'all 0.18s ease'
-              }}
-            >
-              <Globe size={14} color={activeMode === 'sitemap' ? '#ffffff' : '#347e5d'} />
-              <span>Competitor URL Crawler (35,420 URLs)</span>
-            </button>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flexWrap: 'wrap' }}>
+            {/* Mode Switcher */}
+            <div style={{
+              display: 'flex',
+              background: 'rgba(255, 255, 255, 0.08)',
+              padding: '3px',
+              borderRadius: '9999px',
+              border: '1px solid rgba(255, 255, 255, 0.15)'
+            }}>
+              <button
+                onClick={() => setActiveMode('explorer')}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '5px',
+                  padding: '5px 12px',
+                  borderRadius: '9999px',
+                  fontSize: '0.75rem',
+                  fontWeight: activeMode === 'explorer' ? 700 : 500,
+                  border: 'none',
+                  cursor: 'pointer',
+                  background: activeMode === 'explorer' ? '#347e5d' : 'transparent',
+                  color: '#ffffff',
+                  transition: 'all 0.15s ease'
+                }}
+              >
+                <Sparkles size={12} />
+                <span>Explorer (54.8k)</span>
+              </button>
+              <button
+                onClick={() => {
+                  setActiveMode('sitemap');
+                  if (!sitemapResults) handleSitemapSearch('tirzepatide');
+                }}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '5px',
+                  padding: '5px 12px',
+                  borderRadius: '9999px',
+                  fontSize: '0.75rem',
+                  fontWeight: activeMode === 'sitemap' ? 700 : 500,
+                  border: 'none',
+                  cursor: 'pointer',
+                  background: activeMode === 'sitemap' ? '#347e5d' : 'transparent',
+                  color: '#ffffff',
+                  transition: 'all 0.15s ease'
+                }}
+              >
+                <Globe size={12} />
+                <span>Sitemaps (35.4k)</span>
+              </button>
+            </div>
+
+            {/* Export CSV */}
+            {activeMode === 'explorer' && (
+              <button
+                onClick={handleExportCsv}
+                disabled={!explorerData || explorerData.items.length === 0}
+                className="btn-minimal-emerald"
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '6px',
+                  fontSize: '0.75rem',
+                  padding: '6px 14px'
+                }}
+                title="Download current filtered table as CSV"
+              >
+                <Download size={13} />
+                <span>Export CSV</span>
+              </button>
+            )}
           </div>
         </div>
-
-        {/* Action Button: Export CSV */}
-        {activeMode === 'explorer' && (
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-            <button
-              onClick={handleExportCsv}
-              disabled={!explorerData || explorerData.items.length === 0}
-              className="btn-minimal-primary"
-              style={{
-                display: 'flex',
-                alignItems: 'center',
-                gap: '6px',
-                fontSize: '0.78rem',
-                padding: '6px 14px',
-                borderRadius: '9999px'
-              }}
-              title="Download current filtered table as CSV"
-            >
-              <Download size={14} />
-              <span>Export Filtered CSV</span>
-            </button>
-          </div>
-        )}
       </div>
 
       {/* ========================================================================= */}

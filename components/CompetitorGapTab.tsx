@@ -169,92 +169,37 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
   };
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: '28px' }}>
-      {/* Header Banner */}
-      <div style={{
-        background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)',
-        borderRadius: '20px',
-        padding: '32px 36px',
-        color: '#ffffff',
-        boxShadow: '0 12px 32px -4px rgba(27, 67, 50, 0.25)',
-        position: 'relative',
-        overflow: 'hidden'
-      }}>
-        <div style={{ position: 'relative', zIndex: 1, maxWidth: '960px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '12px' }}>
-            <span style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '6px',
-              padding: '4px 12px',
-              borderRadius: '9999px',
-              background: 'rgba(255, 255, 255, 0.15)',
-              border: '1px solid rgba(255, 255, 255, 0.25)',
-              fontSize: '0.75rem',
-              fontWeight: 700,
-              textTransform: 'uppercase',
-              letterSpacing: '0.05em',
-              color: '#d8f3dc'
-            }}>
-              <GitCompare size={13} color="#74c69d" />
-              Big Data Gap Mining
-            </span>
-            <span style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '6px',
-              padding: '4px 12px',
-              borderRadius: '9999px',
-              background: 'rgba(231, 111, 81, 0.2)',
-              border: '1px solid rgba(231, 111, 81, 0.4)',
-              fontSize: '0.75rem',
-              fontWeight: 700,
-              color: '#ffcbbd'
-            }}>
-              33,108 URLs Wired Against 34 Pages
-            </span>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
+      
+      {/* Premium GSC / Clarity Header */}
+      <div className="gsc-header">
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
+              <span className="gsc-badge-healthy">
+                <span className="gsc-pulse-dot" />
+                Competitor Big Data Gap Mining
+              </span>
+              <span className="gsc-badge-neutral">
+                33,108 Competitor URLs vs. 43 Ongo Pages
+              </span>
+            </div>
+            <h1 style={{ fontSize: '1.45rem', fontWeight: 800, color: '#0f1715', margin: 0, letterSpacing: '-0.02em' }}>
+              Competitor Content Gap &amp; Organic Roadmap
+            </h1>
+            <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
+              Discover high-demand patient topic vacuums published across 100 competitors that are missing from Ongo's 43 live pages, complete with ready-to-write writer briefs.
+            </p>
           </div>
 
-          <h1 style={{
-            fontSize: '1.9rem',
-            fontWeight: 800,
-            lineHeight: 1.25,
-            marginBottom: '10px',
-            color: '#ffffff'
-          }}>
-            Competitor Content Gap Comparator & Roadmap
-          </h1>
-
-          <p style={{
-            fontSize: '0.95rem',
-            lineHeight: 1.6,
-            color: 'rgba(255, 255, 255, 0.85)',
-            marginBottom: '24px'
-          }}>
-            Cross-references our full database of 33,108 competitor URLs across 100 telehealth brands against Ongo's 34 live pages. Reveals immediate high-converting topic vacuums where 70+ competitors rank for high-intent search terms that Ongo has zero pages for.
-          </p>
-
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
             <button
               onClick={handleExportCsv}
-              style={{
-                display: 'inline-flex',
-                alignItems: 'center',
-                gap: '8px',
-                padding: '12px 22px',
-                borderRadius: '12px',
-                border: 'none',
-                background: 'linear-gradient(135deg, #e76f51 0%, #d95d3f 100%)',
-                color: '#ffffff',
-                fontSize: '0.88rem',
-                fontWeight: 700,
-                cursor: 'pointer',
-                boxShadow: '0 4px 14px rgba(231, 111, 81, 0.4)',
-                transition: 'all 0.15s ease'
-              }}
+              className="gsc-btn-secondary"
+              title="Download content roadmap to CSV"
             >
-              <Download size={15} />
-              Export Full Content Roadmap (CSV)
+              <Download size={14} />
+              Export Roadmap CSV
             </button>
           </div>
         </div>
@@ -265,7 +210,7 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
         toolNumber={6}
         useCase="Compare 33,000+ competitor URLs against Ongo to uncover missing clinical topics, formats, and patient intent clusters."
         title="Content Gap Strategy"
-        about="Competitors like OrderlyMeds, Mochi, and Ro generate 60%+ of their organic patients through middle-of-funnel comparison and dosing pages. Ongo currently has 34 pages focused primarily on core policies and homepage. Launching the 6 P0 Roadmap pages below instantly plugs our biggest organic traffic leaks."
+        about="Competitors like OrderlyMeds, Mochi, and Ro generate 60%+ of their organic patients through middle-of-funnel comparison and dosing pages. Ongo currently has 43 live production pages. Launching the 6 P0 Roadmap pages below instantly plugs our biggest organic traffic leaks."
       />
 
       {/* KPI Bento Grid */}

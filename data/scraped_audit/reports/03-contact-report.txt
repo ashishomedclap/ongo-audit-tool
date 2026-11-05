@@ -1,0 +1,258 @@
+======================================================
+AUDIT REPORT FOR: 03-contact.html
+======================================================
+
+NOTE: This script analyzes the HTML files saved locally. 
+External CSS and JS files are referenced (URLs) but not downloaded/audited here.
+
+{
+    "filename": "03-contact.html",
+    "content": {
+        "title": "Contact Ongo Weight Loss | Get in Touch Today",
+        "h1": [
+            "We're Here to Help You Get Started"
+        ],
+        "h2_to_h6_count": 22,
+        "paragraphs_count": 46,
+        "lists_count": 11,
+        "forms_count": 1,
+        "buttons_count": 28,
+        "iframes_count": 1,
+        "visible_text_length": 37686
+    },
+    "seo": {
+        "metaDescription": "Contact Ongo Weight Loss with questions about our physician-guided weight management programs, appointments, or support. We're here to help.",
+        "robots": "noindex, nofollow",
+        "viewport": "width=device-width, initial-scale=1",
+        "canonical": "https://ongoweightloss.com/contact/",
+        "openGraph": {},
+        "twitter": {},
+        "hreflang": []
+    },
+    "structuredData": {
+        "jsonLdScripts": [],
+        "microdata_count": 0,
+        "rdfa_count": 0
+    },
+    "hidden": {
+        "displayNoneCount": 0,
+        "visibilityHiddenCount": 0,
+        "hiddenAttributeCount": 1,
+        "ariaHiddenCount": 133,
+        "noscriptCount": 1,
+        "hiddenInputsCount": 0,
+        "visuallyHiddenClassCount": 0,
+        "htmlCommentsCount": 14
+    },
+    "javascript": {
+        "inlineScriptBlocksCount": 13,
+        "externalScriptReferences": [
+            "https://scripts.clarity.ms/0.8.70/clarity.js",
+            "https://www.clarity.ms/tag/yjqnxq44tv?ref=gtm",
+            "https://www.googletagmanager.com/gtag/js?id=G-LD0229PT2F&cx=c&gtm=4e6a51",
+            "https://www.googletagmanager.com/gtag/js?id=AW-18036069252&cx=c&gtm=4e6a51",
+            "https://www.googletagmanager.com/gtm.js?id=GTM-5WNR3TNM",
+            "https://www.clarity.ms/tag/qx7vfolgra",
+            "/_next/static/chunks/fd9d1056-f2f68fbe8581724f.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7023-e0fd6042c010bcd0.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/main-app-cf104a689514aac6.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/6960-53c03804dd5fef64.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7138-92c5838945220dfb.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/6648-8a28617cfe6ed40f.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8344-2af98d87ada5a166.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/5421-6f6d56011d19034d.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8313-1ff87b4a764d005c.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/2319-bc3ac7d6c87491f0.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/1088-ad29cfcfde892fb3.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/928-9f9612c5625cd2d1.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/5202-08ae63906454c105.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/app/contact/page-6200937d1fffdecf.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7c5b6e1c-24c5b5872e114124.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/cc44e60b-c86a1d8b870ca3f0.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/1770a7a7-0293be8dca753e08.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/c15bf2b0-ae7e387dcfe55622.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/5236-3bc678cde333c753.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8903-dbb4559a2cf4ca04.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/9582-8cc4fd66c95643b7.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/4377-3773ef26460cfe12.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/9803-06ca6e687df31c2a.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/app/layout-f1a99180283f4e43.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8486-152f2ef1aa47b4a8.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/3487-a660b826cfca6332.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/6899-f18b2971df82ab64.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/app/page-246150f10d591af9.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18036069252/?random=1791374779046&cv=11&fst=1791374779046&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a51v9248730959z89202811401za20gzb9202811401zd9202811401xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280969&u_w=1280&u_h=720&url=https%3A%2F%2Fongoweightloss.com%2Fcontact%2F&rcb=3&frm=0&tiba=Contact%20Ongo%20Weight%20Loss%20%7C%20Get%20in%20Touch%20Today&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=560843138.1791374774&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+            "/_next/static/chunks/webpack-d30bee25d6b854f5.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2"
+        ],
+        "hasNextJsDataObj": false,
+        "nextJsStaticAssetsCount": 30
+    },
+    "css": {
+        "externalStylesheetReferences": [
+            "/_next/static/css/ce158ecdc890773e.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/bc329fb97f746b00.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/8357b43a557e6e09.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/929619e13ed1b9de.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/1a5a8bd1a781f0c0.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2"
+        ],
+        "inlineStyleBlocksCount": 1,
+        "elementsWithStyleAttributeCount": 62,
+        "preloadCssLinksCount": 0,
+        "nextJsCssReferencesCount": 5
+    },
+    "media": {
+        "images": [
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fpatient-first-finance-later.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fbiweekly-qa-with-doctors.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Flab-support-made-simple.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fcontact-us%2Fcontact-banner.webp&w=1920&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Woman using a GLP-1 injection pen on her abdomen for weight management"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2FFooter%2Flegitscript-badge.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "LegitScript certified"
+            }
+        ],
+        "favicon": "/icon.svg?1aa4ad6f01b78e3b",
+        "videoAudioCount": 0,
+        "preloadAssetsCount": 7
+    },
+    "links": {
+        "internalCount": 54,
+        "externalCount": 3,
+        "nofollowCount": 0,
+        "sponsoredCount": 0,
+        "ugcCount": 0
+    }
+}

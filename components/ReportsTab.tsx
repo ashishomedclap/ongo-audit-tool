@@ -93,6 +93,75 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
         tip="Click 'Download' to save any report locally as a .md file for sharing with team members or loading into documentation."
       />
 
+      {/* Sleek Minimalist Tool Header */}
+      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+              <span style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px',
+                padding: '2px 8px',
+                borderRadius: '6px',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.04em',
+                background: 'rgba(52, 126, 93, 0.25)',
+                color: '#74c69d',
+                border: '1px solid rgba(116, 198, 157, 0.3)'
+              }}>
+                <FileText size={11} /> Strategy Briefs
+              </span>
+              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
+                {reportsList.length} Research Dossiers
+              </span>
+            </div>
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
+              Executive Strategy &amp; Compliance Reports
+            </h1>
+            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
+              100-competitor census · Sitemap intelligence · E-E-A-T clinical audits · Instant markdown export
+            </p>
+          </div>
+
+          <div style={{ display: 'flex', gap: '8px' }}>
+            <button
+              onClick={handleCopy}
+              className="btn-minimal-secondary"
+              style={{
+                padding: '6px 12px',
+                fontSize: '0.75rem',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px',
+                background: 'rgba(255, 255, 255, 0.08)',
+                color: '#ffffff',
+                border: '1px solid rgba(255, 255, 255, 0.15)'
+              }}
+            >
+              {copied ? <Check size={13} color="#74c69d" /> : <Copy size={13} />}
+              {copied ? 'Copied' : 'Copy Markdown'}
+            </button>
+            <button
+              onClick={handleDownload}
+              className="btn-minimal-emerald"
+              style={{
+                padding: '6px 14px',
+                fontSize: '0.75rem',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px'
+              }}
+            >
+              <Download size={13} />
+              Download .md
+            </button>
+          </div>
+        </div>
+      </div>
+
       <div style={{ display: 'grid', gridTemplateColumns: '270px 1fr', gap: '16px', alignItems: 'start' }}>
         {/* Sidebar Bento Tile */}
         <div className="bento-card" style={{ padding: '20px', position: 'sticky', top: '80px', border: '1px solid var(--border-medium)' }}>

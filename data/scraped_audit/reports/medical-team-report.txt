@@ -1,0 +1,57 @@
+======================================================
+AUDIT REPORT FOR: medical-team.html
+URL: https://ongoweightloss.com/medical-team/
+DATE: 2026-11-05T17:17:27.189Z
+======================================================
+
+NOTE: Clean offline clone generated with all Next.js hydration scripts
+removed and replaced with simplified Vanilla JS & unified CSS.
+
+{
+  "filename": "medical-team.html",
+  "url": "https://ongoweightloss.com/medical-team/",
+  "stats": {
+    "rawHtmlSize": 242665,
+    "cleanHtmlSize": 447615,
+    "sizeReductionPercent": 0,
+    "scriptsRemoved": 50,
+    "cssRulesInlined": 1670
+  },
+  "content": {
+    "title": "Ongo Medical Team | Licensed Weight Loss Providers",
+    "h1": [
+      "Experienced Physicians. Personalized Weight-Loss Care."
+    ],
+    "h2_to_h6_count": 35,
+    "paragraphs_count": 46,
+    "lists_count": 10,
+    "buttons_count": 15,
+    "forms_count": 0,
+    "iframes_count": 0,
+    "visible_text_length": 11168,
+    "approx_word_count": 1401
+  },
+  "seo": {
+    "metaDescription": "Meet Ongo's medical team of licensed healthcare providers supporting safe, personalized weight loss care through clinical guidance and ongoing support.",
+    "robots": "index, follow",
+    "viewport": "width=device-width, initial-scale=1",
+    "canonical": ""
+  },
+  "structuredData": {
+    "schemasCount": 1,
+    "schemaTypes": [
+      "MedicalWebPage"
+    ]
+  },
+  "assets": {
+    "imagesTotal": 48,
+    "imagesMissingAlt": 40,
+    "linksTotal": 60,
+    "linksInternal": 55,
+    "linksExternal": 5
+  },
+  "issues": [
+    "Missing canonical tag",
+    "40 images missing alt text"
+  ]
+}

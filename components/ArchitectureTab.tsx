@@ -98,18 +98,42 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
         tip="Filter by 'P0' to focus exclusively on high-priority commercial funnels needed to capture immediate Google search traffic."
       />
 
-      {/* Top Header Bento Box */}
-      <div className="bento-card" style={{ padding: '24px' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
-          <span className="badge-minimal badge-minimal-neutral">Ongo Expansion Suite</span>
-          <span className="badge-minimal badge-minimal-coral">217 Target Pages</span>
+      {/* Sleek Minimalist Tool Header */}
+      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+              <span style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px',
+                padding: '2px 8px',
+                borderRadius: '6px',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.04em',
+                background: 'rgba(52, 126, 93, 0.25)',
+                color: '#74c69d',
+                border: '1px solid rgba(116, 198, 157, 0.3)'
+              }}>
+                <Layers size={11} /> Silo Architecture
+              </span>
+              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
+                217 Blueprint Pages
+              </span>
+              <span style={{ fontSize: '0.72rem', color: '#94a3b8' }}>
+                {doneCount} / 217 Completed
+              </span>
+            </div>
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
+              Content Silos &amp; 217-Page Expansion Roadmap
+            </h1>
+            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
+              6 topic silos · 35,420 competitor URLs analyzed · Interactive localStorage checklist
+            </p>
+          </div>
         </div>
-        <h1 style={{ fontSize: '1.35rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-          Page Architecture & 217-Page Expansion Checklist
-        </h1>
-        <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-          Macro category breakdown of 35,000+ competitor URLs paired with Ongo&apos;s strategic roadmap
-        </p>
       </div>
 
       

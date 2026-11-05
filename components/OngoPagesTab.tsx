@@ -170,7 +170,7 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
       <ContextCue
         level={1}
         toolNumber={3}
-        useCase="Audit Ongo's current 34 live URLs for title tag lengths, meta descriptions, and CTR hooks."
+        useCase={`Audit Ongo's current ${data.total_pages || 43} live URLs for title tag lengths, meta descriptions, and CTR hooks.`}
         badge="Live Sitemap Auditor"
         title="Ongo Live Pages Explorer & CTR Normalization Engine"
         about="This is a real-time URL and metadata crawler for ongoweightloss.com. It connects directly to your live sitemap.xml, extracts the current live <title> and meta descriptions for all pages, and displays them side-by-side with CTR-normalized recommendations tailored to match transactional patient search intent."
@@ -193,71 +193,53 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
           },
           {
             action: "Export Full Inventory to CSV",
-            description: "Download the complete 34-page audit spreadsheet with current tags, recommended tags, character counts, and intent rationales."
+            description: `Download the complete ${data.total_pages || 43}-page audit spreadsheet with current tags, recommended tags, character counts, and intent rationales.`
           }
         ]}
         tip="Click 'Refresh Live Pages' anytime you publish a new page or update your sitemap to instantly re-audit the entire site."
       />
 
-      {/* Hero Control Bento Card */}
-      <div className="bento-card" style={{ padding: '26px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px' }}>
+      {/* Premium GSC / Clarity Header */}
+      <div className="gsc-header">
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
           <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '6px' }}>
-              <div style={{
-                width: '32px',
-                height: '32px',
-                borderRadius: '8px',
-                backgroundColor: 'rgba(45, 106, 79, 0.14)',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                color: 'var(--color-primary)'
-              }}>
-                <Globe size={18} />
-              </div>
-              <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)', margin: 0 }}>
-                Ongo Live Sitemap & Pages Explorer
-              </h2>
-              <span className="badge badge-success" style={{ fontSize: '0.75rem', fontWeight: 700 }}>
-                {totalCount} Pages Live
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
+              <span className="gsc-badge-healthy">
+                <span className="gsc-pulse-dot" />
+                Google Search Console · Live Coverage Feed
+              </span>
+              <span className="gsc-badge-neutral">
+                {totalCount} Live URLs Indexed
+              </span>
+              <span style={{ fontSize: '0.74rem', color: '#64748b' }}>
+                Synced: {new Date(data.last_updated).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
               </span>
             </div>
-            <p style={{ fontSize: '0.86rem', color: 'var(--text-secondary)', margin: 0 }}>
-              Live sitemap source: <code style={{ color: 'var(--color-primary)', fontWeight: 600 }}>{data.source}</code> &bull; Last synchronized:{' '}
-              <span style={{ fontWeight: 600, color: 'var(--text-primary)' }}>
-                {new Date(data.last_updated).toLocaleString()}
-              </span>
+            <h1 style={{ fontSize: '1.45rem', fontWeight: 800, color: '#0f1715', margin: 0, letterSpacing: '-0.02em' }}>
+              Ongo Live 43 Pages &amp; Coverage Auditor
+            </h1>
+            <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
+              Live sitemap crawler: <code style={{ color: '#166534', background: '#f0fdf4', padding: '1px 5px', borderRadius: '4px' }}>{data.source}</code> · HTTP status codes &bull; Title tag lengths &bull; CTR optimization hooks &bull; Google SERP preview
             </p>
           </div>
 
-          {/* Action Buttons */}
-          <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+          {/* Quick Actions */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
             <button
               onClick={handleExportCsv}
-              className="btn btn-secondary"
-              style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.84rem' }}
-              title="Export all 34 pages with optimized titles & descriptions to CSV"
+              className="gsc-btn-secondary"
+              title={`Export all ${data.total_pages || 43} pages to CSV`}
             >
-              <Download size={15} />
+              <Download size={14} />
               Export CSV
             </button>
 
             <button
               onClick={handleRefreshLivePages}
               disabled={loading}
-              className="btn btn-primary"
-              style={{
-                display: 'flex',
-                alignItems: 'center',
-                gap: '8px',
-                fontSize: '0.88rem',
-                fontWeight: 700,
-                padding: '10px 18px',
-                boxShadow: '0 4px 14px rgba(45, 106, 79, 0.25)'
-              }}
+              className="gsc-btn-primary"
             >
-              <RefreshCw size={16} className={loading ? 'animate-spin' : ''} />
+              <RefreshCw size={14} className={loading ? 'animate-spin' : ''} />
               {loading ? 'Crawling Sitemap...' : 'Refresh Live Pages'}
             </button>
           </div>
@@ -266,18 +248,17 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
         {/* Feedback message banner */}
         {refreshMessage && (
           <div style={{
-            marginTop: '16px',
-            padding: '10px 14px',
+            padding: '8px 12px',
             borderRadius: '8px',
-            backgroundColor: refreshMessage.startsWith('Error') ? 'rgba(239, 68, 68, 0.1)' : 'rgba(34, 197, 94, 0.12)',
-            border: `1px solid ${refreshMessage.startsWith('Error') ? 'rgba(239, 68, 68, 0.3)' : 'rgba(34, 197, 94, 0.3)'}`,
-            color: refreshMessage.startsWith('Error') ? '#991b1b' : '#15803d',
-            fontSize: '0.84rem',
+            backgroundColor: refreshMessage.startsWith('Error') ? '#fef2f2' : '#ecfdf5',
+            border: `1px solid ${refreshMessage.startsWith('Error') ? '#fecaca' : '#a7f3d0'}`,
+            color: refreshMessage.startsWith('Error') ? '#991b1b' : '#065f46',
+            fontSize: '0.78rem',
             display: 'flex',
             alignItems: 'center',
-            gap: '8px'
+            gap: '6px'
           }}>
-            {refreshMessage.startsWith('Error') ? <AlertCircle size={16} /> : <CheckCircle2 size={16} />}
+            {refreshMessage.startsWith('Error') ? <AlertCircle size={14} /> : <CheckCircle2 size={14} color="#059669" />}
             <span>{refreshMessage}</span>
           </div>
         )}
@@ -314,7 +295,7 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
             </div>
           </div>
           <div style={{ padding: '14px 18px', background: '#ffffff', display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: '11px', color: '#64748b' }}>
-            <span>34 URLs Monitored &bull; 200 OK Status</span>
+            <span>{data.total_pages || 43} URLs Monitored &bull; 200 OK Status</span>
             <a href="https://ongoweightloss.com/" target="_blank" rel="noreferrer" style={{ color: 'var(--color-primary)', fontWeight: 700, textDecoration: 'none' }}>
               Open Live Site ↗
             </a>
@@ -369,82 +350,35 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
         </div>
       </div>
 
-      {/* KPI Cards Grid */}
+      {/* Sleek Productivity KPI Bar */}
       <div style={{
         display: 'grid',
-        gridTemplateColumns: 'repeat(auto-fit, minmax(190px, 1fr))',
-        gap: '14px'
+        gridTemplateColumns: 'repeat(auto-fit, minmax(130px, 1fr))',
+        gap: '8px'
       }}>
-        <div className="bento-card" style={{ padding: '16px', borderLeft: '4px solid var(--color-primary)' }}>
-          <div style={{ fontSize: '0.74rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700, letterSpacing: '0.5px' }}>
-            Total Live Pages
-          </div>
-          <div style={{ fontSize: '1.7rem', fontWeight: 800, color: 'var(--color-primary-dark)', margin: '4px 0' }}>
-            {totalCount}
-          </div>
-          <div style={{ fontSize: '0.74rem', color: 'var(--text-secondary)' }}>
-            Indexed in sitemap.xml
-          </div>
+        <div style={{ padding: '10px 14px', borderRadius: '8px', background: '#ffffff', border: '1px solid var(--border-subtle)', display: 'flex', flexDirection: 'column' }}>
+          <span style={{ fontSize: '0.68rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700 }}>Total Live</span>
+          <span style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--text-primary)' }}>{totalCount} <span style={{ fontSize: '0.72rem', fontWeight: 500, color: '#10b981' }}>Indexed</span></span>
         </div>
-
-        <div className="bento-card" style={{ padding: '16px', borderLeft: '4px solid #10b981' }}>
-          <div style={{ fontSize: '0.74rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700, letterSpacing: '0.5px' }}>
-            Core Treatments
-          </div>
-          <div style={{ fontSize: '1.7rem', fontWeight: 800, color: '#047857', margin: '4px 0' }}>
-            {treatmentCount}
-          </div>
-          <div style={{ fontSize: '0.74rem', color: 'var(--text-secondary)' }}>
-            Semaglutide & Tirzepatide
-          </div>
+        <div style={{ padding: '10px 14px', borderRadius: '8px', background: '#ffffff', border: '1px solid var(--border-subtle)', display: 'flex', flexDirection: 'column' }}>
+          <span style={{ fontSize: '0.68rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700 }}>Treatments</span>
+          <span style={{ fontSize: '1.25rem', fontWeight: 800, color: '#047857' }}>{treatmentCount} <span style={{ fontSize: '0.72rem', fontWeight: 500, color: 'var(--text-tertiary)' }}>GLP-1</span></span>
         </div>
-
-        <div className="bento-card" style={{ padding: '16px', borderLeft: '4px solid #3b82f6' }}>
-          <div style={{ fontSize: '0.74rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700, letterSpacing: '0.5px' }}>
-            Dosing Guides
-          </div>
-          <div style={{ fontSize: '1.7rem', fontWeight: 800, color: '#1d4ed8', margin: '4px 0' }}>
-            {guideCount}
-          </div>
-          <div style={{ fontSize: '0.74rem', color: 'var(--text-secondary)' }}>
-            Injectable & Chewable Guides
-          </div>
+        <div style={{ padding: '10px 14px', borderRadius: '8px', background: '#ffffff', border: '1px solid var(--border-subtle)', display: 'flex', flexDirection: 'column' }}>
+          <span style={{ fontSize: '0.68rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700 }}>Dosing Guides</span>
+          <span style={{ fontSize: '1.25rem', fontWeight: 800, color: '#1d4ed8' }}>{guideCount} <span style={{ fontSize: '0.72rem', fontWeight: 500, color: 'var(--text-tertiary)' }}>Guides</span></span>
         </div>
-
-        <div className="bento-card" style={{ padding: '16px', borderLeft: '4px solid #8b5cf6' }}>
-          <div style={{ fontSize: '0.74rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700, letterSpacing: '0.5px' }}>
-            Doctor Profiles
-          </div>
-          <div style={{ fontSize: '1.7rem', fontWeight: 800, color: '#6d28d9', margin: '4px 0' }}>
-            {doctorCount}
-          </div>
-          <div style={{ fontSize: '0.74rem', color: 'var(--text-secondary)' }}>
-            E-E-A-T Medical Clinicians
-          </div>
+        <div style={{ padding: '10px 14px', borderRadius: '8px', background: '#ffffff', border: '1px solid var(--border-subtle)', display: 'flex', flexDirection: 'column' }}>
+          <span style={{ fontSize: '0.68rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700 }}>Doctor Bios</span>
+          <span style={{ fontSize: '1.25rem', fontWeight: 800, color: '#6d28d9' }}>{doctorCount} <span style={{ fontSize: '0.72rem', fontWeight: 500, color: 'var(--text-tertiary)' }}>MD/MBA</span></span>
         </div>
-
-        <div className="bento-card" style={{ padding: '16px', borderLeft: '4px solid #f59e0b' }}>
-          <div style={{ fontSize: '0.74rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700, letterSpacing: '0.5px' }}>
-            Legal & Policies
-          </div>
-          <div style={{ fontSize: '1.7rem', fontWeight: 800, color: '#b45309', margin: '4px 0' }}>
-            {policyCount}
-          </div>
-          <div style={{ fontSize: '0.74rem', color: 'var(--text-secondary)' }}>
-            Telehealth & HIPAA Compliance
-          </div>
+        <div style={{ padding: '10px 14px', borderRadius: '8px', background: '#ffffff', border: '1px solid var(--border-subtle)', display: 'flex', flexDirection: 'column' }}>
+          <span style={{ fontSize: '0.68rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700 }}>Legal Policies</span>
+          <span style={{ fontSize: '1.25rem', fontWeight: 800, color: '#b45309' }}>{policyCount} <span style={{ fontSize: '0.72rem', fontWeight: 500, color: 'var(--text-tertiary)' }}>HIPAA</span></span>
         </div>
-
-        <div className="bento-card" style={{ padding: '16px', borderLeft: '4px solid #ec4899' }}>
-          <div style={{ fontSize: '0.74rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700, letterSpacing: '0.5px' }}>
-            Optimal Title Length
-          </div>
-          <div style={{ fontSize: '1.7rem', fontWeight: 800, color: '#be185d', margin: '4px 0' }}>
-            {optimalTitleCount} <span style={{ fontSize: '0.9rem', color: 'var(--text-tertiary)' }}>/ {totalCount}</span>
-          </div>
-          <div style={{ fontSize: '0.74rem', color: 'var(--text-secondary)' }}>
-            Within 48–62 characters
-          </div>
+        <div style={{ padding: '10px 14px', borderRadius: '8px', background: '#ffffff', border: '1px solid var(--border-subtle)', display: 'flex', flexDirection: 'column' }}>
+          <span style={{ fontSize: '0.68rem', textTransform: 'uppercase', color: 'var(--text-tertiary)', fontWeight: 700 }}>Title Health</span>
+          <span style={{ fontSize: '1.25rem', fontWeight: 800, color: '#be185d' }}>{optimalTitleCount} <span style={{ fontSize: '0.72rem', fontWeight: 500, color: 'var(--text-tertiary)' }}>/ {totalCount}</span></span>
         </div>
       </div>
 

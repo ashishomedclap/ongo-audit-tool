@@ -532,17 +532,18 @@ function generateHumanTitle(query: string): string {
   return clean.charAt(0).toUpperCase() + clean.slice(1);
 }
 
-// Fetch from Google's Suggest API
+// Fetch from Google's Suggest API with fast fallback
 async function fetchGoogleSuggest(searchQuery: string): Promise<string[]> {
   try {
     const url = `https://suggestqueries.google.com/complete/search?client=chrome&hl=en&gl=us&q=${encodeURIComponent(searchQuery)}`;
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 2200);
+    const timeoutId = setTimeout(() => controller.abort(), 1200);
 
     const response = await fetch(url, {
       signal: controller.signal,
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Accept': 'application/json, text/javascript, */*; q=0.01'
       }
     });
     clearTimeout(timeoutId);
@@ -558,6 +559,33 @@ async function fetchGoogleSuggest(searchQuery: string): Promise<string[]> {
   }
 }
 
+// Generate algorithmic PAA query templates for any seed term
+function generateAlgorithmicPaaQueries(seed: string): string[] {
+  const s = seed.trim();
+  return [
+    `how does ${s} work for medical weight loss`,
+    `what is the recommended starting dose for ${s}`,
+    `how many units of ${s} on an insulin syringe`,
+    `how much does ${s} cost per month online`,
+    `can you get ${s} prescribed online without insurance`,
+    `is ${s} safe for long term weight management`,
+    `what are the most common side effects of ${s}`,
+    `why is ${s} preferred over commercial retail brands`,
+    `where to buy doctor prescribed ${s} online`,
+    `how fast do patients lose weight on ${s}`,
+    `can you drink alcohol while taking ${s}`,
+    `what to eat while on ${s} to prevent nausea`,
+    `how to store and refrigerate ${s} vials`,
+    `what happens if you miss a dose of ${s}`,
+    `who qualifies for a telehealth prescription for ${s}`,
+    `${s} vs tirzepatide which is more effective`,
+    `${s} vs brand name ozempic and wegovy differences`,
+    `how to transition from commercial to compounded ${s}`,
+    `does ${s} cause muscle wasting or fatigue`,
+    `how long do patients stay on ${s} for maintenance`
+  ];
+}
+
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json().catch(() => ({}));
@@ -568,30 +596,32 @@ export async function POST(req: NextRequest) {
       seed,
       `how ${seed}`,
       `what is ${seed}`,
-      `is ${seed}`,
-      `can ${seed}`,
-      `why ${seed}`,
-      `where to get ${seed}`,
       `${seed} cost`,
-      `${seed} price`,
       `${seed} dosage`,
-      `${seed} units`,
       `${seed} vs`,
       `${seed} side effects`,
-      `${seed} online`,
-      `how to get ${seed}`
+      `where to get ${seed}`
     ];
 
-    // Fetch Google Suggest across all probes concurrently
-    const suggestPromises = probes.map(probe => fetchGoogleSuggest(probe));
-    const resultsArrays = await Promise.all(suggestPromises);
+    // Fetch Google Suggest across probes with allSettled
+    const resultsArrays = await Promise.allSettled(probes.map(p => fetchGoogleSuggest(p)));
 
     const harvestedSet = new Set<string>();
-    for (const arr of resultsArrays) {
-      for (const phrase of arr) {
-        if (phrase.length > 5) {
-          harvestedSet.add(phrase.toLowerCase());
+    for (const res of resultsArrays) {
+      if (res.status === 'fulfilled') {
+        for (const phrase of res.value) {
+          if (phrase.length > 5) {
+            harvestedSet.add(phrase.toLowerCase());
+          }
         }
+      }
+    }
+
+    // Always ensure robust seed-tailored questions if network returns few or 0 items
+    if (harvestedSet.size < 15) {
+      const algorithmicQuestions = generateAlgorithmicPaaQueries(seed);
+      for (const q of algorithmicQuestions) {
+        harvestedSet.add(q.toLowerCase());
       }
     }
 

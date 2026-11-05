@@ -188,89 +188,104 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
         tip="Filter by '50 States' and '100% Doctor-Led' to see which few competitors match Ongo's clinical telehealth standards."
       />
 
-      {/* Top Metric Cards */}
+      {/* Premium GSC / Clarity Header */}
+      <div className="gsc-header">
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
+              <span className="gsc-badge-healthy">
+                <span className="gsc-pulse-dot" />
+                503A Pharmacy &amp; Sterility Hub
+              </span>
+              <span className="gsc-badge-neutral">
+                100 Competitors Audited
+              </span>
+              <span style={{ fontSize: '0.74rem', color: '#64748b' }}>
+                Cold-Chain Shipping &bull; 503A Cleanrooms &bull; USP &lt;797&gt;
+              </span>
+            </div>
+            <h1 style={{ fontSize: '1.45rem', fontWeight: 800, color: '#0f1715', margin: 0, letterSpacing: '-0.02em' }}>
+              503A Compounding Pharmacy &amp; Sterility Hub
+            </h1>
+            <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
+              Audit compounding pharmacy partners, sterile cleanroom compliance, refrigerated shipping policies, and refund guarantees across 100 competitors.
+            </p>
+          </div>
+
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+            <a
+              href="/doctor-eeat"
+              className="gsc-btn-secondary"
+            >
+              <Stethoscope size={14} color="#15803d" />
+              Doctor E-E-A-T ↗
+            </a>
+            <a
+              href="/state-licensing"
+              className="gsc-btn-secondary"
+            >
+              <MapPin size={14} color="#2563eb" />
+              50-State Licensing ↗
+            </a>
+          </div>
+        </div>
+      </div>
+
+      {/* Clarity / GSC Scorecards */}
       <div style={{
         display: 'grid',
         gridTemplateColumns: 'repeat(auto-fit, minmax(210px, 1fr))',
         gap: '12px'
       }}>
-        {/* Card 1: Doctor-Supervised */}
-        <div className="bento-card" style={{ padding: '16px 20px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '6px' }}>
-            <span style={{ fontSize: '0.72rem', fontWeight: 600, color: 'var(--text-secondary)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
-              Doctor-Supervised
-            </span>
-            <Stethoscope size={15} color="var(--color-primary)" />
+        <div className="gsc-scorecard" style={{ borderTop: '3px solid #10b981' }}>
+          <div className="gsc-scorecard-label">
+            <span>503A Compounding</span>
+            <Pill size={15} color="#10b981" />
           </div>
-          <div style={{ fontSize: '1.45rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-            {metrics.doctorLedCount} <span style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>/ 100</span>
+          <div className="gsc-scorecard-value" style={{ color: '#15803d' }}>
+            {metrics.sterile503aCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ 100</span>
           </div>
-          <div style={{ fontSize: '0.72rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-            Have MD/DO medical directors or physician teams
+          <div className="gsc-scorecard-sub">
+            <span className="gsc-badge-healthy">State-Licensed Sterile</span>
           </div>
         </div>
 
-        {/* Card 2: 50-State Coverage */}
-        <div className="bento-card" style={{ padding: '16px 20px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '6px' }}>
-            <span style={{ fontSize: '0.72rem', fontWeight: 600, color: 'var(--text-secondary)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
-              50-State Nationwide
-            </span>
-            <MapPin size={15} color="#347e5d" />
+        <div className="gsc-scorecard" style={{ borderTop: '3px solid #3b82f6' }}>
+          <div className="gsc-scorecard-label">
+            <span>Doctor-Supervised</span>
+            <Stethoscope size={15} color="#3b82f6" />
           </div>
-          <div style={{ fontSize: '1.45rem', fontWeight: 800, color: '#347e5d' }}>
-            {metrics.fiftyStatesCount} <span style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>/ 100</span>
+          <div className="gsc-scorecard-value" style={{ color: '#1d4ed8' }}>
+            {metrics.doctorLedCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ 100</span>
           </div>
-          <div style={{ fontSize: '0.72rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-            Full 50-state telehealth licensing (like Ongo)
+          <div className="gsc-scorecard-sub">
+            <span>MD/DO Medical Leadership</span>
           </div>
         </div>
 
-        {/* Card 3: E-E-A-T Grade A/A+ */}
-        <div className="bento-card" style={{ padding: '16px 20px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '6px' }}>
-            <span style={{ fontSize: '0.72rem', fontWeight: 600, color: 'var(--text-secondary)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
-              E-E-A-T Verified Authors
-            </span>
-            <Award size={15} color="#f4a261" />
+        <div className="gsc-scorecard" style={{ borderTop: '3px solid #f59e0b' }}>
+          <div className="gsc-scorecard-label">
+            <span>50-State Nationwide</span>
+            <MapPin size={15} color="#f59e0b" />
           </div>
-          <div style={{ fontSize: '1.45rem', fontWeight: 800, color: '#b26a27' }}>
-            {metrics.highEeatCount} <span style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>/ 100</span>
+          <div className="gsc-scorecard-value" style={{ color: '#b45309' }}>
+            {metrics.fiftyStatesCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ 100</span>
           </div>
-          <div style={{ fontSize: '0.72rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-            Articles clinically reviewed with doctor bylines
+          <div className="gsc-scorecard-sub">
+            <span>Full 50-State Legal</span>
           </div>
         </div>
 
-        {/* Card 4: 503A Compounding */}
-        <div className="bento-card" style={{ padding: '16px 20px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '6px' }}>
-            <span style={{ fontSize: '0.72rem', fontWeight: 600, color: 'var(--text-secondary)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
-              503A Sterile Compounding
-            </span>
-            <Pill size={15} color="var(--color-accent)" />
+        <div className="gsc-scorecard" style={{ borderTop: '3px solid #8b5cf6' }}>
+          <div className="gsc-scorecard-label">
+            <span>E-E-A-T Verified</span>
+            <Award size={15} color="#8b5cf6" />
           </div>
-          <div style={{ fontSize: '1.45rem', fontWeight: 800, color: 'var(--color-accent)' }}>
-            {metrics.sterile503aCount} <span style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>/ 100</span>
+          <div className="gsc-scorecard-value" style={{ color: '#6d28d9' }}>
+            {metrics.highEeatCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ 100</span>
           </div>
-          <div style={{ fontSize: '0.72rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-            Disclose state-licensed sterile pharmacy partners
-          </div>
-        </div>
-
-        {/* Card 5: Ongo Flagship Advantage */}
-        <div className="bento-card" style={{ padding: '16px 20px', borderLeft: '3px solid var(--color-primary)' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '6px' }}>
-            <span style={{ fontSize: '0.72rem', fontWeight: 600, color: 'var(--color-primary)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
-              Ongo Benchmark
-            </span>
-            <ShieldCheck size={15} color="var(--color-primary)" />
-          </div>
-          <div style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-            100% MD &bull; 50 States
-          </div>
-          <div style={{ fontSize: '0.72rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-            $179 Sema / $249 Tirz flat rate &bull; $0 consult/shipping
+          <div className="gsc-scorecard-sub">
+            <span>Grade A/A+ Author Bylines</span>
           </div>
         </div>
       </div>

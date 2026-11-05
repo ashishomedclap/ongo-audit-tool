@@ -23,6 +23,7 @@ Every tool in this suite operates with zero recurring monthly subscription cost 
 | **11** | **Google Autocomplete / PAA Harvester** | [`/keywords-harvester`](file:///d:/research%20work/ongo-audit-tool/app/keywords-harvester/page.tsx) | Mines live Google Suggest API for seed keywords, sorting questions into 8 topical silos with copyable H2 snippets. |
 | **12** | **Internal Link Recommender** | [`/internal-links`](file:///d:/research%20work/ongo-audit-tool/app/internal-links/page.tsx) | Rule engine scanning live pages to generate exact copy-paste anchor text snippets across 4 Silo Linking Rules. |
 | **13** | **Competitor Gap Comparator** | [`/competitor-gap`](file:///d:/research%20work/ongo-audit-tool/app/competitor-gap/page.tsx) | Cross-references 33,108 competitor URLs against Ongo's 34 live pages, prioritizing high-impact missing pages. |
+| **14** | **Clean Scraper & Offline Engine** | [`/clean-scraper`](file:///d:/research%20work/ongo-audit-tool/app/clean-scraper/page.tsx) | Headless page-by-page scraper turning heavy Next.js sites into simplified, offline HTML with unified inlined CSS & Vanilla JS. |
 
 ---
 

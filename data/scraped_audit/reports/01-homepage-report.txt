@@ -1,0 +1,1498 @@
+======================================================
+AUDIT REPORT FOR: 01-homepage.html
+======================================================
+
+NOTE: This script analyzes the HTML files saved locally. 
+External CSS and JS files are referenced (URLs) but not downloaded/audited here.
+
+{
+    "filename": "01-homepage.html",
+    "content": {
+        "title": "Ongo Weight Loss | Doctor-Led Medical Weight Loss Care",
+        "h1": [
+            "Doctor-Supervised Virtual GLP-1 Weight Loss Program"
+        ],
+        "h2_to_h6_count": 50,
+        "paragraphs_count": 81,
+        "lists_count": 13,
+        "forms_count": 0,
+        "buttons_count": 30,
+        "iframes_count": 0,
+        "visible_text_length": 266868
+    },
+    "seo": {
+        "metaDescription": "Ongo Weight Loss provides personalized doctor-led weight management and GLP-1 treatment options with ongoing medical support to help you achieve lasting results.",
+        "robots": "index, follow",
+        "viewport": "width=device-width, initial-scale=1",
+        "canonical": "https://ongoweightloss.com/",
+        "openGraph": {
+            "og:title": "Ongo Weight Loss | Doctor-Led Medical Weight Loss Care",
+            "og:description": "Ongo Weight Loss provides personalized doctor-led weight management and GLP-1 treatment options with ongoing medical support to help you achieve lasting results.",
+            "og:url": "https://ongoweightloss.com/",
+            "og:site_name": "Ongo Weight Loss",
+            "og:locale": "en_US",
+            "og:image": "https://ongoweightloss.com/images/brand/Homepage-featured-image.webp",
+            "og:image:width": "3600",
+            "og:image:height": "1890",
+            "og:image:alt": "Ongo Weight Loss — doctor-led medical weight loss care",
+            "og:type": "website"
+        },
+        "twitter": {
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Ongo Weight Loss | Doctor-Led Medical Weight Loss Care",
+            "twitter:description": "Ongo Weight Loss provides personalized doctor-led weight management and GLP-1 treatment options with ongoing medical support to help you achieve lasting results.",
+            "twitter:image": "https://ongoweightloss.com/images/brand/Homepage-featured-image.webp"
+        },
+        "hreflang": []
+    },
+    "structuredData": {
+        "jsonLdScripts": [
+            {
+                "@context": "https://schema.org",
+                "@graph": [
+                    {
+                        "@type": [
+                            "MedicalOrganization",
+                            "MedicalBusiness"
+                        ],
+                        "@id": "https://ongoweightloss.com/#organization",
+                        "name": "Ongo Weight Loss",
+                        "url": "https://ongoweightloss.com/",
+                        "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://ongoweightloss.com/images/Schema-logo.webp"
+                        },
+                        "image": "https://ongoweightloss.com/images/Schema-logo.webp",
+                        "description": "Doctor-supervised virtual GLP-1 weight loss program. Board-certified physicians provide personalized, HIPAA-compliant telehealth care with medication delivered nationwide.",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "8 The Green, Ste A",
+                            "addressLocality": "Dover",
+                            "addressRegion": "DE",
+                            "postalCode": "19901",
+                            "addressCountry": "US"
+                        },
+                        "areaServed": {
+                            "@type": "Country",
+                            "name": "United States"
+                        },
+                        "medicalSpecialty": "Bariatric",
+                        "sameAs": [
+                            "https://www.facebook.com/ongoweightloss/",
+                            "https://www.instagram.com/ongoweightloss.usa",
+                            "https://www.youtube.com/@ongoweightlossusa",
+                            "https://twitter.com/ongocare",
+                            "https://www.tiktok.com/@ongoweightloss",
+                            "https://www.linkedin.com/company/ongocare/",
+                            "https://www.crunchbase.com/organization/ongo-care",
+                            "https://www.trustpilot.com/review/ongocare.com"
+                        ],
+                        "telephone": "+1 (888) 655-5267",
+                        "priceRange": "$$",
+                        "currenciesAccepted": "USD",
+                        "paymentAccepted": "Credit Card, Debit Card, HSA, FSA",
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "Patient Support",
+                            "telephone": "+1 (888) 655-5267",
+                            "areaServed": "US",
+                            "availableLanguage": [
+                                "English",
+                                "Spanish"
+                            ]
+                        },
+                        "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": "4.9",
+                            "reviewCount": "1250",
+                            "bestRating": "5",
+                            "worstRating": "1"
+                        },
+                        "availableChannel": {
+                            "@type": "ServiceChannel",
+                            "serviceUrl": "https://ongoweightloss.com/",
+                            "serviceType": "100% Virtual Telehealth Consultation & Support"
+                        },
+                        "makesOffer": [
+                            {
+                                "@type": "Offer",
+                                "name": "Free Nationwide Prescription Delivery",
+                                "price": "0.00",
+                                "priceCurrency": "USD",
+                                "availability": "https://schema.org/InStock",
+                                "shippingDetails": {
+                                    "@id": "https://ongoweightloss.com/#shipping-details"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "WebSite",
+                        "@id": "https://ongoweightloss.com/#website",
+                        "url": "https://ongoweightloss.com/",
+                        "name": "Ongo Weight Loss",
+                        "publisher": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        }
+                    },
+                    {
+                        "@type": "MedicalWebPage",
+                        "@id": "https://ongoweightloss.com/#webpage",
+                        "url": "https://ongoweightloss.com/",
+                        "name": "Ongo Weight Loss | Doctor-Supervised Virtual GLP-1 Weight Loss Program",
+                        "isPartOf": {
+                            "@id": "https://ongoweightloss.com/#website"
+                        },
+                        "about": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "medicalAudience": {
+                            "@type": "MedicalAudience",
+                            "audienceType": "Patient"
+                        },
+                        "lastReviewed": "2026-06-08",
+                        "reviewedBy": [
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-david-okonkwo/#profile"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-zachary-kramer/#profile"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-gaurav-patel/#profile"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-jonathan-miller/#profile"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-benjamin-krasne/#profile"
+                            }
+                        ],
+                        "breadcrumb": {
+                            "@id": "https://ongoweightloss.com/#breadcrumb"
+                        },
+                        "mainEntity": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "hasPart": [
+                            {
+                                "@id": "https://ongoweightloss.com/#site-navigation"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/#procedure-virtual-clinical-intake-and-lab-evaluation"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "Physician",
+                        "@id": "https://ongoweightloss.com/medical-team/dr-david-okonkwo/#profile",
+                        "name": "Dr. David Okonkwo, MD, MBA",
+                        "honorificSuffix": "MD, MBA",
+                        "identifier": {
+                            "@type": "PropertyValue",
+                            "propertyID": "NPI",
+                            "value": "1457796062"
+                        },
+                        "medicalSpecialty": [
+                            "Adult & Pediatric Neurologist",
+                            "Board-Certified in Neurology"
+                        ],
+                        "worksFor": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "sameAs": [
+                            "https://npiregistry.cms.hhs.gov/provider-view/1457796062",
+                            "https://npidb.org/doctors/allopathic_osteopathic_physicians/neurology_2084n0400x/1457796062.aspx",
+                            "https://www.tebra.com/care/provider/david-okonkwo-md-1457796062",
+                            "https://www.healthgrades.com/physician/dr-david-okonkwo-3k93y",
+                            "https://www.doximity.com/pub/david-okonkwo-md",
+                            "https://www.webmd.com/doctor/david-okonkwo-1457796062"
+                        ],
+                        "url": "https://ongoweightloss.com/medical-team/dr-david-okonkwo/",
+                        "image": "https://ongoweightloss.com/images/brand/doctors/doctor-david.webp",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "8 The Green, Ste A",
+                            "addressLocality": "Dover",
+                            "addressRegion": "DE",
+                            "postalCode": "19901",
+                            "addressCountry": "US"
+                        },
+                        "telephone": "+1 (888) 655-5267",
+                        "priceRange": "$$",
+                        "areaServed": {
+                            "@type": "Country",
+                            "name": "United States"
+                        },
+                        "availableChannel": {
+                            "@type": "ServiceChannel",
+                            "serviceUrl": "https://ongoweightloss.com/",
+                            "serviceType": "100% Virtual Telehealth Consultation & Support"
+                        }
+                    },
+                    {
+                        "@type": "Physician",
+                        "@id": "https://ongoweightloss.com/medical-team/dr-zachary-kramer/#profile",
+                        "name": "Dr. Zachary B. Kramer, MD",
+                        "honorificSuffix": "MD",
+                        "identifier": {
+                            "@type": "PropertyValue",
+                            "propertyID": "NPI",
+                            "value": "1891015152"
+                        },
+                        "medicalSpecialty": [
+                            "Emergency Medicine Physician",
+                            "Board-Certified"
+                        ],
+                        "worksFor": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "sameAs": [
+                            "https://npiregistry.cms.hhs.gov/provider-view/1891015152",
+                            "https://npidb.org/doctors/allopathic_osteopathic_physicians/emergency-medicine_207p00000x/1891015152.aspx",
+                            "https://www.brownhealth.org/providers/zachary-b-kramer-md",
+                            "https://www.doximity.com/pub/zachary-kramer-md",
+                            "https://www.healthgrades.com/physician/dr-zachary-kramer-xyvfg",
+                            "https://www.vitals.com/doctors/Dr_Zachary_Kramer.html"
+                        ],
+                        "url": "https://ongoweightloss.com/medical-team/dr-zachary-kramer/",
+                        "image": "https://ongoweightloss.com/images/brand/doctors/doctor-zachary.webp",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "8 The Green, Ste A",
+                            "addressLocality": "Dover",
+                            "addressRegion": "DE",
+                            "postalCode": "19901",
+                            "addressCountry": "US"
+                        },
+                        "telephone": "+1 (888) 655-5267",
+                        "priceRange": "$$",
+                        "areaServed": {
+                            "@type": "Country",
+                            "name": "United States"
+                        },
+                        "availableChannel": {
+                            "@type": "ServiceChannel",
+                            "serviceUrl": "https://ongoweightloss.com/",
+                            "serviceType": "100% Virtual Telehealth Consultation & Support"
+                        }
+                    },
+                    {
+                        "@type": "Physician",
+                        "@id": "https://ongoweightloss.com/medical-team/dr-gaurav-patel/#profile",
+                        "name": "Dr. Gaurav K. Patel, MD",
+                        "honorificSuffix": "MD",
+                        "identifier": {
+                            "@type": "PropertyValue",
+                            "propertyID": "NPI",
+                            "value": "1023571379"
+                        },
+                        "medicalSpecialty": [
+                            "Family Medicine Physician",
+                            "Board-Certified"
+                        ],
+                        "worksFor": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "sameAs": [
+                            "https://npiregistry.cms.hhs.gov/provider-view/1023571379",
+                            "https://npidb.org/doctors/allopathic_osteopathic_physicians/family-medicine_207q00000x/1023571379.aspx",
+                            "https://www.doximity.com/pub/gaurav-patel-md-b6bb5734",
+                            "https://www.healthgrades.com/physician/dr-gaurav-patel-x9y9m",
+                            "https://www.webmd.com/doctor/gaurav-patel-1023571379",
+                            "https://www.vitals.com/doctors/Dr_Gaurav_K_Patel.html"
+                        ],
+                        "url": "https://ongoweightloss.com/medical-team/dr-gaurav-patel/",
+                        "image": "https://ongoweightloss.com/images/brand/doctors/doctor-gourav-patel.webp",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "8 The Green, Ste A",
+                            "addressLocality": "Dover",
+                            "addressRegion": "DE",
+                            "postalCode": "19901",
+                            "addressCountry": "US"
+                        },
+                        "telephone": "+1 (888) 655-5267",
+                        "priceRange": "$$",
+                        "areaServed": {
+                            "@type": "Country",
+                            "name": "United States"
+                        },
+                        "availableChannel": {
+                            "@type": "ServiceChannel",
+                            "serviceUrl": "https://ongoweightloss.com/",
+                            "serviceType": "100% Virtual Telehealth Consultation & Support"
+                        }
+                    },
+                    {
+                        "@type": "Physician",
+                        "@id": "https://ongoweightloss.com/medical-team/dr-jonathan-miller/#profile",
+                        "name": "Dr. Johnathan Chance Miller, MD",
+                        "honorificSuffix": "MD",
+                        "identifier": {
+                            "@type": "PropertyValue",
+                            "propertyID": "NPI",
+                            "value": "1235623372"
+                        },
+                        "medicalSpecialty": [
+                            "General Practice Physician",
+                            "Telehealth Medical Evaluations"
+                        ],
+                        "worksFor": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "sameAs": [
+                            "https://npiregistry.cms.hhs.gov/provider-view/1235623372",
+                            "https://npidb.org/doctors/allopathic_osteopathic_physicians/general-practice_208d00000x/1235623372.aspx",
+                            "https://mymmjdoctor.com/medical-marijuana-doctors/johnathan-miller/",
+                            "https://www.doximity.com/pub/johnathan-miller-md",
+                            "https://www.webmd.com/doctor/johnathan-miller-1235623372",
+                            "https://www.healthgrades.com/physician/dr-johnathan-miller-md"
+                        ],
+                        "url": "https://ongoweightloss.com/medical-team/dr-jonathan-miller/",
+                        "image": "https://ongoweightloss.com/images/brand/doctors/dr-johnathan-miller-md.webp",
+                        "telephone": "+1 (888) 655-5267",
+                        "priceRange": "$$",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "8 The Green, Ste A",
+                            "addressLocality": "Dover",
+                            "addressRegion": "DE",
+                            "postalCode": "19901",
+                            "addressCountry": "US"
+                        },
+                        "areaServed": {
+                            "@type": "Country",
+                            "name": "United States"
+                        },
+                        "availableChannel": {
+                            "@type": "ServiceChannel",
+                            "serviceUrl": "https://ongoweightloss.com/",
+                            "serviceType": "100% Virtual Telehealth Consultation & Support"
+                        }
+                    },
+                    {
+                        "@type": "Physician",
+                        "@id": "https://ongoweightloss.com/medical-team/dr-benjamin-krasne/#profile",
+                        "name": "Dr. Benjamin H. Krasne, MD",
+                        "honorificSuffix": "MD",
+                        "identifier": {
+                            "@type": "PropertyValue",
+                            "propertyID": "NPI",
+                            "value": "1306189832"
+                        },
+                        "medicalSpecialty": [
+                            "Board-Certified Anesthesiologist",
+                            "Weight Management & Metabolic Health"
+                        ],
+                        "worksFor": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "sameAs": [
+                            "https://npiregistry.cms.hhs.gov/provider-view/1306189832",
+                            "https://npidb.org/doctors/allopathic_osteopathic_physicians/anesthesiology_207l00000x/1306189832.aspx",
+                            "https://www.doximity.com/pub/benjamin-krasne-md",
+                            "https://www.healthgrades.com/physician/dr-benjamin-krasne-x387m",
+                            "https://www.vitals.com/doctors/Dr_Benjamin_Krasne.html",
+                            "https://www.webmd.com/doctor/benjamin-krasne-1306189832"
+                        ],
+                        "url": "https://ongoweightloss.com/medical-team/dr-benjamin-krasne/",
+                        "image": "https://ongoweightloss.com/images/brand/doctors/dr-benjamin-krasne.webp",
+                        "telephone": "+1 (888) 655-5267",
+                        "priceRange": "$$",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "8 The Green, Ste A",
+                            "addressLocality": "Dover",
+                            "addressRegion": "DE",
+                            "postalCode": "19901",
+                            "addressCountry": "US"
+                        },
+                        "areaServed": {
+                            "@type": "Country",
+                            "name": "United States"
+                        },
+                        "availableChannel": {
+                            "@type": "ServiceChannel",
+                            "serviceUrl": "https://ongoweightloss.com/",
+                            "serviceType": "100% Virtual Telehealth Consultation & Support"
+                        }
+                    },
+                    {
+                        "@type": "MedicalTherapy",
+                        "@id": "https://ongoweightloss.com/#weight-loss-program",
+                        "name": "Ongo Weight Loss Virtual GLP-1 Program",
+                        "alternateName": "Doctor-Supervised Virtual GLP-1 Weight Loss Program",
+                        "description": "A virtual, doctor-supervised weight management program. Patients complete a health assessment, consult with a board-certified provider, and if medically appropriate, receive a prescription for a GLP-1 medication with ongoing follow-up care.",
+                        "provider": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "recognizingAuthority": {
+                            "@type": "Organization",
+                            "name": "U.S. Food and Drug Administration"
+                        },
+                        "hasOfferCatalog": {
+                            "@type": "OfferCatalog",
+                            "name": "Ongo Weight Loss Treatment Plans",
+                            "itemListElement": [
+                                {
+                                    "@type": "Offer",
+                                    "@id": "https://ongoweightloss.com/#offer-ongoing-plan",
+                                    "name": "Ongoing Monthly Treatment Plan",
+                                    "url": "https://ongoweightloss.com/pricing/",
+                                    "priceSpecification": {
+                                        "@type": "UnitPriceSpecification",
+                                        "price": "75.00",
+                                        "priceCurrency": "USD",
+                                        "billingIncrement": 1,
+                                        "unitText": "MONTH"
+                                    },
+                                    "eligibleRegion": {
+                                        "@type": "Country",
+                                        "name": "United States"
+                                    },
+                                    "description": "Recurring monthly price beginning the second month of treatment. Does not include medication cost, which varies by product and plan."
+                                }
+                            ]
+                        },
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Glucagon-like_peptide-1_receptor_agonist",
+                            "https://www.wikidata.org/wiki/Q1104381",
+                            "https://meshb.nlm.nih.gov/record/ui?ui=D000067757",
+                            "https://medlineplus.gov/druginfo/meds/a618008.html"
+                        ]
+                    },
+                    {
+                        "@type": "HowTo",
+                        "@id": "https://ongoweightloss.com/#how-it-works",
+                        "name": "How the Ongo Weight Loss Program Works",
+                        "description": "Getting started should feel simple. Three steps from health assessment to ongoing treatment.",
+                        "step": [
+                            {
+                                "@type": "HowToStep",
+                                "position": 1,
+                                "name": "Complete Your Health Assessment",
+                                "text": "Answer a few questions about your health history, goals, medications, and overall health. It takes about 5 to 15 minutes.",
+                                "url": "https://ongoweightloss.com/weightloss-onboard/"
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "position": 2,
+                                "name": "Talk to a Board-Certified Provider",
+                                "text": "Meet with a licensed provider by video or phone. They review your health information and lab results to determine whether treatment is medically appropriate.",
+                                "url": "https://ongoweightloss.com/how-it-works/"
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "position": 3,
+                                "name": "Start Treatment with Ongoing Care",
+                                "text": "Choose the treatment plan that works for you. If prescribed, medication is shipped in discreet packaging from a licensed U.S. pharmacy with tracking, and your care team provides regular check-ins.",
+                                "url": "https://ongoweightloss.com/how-it-works/"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": [
+                            "Drug",
+                            "Product"
+                        ],
+                        "@id": "https://ongoweightloss.com/#drug-compounded-semaglutide",
+                        "name": "Compounded Semaglutide",
+                        "nonProprietaryName": "Semaglutide",
+                        "url": "https://ongoweightloss.com/#medications",
+                        "activeIngredient": "Semaglutide",
+                        "isProprietary": false,
+                        "prescriptionStatus": "PrescriptionOnly",
+                        "legalStatus": "Not FDA-approved. Prepared by a licensed U.S. compounding pharmacy per individual prescription.",
+                        "mechanismOfAction": "GLP-1 receptor agonist",
+                        "relevantSpecialty": "Bariatric",
+                        "manufacturer": {
+                            "@type": "Organization",
+                            "name": "Licensed U.S. compounding pharmacy",
+                            "description": "Compounded formulations are prepared per individual prescription and are not manufactured by Novo Nordisk or any brand-name pharmaceutical company."
+                        },
+                        "warning": "Compounded medications are not FDA-approved for safety, effectiveness, or quality. Eligibility and appropriateness are determined individually by a licensed provider.",
+                        "disambiguatingDescription": "Ongo Weight Loss is not affiliated with, sponsored by, or endorsed by Novo Nordisk.",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Semaglutide",
+                            "https://www.wikidata.org/wiki/Q7449216",
+                            "https://go.drugbank.com/drugs/DB13928",
+                            "https://pubchem.ncbi.nlm.nih.gov/compound/56843331"
+                        ],
+                        "description": "Doctor-prescribed compounded semaglutide GLP-1 treatment for medical weight management. Prepared by licensed U.S. compounding pharmacies with virtual physician care and home delivery.",
+                        "image": "https://ongoweightloss.com/images/brand/Homepage-featured-image.webp",
+                        "offers": {
+                            "@type": "AggregateOffer",
+                            "url": "https://ongoweightloss.com/pricing/",
+                            "priceCurrency": "USD",
+                            "lowPrice": "179.00",
+                            "highPrice": "249.00",
+                            "offerCount": "3",
+                            "priceValidUntil": "2026-12-31",
+                            "availability": "https://schema.org/InStock",
+                            "seller": {
+                                "@id": "https://ongoweightloss.com/#organization"
+                            },
+                            "shippingDetails": {
+                                "@id": "https://ongoweightloss.com/#shipping-details"
+                            }
+                        },
+                        "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": "4.9",
+                            "reviewCount": "620",
+                            "bestRating": "5",
+                            "worstRating": "1"
+                        },
+                        "review": [
+                            {
+                                "@type": "Review",
+                                "author": {
+                                    "@type": "Person",
+                                    "name": "Verified Patient"
+                                },
+                                "datePublished": "2026-08-10",
+                                "reviewRating": {
+                                    "@type": "Rating",
+                                    "ratingValue": "5",
+                                    "bestRating": "5"
+                                },
+                                "reviewBody": "Physician-supervised compounded semaglutide program with prompt delivery and ongoing medical check-ins."
+                            }
+                        ]
+                    },
+                    {
+                        "@type": [
+                            "Drug",
+                            "Product"
+                        ],
+                        "@id": "https://ongoweightloss.com/#drug-compounded-tirzepatide",
+                        "name": "Compounded Tirzepatide",
+                        "nonProprietaryName": "Tirzepatide",
+                        "url": "https://ongoweightloss.com/#medications",
+                        "activeIngredient": "Tirzepatide",
+                        "isProprietary": false,
+                        "prescriptionStatus": "PrescriptionOnly",
+                        "legalStatus": "Not FDA-approved. Prepared by a licensed U.S. compounding pharmacy per individual prescription.",
+                        "mechanismOfAction": "GIP/GLP-1 receptor agonist",
+                        "relevantSpecialty": "Bariatric",
+                        "manufacturer": {
+                            "@type": "Organization",
+                            "name": "Licensed U.S. compounding pharmacy",
+                            "description": "Compounded formulations are prepared per individual prescription and are not manufactured by Eli Lilly or any brand-name pharmaceutical company."
+                        },
+                        "warning": "Compounded medications are not FDA-approved for safety, effectiveness, or quality. Eligibility and appropriateness are determined individually by a licensed provider.",
+                        "disambiguatingDescription": "Ongo Weight Loss is not affiliated with, sponsored by, or endorsed by Eli Lilly and Company.",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Tirzepatide",
+                            "https://www.wikidata.org/wiki/Q55635889",
+                            "https://go.drugbank.com/drugs/DB15171",
+                            "https://pubchem.ncbi.nlm.nih.gov/compound/163346535"
+                        ],
+                        "description": "Doctor-prescribed compounded tirzepatide dual GIP/GLP-1 treatment for medical weight management. Prepared by licensed U.S. compounding pharmacies with virtual physician care and home delivery.",
+                        "image": "https://ongoweightloss.com/images/brand/Homepage-featured-image.webp",
+                        "offers": {
+                            "@type": "AggregateOffer",
+                            "url": "https://ongoweightloss.com/pricing/",
+                            "priceCurrency": "USD",
+                            "lowPrice": "249.00",
+                            "highPrice": "349.00",
+                            "offerCount": "3",
+                            "priceValidUntil": "2026-12-31",
+                            "availability": "https://schema.org/InStock",
+                            "seller": {
+                                "@id": "https://ongoweightloss.com/#organization"
+                            },
+                            "shippingDetails": {
+                                "@id": "https://ongoweightloss.com/#shipping-details"
+                            }
+                        },
+                        "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": "4.9",
+                            "reviewCount": "480",
+                            "bestRating": "5",
+                            "worstRating": "1"
+                        },
+                        "review": [
+                            {
+                                "@type": "Review",
+                                "author": {
+                                    "@type": "Person",
+                                    "name": "Verified Patient"
+                                },
+                                "datePublished": "2026-08-15",
+                                "reviewRating": {
+                                    "@type": "Rating",
+                                    "ratingValue": "5",
+                                    "bestRating": "5"
+                                },
+                                "reviewBody": "Compounded tirzepatide program prescribed by board-certified physicians with excellent care and clear dosing instructions."
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "FAQPage",
+                        "@id": "https://ongoweightloss.com/#faq",
+                        "mainEntity": [
+                            {
+                                "@type": "Question",
+                                "name": "How does Ongo Weight Loss work?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "Ongo Weight Loss provides virtual, doctor-supervised weight management. You start by completing a health assessment, then meet with a licensed provider who reviews your health history, medications, goals, and other relevant information. If treatment is medically appropriate, your provider may prescribe medication and provide ongoing monitoring and support."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "Who is eligible for GLP-1 weight-loss treatment?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "Eligibility depends on your individual health history, weight, medical conditions, current medications, and other factors. A licensed provider reviews your information to determine whether GLP-1 treatment may be appropriate for you. Completing an assessment does not guarantee a prescription."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "Do I need insurance to use Ongo Weight Loss?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "No. Ongo Weight Loss uses a self-pay model, so insurance is not required to get started. You can complete your assessment, connect with a licensed provider virtually, and understand your treatment options and costs before deciding whether to continue."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "What weight-loss medications are available through Ongo?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "Depending on your clinical evaluation and treatment needs, your physician will explain the available options and recommend the most appropriate medication and treatment plan."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "Are compounded semaglutide and compounded tirzepatide FDA-approved?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "No. Compounded semaglutide and compounded tirzepatide are not FDA-approved medications. When prescribed, they are prepared by a licensed U.S. compounding pharmacy according to an individual prescription. Your provider will determine whether a compounded medication is appropriate for you."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "Will I definitely receive a prescription after my consultation?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "No. A prescription is not guaranteed. Your licensed provider first reviews your health information and determines whether prescription weight-loss treatment is medically appropriate. If treatment isn't the right fit, your provider can discuss other options with you."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "Do I need lab work before starting treatment?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "Your provider will determine whether lab work is needed based on your health history and treatment considerations. Ongo Weight Loss can provide guidance about required laboratory testing and the information your provider needs to evaluate your treatment options."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "How is my medication shipped?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "When medication is prescribed and you choose a treatment plan that includes delivery, it can be shipped directly to your home through a licensed U.S. pharmacy. Most orders are delivered within 3 to 5 business days after shipment, with tracking provided. Temperature-sensitive medications are shipped using appropriate packaging and handling procedures."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "What happens after I start treatment?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "Your care continues after your prescription. You'll have ongoing follow-ups with your care team to monitor how you're responding to treatment, discuss any side effects or concerns, and adjust your treatment plan when medically appropriate."
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "MedicalCondition",
+                        "@id": "https://ongoweightloss.com/#condition-obesity",
+                        "name": "Obesity & Excess Weight Management",
+                        "code": {
+                            "@type": "MedicalCode",
+                            "code": "E66.9",
+                            "codingSystem": "ICD-10"
+                        },
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Obesity",
+                            "https://www.wikidata.org/wiki/Q12174",
+                            "https://meshb.nlm.nih.gov/record/ui?ui=D009765",
+                            "https://medlineplus.gov/obesity.html",
+                            "https://www.cdc.gov/obesity/index.html",
+                            "https://icd.who.int/browse10/2019/en#/E66.9"
+                        ],
+                        "possibleTreatment": [
+                            {
+                                "@id": "https://ongoweightloss.com/#weight-loss-program"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/#drug-compounded-semaglutide"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/#drug-compounded-tirzepatide"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "Service",
+                        "@id": "https://ongoweightloss.com/#telehealth-care-service",
+                        "name": "Doctor-Supervised Virtual GLP-1 Weight Loss Program",
+                        "serviceType": "Telehealth Weight Management Consultation",
+                        "provider": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "areaServed": {
+                            "@type": "Country",
+                            "name": "United States"
+                        },
+                        "hasOfferCatalog": {
+                            "@type": "OfferCatalog",
+                            "name": "Ongo Weight Loss Treatment Plans",
+                            "itemListElement": [
+                                {
+                                    "@type": "Offer",
+                                    "name": "Ongoing Monthly Treatment Plan",
+                                    "url": "https://ongoweightloss.com/pricing/",
+                                    "price": "75.00",
+                                    "priceCurrency": "USD",
+                                    "availability": "https://schema.org/InStock",
+                                    "priceValidUntil": "2026-12-31"
+                                }
+                            ]
+                        },
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Telehealth",
+                            "https://www.wikidata.org/wiki/Q7696409",
+                            "https://meshb.nlm.nih.gov/record/ui?ui=D017216"
+                        ]
+                    },
+                    {
+                        "@type": "BreadcrumbList",
+                        "@id": "https://ongoweightloss.com/#breadcrumb",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": "https://ongoweightloss.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "OfferShippingDetails",
+                        "@id": "https://ongoweightloss.com/#shipping-details",
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        },
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 0,
+                                "maxValue": 1,
+                                "unitCode": "d"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 3,
+                                "maxValue": 5,
+                                "unitCode": "d"
+                            }
+                        },
+                        "shippingSettingsLink": "https://ongoweightloss.com/policies/shipping-policy/",
+                        "shippingLabel": "Free Discreet Temperature-Sensitive Nationwide Shipping (3-5 Days)",
+                        "description": "Prescription weight loss medication will be shipped to you in discreet 3-5 days. Delivery is free nationwide across all 50 states. Temperature-sensitive, discreet medical packaging is used to ensure medication safety and quality with end-to-end tracking provided."
+                    },
+                    {
+                        "@type": "DeliveryService",
+                        "@id": "https://ongoweightloss.com/#delivery-service",
+                        "name": "Ongo Prescription Medication Delivery Service",
+                        "serviceType": "Temperature-Sensitive Prescription Medication Delivery",
+                        "provider": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "areaServed": {
+                            "@type": "Country",
+                            "name": "United States"
+                        },
+                        "description": "Doctor-prescribed weight loss medication will be shipped to you in discreet 3-5 days with free delivery. Medications requiring temperature-sensitive handling are shipped using temperature-sensitive, discreet medical packaging and proper cold-chain procedures through licensed U.S. compounding pharmacies.",
+                        "termsOfService": "https://ongoweightloss.com/policies/shipping-policy/",
+                        "hasOfferCatalog": {
+                            "@type": "OfferCatalog",
+                            "name": "Medication Delivery Options",
+                            "itemListElement": [
+                                {
+                                    "@type": "Offer",
+                                    "name": "Free 3-5 Day Discreet Temperature-Controlled Delivery",
+                                    "price": "0.00",
+                                    "priceCurrency": "USD",
+                                    "availability": "https://schema.org/InStock",
+                                    "shippingDetails": {
+                                        "@id": "https://ongoweightloss.com/#shipping-details"
+                                    },
+                                    "description": "Delivery is free. Will be shipped to you in discreet 3-5 days in temperature-sensitive, discreet medical packaging."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ItemList",
+                        "@id": "https://ongoweightloss.com/#site-navigation",
+                        "name": "Ongo Weight Loss Main Site Navigation",
+                        "description": "Primary header and drawer site navigation elements for Ongo Weight Loss",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-home"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "About Ongo",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-about-ongo"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 3,
+                                "name": "Medical Team",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-medical-team"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 4,
+                                "name": "How It Works",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-how-it-works"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 5,
+                                "name": "Locations",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-locations"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 6,
+                                "name": "Weight Loss",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-weight-loss"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 7,
+                                "name": "Compounded Semaglutide",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-compounded-semaglutide"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 8,
+                                "name": "Compounded Tirzepatide",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-compounded-tirzepatide"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 9,
+                                "name": "Pricing",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-pricing"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 10,
+                                "name": "Contact Us",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-contact-us"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 11,
+                                "name": "Log In",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-log-in"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 12,
+                                "name": "See If I'm Eligible",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-see-if-i-m-eligible"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 13,
+                                "name": "FAQ",
+                                "item": {
+                                    "@id": "https://ongoweightloss.com/#nav-faq"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-home",
+                        "name": "Home",
+                        "url": "https://ongoweightloss.com/",
+                        "description": "Ongo Weight Loss homepage"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-about-ongo",
+                        "name": "About Ongo",
+                        "url": "https://ongoweightloss.com/about/",
+                        "description": "About Ongo Weight Loss medical program and mission"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-medical-team",
+                        "name": "Medical Team",
+                        "url": "https://ongoweightloss.com/medical-team/",
+                        "description": "Board-certified doctors and clinical specialists"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-how-it-works",
+                        "name": "How It Works",
+                        "url": "https://ongoweightloss.com/how-it-works/",
+                        "description": "Three-step telehealth weight loss process"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-locations",
+                        "name": "Locations",
+                        "url": "https://ongoweightloss.com/locations/",
+                        "description": "Telehealth coverage in all 50 U.S. states"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-weight-loss",
+                        "name": "Weight Loss",
+                        "url": "https://ongoweightloss.com/weightloss-onboard/",
+                        "description": "Online medical weight loss intake assessment"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-compounded-semaglutide",
+                        "name": "Compounded Semaglutide",
+                        "url": "https://ongoweightloss.com/services/glp-1/compounded-semaglutide/",
+                        "description": "Doctor-prescribed compounded semaglutide GLP-1 therapy"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-compounded-tirzepatide",
+                        "name": "Compounded Tirzepatide",
+                        "url": "https://ongoweightloss.com/services/glp-1/compounded-tirzepatide/",
+                        "description": "Doctor-prescribed compounded tirzepatide dual GIP/GLP-1 therapy"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-pricing",
+                        "name": "Pricing",
+                        "url": "https://ongoweightloss.com/pricing/",
+                        "description": "Transparent cash-pay pricing for GLP-1 treatment plans"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-contact-us",
+                        "name": "Contact Us",
+                        "url": "https://ongoweightloss.com/contact/",
+                        "description": "Patient support and clinical care team contact"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-log-in",
+                        "name": "Log In",
+                        "url": "https://ongoweightloss.com/login/",
+                        "description": "Patient portal secure login"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-see-if-i-m-eligible",
+                        "name": "See If I'm Eligible",
+                        "url": "https://ongoweightloss.com/weightloss-onboard/",
+                        "description": "Take free 5-15 minute clinical weight loss assessment"
+                    },
+                    {
+                        "@type": "SiteNavigationElement",
+                        "@id": "https://ongoweightloss.com/#nav-faq",
+                        "name": "FAQ",
+                        "url": "https://ongoweightloss.com/faq/",
+                        "description": "Frequently asked questions about GLP-1 weight loss care"
+                    },
+                    {
+                        "@type": "MedicalProcedure",
+                        "@id": "https://ongoweightloss.com/#procedure-virtual-clinical-intake-and-lab-evaluation",
+                        "name": "Virtual Clinical Intake & Lab Evaluation",
+                        "procedureType": "https://schema.org/NoninvasiveProcedure",
+                        "relevantSpecialty": {
+                            "@type": "MedicalSpecialty",
+                            "name": "Bariatric"
+                        },
+                        "bodyLocation": "Metabolic and Endocrine System",
+                        "url": "https://ongoweightloss.com/how-it-works/",
+                        "description": "Doctor-supervised virtual clinical intake and laboratory diagnostic evaluation for medical weight loss. Patients complete a 5-to-15 minute digital medical history assessment, receive guidance on required diagnostic blood work, and consult virtually with a licensed, board-certified physician to evaluate metabolic health indicators and determine clinical suitability for GLP-1 medications.",
+                        "howPerformed": "100% virtual HIPAA-compliant telehealth intake assessment, comprehensive diagnostic lab testing review, and telemedicine physician consultation via video or phone.",
+                        "preparation": "Answer questions regarding personal health history, weight management goals, active medications, and preexisting conditions in the online health questionnaire (takes 5-15 minutes). Complete diagnostic lab work if required by the reviewing physician.",
+                        "followup": "If clinically appropriate, customized GLP-1 prescription fulfillment with free 3-5 day temperature-sensitive delivery, followed by biweekly physician Q&A, dosage monitoring, and ongoing care team check-ins.",
+                        "provider": {
+                            "@id": "https://ongoweightloss.com/#organization"
+                        },
+                        "performer": [
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-david-okonkwo/#profile"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-zachary-kramer/#profile"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-gaurav-patel/#profile"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-jonathan-miller/#profile"
+                            },
+                            {
+                                "@id": "https://ongoweightloss.com/medical-team/dr-benjamin-krasne/#profile"
+                            }
+                        ],
+                        "code": {
+                            "@type": "MedicalCode",
+                            "code": "99441",
+                            "codingSystem": "CPT",
+                            "name": "Telehealth Medical Evaluation and Management"
+                        },
+                        "subTechnique": [
+                            {
+                                "@type": "MedicalProcedure",
+                                "@id": "https://ongoweightloss.com/#procedure-virtual-clinical-intake",
+                                "name": "Virtual Clinical Intake & Health Assessment",
+                                "description": "Comprehensive 5-to-15 minute digital clinical intake questionnaire capturing medical history, current medications, lifestyle, and weight loss objectives for physician review.",
+                                "procedureType": "https://schema.org/NoninvasiveProcedure",
+                                "relevantSpecialty": {
+                                    "@type": "MedicalSpecialty",
+                                    "name": "Bariatric"
+                                },
+                                "url": "https://ongoweightloss.com/weightloss-onboard/"
+                            },
+                            {
+                                "@type": "DiagnosticProcedure",
+                                "@id": "https://ongoweightloss.com/#procedure-lab-evaluation",
+                                "name": "Clinical Diagnostic Lab Evaluation",
+                                "description": "Diagnostic laboratory biomarker and blood panel evaluation reviewed by board-certified physicians to assess metabolic health, kidney/liver function, and safety before starting GLP-1 medications.",
+                                "procedureType": "https://schema.org/Diagnostic",
+                                "relevantSpecialty": {
+                                    "@type": "MedicalSpecialty",
+                                    "name": "Bariatric"
+                                },
+                                "url": "https://ongoweightloss.com/how-it-works/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "microdata_count": 0,
+        "rdfa_count": 10
+    },
+    "hidden": {
+        "displayNoneCount": 0,
+        "visibilityHiddenCount": 0,
+        "hiddenAttributeCount": 1,
+        "ariaHiddenCount": 154,
+        "noscriptCount": 1,
+        "hiddenInputsCount": 0,
+        "visuallyHiddenClassCount": 0,
+        "htmlCommentsCount": 65
+    },
+    "javascript": {
+        "inlineScriptBlocksCount": 25,
+        "externalScriptReferences": [
+            "https://www.clarity.ms/tag/yjqnxq44tv?ref=gtm",
+            "https://www.googletagmanager.com/gtag/js?id=G-LD0229PT2F&cx=c&gtm=4e6a51",
+            "https://www.googletagmanager.com/gtag/js?id=AW-18036069252&cx=c&gtm=4e6a51",
+            "https://scripts.clarity.ms/0.8.70/clarity.js",
+            "https://www.googletagmanager.com/gtm.js?id=GTM-5WNR3TNM",
+            "https://www.clarity.ms/tag/qx7vfolgra",
+            "/_next/static/chunks/fd9d1056-f2f68fbe8581724f.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7023-e0fd6042c010bcd0.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/main-app-cf104a689514aac6.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7138-92c5838945220dfb.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/6648-8a28617cfe6ed40f.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8313-1ff87b4a764d005c.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/2319-bc3ac7d6c87491f0.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/1088-ad29cfcfde892fb3.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/928-9f9612c5625cd2d1.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8486-152f2ef1aa47b4a8.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/3487-a660b826cfca6332.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/6899-f18b2971df82ab64.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/7c5b6e1c-24c5b5872e114124.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/5236-3bc678cde333c753.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8903-dbb4559a2cf4ca04.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/8344-2af98d87ada5a166.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18036069252/?random=1791374774587&cv=11&fst=1791374774587&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a51v9248730959za20ozb9202811401zd9202811401xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280971~121427143&u_w=1280&u_h=720&url=https%3A%2F%2Fongoweightloss.com%2F&rcb=1&frm=0&tiba=Ongo%20Weight%20Loss%20%7C%20Doctor-Led%20Medical%20Weight%20Loss%20Care&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=560843138.1791374774&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+            "/_next/static/chunks/webpack-d30bee25d6b854f5.js?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2"
+        ],
+        "hasNextJsDataObj": false,
+        "nextJsStaticAssetsCount": 18
+    },
+    "css": {
+        "externalStylesheetReferences": [
+            "/_next/static/css/ce158ecdc890773e.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/bc329fb97f746b00.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/8357b43a557e6e09.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/c3c73e59b62c2943.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/929619e13ed1b9de.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/52dd86e986879ed6.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/b45ffe59b4e470d4.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+            "/_next/static/css/36d6bc75a02e8966.css?dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2"
+        ],
+        "inlineStyleBlocksCount": 1,
+        "elementsWithStyleAttributeCount": 206,
+        "preloadCssLinksCount": 0,
+        "nextJsCssReferencesCount": 8
+    },
+    "media": {
+        "images": [
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Ftrust-avatar-1.jpg&w=96&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Individual"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Ftrust-avatar-2.jpg&w=96&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Individual"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Ftrust-avatar-3.jpg&w=96&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Individual"
+            },
+            {
+                "src": "/images/homepage/hero-callouts/Dosage%20%26%20treament%20monitoring%201.svg",
+                "alt": ""
+            },
+            {
+                "src": "/images/homepage/hero-callouts/low%20dose%20option%201.svg",
+                "alt": ""
+            },
+            {
+                "src": "/images/homepage/hero-callouts/active%20community%20hubs%202.svg",
+                "alt": ""
+            },
+            {
+                "src": "/images/homepage/hero-callouts/hassle%20free%20process%202.svg",
+                "alt": ""
+            },
+            {
+                "src": "/images/homepage/hero-callouts/expert%20workout%20guidance%201.svg",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FBoard-Certified%2520Doctors_1.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FConvenient%2520Consultation.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FArtboard%25206.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FCare%2520Delivered%2520in%2520All%252050%2520States.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FHIPAA-Compliant%2520Care.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fstrip-icons%2FNo%2520Insurance%2520Required.webp&w=64&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fpatient-first-finance-later.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fbiweekly-qa-with-doctors.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Flab-support-made-simple.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fsecure-digital-care.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fvirtual-hipaa-compliant-care.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fdiscreet-medication-delivered-to-your-door.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fconvenient-care-without-waiting-rooms.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Four-goal%2Fmedication-and-treatment-transparency.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fhow-it-works%2Fcomplete-your-health-assessment.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fthree-steps%2Fcomplete-your-health-assessment.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Person completing a health assessment on a tablet at home"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fhow-it-works%2Ftalk-to-a-licensed-provider.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fthree-steps%2Fmeet-with-a-licensed-provider.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Licensed provider meeting with a patient"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fhow-it-works%2Fstart-treatment-with-ongoing-care.webp&w=640&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Fthree-steps%2Fstart-your-plan.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Patient starting a treatment plan with a licensed provider"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-a-before.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Sarah Chen before starting Ongo Weight Loss"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-a-after.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Sarah Chen after progress with Ongo Weight Loss"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-b-before.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Sarah Mitchell before starting Ongo Weight Loss"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-b-after.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Sarah Mitchell after progress with Ongo Weight Loss"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-c-before.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Mitchell Johnston before starting Ongo Weight Loss"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-c-after.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Mitchell Johnston after progress with Ongo Weight Loss"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-a-before.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-a-after.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-b-before.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-b-after.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-c-before.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Freviews-section%2Fcard-c-after.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Fdoctors%2Fdoctor-david.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Dr. David Okonkwo, MD, MBA"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Fdoctors%2Fdoctor-zachary.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Dr. Zachary B. Kramer, MD"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Fdoctors%2Fdoctor-gourav-patel.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Dr. Gaurav K. Patel, MD"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Fdoctors%2Fdr-johnathan-miller-md.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Dr. Johnathan Chance Miller, MD"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Fdoctors%2Fdr-benjamin-krasne.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Dr. Benjamin H. Krasne, MD"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Finjection-images%2Fsemaglutide.webp&w=750&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Compounded semaglutide vial for weight management"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fbrand%2Finjection-images%2Ftizerapatide.webp&w=750&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Compounded tirzepatide vial for weight management"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Felegibility-right-banner.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Illustration of eligibility checks, identity verification, and secure care"
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2Fhomepage%2Finsurance-right-banner.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "Patient on a virtual visit with a licensed Ongo provider"
+            },
+            {
+                "src": "/images/brand/scroll-fab-arrow.png",
+                "alt": ""
+            },
+            {
+                "src": "/_next/image/?url=%2Fimages%2FFooter%2Flegitscript-badge.webp&w=3840&q=75&dpl=dpl_DpvpiHd1M7jyYbteTmPX8yz1LLZ2",
+                "alt": "LegitScript certified"
+            }
+        ],
+        "favicon": "/icon.svg?1aa4ad6f01b78e3b",
+        "videoAudioCount": 0,
+        "preloadAssetsCount": 11
+    },
+    "links": {
+        "internalCount": 61,
+        "externalCount": 3,
+        "nofollowCount": 0,
+        "sponsoredCount": 0,
+        "ugcCount": 0
+    }
+}

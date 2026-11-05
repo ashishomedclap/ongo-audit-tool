@@ -99,19 +99,36 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
         tip="Click the Copy icon next to any Recommended Title or Description to paste it directly into Ongo's Next.js metadata configs."
       />
 
-      {/* Top Header Bento Box */}
-      <div className="bento-card" style={{ padding: '24px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px', marginBottom: '18px' }}>
+      {/* Sleek Minimalist Tool Header */}
+      <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '14px', marginBottom: '14px' }}>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
-              <span className="badge-minimal badge-minimal-neutral">Ongo SERP Engine</span>
-              <span className="badge-minimal badge-minimal-success">11 Live Pages</span>
+              <span style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px',
+                padding: '2px 8px',
+                borderRadius: '6px',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.04em',
+                background: 'rgba(52, 126, 93, 0.25)',
+                color: '#74c69d',
+                border: '1px solid rgba(116, 198, 157, 0.3)'
+              }}>
+                <Tag size={11} /> Meta &amp; SERP
+              </span>
+              <span className="badge-minimal-forest" style={{ fontSize: '0.7rem' }}>
+                11 Benchmark Pages
+              </span>
             </div>
-            <h1 style={{ fontSize: '1.35rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-              Meta Tag Auditor & SERP Simulator
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', margin: 0, letterSpacing: '-0.01em' }}>
+              Meta Tags &amp; Google SERP Simulator
             </h1>
-            <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-              Side-by-side title and description optimization scorecard for Ongo Weight Loss and live competitor URLs
+            <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
+              Side-by-side title and description CTR scorecard · Live HTML inspector · E-E-A-T badges
             </p>
           </div>
 
@@ -119,20 +136,20 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
           <div style={{ 
             display: 'flex', 
             gap: '4px', 
-            background: 'var(--bg-canvas)', 
-            padding: '4px', 
+            background: 'rgba(255, 255, 255, 0.08)', 
+            padding: '3px', 
             borderRadius: '9999px', 
-            border: '1px solid var(--border-medium)' 
+            border: '1px solid rgba(255, 255, 255, 0.15)' 
           }}>
             <button
               onClick={() => setActiveMode('benchmark')}
               style={{
-                padding: '6px 14px',
-                fontSize: '0.78rem',
+                padding: '5px 12px',
+                fontSize: '0.75rem',
                 borderRadius: '9999px',
                 border: 'none',
-                background: activeMode === 'benchmark' ? '#1b4332' : 'transparent',
-                color: activeMode === 'benchmark' ? '#ffffff' : 'var(--text-secondary)',
+                background: activeMode === 'benchmark' ? '#347e5d' : 'transparent',
+                color: '#ffffff',
                 cursor: 'pointer',
                 fontWeight: 700,
                 transition: 'all 0.15s ease'
@@ -143,12 +160,12 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
             <button
               onClick={() => setActiveMode('live')}
               style={{
-                padding: '6px 14px',
-                fontSize: '0.78rem',
+                padding: '5px 12px',
+                fontSize: '0.75rem',
                 borderRadius: '9999px',
                 border: 'none',
-                background: activeMode === 'live' ? '#1b4332' : 'transparent',
-                color: activeMode === 'live' ? '#ffffff' : 'var(--text-secondary)',
+                background: activeMode === 'live' ? '#347e5d' : 'transparent',
+                color: '#ffffff',
                 cursor: 'pointer',
                 fontWeight: 700,
                 transition: 'all 0.15s ease'
@@ -168,17 +185,34 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
           style={{ display: 'flex', gap: '8px' }}
         >
           <div style={{ position: 'relative', flex: 1 }}>
-            <Globe size={15} color="var(--color-primary)" style={{ position: 'absolute', left: '14px', top: '50%', transform: 'translateY(-50%)' }} />
+            <Globe size={14} color="#74c69d" style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)' }} />
             <input
               type="text"
               placeholder="Enter any page URL to audit (e.g. https://ongoweightloss.com/pricing/ or competitor)..."
               value={auditUrl}
               onChange={(e) => setAuditUrl(e.target.value)}
-              className="input-minimal"
-              style={{ paddingLeft: '38px', borderRadius: '9999px' }}
+              style={{
+                width: '100%',
+                padding: '8px 12px 8px 34px',
+                fontSize: '0.82rem',
+                borderRadius: '8px',
+                border: '1px solid rgba(255, 255, 255, 0.18)',
+                backgroundColor: 'rgba(15, 23, 42, 0.6)',
+                color: '#ffffff',
+                outline: 'none'
+              }}
             />
           </div>
-          <button type="submit" className="btn-minimal-primary" disabled={auditing} style={{ minWidth: '140px' }}>
+          <button
+            type="submit"
+            disabled={auditing}
+            className="btn-minimal-emerald"
+            style={{
+              padding: '8px 16px',
+              fontSize: '0.78rem',
+              whiteSpace: 'nowrap'
+            }}
+          >
             {auditing ? 'Auditing...' : 'Audit Live HTML'}
           </button>
         </form>

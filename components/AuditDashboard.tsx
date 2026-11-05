@@ -17,6 +17,11 @@ import InternalLinksTab from './InternalLinksTab';
 import CompetitorGapTab from './CompetitorGapTab';
 import ToolsSitemapTab from './ToolsSitemapTab';
 import BooksLibraryTab from './BooksLibraryTab';
+import CleanScraperTab from './CleanScraperTab';
+import ImageAuditTab from './ImageAuditTab';
+import LinkFlowchartTab from './LinkFlowchartTab';
+import DoctorEeatTab from './DoctorEeatTab';
+import StateLicensingTab from './StateLicensingTab';
 import CompetitorModal from './CompetitorModal';
 import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
 import { BooksIndexData } from '@/lib/books-data';
@@ -25,15 +30,20 @@ export const TAB_TO_URL: Record<TabType, string> = {
   'overview': '/',
   'books': '/books',
   'ongo-pages': '/ongo-pages',
+  'clean-scraper': '/clean-scraper',
+  'image-audit': '/image-audit',
   'competitors': '/competitors',
   'sitemaps': '/sitemaps',
   'competitor-gap': '/competitor-gap',
   'keywords-harvester': '/keywords-harvester',
   'keywords': '/keywords',
   'patterns': '/patterns',
+  'link-flowchart': '/link-flowchart',
   'internal-links': '/internal-links',
   'architecture': '/architecture',
   'compliance': '/compliance',
+  'doctor-eeat': '/doctor-eeat',
+  'state-licensing': '/state-licensing',
   'meta': '/meta',
   'reports': '/reports',
   'suite-sitemap': '/sitemap'
@@ -43,15 +53,20 @@ export const URL_TO_TAB: Record<string, TabType> = {
   '/': 'overview',
   '/books': 'books',
   '/ongo-pages': 'ongo-pages',
+  '/clean-scraper': 'clean-scraper',
+  '/image-audit': 'image-audit',
   '/competitors': 'competitors',
   '/sitemaps': 'sitemaps',
   '/competitor-gap': 'competitor-gap',
   '/keywords-harvester': 'keywords-harvester',
   '/keywords': 'keywords',
   '/patterns': 'patterns',
+  '/link-flowchart': 'link-flowchart',
   '/internal-links': 'internal-links',
   '/architecture': 'architecture',
   '/compliance': 'compliance',
+  '/doctor-eeat': 'doctor-eeat',
+  '/state-licensing': 'state-licensing',
   '/meta': 'meta',
   '/reports': 'reports',
   '/sitemap': 'suite-sitemap'
@@ -188,8 +203,20 @@ export default function AuditDashboard({
           <OngoPagesTab initialData={ongoLivePages} />
         )}
 
+        {activeTab === 'clean-scraper' && (
+          <CleanScraperTab />
+        )}
+
+        {activeTab === 'image-audit' && (
+          <ImageAuditTab />
+        )}
+
         {activeTab === 'keywords-harvester' && (
           <KeywordsHarvesterTab />
+        )}
+
+        {activeTab === 'link-flowchart' && (
+          <LinkFlowchartTab />
         )}
 
         {activeTab === 'internal-links' && (
@@ -231,6 +258,20 @@ export default function AuditDashboard({
 
         {activeTab === 'compliance' && (
           <ComplianceTab
+            complianceData={complianceData || []}
+            onInspectCompetitor={(folder) => setInspectFolder(folder)}
+          />
+        )}
+
+        {activeTab === 'doctor-eeat' && (
+          <DoctorEeatTab
+            complianceData={complianceData || []}
+            onInspectCompetitor={(folder) => setInspectFolder(folder)}
+          />
+        )}
+
+        {activeTab === 'state-licensing' && (
+          <StateLicensingTab
             complianceData={complianceData || []}
             onInspectCompetitor={(folder) => setInspectFolder(folder)}
           />
