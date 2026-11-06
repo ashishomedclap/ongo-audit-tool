@@ -78,97 +78,113 @@ export default function ContextCue({
   } : null;
 
   return (
-    <div style={{
-      background: '#ffffff',
-      border: '1px solid var(--border-medium)',
+    <div className="glassneumorphic" style={{
+      border: '1px solid var(--border-glass)',
       borderRadius: 'var(--radius-lg)',
-      boxShadow: '0 4px 18px rgba(27, 67, 50, 0.05)',
+      boxShadow: 'var(--shadow-glass-md)',
       overflow: 'hidden',
-      transition: 'all 0.2s ease'
+      transition: 'all 0.25s ease'
     }}>
       {/* Top Banner Header */}
       <div style={{
         padding: '14px 20px',
-        background: 'linear-gradient(to right, #fcfaf6, #ffffff)',
-        borderBottom: collapsed ? 'none' : '1px solid var(--border-subtle)',
+        background: 'linear-gradient(to right, rgba(255, 255, 255, 0.4), transparent)',
+        borderBottom: collapsed ? 'none' : '1px solid var(--border-glass)',
         display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'space-between',
-        gap: '14px'
+        flexDirection: 'column',
+        gap: '8px'
       }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
-          {levelMeta && (
-            <span style={{
-              fontSize: '0.68rem',
+        <div style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          gap: '14px',
+          flexWrap: 'wrap'
+        }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+            {levelMeta && (
+              <span className="royal-badge royal-badge-emerald" style={{ fontSize: '0.67rem' }}>
+                {levelMeta.label}
+              </span>
+            )}
+
+            {toolNumber && (
+              <span style={{
+                fontSize: '0.67rem',
+                fontWeight: 700,
+                padding: '2px 8px',
+                borderRadius: '9999px',
+                background: 'rgba(27, 67, 50, 0.08)',
+                color: 'var(--color-primary-dark)',
+                border: '1px solid rgba(27, 67, 50, 0.15)'
+              }}>
+                Tool #{toolNumber} of 21
+              </span>
+            )}
+
+            <span className="royal-badge royal-badge-coral" style={{ fontSize: '0.67rem' }}>
+              {badge}
+            </span>
+
+            <h2 style={{
+              fontSize: '0.98rem',
               fontWeight: 800,
-              padding: '2px 8px',
-              borderRadius: '9999px',
-              background: levelMeta.bg,
-              color: levelMeta.color,
-              border: `1px solid ${levelMeta.border}`,
-              letterSpacing: '0.02em',
-              textTransform: 'uppercase'
-            }}>
-              {levelMeta.label}
-            </span>
-          )}
-
-          {toolNumber && (
-            <span style={{
-              fontSize: '0.68rem',
-              fontWeight: 700,
-              padding: '2px 8px',
-              borderRadius: '9999px',
-              background: 'rgba(27, 67, 50, 0.08)',
               color: 'var(--color-primary-dark)',
-              border: '1px solid rgba(27, 67, 50, 0.15)'
+              margin: 0,
+              letterSpacing: '-0.01em'
             }}>
-              Tool #{toolNumber} of 14
-            </span>
-          )}
+              {title}
+            </h2>
+          </div>
 
-          <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.68rem', padding: '2px 8px', letterSpacing: '0.02em' }}>
-            {badge}
-          </span>
-
-          <h2 style={{
-            fontSize: '0.95rem',
-            fontWeight: 800,
-            color: 'var(--color-primary-dark)',
-            margin: 0,
-            letterSpacing: '-0.01em'
-          }}>
-            {title}
-          </h2>
+          <button
+            onClick={() => setCollapsed(!collapsed)}
+            style={{
+              background: 'var(--bg-glass-elevated)',
+              border: '1px solid var(--border-glass)',
+              color: 'var(--color-primary-dark)',
+              cursor: 'pointer',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '5px',
+              fontSize: '0.72rem',
+              fontWeight: 600,
+              padding: '5px 12px',
+              borderRadius: '9999px',
+              boxShadow: 'var(--shadow-glass-sm)',
+              flexShrink: 0,
+              transition: 'all 0.15s ease'
+            }}
+            title={collapsed ? "Expand tool instructions" : "Collapse tool instructions"}
+          >
+            <span>{collapsed ? 'Show Tool Dossier' : 'Hide Tool Dossier'}</span>
+            {collapsed ? <ChevronDown size={13} /> : <ChevronUp size={13} />}
+          </button>
         </div>
 
-        <button
-          onClick={() => setCollapsed(!collapsed)}
-          style={{
-            background: 'var(--bg-canvas)',
-            border: '1px solid var(--border-subtle)',
-            color: 'var(--color-primary-dark)',
-            cursor: 'pointer',
+        {/* Quick Executive Skim & Scan Bar - Always visible for instant comprehension */}
+        {useCase && (
+          <div style={{
             display: 'flex',
             alignItems: 'center',
-            gap: '5px',
-            fontSize: '0.72rem',
-            fontWeight: 600,
-            padding: '5px 12px',
-            borderRadius: '9999px',
-            flexShrink: 0,
-            transition: 'all 0.15s ease'
-          }}
-          title={collapsed ? "Expand tool instructions" : "Collapse tool instructions"}
-        >
-          <span>{collapsed ? 'Show Tool Guide' : 'Hide Tool Guide'}</span>
-          {collapsed ? <ChevronDown size={13} /> : <ChevronUp size={13} />}
-        </button>
+            gap: '8px',
+            padding: '4px 0',
+            fontSize: '0.78rem',
+            lineHeight: 1.4
+          }}>
+            <span className="royal-badge royal-badge-gold" style={{ flexShrink: 0, padding: '2px 7px' }}>
+              <Sparkles size={11} style={{ marginRight: '3px' }} /> Executive Skim
+            </span>
+            <span style={{ fontWeight: 600, color: 'var(--text-secondary)' }}>
+              {useCase}
+            </span>
+          </div>
+        )}
       </div>
 
       {/* Guide Content: Use Case Banner, What this page is about & What you can do */}
       {!collapsed && (
-        <div style={{ padding: '18px 20px' }}>
+        <div style={{ padding: '18px 20px', background: 'rgba(0, 0, 0, 0.015)' }}>
           {/* Primary Use Case Banner */}
           {useCase && (
             <div style={{
@@ -201,9 +217,7 @@ export default function ContextCue({
             alignItems: 'stretch'
           }}>
             {/* Box 1: What this page is about */}
-            <div style={{
-              background: 'var(--bg-canvas)',
-              border: '1px solid var(--border-subtle)',
+            <div className="glassneumorphic-well" style={{
               borderRadius: 'var(--radius-md)',
               padding: '16px 18px',
               display: 'flex',
@@ -256,9 +270,7 @@ export default function ContextCue({
             </div>
 
             {/* Box 2: What you can do from this page */}
-            <div style={{
-              background: 'var(--bg-canvas)',
-              border: '1px solid var(--border-subtle)',
+            <div className="glassneumorphic-well" style={{
               borderRadius: 'var(--radius-md)',
               padding: '16px 18px',
               display: 'flex',

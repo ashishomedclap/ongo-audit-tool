@@ -233,11 +233,11 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
         position: 'sticky',
         top: 0,
         zIndex: 50,
-        backdropFilter: 'blur(16px)',
-        WebkitBackdropFilter: 'blur(16px)',
-        backgroundColor: 'rgba(27, 67, 50, 0.98)', /* Ongo Deep Forest Racing Green */
+        backdropFilter: 'blur(24px) saturate(180%)',
+        WebkitBackdropFilter: 'blur(24px) saturate(180%)',
+        backgroundColor: 'rgba(15, 44, 36, 0.94)', /* Deep Imperial Racing Green */
         borderBottom: '1px solid rgba(116, 198, 157, 0.22)',
-        boxShadow: '0 4px 20px -2px rgba(15, 44, 36, 0.35)'
+        boxShadow: '0 4px 24px -2px rgba(10, 28, 22, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.16)'
       }}>
         <div style={{
           maxWidth: '1560px',
@@ -280,13 +280,14 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 display: 'flex',
                 alignItems: 'center',
                 gap: '3px',
-                background: 'rgba(15, 44, 36, 0.78)',
-                border: '1px solid rgba(255, 255, 255, 0.16)',
+                background: 'rgba(10, 28, 22, 0.82)',
+                border: '1px solid rgba(255, 255, 255, 0.14)',
                 borderRadius: '9999px',
                 padding: '3px 4px',
                 whiteSpace: 'nowrap',
                 position: 'relative',
-                flexShrink: 0
+                flexShrink: 0,
+                boxShadow: 'inset 0 1px 3px rgba(0, 0, 0, 0.45), 0 1px 0 rgba(255, 255, 255, 0.12)'
               }}
             >
               {/* Level 1, Level 2, Level 3 Categorized Menus */}
@@ -587,16 +588,18 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 border: '1px solid #34d399',
                 borderRadius: '8px',
                 cursor: 'pointer',
-                boxShadow: '0 2px 8px rgba(16, 185, 129, 0.3)',
+                boxShadow: '0 2px 10px rgba(16, 185, 129, 0.35), inset 0 1px 1px rgba(255, 255, 255, 0.4)',
                 transition: 'all 0.15s ease',
                 whiteSpace: 'nowrap'
               }}
               title="Crawl entire live website (sitemap.xml) and refresh tools database"
             >
+              <span className="glowing-dot glowing-dot-emerald glowing-dot-pulse" style={{ width: '5px', height: '5px' }} />
               <RefreshCw size={11} />
               <span className="nav-text-desktop">Scan</span>
               <span style={{
-                background: 'rgba(0, 0, 0, 0.22)',
+                background: 'rgba(0, 0, 0, 0.26)',
+                boxShadow: 'inset 0 1px 2px rgba(0, 0, 0, 0.3)',
                 padding: '1px 5px',
                 borderRadius: '4px',
                 fontSize: '10px',
@@ -621,6 +624,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 border: '1px solid rgba(255, 255, 255, 0.18)',
                 borderRadius: '8px',
                 cursor: 'pointer',
+                boxShadow: '0 2px 8px rgba(0, 0, 0, 0.25), inset 0 1px 1px rgba(255, 255, 255, 0.12)',
                 transition: 'all 0.15s ease',
                 whiteSpace: 'nowrap'
               }}

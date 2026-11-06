@@ -65,7 +65,7 @@ export function CircularGaugeMeter({
             cy={size / 2}
             r={radius}
             fill="none"
-            stroke="#e2e8f0"
+            stroke="var(--border-medium)"
             strokeWidth={strokeWidth}
             strokeDasharray={`${arcLength} ${circumference}`}
             strokeLinecap="round"
@@ -99,13 +99,13 @@ export function CircularGaugeMeter({
           <span style={{
             fontSize: `${size * 0.22}px`,
             fontWeight: 800,
-            color: 'var(--color-primary-dark)',
+            color: 'var(--text-primary)',
             lineHeight: 1,
             letterSpacing: '-0.02em',
             fontFamily: 'var(--font-mono)'
           }}>
             {value}
-            <span style={{ fontSize: `${size * 0.11}px`, color: '#64748b' }}>/{max}</span>
+            <span style={{ fontSize: `${size * 0.11}px`, color: 'var(--text-muted)' }}>/{max}</span>
           </span>
           {badge && (
             <span style={{
@@ -114,8 +114,8 @@ export function CircularGaugeMeter({
               fontWeight: 700,
               padding: '1px 6px',
               borderRadius: '9999px',
-              background: 'rgba(27, 67, 50, 0.1)',
-              color: 'var(--color-primary-dark)'
+              background: 'var(--color-primary-soft)',
+              color: 'var(--color-primary)'
             }}>
               {badge}
             </span>
@@ -124,11 +124,11 @@ export function CircularGaugeMeter({
       </div>
 
       <div style={{ marginTop: '-4px' }}>
-        <div style={{ fontSize: '13px', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
+        <div style={{ fontSize: '13px', fontWeight: 700, color: 'var(--text-primary)' }}>
           {label}
         </div>
         {subtitle && (
-          <div style={{ fontSize: '11px', color: '#64748b', marginTop: '1px' }}>
+          <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '1px' }}>
             {subtitle}
           </div>
         )}
@@ -197,9 +197,9 @@ export function BezierAreaCurve({
       {(title || currentValue) && (
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div>
-            {title && <span style={{ fontSize: '12px', fontWeight: 700, color: 'var(--color-primary-dark)' }}>{title}</span>}
+            {title && <span style={{ fontSize: '12px', fontWeight: 700, color: 'var(--text-primary)' }}>{title}</span>}
             {currentValue && (
-              <span style={{ marginLeft: '6px', fontSize: '13px', fontWeight: 800, color: 'var(--color-primary-dark)', fontFamily: 'var(--font-mono)' }}>
+              <span style={{ marginLeft: '6px', fontSize: '13px', fontWeight: 800, color: 'var(--text-primary)', fontFamily: 'var(--font-mono)' }}>
                 {currentValue}
               </span>
             )}
@@ -232,9 +232,9 @@ export function BezierAreaCurve({
           </defs>
           
           {/* Subtle horizontal baseline grids */}
-          <line x1="0" y1={height * 0.25} x2="300" y2={height * 0.25} stroke="#f1f5f9" strokeDasharray="3 3" />
-          <line x1="0" y1={height * 0.5} x2="300" y2={height * 0.5} stroke="#f1f5f9" strokeDasharray="3 3" />
-          <line x1="0" y1={height * 0.75} x2="300" y2={height * 0.75} stroke="#f1f5f9" strokeDasharray="3 3" />
+          <line x1="0" y1={height * 0.25} x2="300" y2={height * 0.25} stroke="var(--border-subtle)" strokeDasharray="3 3" />
+          <line x1="0" y1={height * 0.5} x2="300" y2={height * 0.5} stroke="var(--border-subtle)" strokeDasharray="3 3" />
+          <line x1="0" y1={height * 0.75} x2="300" y2={height * 0.75} stroke="var(--border-subtle)" strokeDasharray="3 3" />
 
           {/* Area Fill */}
           <path d={areaD} fill={`url(#grad-${color.replace('#', '')})`} />
@@ -322,10 +322,10 @@ export function SiloDonutMeter({
           flexDirection: 'column',
           alignItems: 'center'
         }}>
-          <span style={{ fontSize: '18px', fontWeight: 800, color: 'var(--color-primary-dark)', lineHeight: 1, fontFamily: 'var(--font-mono)' }}>
+          <span style={{ fontSize: '18px', fontWeight: 800, color: 'var(--text-primary)', lineHeight: 1, fontFamily: 'var(--font-mono)' }}>
             {centerTitle}
           </span>
-          <span style={{ fontSize: '10px', color: '#64748b', fontWeight: 600, marginTop: '2px' }}>
+          <span style={{ fontSize: '10px', color: 'var(--text-secondary)', fontWeight: 600, marginTop: '2px' }}>
             {centerSubtitle}
           </span>
         </div>
@@ -337,9 +337,9 @@ export function SiloDonutMeter({
           <div key={idx} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: '11px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
               <span style={{ width: '8px', height: '8px', borderRadius: '2px', background: seg.color }} />
-              <span style={{ color: '#475569', fontWeight: 600 }}>{seg.label}</span>
+              <span style={{ color: 'var(--text-secondary)', fontWeight: 600 }}>{seg.label}</span>
             </div>
-            <span style={{ fontFamily: 'var(--font-mono)', fontWeight: 700, color: 'var(--color-primary-dark)' }}>
+            <span style={{ fontFamily: 'var(--font-mono)', fontWeight: 700, color: 'var(--text-primary)' }}>
               {seg.value} ({Math.round((seg.value / total) * 100)}%)
             </span>
           </div>
@@ -391,7 +391,7 @@ export function ClinicalEEATPolygon({ size = 150 }: { size?: number }) {
               key={idx} 
               points={gridPoints} 
               fill="none" 
-              stroke="#e2e8f0" 
+              stroke="var(--border-medium)" 
               strokeWidth="1" 
               strokeDasharray={idx < 2 ? "2 2" : "none"} 
             />
@@ -403,7 +403,7 @@ export function ClinicalEEATPolygon({ size = 150 }: { size?: number }) {
           const angle = i * angleStep - Math.PI / 2;
           const x = center + radius * Math.cos(angle);
           const y = center + radius * Math.sin(angle);
-          return <line key={i} x1={center} y1={center} x2={x} y2={y} stroke="#e2e8f0" strokeWidth="1" />;
+          return <line key={i} x1={center} y1={center} x2={x} y2={y} stroke="var(--border-medium)" strokeWidth="1" />;
         })}
 
         {/* Filled Radar Area */}
@@ -457,19 +457,19 @@ export function ComparisonBarMeter({
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '11px' }}>
-        <span style={{ fontWeight: 600, color: 'var(--color-primary-dark)' }}>{label}</span>
+        <span style={{ fontWeight: 600, color: 'var(--text-primary)' }}>{label}</span>
         <span style={{ fontSize: '10px', color: '#64748b' }}>
           Ongo <strong>{ongoValue}{unit}</strong> vs Avg <strong>{competitorAvgValue}{unit}</strong>
         </span>
       </div>
 
       {/* Ongo Bar */}
-      <div style={{ height: '7px', width: '100%', background: '#f1f5f9', borderRadius: '9999px', overflow: 'hidden', position: 'relative' }}>
-        <div style={{ height: '100%', width: `${ongoPct}%`, background: '#2d6a4f', borderRadius: '9999px' }} />
+      <div style={{ height: '7px', width: '100%', background: 'var(--border-subtle)', borderRadius: '9999px', overflow: 'hidden', position: 'relative' }}>
+        <div style={{ height: '100%', width: `${ongoPct}%`, background: 'var(--color-primary-light)', borderRadius: '9999px' }} />
       </div>
 
       {/* Competitor Avg Bar */}
-      <div style={{ height: '4px', width: '100%', background: '#f1f5f9', borderRadius: '9999px', overflow: 'hidden' }}>
+      <div style={{ height: '4px', width: '100%', background: 'var(--border-subtle)', borderRadius: '9999px', overflow: 'hidden' }}>
         <div style={{ height: '100%', width: `${compPct}%`, background: '#94a3b8', borderRadius: '9999px' }} />
       </div>
     </div>

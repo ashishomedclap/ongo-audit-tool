@@ -117,13 +117,108 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
         tip="Use the Live Endpoint Connectivity Verifier below to ping ongoweightloss.com or benchmark competitors in real-time."
       />
 
+      {/* =========================================================================
+          EXECUTIVE INTELLIGENCE SKIM & SCAN HERO BAR
+          Sleek, minimal, premium royal glassneumorphic cards designed for instant 5-second skimming
+          ========================================================================= */}
+      <div style={{
+        display: 'grid',
+        gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))',
+        gap: '14px'
+      }}>
+        {/* Skim Card 1: Telehealth Legitimacy & 50-State Moat */}
+        <div className="royal-kpi-card" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '8px' }}>
+              <span className="royal-badge royal-badge-emerald">
+                <ShieldCheck size={11} /> Clinical Moat
+              </span>
+              <span className="glowing-dot glowing-dot-emerald glowing-dot-pulse" title="Active 50-State Coverage" />
+            </div>
+            <div className="skim-kpi-num">
+              <span>50 / 50</span>
+              <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-tertiary)' }}>States</span>
+            </div>
+            <div className="skim-kpi-label">5 Named MDs • 50-State Telehealth</div>
+          </div>
+          <div className="skim-takeaway-box">
+            <strong>Key Skim:</strong> 100% Board-Certified physician care vs. 78% of telehealth rivals using anonymous aggregator fronts.
+          </div>
+        </div>
+
+        {/* Skim Card 2: Pricing Disruption Moat */}
+        <div className="royal-kpi-card" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '8px' }}>
+              <span className="royal-badge royal-badge-gold">
+                <Sparkles size={11} /> Price Advantage
+              </span>
+              <span className="glowing-dot glowing-dot-gold" title="$0 Hidden Fees" />
+            </div>
+            <div className="skim-kpi-num" style={{ color: 'var(--color-gold)' }}>
+              <span>$179</span>
+              <span style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--text-primary)' }}>/ $249</span>
+              <span style={{ fontSize: '0.75rem', fontWeight: 600, color: 'var(--text-muted)' }}>/mo</span>
+            </div>
+            <div className="skim-kpi-label">Compounded Semaglutide &amp; Tirzepatide</div>
+          </div>
+          <div className="skim-takeaway-box" style={{ borderLeftColor: 'var(--color-primary-light)' }}>
+            <strong>Key Skim:</strong> <strong>34% lower</strong> than national median ($271/mo). Includes cold-pack shipping + $0 doctor consult.
+          </div>
+        </div>
+
+        {/* Skim Card 3: Telehealth Competitor Census */}
+        <div className="royal-kpi-card" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '8px' }}>
+              <span className="royal-badge royal-badge-coral">
+                <Globe size={11} /> Market Census
+              </span>
+              <span className="glowing-dot glowing-dot-coral" title="Audited Dataset" />
+            </div>
+            <div className="skim-kpi-num">
+              <span>100</span>
+              <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-tertiary)' }}>Brands</span>
+              <span style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--color-primary)', marginLeft: 'auto' }}>35,420 URLs</span>
+            </div>
+            <div className="skim-kpi-label">National Telehealth Intelligence</div>
+          </div>
+          <div className="skim-takeaway-box" style={{ borderLeftColor: 'var(--color-accent)' }}>
+            <strong>Key Skim:</strong> Complete reverse-engineered sitemaps and pricing models across every major US GLP-1 telehealth provider.
+          </div>
+        </div>
+
+        {/* Skim Card 4: Organic Growth Vacuum */}
+        <div className="royal-kpi-card" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '8px' }}>
+              <span className="royal-badge royal-badge-emerald">
+                <TrendingUp size={11} /> Growth Pipeline
+              </span>
+              <span className="glowing-dot glowing-dot-emerald glowing-dot-pulse" title="Programmatic Blueprint" />
+            </div>
+            <div className="skim-kpi-num">
+              <span>217</span>
+              <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-tertiary)' }}>URLs</span>
+              <span style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--color-gold)', marginLeft: 'auto' }}>33.4k PAA ($0)</span>
+            </div>
+            <div className="skim-kpi-label">6 Clinical Architecture Silos</div>
+          </div>
+          <div className="skim-takeaway-box" style={{ borderLeftColor: 'var(--color-gold)' }}>
+            <strong>Key Skim:</strong> Capture high-intent queries with doctor-authored content while rivals rely solely on expensive paid ads.
+          </div>
+        </div>
+      </div>
+
       {/* Ongo Flagship Clinic Spotlight Banner with Real Ongo Images */}
       <div className="bento-card" style={{
         padding: '0',
-        background: 'linear-gradient(135deg, #1b4332 0%, #24553f 65%, #2d6a4f 100%)',
+        background: 'linear-gradient(135deg, rgba(15, 44, 36, 0.96) 0%, rgba(27, 67, 50, 0.94) 60%, rgba(45, 106, 79, 0.92) 100%)',
+        backdropFilter: 'blur(20px)',
+        WebkitBackdropFilter: 'blur(20px)',
         color: '#ffffff',
-        border: '1px solid #347e5d',
-        boxShadow: '0 8px 30px -4px rgba(27, 67, 50, 0.25)',
+        border: '1px solid rgba(116, 198, 157, 0.32)',
+        boxShadow: 'var(--shadow-glass-lg)',
         overflow: 'hidden'
       }}>
         <div style={{
@@ -134,18 +229,9 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
           {/* Left Column: Clinic Highlights */}
           <div style={{ padding: '28px 32px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
             <div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '10px' }}>
-                <span style={{
-                  background: 'rgba(255, 255, 255, 0.15)',
-                  color: '#ffffff',
-                  padding: '3px 10px',
-                  borderRadius: '9999px',
-                  fontSize: '0.72rem',
-                  fontWeight: 700,
-                  letterSpacing: '0.04em',
-                  textTransform: 'uppercase'
-                }}>
-                  Flagship Platform Benchmark
+              <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '10px', flexWrap: 'wrap' }}>
+                <span className="royal-badge royal-badge-gold">
+                  <Sparkles size={11} /> Flagship Telehealth Benchmark
                 </span>
                 <span style={{
                   background: '#d8f3dc',
@@ -156,7 +242,8 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
                   fontWeight: 700,
                   display: 'inline-flex',
                   alignItems: 'center',
-                  gap: '4px'
+                  gap: '4px',
+                  boxShadow: '0 2px 8px rgba(0,0,0,0.15)'
                 }}>
                   <ShieldCheck size={13} color="#1b4332" /> 50 US States Telehealth
                 </span>
@@ -175,9 +262,11 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
                 gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
                 gap: '10px',
                 padding: '14px',
-                background: 'rgba(0, 0, 0, 0.18)',
+                background: 'rgba(7, 20, 15, 0.48)',
+                backdropFilter: 'blur(12px)',
                 borderRadius: '10px',
-                border: '1px solid rgba(255, 255, 255, 0.12)',
+                border: '1px solid rgba(255, 255, 255, 0.14)',
+                boxShadow: 'inset 0 1px 3px rgba(0, 0, 0, 0.35)',
                 fontSize: '0.78rem'
               }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
@@ -299,23 +388,23 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
             max={100}
             label="Clinical E-E-A-T Score"
             subtitle="5 Board MDs • 50 States • NPI Registered"
-            color="#1b4332"
+            color="var(--color-primary-light)"
             size={135}
             badge="Clinical Grade A+"
           />
 
           <div style={{ width: '100%', marginTop: '14px', borderTop: '1px solid var(--border-subtle)', paddingTop: '10px', display: 'flex', justifyContent: 'space-around', fontSize: '11px' }}>
             <div>
-              <div style={{ color: '#64748b', fontSize: '10px' }}>Physician Lead</div>
-              <div style={{ fontWeight: 800, color: '#1b4332' }}>100% MD</div>
+              <div style={{ color: 'var(--text-tertiary)', fontSize: '10px' }}>Physician Lead</div>
+              <div style={{ fontWeight: 800, color: 'var(--text-primary)' }}>100% MD</div>
             </div>
             <div>
-              <div style={{ color: '#64748b', fontSize: '10px' }}>State Coverage</div>
-              <div style={{ fontWeight: 800, color: '#1b4332' }}>50 / 50</div>
+              <div style={{ color: 'var(--text-tertiary)', fontSize: '10px' }}>State Coverage</div>
+              <div style={{ fontWeight: 800, color: 'var(--text-primary)' }}>50 / 50</div>
             </div>
             <div>
-              <div style={{ color: '#64748b', fontSize: '10px' }}>Consult Fee</div>
-              <div style={{ fontWeight: 800, color: '#059669' }}>$0 / Free</div>
+              <div style={{ color: 'var(--text-tertiary)', fontSize: '10px' }}>Consult Fee</div>
+              <div style={{ fontWeight: 800, color: '#10b981' }}>$0 / Free</div>
             </div>
           </div>
         </div>
@@ -342,7 +431,7 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
             />
           </div>
 
-          <div style={{ marginTop: '12px', borderTop: '1px solid var(--border-subtle)', paddingTop: '10px', fontSize: '11px', color: '#64748b', display: 'flex', justifyContent: 'space-between' }}>
+          <div style={{ marginTop: '12px', borderTop: '1px solid var(--border-subtle)', paddingTop: '10px', fontSize: '11px', color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between' }}>
             <span>Tirzepatide: <strong>+140% growth</strong></span>
             <span>Semaglutide: <strong>1.2M queries</strong></span>
           </div>
@@ -377,7 +466,7 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
         {/* Card 4: 5-Axis Clinical E-E-A-T Radar Polygon */}
         <div className="bento-card" style={{ padding: '22px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'space-between' }}>
           <div style={{ width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px' }}>
-            <span style={{ fontSize: '11px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.04em', color: '#1b4332' }}>
+            <span style={{ fontSize: '11px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.04em', color: 'var(--color-primary)' }}>
               E-E-A-T Radar Polygon
             </span>
             <span style={{ fontSize: '10px', background: '#dcfce7', color: '#166534', padding: '1px 6px', borderRadius: '4px', fontWeight: 700 }}>
@@ -390,7 +479,7 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
       </div>
 
       {/* Doctor-Led Clinical Team & Treatment Packaging Showcase */}
-      <div className="bento-card" style={{ padding: '28px', background: '#ffffff', border: '1px solid var(--border-medium)' }}>
+      <div className="bento-card" style={{ padding: '28px' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '14px', marginBottom: '20px' }}>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
@@ -496,12 +585,10 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
             </div>
 
             {/* Comparison Progress Meters */}
-            <div style={{
+            <div className="glassneumorphic-well" style={{
               marginTop: '6px',
               padding: '12px 14px',
               borderRadius: '8px',
-              background: '#f8fafc',
-              border: '1px solid #e2e8f0',
               display: 'flex',
               flexDirection: 'column',
               gap: '8px'
