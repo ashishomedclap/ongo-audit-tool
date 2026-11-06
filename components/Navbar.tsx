@@ -152,6 +152,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       levelNum: 1,
       name: 'Level 1: Foundation & Baseline',
       shortLabel: 'L1 Foundation',
+      compactLabel: 'L1',
       useCase: 'Audit Ongo 56 live URLs, clone clean offline pages, test image alt tags, study 7 books & benchmark 100 competitors',
       accentColor: '#347e5d',
       tools: TOOLS_DIRECTORY.filter(t => t.level === 1)
@@ -160,7 +161,8 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       id: 'level-2' as const,
       levelNum: 2,
       name: 'Level 2: Content & Keywords Engine',
-      shortLabel: 'L2 Content & Keywords',
+      shortLabel: 'L2 Content',
+      compactLabel: 'L2',
       useCase: 'Discover 33k topic vacuums with writer briefs, harvest Google PAA ($0), compare moats & analyze 54k keyword volumes',
       accentColor: '#d97706',
       tools: TOOLS_DIRECTORY.filter(t => t.level === 2)
@@ -169,7 +171,8 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       id: 'level-3' as const,
       levelNum: 3,
       name: 'Level 3: Silos, Equity Flow & Trust',
-      shortLabel: 'L3 Silos & Governance',
+      shortLabel: 'L3 Silos',
+      compactLabel: 'L3',
       useCase: 'Scale 6 topic silos, visualize PageRank equity flowcharts, audit MD E-E-A-T credentials & executive reports',
       accentColor: '#e76f51',
       tools: TOOLS_DIRECTORY.filter(t => t.level === 3)
@@ -178,11 +181,60 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
 
   return (
     <>
+      <style jsx global>{`
+        .nav-label-compact {
+          display: none;
+        }
+        .nav-label-full {
+          display: inline;
+        }
+        .nav-text-desktop {
+          display: inline;
+        }
+
+        @media (max-width: 1200px) {
+          .nav-label-full {
+            display: none !important;
+          }
+          .nav-label-compact {
+            display: inline !important;
+          }
+          .nav-text-desktop {
+            display: none !important;
+          }
+        }
+
+        @media (max-width: 820px) {
+          .nav-center-scroll {
+            justify-content: flex-start !important;
+            overflow-x: auto !important;
+            max-width: calc(100vw - 190px) !important;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+            -webkit-overflow-scrolling: touch;
+          }
+          .nav-center-scroll::-webkit-scrollbar {
+            display: none;
+          }
+        }
+
+        @media (max-width: 580px) {
+          .nav-brand-logo {
+            width: 32px !important;
+            overflow: hidden !important;
+          }
+          .nav-center-scroll {
+            max-width: calc(100vw - 145px) !important;
+          }
+        }
+      `}</style>
+
       <header style={{
         position: 'sticky',
         top: 0,
         zIndex: 50,
         backdropFilter: 'blur(16px)',
+        WebkitBackdropFilter: 'blur(16px)',
         backgroundColor: 'rgba(27, 67, 50, 0.98)', /* Ongo Deep Forest Racing Green */
         borderBottom: '1px solid rgba(116, 198, 157, 0.22)',
         boxShadow: '0 4px 20px -2px rgba(15, 44, 36, 0.35)'
@@ -190,14 +242,15 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
         <div style={{
           maxWidth: '1560px',
           margin: '0 auto',
-          padding: '10px 20px',
+          padding: '8px 16px',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
-          gap: '14px'
+          gap: '8px',
+          minWidth: 0
         }}>
           {/* Brand: Genuine Ongo Logo */}
-          <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexShrink: 0 }}>
+          <div className="nav-brand-logo" style={{ display: 'flex', alignItems: 'center', gap: '8px', flexShrink: 0 }}>
             <button
               onClick={() => setActiveTab('overview')}
               style={{ 
@@ -210,56 +263,30 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
               }}
               title="Ongo Weight Loss Executive Intelligence Suite"
             >
-              <OngoLogo variant="dark" height={34} />
+              <OngoLogo variant="dark" height={32} />
             </button>
-
-            {/* Active Level Cue */}
-            {activeTool && (
-              <div style={{
-                display: 'none',
-                alignItems: 'center',
-                gap: '6px',
-                background: 'rgba(15, 44, 36, 0.6)',
-                border: '1px solid rgba(116, 198, 157, 0.2)',
-                borderRadius: '6px',
-                padding: '3px 8px',
-                fontSize: '11px',
-                color: '#d8f3dc'
-              }} className="md-flex">
-                <span style={{
-                  color: '#74c69d',
-                  fontWeight: 800,
-                  fontSize: '10px',
-                  background: 'rgba(116, 198, 157, 0.2)',
-                  padding: '1px 5px',
-                  borderRadius: '4px'
-                }}>
-                  L{activeTool.level}
-                </span>
-                <span style={{ fontWeight: 600 }}>{activeTool.shortName}</span>
-              </div>
-            )}
           </div>
 
           {/* Center: Reorganized Level 1, 2, 3 Use-Case Segmented Navigation */}
-          <div ref={navRef} style={{
+          <div ref={navRef} className="nav-center-scroll" style={{
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
-            flex: '1 1 auto',
+            flex: '0 1 auto',
             minWidth: 0
           }}>
             <nav 
               style={{
                 display: 'flex',
                 alignItems: 'center',
-                gap: '6px',
+                gap: '3px',
                 background: 'rgba(15, 44, 36, 0.78)',
                 border: '1px solid rgba(255, 255, 255, 0.16)',
                 borderRadius: '9999px',
-                padding: '4px 6px',
-                overflowX: 'visible',
-                position: 'relative'
+                padding: '3px 4px',
+                whiteSpace: 'nowrap',
+                position: 'relative',
+                flexShrink: 0
               }}
             >
               {/* Level 1, Level 2, Level 3 Categorized Menus */}
@@ -274,9 +301,9 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                       style={{
                         display: 'flex',
                         alignItems: 'center',
-                        gap: '6px',
-                        padding: '6px 14px',
-                        fontSize: '0.8rem',
+                        gap: '4px',
+                        padding: '4px 9px',
+                        fontSize: '0.78rem',
                         fontWeight: isLevelActive ? 700 : 500,
                         color: isLevelActive ? '#ffffff' : '#d8f3dc',
                         background: isLevelActive 
@@ -293,14 +320,15 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                       <span style={{
                         background: isLevelActive ? '#74c69d' : 'rgba(255, 255, 255, 0.18)',
                         color: isLevelActive ? '#081c15' : '#ffffff',
-                        padding: '1px 5px',
-                        borderRadius: '4px',
+                        padding: '1px 4px',
+                        borderRadius: '3px',
                         fontSize: '9px',
                         fontWeight: 800
                       }}>
                         L{cat.levelNum}
                       </span>
-                      <span>{cat.shortLabel}</span>
+                      <span className="nav-label-full">{cat.shortLabel}</span>
+                      <span className="nav-label-compact">{cat.compactLabel}</span>
                       <ChevronDown size={11} style={{ transform: isOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.15s' }} />
                     </button>
 
@@ -481,9 +509,9 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 style={{
                   display: 'flex',
                   alignItems: 'center',
-                  gap: '6px',
-                  padding: '6px 13px',
-                  fontSize: '0.8rem',
+                  gap: '4px',
+                  padding: '4px 9px',
+                  fontSize: '0.78rem',
                   fontWeight: activeTab === 'industry-radar' ? 700 : 600,
                   color: activeTab === 'industry-radar' ? '#ffffff' : '#bae6fd',
                   background: activeTab === 'industry-radar' 
@@ -492,17 +520,17 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                   border: '1px solid rgba(56, 189, 248, 0.45)',
                   borderRadius: '9999px',
                   cursor: 'pointer',
-                  boxShadow: activeTab === 'industry-radar' ? '0 2px 10px rgba(2, 132, 199, 0.4)' : 'none',
+                  boxShadow: activeTab === 'industry-radar' ? '0 2px 8px rgba(2, 132, 199, 0.4)' : 'none',
                   transition: 'all 0.15s ease',
                   whiteSpace: 'nowrap'
                 }}
                 title="Open Industry Radar (FDA Shortages, 503A Compounding GFI, Live Competitor Prices)"
               >
-                <Radar size={13} />
+                <Radar size={12} />
                 <span>Radar</span>
                 <span style={{
-                  width: '6px',
-                  height: '6px',
+                  width: '5px',
+                  height: '5px',
                   borderRadius: '50%',
                   backgroundColor: '#38bdf8',
                   display: 'inline-block'
@@ -518,9 +546,9 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 style={{
                   display: 'flex',
                   alignItems: 'center',
-                  gap: '6px',
-                  padding: '6px 14px',
-                  fontSize: '0.8rem',
+                  gap: '4px',
+                  padding: '4px 9px',
+                  fontSize: '0.78rem',
                   fontWeight: activeTab === 'suite-sitemap' ? 700 : 600,
                   color: activeTab === 'suite-sitemap' ? '#ffffff' : '#d8f3dc',
                   background: activeTab === 'suite-sitemap' 
@@ -529,41 +557,44 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                   border: '1px solid rgba(231, 111, 81, 0.45)',
                   borderRadius: '9999px',
                   cursor: 'pointer',
-                  boxShadow: activeTab === 'suite-sitemap' ? '0 2px 10px rgba(231, 111, 81, 0.4)' : 'none',
+                  boxShadow: activeTab === 'suite-sitemap' ? '0 2px 8px rgba(231, 111, 81, 0.4)' : 'none',
                   transition: 'all 0.15s ease',
                   whiteSpace: 'nowrap'
                 }}
-                title="Open Visual Master Sitemap (All 3 Levels & Use Cases)"
+                title="Open Visual Master Sitemap (All 21 Tools)"
               >
-                <FolderTree size={13} />
-                <span>Sitemap ({TOOLS_DIRECTORY.length} Tools)</span>
+                <FolderTree size={12} />
+                <span className="nav-label-full">Sitemap</span>
+                <span className="nav-label-compact">21</span>
               </button>
             </nav>
           </div>
 
-          {/* Right Action: Master Site Scan & Quick Modal Sitemap Button & Stats */}
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexShrink: 0 }}>
+          {/* Right Action: Master Site Scan, Search Modal, Theme Mode Toggle */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', flexShrink: 0 }}>
+            {/* Master Site Scan Button */}
             <button
               onClick={() => setMasterScanModalOpen(true)}
               style={{
                 display: 'flex',
                 alignItems: 'center',
-                gap: '6px',
-                padding: '6px 12px',
-                fontSize: '12px',
+                gap: '5px',
+                padding: '5px 9px',
+                fontSize: '11px',
                 fontWeight: 700,
                 color: '#ffffff',
                 background: 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
                 border: '1px solid #34d399',
                 borderRadius: '8px',
                 cursor: 'pointer',
-                boxShadow: '0 2px 10px rgba(16, 185, 129, 0.35)',
-                transition: 'all 0.15s ease'
+                boxShadow: '0 2px 8px rgba(16, 185, 129, 0.3)',
+                transition: 'all 0.15s ease',
+                whiteSpace: 'nowrap'
               }}
               title="Crawl entire live website (sitemap.xml) and refresh tools database"
             >
-              <RefreshCw size={12} />
-              <span>Master Site Scan</span>
+              <RefreshCw size={11} />
+              <span className="nav-text-desktop">Scan</span>
               <span style={{
                 background: 'rgba(0, 0, 0, 0.22)',
                 padding: '1px 5px',
@@ -571,30 +602,42 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 fontSize: '10px',
                 fontWeight: 800
               }}>
-                56 URLs
+                56
               </span>
             </button>
 
+            {/* Sitemap & Command Palette Search Modal */}
             <button
               onClick={() => setSitemapModalOpen(true)}
               style={{
                 display: 'flex',
                 alignItems: 'center',
-                gap: '6px',
-                padding: '6px 12px',
-                fontSize: '12px',
+                gap: '5px',
+                padding: '5px 9px',
+                fontSize: '11px',
                 fontWeight: 600,
                 color: '#d8f3dc',
                 background: 'rgba(255, 255, 255, 0.08)',
                 border: '1px solid rgba(255, 255, 255, 0.18)',
                 borderRadius: '8px',
                 cursor: 'pointer',
-                transition: 'all 0.15s ease'
+                transition: 'all 0.15s ease',
+                whiteSpace: 'nowrap'
               }}
-              title="Open Quick Search Sitemap Modal"
+              title="Open Quick Search & Command Palette (⌘K)"
             >
-              <Search size={13} />
-              <span>Sitemap Modal</span>
+              <Search size={12} />
+              <span className="nav-text-desktop">Search</span>
+              <kbd style={{
+                fontSize: '9px',
+                fontFamily: 'inherit',
+                background: 'rgba(255, 255, 255, 0.14)',
+                padding: '1px 4px',
+                borderRadius: '3px',
+                color: '#d8f3dc'
+              }} className="nav-text-desktop">
+                ⌘K
+              </kbd>
             </button>
 
             {/* Classy Dark / Light Theme Mode Toggle */}
@@ -603,32 +646,23 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
               style={{
                 display: 'flex',
                 alignItems: 'center',
-                gap: '6px',
-                padding: '6px 12px',
-                fontSize: '12px',
-                fontWeight: 600,
+                justifyContent: 'center',
+                width: '30px',
+                height: '30px',
+                padding: 0,
                 color: theme === 'dark' ? '#86efac' : '#d8f3dc',
                 background: theme === 'dark' ? 'rgba(34, 197, 94, 0.16)' : 'rgba(255, 255, 255, 0.08)',
                 border: theme === 'dark' ? '1px solid rgba(74, 222, 128, 0.4)' : '1px solid rgba(255, 255, 255, 0.18)',
                 borderRadius: '8px',
                 cursor: 'pointer',
                 transition: 'all 0.15s ease',
-                boxShadow: theme === 'dark' ? '0 0 10px rgba(74, 222, 128, 0.2)' : 'none'
+                boxShadow: theme === 'dark' ? '0 0 10px rgba(74, 222, 128, 0.2)' : 'none',
+                flexShrink: 0
               }}
-              title={`Switch to ${theme === 'dark' ? 'Light' : 'Dark'} Mode`}
+              title={theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode'}
               aria-label="Toggle Dark and Light Mode"
             >
-              {theme === 'dark' ? (
-                <>
-                  <Sun size={13} style={{ color: '#4ade80' }} />
-                  <span>Light</span>
-                </>
-              ) : (
-                <>
-                  <Moon size={13} style={{ color: '#d8f3dc' }} />
-                  <span>Dark</span>
-                </>
-              )}
+              {theme === 'dark' ? <Sun size={13} style={{ color: '#4ade80' }} /> : <Moon size={13} style={{ color: '#d8f3dc' }} />}
             </button>
 
             {stats && (
