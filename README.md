@@ -1,64 +1,63 @@
-# Ongo Weight Loss — Competitor Audit & Intelligence Suite
+# Ongo Weight Loss — Competitor Audit & Telehealth SEO Engineering Suite
 
-All research files, scrapers, sitemaps, data inventories, and reports have been consolidated and organized into the **`audit-tool/`** directory.
+> **The complete Next.js 14 full-stack intelligence platform, scrapers, data inventories, and reports live in [`audit-tool/`](./audit-tool/).**
 
-## Directory Structure
+---
 
-```text
-d:\research work\ongo weight loss\
-└── audit-tool/                              # Next.js Full-Stack Application
-    ├── app/                                 # Next.js App Router & API Endpoints
-    │   ├── api/
-    │   │   ├── audit-meta/                  # Live on-page meta tag crawler & evaluator
-    │   │   ├── check-url/                   # Real-time HTTP health, ping & latency tester
-    │   │   ├── competitors/                 # 100 Compounded GLP-1 brands provider
-    │   │   ├── keyword-search/              # Live scanner across 35k competitor URLs
-    │   │   ├── reports/                     # Markdown intelligence reports server
-    │   │   └── sitemap-detail/              # Parsed sitemap XML URLs & category breakdown
-    │   ├── globals.css                      # Vanilla CSS design system & dark obsidian theme
-    │   ├── layout.tsx
-    │   └── page.tsx
-    ├── components/                          # Interactive UI Components
-    │   ├── Navbar.tsx                       # Navigation & live metrics pill
-    │   ├── OverviewTab.tsx                  # Executive KPIs, quick ping & ecosystem treemap
-    │   ├── SitemapsTab.tsx                  # Sitemap Inspector with "Visit" & "Check Live"
-    │   ├── CompetitorsTab.tsx               # 100 Compounded GLP-1 brands catalog
-    │   ├── KeywordsTab.tsx                  # Live keyword scanner across 35,000+ URLs
-    │   ├── MetaAuditorTab.tsx               # Ongo benchmark scorecard & Google SERP preview
-    │   ├── ArchitectureTab.tsx              # Content silo treemap & 217-page checklist
-    │   ├── ReportsTab.tsx                   # Built-in reader for 8 intelligence reports
-    │   └── CompetitorModal.tsx              # Deep-dive URL browser for each competitor
-    ├── data/
-    │   ├── inventory/                       # Cleaned data files (CSV & JSON)
-    │   │   ├── architecture_analysis.json
-    │   │   ├── competitor_sitemaps_summary.csv
-    │   │   ├── master_url_inventory.csv
-    │   │   └── ongo_current_meta.json
-    │   ├── reports/                         # Markdown research reports & checklists
-    │   │   ├── SITEMAP_INTELLIGENCE_REPORT.md
-    │   │   ├── recommended_pages_master_checklist.md
-    │   │   ├── ongo_meta_optimization_and_competitor_comparison.md
-    │   │   ├── competitor_page_architecture_treemap.md
-    │   │   └── 100_compounded_glp1_competitors.md
-    │   └── sitemaps/                        # 100 Competitor Sitemap XMLs & crawled URLs
-    │       ├── 001_mochi_health/
-    │       ├── 002_henry_meds/
-    │       └── ... (100 folders)
-    └── scripts/                             # Python crawler and analysis scripts
-        ├── fetch_sitemaps.py
-        ├── generate_url_inventory.py
-        ├── analyze_architecture.py
-        ├── fetch_ongo_meta.py
-        └── build_full_inventory_md.py
-```
+## 📖 Master Documentation
+For the complete, single-file reference covering all 21 tools, architectural tiers, live 56 URLs footprint, and API endpoints, please see:
+👉 **[`audit-tool/README.md`](./audit-tool/README.md)**
 
-## Running the Application
+---
 
-To launch the Next.js audit dashboard:
+## ⚡ The 21 Ranked Tools Directory
+
+| Rank | Tool Name | Route | Category | Strategic Purpose |
+| :---: | :--- | :--- | :--- | :--- |
+| **#1** | **Clean Page Scraper & Offline Cloner** | `/clean-scraper` | L1 Foundation | Strips React hydration, inlines CSS, Vanilla JS accordions |
+| **#2** | **Image Alt & WCAG a11y Auditor** | `/image-audit` | L1 Foundation | ADA / WCAG compliance, filename heuristics, 1-click fixes |
+| **#3** | **Competitor Gap & Content Roadmap** | `/competitor-gap` | L2 Content | 33,108 competitor URLs cross-referenced, 1-click writer briefs |
+| **#4** | **Google Autocomplete & PAA Harvester** | `/keywords-harvester` | L2 Content | $0 live patient question scraper across 8 topical silos |
+| **#5** | **Content Matcher & Head-to-Head Auditor** | `/content-matcher` | L2 Content | 8-point checklist, SVG Intent Donut, competitor head-to-head |
+| **#6** | **Industry Radar & Telehealth Pulse** | `/industry-radar` | L2 Intelligence| 24 curated feeds: FDA Shortages DB, compounding GFI, live pings |
+| **#7** | **PageRank Flowchart Visualizer** | `/link-flowchart` | L3 Silos | Directed PageRank simulation, damping factor, link equity loops |
+| **#8** | **Internal Link & Anchor Recommender** | `/internal-links` | L3 Silos | 4 Silo Linking Rules, exact copyable anchor text phrases |
+| **#9** | **Ongo Live Pages & Meta Auditor** | `/ongo-pages` | L1 Foundation | 56 live URLs monitored, CTR hooks, live SERP snippets |
+| **#10**| **7 Books Digital Library** | `/books` | L1 Foundation | 2,924 pages, 518k words of clinical GLP-1 & SEO guidelines |
+| **#11**| **100-Competitor Census & Directory** | `/competitors` | L1 Foundation | 100 telehealth brands, traffic, Semaglutide/Tirzepatide focus |
+| **#12**| **Silo Architecture Blueprint** | `/architecture` | L3 Silos | 6 silos, 217 planned pages, zero topic cannibalization |
+| **#13**| **Doctor Medical E-E-A-T** | `/doctor-eeat` | L3 Silos | 5 Board MDs, NPI registry checks, YMYL compliance |
+| **#14**| **50-State Telehealth Licensing** | `/state-licensing` | L3 Silos | 50-state coverage radar, synchronous video visit mandates |
+| **#15**| **503A Pharmacy Sterility Hub** | `/compliance` | L3 Silos | USP <797> sterile standards, cold-pack shipping benchmarks |
+| **#16**| **Meta Tags & CTR Auditor** | `/meta` | L3 Silos | Human search query title rewrites, character length audits |
+| **#17**| **Executive Intelligence** | `/` | L1 Foundation | 35,420 URLs macro counter, active HTTP ping monitors |
+| **#18**| **Common vs Unique Moats** | `/patterns` | L2 Content | *Candidate to merge into #3*: Quizzes, peptide blends |
+| **#19**| **Competitor Keyword Matrix** | `/keywords` | L2 Content | *Candidate to merge into #4*: Static 54k keyword matrix |
+| **#20**| **Executive Strategy Reports** | `/reports` | L3 Silos | *Candidate to merge into #10*: In-depth markdown blueprints |
+| **#21**| **Competitor Sitemaps (74)** | `/sitemaps` | L1 Foundation | *Candidate to remove*: Raw XML sitemaps already powering #3 |
+
+---
+
+## 🎨 Design System & UI/UX Features
+
+- **Glassneumorphism & Bento Grid**: Modern frosted-glass surfaces (`backdrop-filter: blur(16px)`), dual-layer bevel highlights, subtle glowing borders, and asymmetric card hierarchies.
+- **GSAP Micro-Animations**: Smooth GPU-accelerated entrance stagger animations across cards, tabs, and interactive pills via GreenSock (`gsap`).
+- **Dark Mode Contrast Engine**: High-contrast, radiant emerald, sky, and obsidian tokens ensuring 100% text readability with automatic OS theme synchronization and manual toggle.
+- **Multi-Pass Instant Scroll-To-Top**: Eliminates tab transition disorientation by resetting scroll coordinates across `window`, `document`, and main content mounts.
+
+---
+
+## 🚀 Quickstart
 
 ```bash
+# Navigate to the Next.js app
 cd audit-tool
+
+# Install packages
+npm install
+
+# Start development server
 npm run dev
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) (or `http://localhost:3001` if port 3000 is occupied).
+Open [http://localhost:3000](http://localhost:3000) in your browser. Press `⌘K` / `Ctrl+K` to open the 21-tool Command Palette from any page.
