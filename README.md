@@ -523,6 +523,21 @@ All endpoints run on the Next.js App Router (`app/api/`):
 ### 7. `GET /api/internal-links`
 * **Purpose**: Computes missing equity links across 4 silo rules for all 56 live pages.
 
+### 8. `GET /api/npi-lookup`
+* **Purpose**: Real-time US CMS NPPES Public Registry doctor and license verification with Google E-E-A-T scoring and Schema.org `Physician` JSON-LD generation.
+* **Payload**: `GET /api/npi-lookup?firstName=Brett&lastName=Kramer` or `GET /api/npi-lookup?number=1710508965`
+* **Response**: `{ success: true, result_count: 1, results: [{ npi, name, primaryTaxonomy, addresses, eeatScore, eeatGrade, schemaSnippet }] }`
+
+### 9. `POST /api/pagespeed`
+* **Purpose**: Real-time Google PageSpeed Insights & edge network timing probes for Core Web Vitals (LCP, INP, CLS, TTFB) head-to-head against 4 top rivals.
+* **Payload**: `{ url: 'https://ongoweightloss.com', strategy: 'mobile' }`
+* **Response**: `{ success: true, data: { performanceScore: 94, metrics: { lcp: '1.8s', inp: '75ms', cls: '0.02' }, competitiveRanking: [...] } }`
+
+### 10. `GET /api/reddit-sentiment`
+* **Purpose**: Real-time patient complaints and clinical inquiries from `r/Semaglutide`, `r/Tirzepatide`, and `r/compoundedcompleted` paired with actionable Ongo conversion moats.
+* **Payload**: `GET /api/reddit-sentiment?category=COMPETITOR_COMPLAINT`
+* **Response**: `{ success: true, totalDiscussions: 8, posts: [{ id, title, category, competitorMentioned, ongoMoatTakeaway, targetContentOpportunity }] }`
+
 ---
 
 ## 🎨 Design System: $1,000 GSC + Clarity Minimal Neutral UI & Dark/Light Mode
