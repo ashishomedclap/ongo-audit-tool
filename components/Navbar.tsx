@@ -31,7 +31,9 @@ import {
   RefreshCw,
   Sun,
   Moon,
-  Radar
+  Radar,
+  X,
+  ChevronRight
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 import ToolsSitemapModal from './ToolsSitemapModal';
@@ -78,6 +80,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
   const [openDropdown, setOpenDropdown] = useState<'level-1' | 'level-2' | 'level-3' | null>(null);
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const navRef = useRef<HTMLDivElement>(null);
+  const dropdownRef = useRef<HTMLDivElement>(null);
 
   // Detect and synchronize theme
   useEffect(() => {
@@ -107,15 +110,31 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
     } catch (e) {}
   };
 
-  // Close dropdown on outside click
+  // Close dropdown on outside click or Escape key
   useEffect(() => {
     const handleClickOutside = (e: MouseEvent) => {
-      if (navRef.current && !navRef.current.contains(e.target as Node)) {
+      const target = e.target as Node;
+      if (
+        navRef.current && 
+        !navRef.current.contains(target) && 
+        (!dropdownRef.current || !dropdownRef.current.contains(target))
+      ) {
         setOpenDropdown(null);
       }
     };
+
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setOpenDropdown(null);
+      }
+    };
+
     document.addEventListener('mousedown', handleClickOutside);
-    return () => document.removeEventListener('mousedown', handleClickOutside);
+    window.addEventListener('keydown', handleKeyDown);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+      window.removeEventListener('keydown', handleKeyDown);
+    };
   }, []);
 
   // Find active tool details
@@ -179,6 +198,8 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
     }
   ];
 
+  const activeCategory = levelCategories.find(c => c.id === openDropdown);
+
   return (
     <>
       <style jsx global>{`
@@ -190,6 +211,43 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
         }
         .nav-text-desktop {
           display: inline;
+        }
+
+        @keyframes megamenuSlideDown {
+          from {
+            opacity: 0;
+            transform: translate(-50%, -6px);
+          }
+          to {
+            opacity: 1;
+            transform: translate(-50%, 0);
+          }
+        }
+
+        .nav-megamenu-grid {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 10px;
+        }
+
+        @media (max-width: 680px) {
+          .nav-megamenu-grid {
+            grid-template-columns: 1fr !important;
+          }
+        }
+
+        .nav-megamenu-scroll::-webkit-scrollbar {
+          width: 6px;
+        }
+        .nav-megamenu-scroll::-webkit-scrollbar-track {
+          background: transparent;
+        }
+        .nav-megamenu-scroll::-webkit-scrollbar-thumb {
+          background: rgba(116, 198, 157, 0.28);
+          border-radius: 9999px;
+        }
+        .nav-megamenu-scroll::-webkit-scrollbar-thumb:hover {
+          background: rgba(116, 198, 157, 0.48);
         }
 
         @media (max-width: 1200px) {
@@ -247,7 +305,8 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
           alignItems: 'center',
           justifyContent: 'space-between',
           gap: '8px',
-          minWidth: 0
+          minWidth: 0,
+          position: 'relative'
         }}>
           {/* Brand: Genuine Ongo Logo */}
           <div className="nav-brand-logo" style={{ display: 'flex', alignItems: 'center', gap: '8px', flexShrink: 0 }}>
@@ -298,7 +357,9 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 return (
                   <div key={cat.id} style={{ position: 'relative' }}>
                     <button
+                      type="button"
                       onClick={() => setOpenDropdown(isOpen ? null : cat.id)}
+                      aria-expanded={isOpen}
                       style={{
                         display: 'flex',
                         alignItems: 'center',
@@ -309,12 +370,15 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                         color: isLevelActive ? '#ffffff' : '#d8f3dc',
                         background: isLevelActive 
                           ? 'linear-gradient(135deg, #2d6a4f 0%, #1b4332 100%)' 
-                          : isOpen ? 'rgba(255, 255, 255, 0.14)' : 'transparent',
-                        border: isLevelActive ? '1px solid #74c69d' : '1px solid transparent',
+                          : isOpen ? 'rgba(255, 255, 255, 0.16)' : 'transparent',
+                        border: isLevelActive 
+                          ? '1px solid #74c69d' 
+                          : isOpen ? '1px solid rgba(255, 255, 255, 0.35)' : '1px solid transparent',
                         borderRadius: '9999px',
                         cursor: 'pointer',
                         transition: 'all 0.15s ease',
-                        whiteSpace: 'nowrap'
+                        whiteSpace: 'nowrap',
+                        boxShadow: isOpen ? '0 0 10px rgba(116, 198, 157, 0.3)' : 'none'
                       }}
                       title={cat.useCase}
                     >
@@ -330,173 +394,8 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                       </span>
                       <span className="nav-label-full">{cat.shortLabel}</span>
                       <span className="nav-label-compact">{cat.compactLabel}</span>
-                      <ChevronDown size={11} style={{ transform: isOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.15s' }} />
+                      <ChevronDown size={11} style={{ transform: isOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.18s ease' }} />
                     </button>
-
-                    {/* Level Dropdown Menu with Ordered Use Cases */}
-                    {isOpen && (
-                      <div style={{
-                        position: 'absolute',
-                        top: 'calc(100% + 10px)',
-                        left: cat.levelNum === 1 ? '0' : cat.levelNum === 2 ? '50%' : 'auto',
-                        right: cat.levelNum === 3 ? '0' : 'auto',
-                        transform: cat.levelNum === 2 ? 'translateX(-50%)' : 'none',
-                        width: '390px',
-                        maxHeight: '480px',
-                        overflowY: 'auto',
-                        backgroundColor: '#ffffff',
-                        borderRadius: '16px',
-                        boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.35)',
-                        border: '1px solid #e2e8f0',
-                        padding: '12px',
-                        zIndex: 100,
-                        display: 'flex',
-                        flexDirection: 'column',
-                        gap: '6px'
-                      }}>
-                        {/* Dropdown Header with Explicit Use Case Banner */}
-                        <div style={{
-                          padding: '10px 12px',
-                          backgroundColor: '#f8fafc',
-                          borderRadius: '10px',
-                          border: '1px solid #e2e8f0',
-                          marginBottom: '4px'
-                        }}>
-                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '4px' }}>
-                            <span style={{ fontSize: '11px', fontWeight: 800, color: '#1b4332', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
-                              {cat.name}
-                            </span>
-                            <span style={{ fontSize: '10px', background: '#e2e8f0', padding: '1px 6px', borderRadius: '4px', fontWeight: 700, color: '#475569' }}>
-                              {cat.tools.length} Tools
-                            </span>
-                          </div>
-                          <p style={{ margin: 0, fontSize: '11px', color: '#64748b', lineHeight: 1.4 }}>
-                            <strong>Use Case:</strong> {cat.useCase}
-                          </p>
-                        </div>
-
-                        {/* List of Ordered Tools in this Level */}
-                        <div style={{ display: 'flex', flexDirection: 'column', gap: '3px' }}>
-                          {cat.tools.map(tool => {
-                            const isCurrent = activeTab === tool.id;
-                            return (
-                              <button
-                                key={tool.id}
-                                onClick={() => {
-                                  setActiveTab(tool.id as TabType);
-                                  setOpenDropdown(null);
-                                }}
-                                style={{
-                                  display: 'flex',
-                                  alignItems: 'flex-start',
-                                  gap: '10px',
-                                  padding: '8px 10px',
-                                  borderRadius: '8px',
-                                  border: isCurrent ? '1px solid #a7f3d0' : '1px solid transparent',
-                                  background: isCurrent ? '#f0fdf4' : 'transparent',
-                                  color: isCurrent ? '#166534' : '#1e293b',
-                                  cursor: 'pointer',
-                                  textAlign: 'left',
-                                  width: '100%',
-                                  transition: 'all 0.12s ease'
-                                }}
-                                onMouseEnter={(e) => {
-                                  if (!isCurrent) e.currentTarget.style.backgroundColor = '#f8fafc';
-                                }}
-                                onMouseLeave={(e) => {
-                                  if (!isCurrent) e.currentTarget.style.backgroundColor = 'transparent';
-                                }}
-                              >
-                                <div style={{
-                                  width: '28px',
-                                  height: '28px',
-                                  borderRadius: '6px',
-                                  backgroundColor: isCurrent ? '#1b4332' : '#f1f5f9',
-                                  color: isCurrent ? '#ffffff' : '#334155',
-                                  display: 'flex',
-                                  alignItems: 'center',
-                                  justifyContent: 'center',
-                                  flexShrink: 0,
-                                  marginTop: '1px'
-                                }}>
-                                  {getToolIcon(tool.categoryIcon, 14)}
-                                </div>
-
-                                <div style={{ flex: 1, minWidth: 0 }}>
-                                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                                    <span style={{ fontSize: '13px', fontWeight: isCurrent ? 700 : 600 }}>
-                                      {tool.name}
-                                    </span>
-                                    {tool.badge && (
-                                      <span style={{
-                                        fontSize: '10px',
-                                        padding: '1px 6px',
-                                        borderRadius: '9999px',
-                                        background: tool.badgeBg || '#e2e8f0',
-                                        color: tool.badgeColor || '#334155',
-                                        fontWeight: 700
-                                      }}>
-                                        {tool.badge}
-                                      </span>
-                                    )}
-                                  </div>
-                                  <div style={{ fontSize: '11px', color: '#64748b', marginTop: '2px', lineHeight: 1.3 }}>
-                                    {tool.useCase}
-                                  </div>
-
-                                  {tool.id === 'books' && (
-                                    <div style={{
-                                      display: 'flex',
-                                      gap: '4px',
-                                      flexWrap: 'wrap',
-                                      marginTop: '8px',
-                                      paddingTop: '6px',
-                                      borderTop: '1px solid #f1f5f9'
-                                    }} onClick={(e) => e.stopPropagation()}>
-                                      <span style={{ fontSize: '10px', color: '#64748b', fontWeight: 600, alignSelf: 'center', marginRight: '2px' }}>
-                                        Vol:
-                                      </span>
-                                      {[
-                                        { num: 1, slug: 'the-foundation', title: 'Foundation' },
-                                        { num: 2, slug: 'earned-not-built', title: 'Earned' },
-                                        { num: 3, slug: 'site-architecture', title: 'Architecture' },
-                                        { num: 4, slug: 'on-page-seo-for-nextjs', title: 'Next.js SEO' },
-                                        { num: 5, slug: 'organic-social-media', title: 'Social' },
-                                        { num: 6, slug: 'writing-for-a-health-brand', title: 'Writing' },
-                                        { num: 7, slug: 'analytics-and-reporting', title: 'Analytics' }
-                                      ].map(b => (
-                                        <button
-                                          key={b.slug}
-                                          type="button"
-                                          onClick={(e) => {
-                                            e.stopPropagation();
-                                            setActiveTab('books', b.slug);
-                                            setOpenDropdown(null);
-                                          }}
-                                          style={{
-                                            fontSize: '10px',
-                                            fontWeight: 700,
-                                            padding: '2px 5px',
-                                            borderRadius: '4px',
-                                            background: '#f1f5f9',
-                                            color: '#1b4332',
-                                            border: '1px solid #cbd5e1',
-                                            cursor: 'pointer'
-                                          }}
-                                          title={`Jump to Book ${b.num}: ${b.title}`}
-                                        >
-                                          0{b.num}
-                                        </button>
-                                      ))}
-                                    </div>
-                                  )}
-                                </div>
-                              </button>
-                            );
-                          })}
-                        </div>
-                      </div>
-                    )}
                   </div>
                 );
               })}
@@ -570,6 +469,399 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
               </button>
             </nav>
           </div>
+
+          {/* Active Level Executive Mega-Menu Dropdown (Expanded Generous Width) */}
+          {activeCategory && (
+            <div
+              ref={dropdownRef}
+              className="nav-megamenu-dropdown nav-megamenu-scroll"
+              role="dialog"
+              aria-label={`${activeCategory.name} Navigation Menu`}
+              style={{
+                position: 'absolute',
+                top: 'calc(100% + 8px)',
+                left: '50%',
+                transform: 'translateX(-50%)',
+                width: 'min(880px, calc(100vw - 28px))',
+                maxHeight: 'min(640px, calc(100vh - 84px))',
+                overflowY: 'auto',
+                backgroundColor: theme === 'dark' ? 'rgba(14, 25, 20, 0.97)' : 'rgba(255, 255, 255, 0.98)',
+                backdropFilter: 'blur(28px) saturate(180%)',
+                WebkitBackdropFilter: 'blur(28px) saturate(180%)',
+                borderRadius: '20px',
+                border: theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.28)' : '1px solid rgba(27, 67, 50, 0.16)',
+                boxShadow: theme === 'dark' 
+                  ? '0 28px 72px -12px rgba(0, 0, 0, 0.85), 0 10px 30px -4px rgba(0, 0, 0, 0.6), inset 0 1px 1px 0 rgba(255, 255, 255, 0.14)' 
+                  : '0 24px 64px -10px rgba(15, 44, 36, 0.22), 0 8px 24px -4px rgba(15, 44, 36, 0.08), inset 0 1px 1px 0 rgba(255, 255, 255, 1)',
+                padding: '16px 18px',
+                zIndex: 100,
+                display: 'flex',
+                flexDirection: 'column',
+                gap: '12px',
+                color: theme === 'dark' ? '#f2f7f4' : '#0a1411',
+                animation: 'megamenuSlideDown 0.18s cubic-bezier(0.16, 1, 0.3, 1)'
+              }}
+            >
+              {/* Dropdown Header: Level Title + Tools Count + Close Button */}
+              <div style={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center',
+                paddingBottom: '10px',
+                borderBottom: theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.16)' : '1px solid rgba(27, 67, 50, 0.10)'
+              }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <span style={{
+                    background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)',
+                    color: '#d8f3dc',
+                    padding: '2px 8px',
+                    borderRadius: '6px',
+                    fontSize: '11px',
+                    fontWeight: 800,
+                    letterSpacing: '0.04em',
+                    border: '1px solid #74c69d'
+                  }}>
+                    L{activeCategory.levelNum}
+                  </span>
+                  <span style={{
+                    fontSize: '14px',
+                    fontWeight: 800,
+                    letterSpacing: '0.02em',
+                    color: theme === 'dark' ? '#f2f7f4' : '#0f2c24',
+                    textTransform: 'uppercase'
+                  }}>
+                    {activeCategory.name}
+                  </span>
+                </div>
+
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <span style={{
+                    fontSize: '11px',
+                    fontWeight: 700,
+                    padding: '2px 8px',
+                    borderRadius: '9999px',
+                    background: theme === 'dark' ? 'rgba(34, 197, 94, 0.18)' : '#eaf6ee',
+                    color: theme === 'dark' ? '#86efac' : '#1b4332',
+                    border: theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.3)' : '1px solid rgba(45, 106, 79, 0.2)'
+                  }}>
+                    {activeCategory.tools.length} Specialized Audits
+                  </span>
+                  <button
+                    type="button"
+                    onClick={() => setOpenDropdown(null)}
+                    aria-label="Close dropdown"
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'center',
+                      width: '24px',
+                      height: '24px',
+                      borderRadius: '6px',
+                      background: theme === 'dark' ? 'rgba(255, 255, 255, 0.08)' : 'rgba(0, 0, 0, 0.05)',
+                      border: 'none',
+                      color: theme === 'dark' ? '#9cb1a5' : '#64748b',
+                      cursor: 'pointer',
+                      transition: 'all 0.12s ease'
+                    }}
+                  >
+                    <X size={14} />
+                  </button>
+                </div>
+              </div>
+
+              {/* Executive Objective Callout Banner */}
+              <div style={{
+                padding: '10px 14px',
+                borderRadius: '12px',
+                background: theme === 'dark'
+                  ? 'linear-gradient(135deg, rgba(20, 45, 34, 0.75) 0%, rgba(35, 30, 18, 0.5) 100%)'
+                  : 'linear-gradient(135deg, rgba(234, 246, 238, 0.95) 0%, rgba(254, 243, 199, 0.45) 100%)',
+                border: theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.24)' : '1px solid rgba(45, 106, 79, 0.16)',
+                display: 'flex',
+                alignItems: 'center',
+                gap: '10px',
+                boxShadow: 'inset 0 1px 1px rgba(255, 255, 255, 0.08)'
+              }}>
+                <div style={{
+                  width: '26px',
+                  height: '26px',
+                  borderRadius: '7px',
+                  background: 'linear-gradient(135deg, #c59b27 0%, #fbbf24 100%)',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  flexShrink: 0,
+                  boxShadow: '0 2px 6px rgba(197, 155, 39, 0.35)'
+                }}>
+                  <Sparkles size={13} style={{ color: '#0f2c24' }} />
+                </div>
+                <p style={{
+                  margin: 0,
+                  fontSize: '11.5px',
+                  lineHeight: 1.45,
+                  color: theme === 'dark' ? '#d8f3dc' : '#1f3b2d'
+                }}>
+                  <strong style={{ color: theme === 'dark' ? '#fbbf24' : '#92400e', marginRight: '4px' }}>EXECUTIVE SCOPE:</strong>
+                  {activeCategory.useCase}
+                </p>
+              </div>
+
+              {/* 2-Column Responsive Tools Grid */}
+              <div className="nav-megamenu-grid">
+                {activeCategory.tools.map(tool => {
+                  const isCurrent = activeTab === tool.id;
+                  const isBooks = tool.id === 'books';
+
+                  return (
+                    <div
+                      key={tool.id}
+                      style={{
+                        gridColumn: isBooks ? '1 / -1' : 'auto'
+                      }}
+                    >
+                      <button
+                        type="button"
+                        onClick={() => {
+                          setActiveTab(tool.id as TabType);
+                          setOpenDropdown(null);
+                        }}
+                        style={{
+                          display: 'flex',
+                          alignItems: 'flex-start',
+                          gap: '12px',
+                          padding: isBooks ? '12px 14px 10px 14px' : '11px 13px',
+                          borderRadius: '12px',
+                          border: isCurrent
+                            ? '1px solid #10b981'
+                            : theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.16)' : '1px solid rgba(27, 67, 50, 0.10)',
+                          background: isCurrent
+                            ? theme === 'dark' ? 'rgba(34, 197, 94, 0.18)' : '#edf7f1'
+                            : theme === 'dark' ? 'rgba(20, 36, 29, 0.55)' : 'rgba(255, 255, 255, 0.85)',
+                          color: isCurrent 
+                            ? theme === 'dark' ? '#86efac' : '#166534'
+                            : theme === 'dark' ? '#f2f7f4' : '#0a1411',
+                          cursor: 'pointer',
+                          textAlign: 'left',
+                          width: '100%',
+                          transition: 'all 0.14s ease',
+                          boxShadow: isCurrent
+                            ? '0 0 0 1px rgba(16, 185, 129, 0.4), 0 4px 12px rgba(16, 185, 129, 0.15)'
+                            : theme === 'dark' ? '0 2px 6px rgba(0, 0, 0, 0.35)' : '0 2px 6px rgba(15, 44, 36, 0.04)'
+                        }}
+                        onMouseEnter={(e) => {
+                          if (!isCurrent) {
+                            e.currentTarget.style.backgroundColor = theme === 'dark' ? 'rgba(34, 60, 48, 0.85)' : 'rgba(240, 253, 244, 0.95)';
+                            e.currentTarget.style.borderColor = '#74c69d';
+                            e.currentTarget.style.transform = 'translateY(-1px)';
+                            e.currentTarget.style.boxShadow = theme === 'dark' ? '0 8px 20px -4px rgba(0, 0, 0, 0.65)' : '0 8px 18px -4px rgba(15, 44, 36, 0.12)';
+                          }
+                        }}
+                        onMouseLeave={(e) => {
+                          if (!isCurrent) {
+                            e.currentTarget.style.backgroundColor = theme === 'dark' ? 'rgba(20, 36, 29, 0.55)' : 'rgba(255, 255, 255, 0.85)';
+                            e.currentTarget.style.borderColor = theme === 'dark' ? 'rgba(116, 198, 157, 0.16)' : 'rgba(27, 67, 50, 0.10)';
+                            e.currentTarget.style.transform = 'translateY(0)';
+                            e.currentTarget.style.boxShadow = theme === 'dark' ? '0 2px 6px rgba(0, 0, 0, 0.35)' : '0 2px 6px rgba(15, 44, 36, 0.04)';
+                          }
+                        }}
+                      >
+                        {/* Tool Icon Squircle */}
+                        <div style={{
+                          width: '38px',
+                          height: '38px',
+                          borderRadius: '10px',
+                          background: isCurrent
+                            ? 'linear-gradient(135deg, #10b981 0%, #059669 100%)'
+                            : theme === 'dark'
+                              ? 'linear-gradient(135deg, rgba(34, 197, 94, 0.22) 0%, rgba(20, 50, 35, 0.5) 100%)'
+                              : 'linear-gradient(135deg, #eef7f2 0%, #e1f0e8 100%)',
+                          color: isCurrent
+                            ? '#ffffff'
+                            : theme === 'dark' ? '#86efac' : '#1b4332',
+                          border: isCurrent
+                            ? '1px solid #34d399'
+                            : theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.28)' : '1px solid rgba(27, 67, 50, 0.14)',
+                          display: 'flex',
+                          alignItems: 'center',
+                          justifyContent: 'center',
+                          flexShrink: 0,
+                          boxShadow: isCurrent ? '0 2px 8px rgba(16, 185, 129, 0.3)' : 'none'
+                        }}>
+                          {getToolIcon(tool.categoryIcon, 17)}
+                        </div>
+
+                        <div style={{ flex: 1, minWidth: 0 }}>
+                          {/* Header: Name + Badge */}
+                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '8px' }}>
+                            <span style={{
+                              fontSize: '13.5px',
+                              fontWeight: isCurrent ? 800 : 700,
+                              color: isCurrent 
+                                ? (theme === 'dark' ? '#86efac' : '#166534')
+                                : (theme === 'dark' ? '#f2f7f4' : '#0a1411'),
+                              lineHeight: 1.3
+                            }}>
+                              {tool.name}
+                            </span>
+                            {tool.badge && (
+                              <span style={{
+                                fontSize: '9.5px',
+                                padding: '2px 6px',
+                                borderRadius: '9999px',
+                                background: tool.badgeBg || (theme === 'dark' ? 'rgba(34, 197, 94, 0.2)' : '#e2e8f0'),
+                                color: tool.badgeColor || (theme === 'dark' ? '#86efac' : '#334155'),
+                                fontWeight: 800,
+                                whiteSpace: 'nowrap',
+                                flexShrink: 0
+                              }}>
+                                {tool.badge}
+                              </span>
+                            )}
+                          </div>
+
+                          {/* Description / Use Case */}
+                          <div style={{
+                            fontSize: '11px',
+                            color: theme === 'dark' ? '#9cb1a5' : '#475569',
+                            marginTop: '3px',
+                            lineHeight: 1.4
+                          }}>
+                            {tool.useCase}
+                          </div>
+
+                          {/* Books Library Volume Selector */}
+                          {isBooks && (
+                            <div
+                              style={{
+                                display: 'flex',
+                                alignItems: 'center',
+                                gap: '6px',
+                                flexWrap: 'wrap',
+                                marginTop: '10px',
+                                paddingTop: '8px',
+                                borderTop: theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.18)' : '1px solid #e2e8f0'
+                              }}
+                              onClick={(e) => e.stopPropagation()}
+                            >
+                              <span style={{
+                                fontSize: '10px',
+                                color: theme === 'dark' ? '#86efac' : '#1b4332',
+                                fontWeight: 800,
+                                textTransform: 'uppercase',
+                                letterSpacing: '0.04em',
+                                marginRight: '2px'
+                              }}>
+                                7 VOLUMES:
+                              </span>
+                              {[
+                                { num: 1, slug: 'the-foundation', title: '01 Foundation' },
+                                { num: 2, slug: 'earned-not-built', title: '02 Earned' },
+                                { num: 3, slug: 'site-architecture', title: '03 Architecture' },
+                                { num: 4, slug: 'on-page-seo-for-nextjs', title: '04 Next.js' },
+                                { num: 5, slug: 'organic-social-media', title: '05 Social' },
+                                { num: 6, slug: 'writing-for-a-health-brand', title: '06 Writing' },
+                                { num: 7, slug: 'analytics-and-reporting', title: '07 Analytics' }
+                              ].map(b => (
+                                <button
+                                  key={b.slug}
+                                  type="button"
+                                  onClick={(e) => {
+                                    e.stopPropagation();
+                                    setActiveTab('books', b.slug);
+                                    setOpenDropdown(null);
+                                  }}
+                                  style={{
+                                    fontSize: '10px',
+                                    fontWeight: 700,
+                                    padding: '3px 7px',
+                                    borderRadius: '5px',
+                                    background: theme === 'dark' ? 'rgba(34, 197, 94, 0.16)' : '#f1f5f9',
+                                    color: theme === 'dark' ? '#d8f3dc' : '#1b4332',
+                                    border: theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.28)' : '1px solid #cbd5e1',
+                                    cursor: 'pointer',
+                                    transition: 'all 0.12s ease',
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '3px'
+                                  }}
+                                  onMouseEnter={(e) => {
+                                    e.currentTarget.style.backgroundColor = theme === 'dark' ? '#2d6a4f' : '#dcfce7';
+                                    e.currentTarget.style.borderColor = '#74c69d';
+                                  }}
+                                  onMouseLeave={(e) => {
+                                    e.currentTarget.style.backgroundColor = theme === 'dark' ? 'rgba(34, 197, 94, 0.16)' : '#f1f5f9';
+                                    e.currentTarget.style.borderColor = theme === 'dark' ? 'rgba(116, 198, 157, 0.28)' : '#cbd5e1';
+                                  }}
+                                  title={`Jump directly to Book 0${b.num}: ${b.title}`}
+                                >
+                                  {b.title}
+                                </button>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+                      </button>
+                    </div>
+                  );
+                })}
+              </div>
+
+              {/* Dropdown Footer: Quick Links & Full Scan Shortcut */}
+              <div style={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center',
+                paddingTop: '10px',
+                marginTop: '2px',
+                borderTop: theme === 'dark' ? '1px solid rgba(116, 198, 157, 0.16)' : '1px solid rgba(27, 67, 50, 0.10)',
+                flexWrap: 'wrap',
+                gap: '8px'
+              }}>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setOpenDropdown(null);
+                    setActiveTab('suite-sitemap');
+                  }}
+                  style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: '6px',
+                    fontSize: '11px',
+                    fontWeight: 700,
+                    color: theme === 'dark' ? '#86efac' : '#1b4332',
+                    background: 'none',
+                    border: 'none',
+                    cursor: 'pointer',
+                    padding: '4px 6px',
+                    borderRadius: '6px',
+                    transition: 'all 0.12s ease'
+                  }}
+                  onMouseEnter={(e) => {
+                    e.currentTarget.style.textDecoration = 'underline';
+                  }}
+                  onMouseLeave={(e) => {
+                    e.currentTarget.style.textDecoration = 'none';
+                  }}
+                >
+                  <FolderTree size={13} />
+                  <span>View All 21 Tools in Visual Master Sitemap</span>
+                  <ChevronRight size={12} />
+                </button>
+
+                <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  <span className="glowing-dot glowing-dot-emerald" style={{ width: '6px', height: '6px' }} />
+                  <span style={{
+                    fontSize: '10.5px',
+                    fontWeight: 600,
+                    color: theme === 'dark' ? '#9cb1a5' : '#64748b'
+                  }}>
+                    Level {activeCategory.levelNum} · Ready for Audit
+                  </span>
+                </div>
+              </div>
+            </div>
+          )}
 
           {/* Right Action: Master Site Scan, Search Modal, Theme Mode Toggle */}
           <div style={{ display: 'flex', alignItems: 'center', gap: '6px', flexShrink: 0 }}>
