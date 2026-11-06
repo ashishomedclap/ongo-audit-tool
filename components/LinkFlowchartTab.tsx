@@ -277,7 +277,7 @@ export default function LinkFlowchartTab() {
       />
 
       {/* Main Flowchart Visual Canvas Bento Box */}
-      <div className="bento-card" style={{ padding: '24px', background: '#ffffff', border: '1px solid var(--border-medium)' }}>
+      <div className="glass-card" style={{ padding: '24px', background: 'var(--bg-surface)', border: '1px solid var(--border-medium)' }}>
         
         {/* Controls Toolbar: Select Source & Target Pages */}
         <div style={{
@@ -304,8 +304,8 @@ export default function LinkFlowchartTab() {
                 borderRadius: '8px',
                 border: '1px solid var(--border-medium)',
                 fontSize: '0.82rem',
-                background: '#ffffff',
-                color: 'var(--color-primary-dark)',
+                background: 'var(--bg-input)',
+                color: 'var(--text-primary)',
                 fontWeight: 600
               }}
             >
@@ -331,8 +331,8 @@ export default function LinkFlowchartTab() {
                 borderRadius: '8px',
                 border: '1px solid var(--border-medium)',
                 fontSize: '0.82rem',
-                background: '#ffffff',
-                color: '#c2410c',
+                background: 'var(--bg-input)',
+                color: 'var(--text-primary)',
                 fontWeight: 600
               }}
             >
@@ -380,7 +380,7 @@ export default function LinkFlowchartTab() {
             THE VISUAL DIRECTED FLOW DIAGRAM
             ========================================================================= */}
         <div style={{
-          background: 'linear-gradient(180deg, #f8fafc 0%, #ffffff 100%)',
+          background: 'var(--bg-surface-alt)',
           border: '1px solid var(--border-medium)',
           borderRadius: '16px',
           padding: '28px 24px',
@@ -394,7 +394,7 @@ export default function LinkFlowchartTab() {
           }}>
             {/* 1. SOURCE NODE */}
             <div style={{
-              background: '#ffffff',
+              background: 'var(--bg-surface)',
               border: '2px solid #347e5d',
               borderRadius: '14px',
               padding: '20px',
@@ -493,7 +493,7 @@ export default function LinkFlowchartTab() {
 
             {/* 3. TARGET DESTINATION NODE */}
             <div style={{
-              background: '#ffffff',
+              background: 'var(--bg-surface)',
               border: '2px solid #e76f51',
               borderRadius: '14px',
               padding: '20px',

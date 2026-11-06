@@ -762,6 +762,277 @@ body[data-theme='dark'] {
    Comprehensive Dark Mode Overrides & Component Support
    ========================================================================== */
 
+/* Glassneumorphism & Bento Design System (Light & Dark) */
+.glass-card, .bento-glass {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(226, 232, 240, 0.85);
+  border-radius: var(--radius-bento);
+  box-shadow: 
+    0 1px 2px rgba(0, 0, 0, 0.03),
+    0 4px 16px -2px rgba(27, 67, 50, 0.05),
+    inset 0 1px 1px rgba(255, 255, 255, 0.9);
+  position: relative;
+  overflow: hidden;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-card:hover, .bento-glass:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    0 8px 24px -4px rgba(27, 67, 50, 0.09),
+    0 2px 6px rgba(0, 0, 0, 0.02),
+    inset 0 1px 1px rgba(255, 255, 255, 1);
+  border-color: rgba(52, 126, 93, 0.35);
+}
+
+.glass-header {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(248, 250, 252, 0.88) 100%);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(226, 232, 240, 0.85);
+  border-radius: 16px;
+  padding: 24px 28px;
+  box-shadow: 
+    0 4px 20px -2px rgba(15, 23, 42, 0.05),
+    inset 0 1px 1px rgba(255, 255, 255, 0.95);
+  position: relative;
+}
+
+.glass-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  font-size: 0.76rem;
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  color: var(--text-primary);
+  box-shadow: 
+    0 1px 3px rgba(0, 0, 0, 0.04),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  transition: all 0.18s ease;
+  cursor: pointer;
+}
+
+.glass-pill:hover {
+  background: #ffffff;
+  border-color: var(--color-primary);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(27, 67, 50, 0.1);
+}
+
+/* Dark Mode Glassneumorphism */
+[data-theme='dark'] .glass-card,
+[data-theme='dark'] .bento-glass {
+  background: rgba(18, 26, 22, 0.75) !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(74, 222, 128, 0.18) !important;
+  box-shadow: 
+    0 8px 32px 0 rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.06) !important;
+}
+
+[data-theme='dark'] .glass-card:hover,
+[data-theme='dark'] .bento-glass:hover {
+  border-color: rgba(74, 222, 128, 0.45) !important;
+  box-shadow: 
+    0 12px 36px 0 rgba(0, 0, 0, 0.55),
+    0 0 20px rgba(74, 222, 128, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1) !important;
+}
+
+[data-theme='dark'] .glass-header {
+  background: linear-gradient(135deg, rgba(20, 31, 26, 0.88) 0%, rgba(13, 20, 17, 0.92) 100%) !important;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(74, 222, 128, 0.22) !important;
+  box-shadow: 
+    0 8px 30px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08) !important;
+}
+
+[data-theme='dark'] .glass-pill {
+  background: rgba(22, 34, 28, 0.85) !important;
+  border-color: rgba(74, 222, 128, 0.22) !important;
+  color: #f1f5f3 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
+}
+
+[data-theme='dark'] .glass-pill:hover {
+  background: rgba(30, 48, 39, 0.95) !important;
+  border-color: #4ade80 !important;
+  color: #4ade80 !important;
+}
+
+/* ==========================================================================
+   CRITICAL DARK MODE CONTRAST & READABILITY AUDIT OVERRIDES
+   ========================================================================== */
+
+/* Universal Dark Text Inversion */
+[data-theme='dark'] [style*="color: #0f1715"],
+[data-theme='dark'] [style*="color: rgb(15, 23, 21)"],
+[data-theme='dark'] [style*="color: #111827"],
+[data-theme='dark'] [style*="color: #000000"],
+[data-theme='dark'] [style*="color: black"],
+[data-theme='dark'] [style*="color:#0f1715"] {
+  color: #f8fafc !important;
+}
+
+[data-theme='dark'] [style*="color: #1b4332"],
+[data-theme='dark'] [style*="color: rgb(27, 67, 50)"],
+[data-theme='dark'] [style*="color:#1b4332"] {
+  color: #86efac !important;
+}
+
+[data-theme='dark'] [style*="color: #1e293b"],
+[data-theme='dark'] [style*="color: #334155"],
+[data-theme='dark'] [style*="color: #1f2937"] {
+  color: #e2e8f0 !important;
+}
+
+[data-theme='dark'] [style*="color: #475569"],
+[data-theme='dark'] [style*="color: #64748b"],
+[data-theme='dark'] [style*="color: #4b5563"] {
+  color: #94a3b8 !important;
+}
+
+/* Status / Alert Text Inversions for Dark Backgrounds */
+[data-theme='dark'] [style*="color: #166534"],
+[data-theme='dark'] [style*="color: #15803d"],
+[data-theme='dark'] [style*="color: #14532d"],
+[data-theme='dark'] [style*="color: #065f46"],
+[data-theme='dark'] [style*="color:#166534"] {
+  color: #4ade80 !important;
+}
+
+[data-theme='dark'] [style*="color: #0369a1"],
+[data-theme='dark'] [style*="color: #0284c7"],
+[data-theme='dark'] [style*="color: #1e40af"],
+[data-theme='dark'] [style*="color: #1d4ed8"],
+[data-theme='dark'] [style*="color: #075985"] {
+  color: #38bdf8 !important;
+}
+
+[data-theme='dark'] [style*="color: #92400e"],
+[data-theme='dark'] [style*="color: #b45309"],
+[data-theme='dark'] [style*="color: #78350f"],
+[data-theme='dark'] [style*="color: #d97706"] {
+  color: #fbbf24 !important;
+}
+
+[data-theme='dark'] [style*="color: #991b1b"],
+[data-theme='dark'] [style*="color: #b91c1c"],
+[data-theme='dark'] [style*="color: #7f1d1d"],
+[data-theme='dark'] [style*="color: #dc2626"] {
+  color: #f87171 !important;
+}
+
+[data-theme='dark'] [style*="color: #6b21a8"],
+[data-theme='dark'] [style*="color: #7e22ce"],
+[data-theme='dark'] [style*="color: #581c87"] {
+  color: #c084fc !important;
+}
+
+/* Badge Containers In Dark Mode */
+[data-theme='dark'] [style*="background: #ecfdf5"],
+[data-theme='dark'] [style*="backgroundColor: #ecfdf5"],
+[data-theme='dark'] [style*="background: #f0fdf4"],
+[data-theme='dark'] [style*="backgroundColor: #f0fdf4"],
+[data-theme='dark'] [style*="background: #dcfce7"],
+[data-theme='dark'] [style*="backgroundColor: #dcfce7"] {
+  background-color: rgba(34, 197, 94, 0.16) !important;
+  border-color: rgba(74, 222, 128, 0.3) !important;
+  color: #4ade80 !important;
+}
+
+[data-theme='dark'] [style*="background: #e0f2fe"],
+[data-theme='dark'] [style*="backgroundColor: #e0f2fe"],
+[data-theme='dark'] [style*="background: #f0f9ff"],
+[data-theme='dark'] [style*="backgroundColor: #f0f9ff"] {
+  background-color: rgba(14, 165, 233, 0.16) !important;
+  border-color: rgba(56, 189, 248, 0.3) !important;
+  color: #38bdf8 !important;
+}
+
+[data-theme='dark'] [style*="background: #fffbeb"],
+[data-theme='dark'] [style*="backgroundColor: #fffbeb"],
+[data-theme='dark'] [style*="background: #fef3c7"],
+[data-theme='dark'] [style*="backgroundColor: #fef3c7"] {
+  background-color: rgba(245, 158, 11, 0.16) !important;
+  border-color: rgba(251, 191, 36, 0.3) !important;
+  color: #fbbf24 !important;
+}
+
+[data-theme='dark'] [style*="background: #fef2f2"],
+[data-theme='dark'] [style*="backgroundColor: #fef2f2"],
+[data-theme='dark'] [style*="background: #fee2e2"],
+[data-theme='dark'] [style*="backgroundColor: #fee2e2"] {
+  background-color: rgba(239, 68, 68, 0.16) !important;
+  border-color: rgba(248, 113, 113, 0.3) !important;
+  color: #f87171 !important;
+}
+
+[data-theme='dark'] [style*="background: #f3e8ff"],
+[data-theme='dark'] [style*="backgroundColor: #f3e8ff"],
+[data-theme='dark'] [style*="background: #ede9fe"],
+[data-theme='dark'] [style*="backgroundColor: #ede9fe"] {
+  background-color: rgba(168, 85, 247, 0.16) !important;
+  border-color: rgba(192, 132, 252, 0.3) !important;
+  color: #c084fc !important;
+}
+
+/* Clarity Badges in Dark Mode */
+[data-theme='dark'] .gsc-badge-healthy {
+  background-color: rgba(34, 197, 94, 0.16) !important;
+  border-color: rgba(74, 222, 128, 0.35) !important;
+  color: #4ade80 !important;
+}
+
+[data-theme='dark'] .gsc-badge-warning {
+  background-color: rgba(245, 158, 11, 0.16) !important;
+  border-color: rgba(251, 191, 36, 0.35) !important;
+  color: #fbbf24 !important;
+}
+
+[data-theme='dark'] .gsc-badge-critical {
+  background-color: rgba(239, 68, 68, 0.16) !important;
+  border-color: rgba(248, 113, 113, 0.35) !important;
+  color: #f87171 !important;
+}
+
+[data-theme='dark'] .gsc-badge-neutral {
+  background-color: rgba(148, 163, 184, 0.14) !important;
+  border-color: rgba(148, 163, 184, 0.25) !important;
+  color: #cbd5e1 !important;
+}
+
+/* SVG Chart Text in Dark Mode */
+[data-theme='dark'] svg text {
+  fill: #f8fafc !important;
+}
+
+/* Markdown prose in Dark Mode */
+[data-theme='dark'] .markdown-prose {
+  color: #cbd5e1 !important;
+}
+[data-theme='dark'] .markdown-prose h1,
+[data-theme='dark'] .markdown-prose h2,
+[data-theme='dark'] .markdown-prose h3 {
+  color: #f8fafc !important;
+}
+[data-theme='dark'] .markdown-prose code {
+  background: rgba(255, 255, 255, 0.08) !important;
+  color: #86efac !important;
+  border-color: rgba(74, 222, 128, 0.2) !important;
+}
+
 [data-theme='dark'] .bento-card,
 [data-theme='dark'] .gsc-card,
 [data-theme='dark'] .gsc-header,

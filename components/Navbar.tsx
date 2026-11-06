@@ -30,7 +30,8 @@ import {
   FileCheck2,
   RefreshCw,
   Sun,
-  Moon
+  Moon,
+  Radar
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 import ToolsSitemapModal from './ToolsSitemapModal';
@@ -55,6 +56,7 @@ export type TabType =
   | 'doctor-eeat'
   | 'state-licensing'
   | 'content-matcher'
+  | 'industry-radar'
   | 'meta' 
   | 'architecture' 
   | 'reports'
@@ -139,6 +141,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       case 'FileText': return <FileText size={size} />;
       case 'FileCode': return <FileCode size={size} />;
       case 'FileCheck2': return <FileCheck2 size={size} />;
+      case 'Radar': return <Radar size={size} />;
       default: return <Activity size={size} />;
     }
   };
@@ -468,6 +471,43 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                   </div>
                 );
               })}
+
+              {/* Dedicated Industry Radar Quick Pill */}
+              <button
+                onClick={() => {
+                  setOpenDropdown(null);
+                  setActiveTab('industry-radar');
+                }}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '6px',
+                  padding: '6px 13px',
+                  fontSize: '0.8rem',
+                  fontWeight: activeTab === 'industry-radar' ? 700 : 600,
+                  color: activeTab === 'industry-radar' ? '#ffffff' : '#bae6fd',
+                  background: activeTab === 'industry-radar' 
+                    ? 'linear-gradient(135deg, #0284c7 0%, #0369a1 100%)' 
+                    : 'rgba(2, 132, 199, 0.22)',
+                  border: '1px solid rgba(56, 189, 248, 0.45)',
+                  borderRadius: '9999px',
+                  cursor: 'pointer',
+                  boxShadow: activeTab === 'industry-radar' ? '0 2px 10px rgba(2, 132, 199, 0.4)' : 'none',
+                  transition: 'all 0.15s ease',
+                  whiteSpace: 'nowrap'
+                }}
+                title="Open Industry Radar (FDA Shortages, 503A Compounding GFI, Live Competitor Prices)"
+              >
+                <Radar size={13} />
+                <span>Radar</span>
+                <span style={{
+                  width: '6px',
+                  height: '6px',
+                  borderRadius: '50%',
+                  backgroundColor: '#38bdf8',
+                  display: 'inline-block'
+                }} />
+              </button>
 
               {/* Master Sitemap Button directly in the pill menu */}
               <button

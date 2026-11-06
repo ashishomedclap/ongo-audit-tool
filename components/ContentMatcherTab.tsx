@@ -186,10 +186,10 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
       />
 
       {/* Top Selector Bar: Choose Ongo Page vs Competitor Page */}
-      <div style={{
-        backgroundColor: '#ffffff',
+      <div className="glass-card" style={{
+        backgroundColor: 'var(--bg-surface)',
         borderRadius: '12px',
-        border: '1px solid #e2e8f0',
+        border: '1px solid var(--border-subtle)',
         padding: '16px 20px',
         boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
         display: 'grid',
@@ -279,10 +279,10 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
         alignItems: 'start'
       }}>
         {/* Left Column: Draft Content Input Box & Live Word Counters */}
-        <div style={{
-          backgroundColor: '#ffffff',
+        <div className="glass-card" style={{
+          backgroundColor: 'var(--bg-surface)',
           borderRadius: '12px',
-          border: '1px solid #e2e8f0',
+          border: '1px solid var(--border-subtle)',
           padding: '20px',
           boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
           display: 'flex',
@@ -292,11 +292,11 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
               <FileCheck2 size={16} color="#15803d" />
-              <span style={{ fontSize: '0.88rem', fontWeight: 700, color: '#0f1715' }}>
+              <span style={{ fontSize: '0.88rem', fontWeight: 700, color: 'var(--text-primary)' }}>
                 Page Content Draft / Live Source
               </span>
             </div>
-            <div style={{ display: 'flex', gap: '8px', fontSize: '0.74rem', color: '#64748b' }}>
+            <div style={{ display: 'flex', gap: '8px', fontSize: '0.74rem', color: 'var(--text-tertiary)' }}>
               <span><strong>{analysis.stats.wordCount}</strong> words</span>
               <span>&bull;</span>
               <span><strong>{analysis.stats.bulletCount}</strong> bullets</span>
@@ -315,11 +315,11 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
               width: '100%',
               padding: '12px 14px',
               borderRadius: '8px',
-              border: '1px solid #cbd5e1',
-              backgroundColor: '#f8fafc',
+              border: '1px solid var(--border-medium)',
+              backgroundColor: 'var(--bg-input)',
               fontSize: '0.82rem',
               lineHeight: 1.55,
-              color: '#0f1715',
+              color: 'var(--text-primary)',
               fontFamily: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace',
               resize: 'vertical'
             }}
@@ -330,13 +330,13 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
             display: 'grid',
             gridTemplateColumns: '1fr 1fr',
             gap: '10px',
-            backgroundColor: '#f8fafc',
+            backgroundColor: 'var(--bg-surface-alt)',
             padding: '12px',
             borderRadius: '8px',
-            border: '1px solid #e2e8f0'
+            border: '1px solid var(--border-subtle)'
           }}>
             <div>
-              <label style={{ fontSize: '0.72rem', fontWeight: 700, color: '#64748b', display: 'flex', justifyContent: 'space-between' }}>
+              <label style={{ fontSize: '0.72rem', fontWeight: 700, color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between' }}>
                 <span>Meta Title Tag</span>
                 <span style={{ color: targetTitle.length >= 45 && targetTitle.length <= 65 ? '#15803d' : '#d97706' }}>
                   {targetTitle.length} / 60 ch
@@ -351,15 +351,16 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
                   marginTop: '4px',
                   padding: '6px 10px',
                   borderRadius: '6px',
-                  border: '1px solid #cbd5e1',
+                  border: '1px solid var(--border-medium)',
                   fontSize: '0.76rem',
-                  backgroundColor: '#ffffff'
+                  backgroundColor: 'var(--bg-input)',
+                  color: 'var(--text-primary)'
                 }}
               />
             </div>
 
             <div>
-              <label style={{ fontSize: '0.72rem', fontWeight: 700, color: '#64748b', display: 'flex', justifyContent: 'space-between' }}>
+              <label style={{ fontSize: '0.72rem', fontWeight: 700, color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between' }}>
                 <span>Meta Description</span>
                 <span style={{ color: targetDesc.length >= 120 && targetDesc.length <= 165 ? '#15803d' : '#d97706' }}>
                   {targetDesc.length} / 155 ch
@@ -374,9 +375,10 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
                   marginTop: '4px',
                   padding: '6px 10px',
                   borderRadius: '6px',
-                  border: '1px solid #cbd5e1',
+                  border: '1px solid var(--border-medium)',
                   fontSize: '0.76rem',
-                  backgroundColor: '#ffffff'
+                  backgroundColor: 'var(--bg-input)',
+                  color: 'var(--text-primary)'
                 }}
               />
             </div>
@@ -384,10 +386,10 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
         </div>
 
         {/* Right Column: Search Intent Visual Donut / Pie Chart */}
-        <div style={{
-          backgroundColor: '#ffffff',
+        <div className="glass-card" style={{
+          backgroundColor: 'var(--bg-surface)',
           borderRadius: '12px',
-          border: '1px solid #e2e8f0',
+          border: '1px solid var(--border-subtle)',
           padding: '20px',
           boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
           display: 'flex',
@@ -436,7 +438,7 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
 
                 return (
                   <>
-                    <circle cx="50" cy="50" r={radius} fill="none" stroke="#f1f5f9" strokeWidth="18" />
+                    <circle cx="50" cy="50" r={radius} fill="none" stroke="var(--border-subtle)" strokeWidth="18" />
                     
                     {/* Informational slice (Blue) */}
                     <circle
@@ -500,7 +502,7 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
               justifyContent: 'center',
               textAlign: 'center'
             }}>
-              <span style={{ fontSize: '1.25rem', fontWeight: 800, color: '#0f1715' }}>
+              <span style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--text-primary)' }}>
                 {Math.max(analysis.intent.informational, analysis.intent.commercial, analysis.intent.transactional, analysis.intent.trust)}%
               </span>
               <span style={{ fontSize: '0.68rem', fontWeight: 700, color: '#64748b', textTransform: 'uppercase' }}>
@@ -561,10 +563,10 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
       </div>
 
       {/* Head-to-Head Competitor Comparison Matrix ("Read-to-Post Compare") */}
-      <div style={{
-        backgroundColor: '#ffffff',
+      <div className="glass-card" style={{
+        backgroundColor: 'var(--bg-surface)',
         borderRadius: '12px',
-        border: '1px solid #e2e8f0',
+        border: '1px solid var(--border-subtle)',
         padding: '20px',
         boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
         display: 'flex',
@@ -575,7 +577,7 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
               <GitCompare size={18} color="#15803d" />
-              <h3 style={{ fontSize: '1.05rem', fontWeight: 800, color: '#0f1715', margin: 0 }}>
+              <h3 style={{ fontSize: '1.05rem', fontWeight: 800, color: 'var(--text-primary)', margin: 0 }}>
                 Head-to-Head Benchmark: Ongo vs. {activeCompetitor.competitorName}
               </h3>
             </div>
@@ -654,9 +656,9 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
           {/* Competitor Page Card */}
           <div style={{
             padding: '16px',
-            backgroundColor: '#ffffff',
+            backgroundColor: 'var(--bg-surface)',
             borderRadius: '10px',
-            border: '1px solid #cbd5e1'
+            border: '1px solid var(--border-subtle)'
           }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px' }}>
               <span style={{ fontSize: '0.84rem', fontWeight: 800, color: '#0369a1' }}>
@@ -730,8 +732,8 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
                   fontSize: '0.74rem',
                   padding: '3px 10px',
                   borderRadius: '9999px',
-                  backgroundColor: '#ffffff',
-                  color: '#78350f',
+                  backgroundColor: 'var(--bg-surface)',
+                  color: 'var(--text-primary)',
                   border: '1px solid #fde68a',
                   fontWeight: 600
                 }}
@@ -744,10 +746,10 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
       </div>
 
       {/* 8-Point On-Page SEO & Content Quality Checklist */}
-      <div style={{
-        backgroundColor: '#ffffff',
+      <div className="glass-card" style={{
+        backgroundColor: 'var(--bg-surface)',
         borderRadius: '12px',
-        border: '1px solid #e2e8f0',
+        border: '1px solid var(--border-subtle)',
         padding: '20px',
         boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
         display: 'flex',

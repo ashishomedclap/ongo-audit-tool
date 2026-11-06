@@ -82,7 +82,7 @@ The application is structured into **3 functional levels** accessible via the to
 
 ---
 
-## 📊 Master Directory: All 20 Tools Ranked (#1 to #20)
+## 📊 Master Directory: All 21 Tools Ranked (#1 to #21)
 
 Every tool has been ranked by business ROI and strategic value, classified by tier, and given a clear product recommendation:
 
@@ -93,21 +93,22 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 | **#3** | **Competitor Gap & Content Roadmap** | `/competitor-gap` | Tier 1 (Core) | L2 Content | **KEEP (Core Asset)** | 33,108 URLs Wired • Writer Briefs |
 | **#4** | **Google Autocomplete & PAA Harvester** | `/keywords-harvester` | Tier 1 (Core) | L2 Content | **KEEP (Core Asset)** | $0 Real-Time API • 8 Silos |
 | **#5** | **Content Matcher & Head-to-Head Auditor** | `/content-matcher` | Tier 1 (Core) | L2 Content | **KEEP (Core Asset)** | 8-Point Checklist • Intent Pie Chart |
-| **#6** | **PageRank Flowchart Visualizer** | `/link-flowchart` | Tier 1 (Core) | L3 Silos | **KEEP (Core Asset)** | Directed PR Conduit • Silo Loop |
-| **#7** | **Internal Link & Anchor Recommender** | `/internal-links` | Tier 1 (Core) | L3 Silos | **KEEP (Core Asset)** | 4 Silo Rules • Copyable Anchors |
-| **#8** | **Ongo Live Pages & Meta Auditor** | `/ongo-pages` | Tier 1 (Core) | L1 Foundation | **KEEP (Core Asset)** | 56 Live URLs • Live SERP Preview |
-| **#9** | **7 Books Digital Library** | `/books` | Tier 2 (Strategy) | L1 Foundation | **KEEP (High Value)** | 7 Volumes • 2,924 Pages (PDF) |
-| **#10**| **100-Competitor Census & Directory** | `/competitors` | Tier 2 (Strategy) | L1 Foundation | **KEEP (High Value)** | 100 Telehealth Brands • Stack Intel |
-| **#11**| **Silo Architecture & 217-Page Roadmap** | `/architecture` | Tier 2 (Strategy) | L3 Silos | **KEEP (High Value)** | 6 Silos • 217 Planned URLs |
-| **#12**| **Doctor Credentials & Medical E-E-A-T** | `/doctor-eeat` | Tier 1 (Core) | L3 Silos | **KEEP (Core Asset)** | 5 Board MDs • NPI Verification |
-| **#13**| **50-State Telehealth Licensing Radar** | `/state-licensing` | Tier 2 (Strategy) | L3 Silos | **KEEP (High Value)** | 50 States • Video Visit Mandates |
-| **#14**| **503A Compounding Pharmacy & Sterility**| `/compliance` | Tier 2 (Strategy) | L3 Silos | **KEEP (High Value)** | USP <797> • Cold-Chain Packaging |
-| **#15**| **Meta Tags & CTR Auditor** | `/meta` | Tier 2 (Strategy) | L3 Silos | **KEEP (High Value)** | CTR Hooks • Human Query Rewrites |
-| **#16**| **Executive Intelligence Overview** | `/` | Tier 2 (Strategy) | L1 Foundation | **KEEP (High Value)** | 35k URLs Counter • Health Pings |
-| **#17**| **Common vs. Unique Moats Engine** | `/patterns` | Tier 3 (Review) | L2 Content | *CONSIDER MERGING into #3* | Interactive Moats • Peptide Blends |
-| **#18**| **Competitor Keyword Matrix** | `/keywords` | Tier 3 (Review) | L2 Content | *CONSIDER MERGING into #4* | 54k Static Matrix • KD & Intent |
-| **#19**| **Executive Strategy Reports Library** | `/reports` | Tier 3 (Review) | L3 Silos | *CONSIDER MERGING into #9* | Strategy Markdown Blueprints |
-| **#20**| **Competitor Sitemaps Explorer (74)** | `/sitemaps` | Tier 3 (Review) | L1 Foundation | *CONSIDER REMOVING* | Raw XML Sitemaps (Data in #3) |
+| **#6** | **Industry Radar & Telehealth Pulse** | `/industry-radar` | Tier 1 (Core) | L2 Intelligence | **KEEP (Core Asset)** | 24 Feeds • FDA Shortages & Live Pings |
+| **#7** | **PageRank Flowchart Visualizer** | `/link-flowchart` | Tier 1 (Core) | L3 Silos | **KEEP (Core Asset)** | Directed PR Conduit • Silo Loop |
+| **#8** | **Internal Link & Anchor Recommender** | `/internal-links` | Tier 1 (Core) | L3 Silos | **KEEP (Core Asset)** | 4 Silo Rules • Copyable Anchors |
+| **#9** | **Ongo Live Pages & Meta Auditor** | `/ongo-pages` | Tier 1 (Core) | L1 Foundation | **KEEP (Core Asset)** | 56 Live URLs • Live SERP Preview |
+| **#10**| **7 Books Digital Library** | `/books` | Tier 2 (Strategy) | L1 Foundation | **KEEP (High Value)** | 7 Volumes • 2,924 Pages (PDF) |
+| **#11**| **100-Competitor Census & Directory** | `/competitors` | Tier 2 (Strategy) | L1 Foundation | **KEEP (High Value)** | 100 Telehealth Brands • Stack Intel |
+| **#12**| **Silo Architecture & 217-Page Roadmap** | `/architecture` | Tier 2 (Strategy) | L3 Silos | **KEEP (High Value)** | 6 Silos • 217 Planned URLs |
+| **#13**| **Doctor Credentials & Medical E-E-A-T** | `/doctor-eeat` | Tier 1 (Core) | L3 Silos | **KEEP (Core Asset)** | 5 Board MDs • NPI Verification |
+| **#14**| **50-State Telehealth Licensing Radar** | `/state-licensing` | Tier 2 (Strategy) | L3 Silos | **KEEP (High Value)** | 50 States • Video Visit Mandates |
+| **#15**| **503A Compounding Pharmacy & Sterility**| `/compliance` | Tier 2 (Strategy) | L3 Silos | **KEEP (High Value)** | USP <797> • Cold-Chain Packaging |
+| **#16**| **Meta Tags & CTR Auditor** | `/meta` | Tier 2 (Strategy) | L3 Silos | **KEEP (High Value)** | CTR Hooks • Human Query Rewrites |
+| **#17**| **Executive Intelligence Overview** | `/` | Tier 2 (Strategy) | L1 Foundation | **KEEP (High Value)** | 35k URLs Counter • Health Pings |
+| **#18**| **Common vs. Unique Moats Engine** | `/patterns` | Tier 3 (Review) | L2 Content | *CONSIDER MERGING into #3* | Interactive Moats • Peptide Blends |
+| **#19**| **Competitor Keyword Matrix** | `/keywords` | Tier 3 (Review) | L2 Content | *CONSIDER MERGING into #4* | 54k Static Matrix • KD & Intent |
+| **#20**| **Executive Strategy Reports Library** | `/reports` | Tier 3 (Review) | L3 Silos | *CONSIDER MERGING into #10*| Strategy Markdown Blueprints |
+| **#21**| **Competitor Sitemaps Explorer (74)** | `/sitemaps` | Tier 3 (Review) | L1 Foundation | *CONSIDER REMOVING* | Raw XML Sitemaps (Data in #3) |
 
 ---
 
@@ -170,7 +171,21 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #6: PageRank & Link Equity Flowchart Visualizer
+### Rank #6: Industry Surveillance Radar & Telehealth Pulse
+* **Direct Route**: [`/industry-radar`](/industry-radar)
+* **Component**: `components/IndustryRadarTab.tsx` | **Data**: `lib/industry-radar-data.ts`
+* **What It Does**: Curated executive intelligence radar tracking **24 authoritative feeds** across FDA Drug Shortage databases, 503A/503B compounding policies, medical journals (NEJM, ClinicalTrials.gov), state medical licensing boards (California MBC, Texas TMB, FSMB video rules), and live competitor pricing/protocol moves (Mochi, Ro, Henry Meds, OrderlyMeds, Hims, Ivím).
+* **How To Use**:
+  1. *Filter by Cadence*: Toggle **Daily Priority** (FDA shortages, competitor pricing, APC advocacy), **Weekly Strategy** (state medical boards, clinical trial results, FTC enforcement), or **Monthly Deep Dive** (USP sterility standards, LegitScript certifications).
+  2. *Live HTTP Ping*: Click **"Ping HTTP"** on any resource to test live endpoint status, verify connectivity, and measure latency.
+  3. *Shift Checklist*: Check off resources as you inspect them; progress is saved automatically to `localStorage` so shifts and weekly audits never lose state.
+  4. *Export CSV*: Download the complete intelligence directory formatted for leadership compliance briefings with 1 click.
+* **Why To Use**: Telehealth compounding regulations, shortage removals, and competitor price cuts happen weekly. Maintaining continuous surveillance is essential for Ongo's clinical compliance, patient safety, and competitive positioning.
+* **Recommendation**: **KEEP (Core Asset)** — Indispensable daily/weekly operational pulse for leadership.
+
+---
+
+### Rank #7: PageRank & Link Equity Flowchart Visualizer
 * **Direct Route**: [`/link-flowchart`](/link-flowchart)
 * **Component**: `components/LinkFlowchartTab.tsx`
 * **What It Does**: Interactive directed flowchart simulator modeling the flow of PageRank equity ($PR$) between source and target pages using the Stanford PageRank algorithm:
@@ -181,7 +196,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #7: Internal Link & Anchor Text Recommender
+### Rank #8: Internal Link & Anchor Text Recommender
 * **Direct Route**: [`/internal-links`](/internal-links)
 * **Component**: `components/InternalLinksTab.tsx` | **Engine**: `lib/internal-links-engine.ts`
 * **What It Does**: Scans Ongo's live footprint to identify missing internal equity links and generates copyable, exact-match anchor text snippets based on **4 Strict Silo Linking Rules**:
@@ -195,7 +210,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #8: Ongo Live Pages & Meta Auditor
+### Rank #9: Ongo Live Pages & Meta Auditor
 * **Direct Route**: [`/ongo-pages`](/ongo-pages)
 * **Component**: `components/OngoPagesTab.tsx` | **Data**: `data/inventory/ongo_live_pages.json`
 * **What It Does**: Complete operational inventory of Ongo's **56 live production pages** parsed directly from `sitemap.xml` and internal crawlers. Displays HTTP status codes, title tags, meta descriptions, image counts, missing alt tags, and simulated Google SERP previews.
@@ -205,7 +220,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #9: 7 Onboarding Books Digital Library
+### Rank #10: 7 Onboarding Books Digital Library
 * **Direct Route**: [`/books`](/books)
 * **Component**: `components/BooksLibraryTab.tsx` | **Data**: `lib/books-data.ts`
 * **What It Does**: In-browser digital PDF library containing all **7 foundational onboarding books** (2,924 pages, 518,000+ words) covering clinical GLP-1 pharmacology, FDA compounding legality, SEO silo architecture, and telehealth conversion engineering.
@@ -215,7 +230,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #10: 100-Competitor Census & Directory
+### Rank #11: 100-Competitor Census & Directory
 * **Direct Route**: [`/competitors`](/competitors)
 * **Component**: `components/CompetitorsTab.tsx` | **Data**: `data/inventory/100_competitors.json`
 * **What It Does**: Exhaustive market directory of **100 telehealth competitors** offering compounded GLP-1 medications. Tracks monthly visit volume estimates, domain ratings, tech stacks (Webflow, Next.js, Shopify, WordPress), clinical medication focus (Semaglutide vs Tirzepatide), and primary sitemaps.
@@ -225,7 +240,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #11: Silo Architecture & 217-Page Roadmap
+### Rank #12: Silo Architecture & 217-Page Roadmap
 * **Direct Route**: [`/architecture`](/architecture)
 * **Component**: `components/ArchitectureTab.tsx`
 * **What It Does**: Interactive structural blueprint dividing Ongo's long-term expansion into **6 core telehealth silos** and tracking a master checklist of **217 planned pages** with localized browser persistence.
@@ -235,7 +250,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #12: Doctor Credentials & Medical E-E-A-T Auditor
+### Rank #13: Doctor Credentials & Medical E-E-A-T Auditor
 * **Direct Route**: [`/doctor-eeat`](/doctor-eeat)
 * **Component**: `components/DoctorEeatTab.tsx` | **Data**: `data/competitor_clinical_compliance.json`
 * **What It Does**: Dedicated clinical authority auditor tracking medical director credentials, MD/DO board certifications, state medical licenses, NPI registrations, and doctor-reviewed author bylines across 100 telehealth brands.
@@ -245,7 +260,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #13: 50-State Telehealth Licensing & Video Regulations
+### Rank #14: 50-State Telehealth Licensing & Video Regulations
 * **Direct Route**: [`/state-licensing`](/state-licensing)
 * **Component**: `components/StateLicensingTab.tsx`
 * **What It Does**: Geographic regulatory radar mapping nationwide medical license coverage, synchronous video visit mandates vs asynchronous intake forms, and state medication shipping restrictions across all 50 US states.
@@ -255,7 +270,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #14: 503A Compounding Pharmacy & Cold-Chain Sterility
+### Rank #15: 503A Compounding Pharmacy & Cold-Chain Sterility
 * **Direct Route**: [`/compliance`](/compliance)
 * **Component**: `components/ComplianceTab.tsx`
 * **What It Does**: Audits compounding pharmacy partnerships, 503A state-board compliance, 503B outsourcing facilities, USP <797> sterile cleanroom protocols, and temperature-controlled cold-pack shipping standards across 100 competitors.
@@ -265,7 +280,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #15: Meta Tags & CTR Auditor
+### Rank #16: Meta Tags & CTR Auditor
 * **Direct Route**: [`/meta`](/meta)
 * **Component**: `components/MetaAuditorTab.tsx`
 * **What It Does**: Evaluates live title tags and meta descriptions, providing recommended **Human Search Query Rewrites** that replace robotic, symbol-heavy title tags with natural search phrasing to maximize organic Click-Through Rate (CTR).
@@ -275,7 +290,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #16: Executive Intelligence Overview
+### Rank #17: Executive Intelligence Overview
 * **Direct Route**: [`/`](/)
 * **Component**: `components/OverviewTab.tsx`
 * **What It Does**: Central executive benchmarking dashboard tracking macro KPIs across 100 competitors, 33,108 indexed URLs, real-time HTTP server ping latency, and Ongo's live 56-page footprint.
@@ -285,7 +300,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #17: Common vs. Unique Moat Pattern Engine
+### Rank #18: Common vs. Unique Moat Pattern Engine
 * **Direct Route**: [`/patterns`](/patterns)
 * **Component**: `components/CommonVsUniqueTab.tsx` | **Data**: `lib/patterns-data.ts`
 * **What It Does**: Structural pattern analyzer that separates "table-stakes" competitor pages (e.g., standard blog posts, basic pricing) from **proprietary competitive moats** (dosage calculators, interactive quizzes, micro-dosing protocols, peptide combinations).
@@ -295,7 +310,7 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #18: Competitor Keyword Matrix
+### Rank #19: Competitor Keyword Matrix
 * **Direct Route**: [`/keywords`](/keywords)
 * **Component**: `components/KeywordsTab.tsx` | **Data**: `data/inventory/keywords_explorer.json`
 * **What It Does**: Searchable database of 54,000+ commercial and clinical keywords targeted by top-ranking GLP-1 competitors, displaying estimated search volume, keyword difficulty (KD), and search intent.
@@ -305,17 +320,17 @@ Every tool has been ranked by business ROI and strategic value, classified by ti
 
 ---
 
-### Rank #19: Executive Strategy & Compliance Reports
+### Rank #20: Executive Strategy & Compliance Reports
 * **Direct Route**: [`/reports`](/reports)
 * **Component**: `components/ReportsTab.tsx` | **Data**: `data/reports/`
 * **What It Does**: Integrated markdown document reader rendering full-length strategic research reports, sitemap intelligence teardowns, and clinical gap analysis generated for Ongo leadership.
 * **How To Use**: Select any report from the sidebar to read full text with formatted tables, mermaid diagrams, and 1-click markdown downloads.
 * **Why To Use**: Centralizes executive strategy documents within the application UI.
-* **Recommendation**: **CONSIDER MERGING** — Could be merged into Tool #9 (7 Books Library) under a dedicated "Executive Reports" section to consolidate all long-form reading materials into one tab.
+* **Recommendation**: **CONSIDER MERGING** — Could be merged into Tool #10 (7 Books Library) under a dedicated "Executive Reports" section to consolidate all long-form reading materials into one tab.
 
 ---
 
-### Rank #20: Competitor Sitemaps Explorer (74)
+### Rank #21: Competitor Sitemaps Explorer (74)
 * **Direct Route**: [`/sitemaps`](/sitemaps)
 * **Component**: `components/SitemapsTab.tsx` | **Data**: `data/inventory/competitor_sitemaps_summary.csv`
 * **What It Does**: Technical sitemap explorer inspecting raw XML sitemap hierarchies, URL distribution, and HTTP status codes across 74 accessible competitor domains.
@@ -363,33 +378,34 @@ audit-tool/
 │   │   ├── scan-site/           # Master site & single URL live crawler API
 │   │   ├── scrape-page/         # Strips React hydration & inlines clean CSS
 │   │   └── sitemap-detail/      # Competitor sitemap URL hierarchy provider
-│   ├── architecture/            # Page Route: Tool #11 (217-Page Roadmap)
-│   ├── books/                   # Page Route: Tool #9 (7 Books Library)
+│   ├── architecture/            # Page Route: Tool #12 (217-Page Roadmap)
+│   ├── books/                   # Page Route: Tool #10 (7 Books Library)
 │   ├── clean-scraper/           # Page Route: Tool #1 (Clean Scraper)
 │   ├── competitor-gap/          # Page Route: Tool #3 (Content Roadmap)
-│   ├── competitors/             # Page Route: Tool #10 (100 Competitors)
-│   ├── compliance/              # Page Route: Tool #14 (503A Sterility)
+│   ├── competitors/             # Page Route: Tool #11 (100 Competitors)
+│   ├── compliance/              # Page Route: Tool #15 (503A Sterility)
 │   ├── content-matcher/         # Page Route: Tool #5 (Content Matcher)
-│   ├── doctor-eeat/             # Page Route: Tool #12 (Doctor E-E-A-T)
+│   ├── doctor-eeat/             # Page Route: Tool #13 (Doctor E-E-A-T)
 │   ├── image-audit/             # Page Route: Tool #2 (Image a11y Auditor)
-│   ├── internal-links/          # Page Route: Tool #7 (Internal Links)
-│   ├── keywords/                # Page Route: Tool #18 (Keywords Matrix)
+│   ├── industry-radar/          # Page Route: Tool #6 (Industry Radar & Surveillance)
+│   ├── internal-links/          # Page Route: Tool #8 (Internal Links)
+│   ├── keywords/                # Page Route: Tool #19 (Keywords Matrix)
 │   ├── keywords-harvester/      # Page Route: Tool #4 (Google PAA Harvester)
-│   ├── link-flowchart/          # Page Route: Tool #6 (PageRank Flowchart)
-│   ├── meta/                    # Page Route: Tool #15 (Meta Tags Auditor)
-│   ├── ongo-pages/              # Page Route: Tool #8 (Ongo Live Pages)
-│   ├── patterns/                # Page Route: Tool #17 (Moat Patterns)
-│   ├── reports/                 # Page Route: Tool #19 (Reports Library)
-│   ├── sitemap/                 # Page Route: Visual 20-Tool Sitemap Tab
-│   ├── sitemaps/                # Page Route: Tool #20 (Sitemaps Explorer)
-│   ├── state-licensing/         # Page Route: Tool #13 (50-State Licensing)
-│   ├── globals.css              # $1,000 GSC + Clarity Minimal Neutral Theme
+│   ├── link-flowchart/          # Page Route: Tool #7 (PageRank Flowchart)
+│   ├── meta/                    # Page Route: Tool #16 (Meta Tags Auditor)
+│   ├── ongo-pages/              # Page Route: Tool #9 (Ongo Live Pages)
+│   ├── patterns/                # Page Route: Tool #18 (Moat Patterns)
+│   ├── reports/                 # Page Route: Tool #20 (Reports Library)
+│   ├── sitemap/                 # Page Route: Visual 21-Tool Sitemap Tab
+│   ├── sitemaps/                # Page Route: Tool #21 (Sitemaps Explorer)
+│   ├── state-licensing/         # Page Route: Tool #14 (50-State Licensing)
+│   ├── globals.css              # Glassneumorphism, Bento Grid & Dark Mode Contrast Engine
 │   ├── layout.tsx               # Root application layout
 │   ├── page.tsx                 # Dashboard orchestrator & tab manager
 │   └── sitemap.ts               # Generates dynamic /sitemap.xml
 ├── components/
 │   ├── ArchitectureTab.tsx      # Silo breakdown & 217-page checklist
-│   ├── AuditDashboard.tsx       # Core orchestrator mounting all 20 tools
+│   ├── AuditDashboard.tsx       # Core orchestrator mounting all 21 tools with GSAP transitions
 │   ├── BooksLibraryTab.tsx      # Digital PDF viewer for 7 onboarding books
 │   ├── CleanScraperTab.tsx      # Clean cloner UI with offline preview sandbox
 │   ├── CommonVsUniqueTab.tsx    # Table-stakes vs competitive moats UI
@@ -402,13 +418,14 @@ audit-tool/
 │   ├── CustomUrlScanBar.tsx     # GSC-style URL inspection bar across tools
 │   ├── DoctorEeatTab.tsx        # Medical director & NPI registry auditor
 │   ├── ImageAuditTab.tsx        # Image alt & WCAG compliance scorecard
+│   ├── IndustryRadarTab.tsx     # 24-feed industry surveillance radar & live ping tester
 │   ├── InternalLinksTab.tsx     # 4 Silo internal linking recommendations
 │   ├── KeywordsHarvesterTab.tsx # Google Autocomplete PAA miner UI
 │   ├── KeywordsTab.tsx          # 54k Static keyword opportunity explorer
 │   ├── LinkFlowchartTab.tsx     # Interactive PageRank equity flowchart
 │   ├── MasterSiteScanModal.tsx  # 1-Click whole-site re-crawl modal
 │   ├── MetaAuditorTab.tsx       # SERP preview & human query rewrites
-│   ├── Navbar.tsx               # Header with 3 levels, 56 URLs badge & ⌘K
+│   ├── Navbar.tsx               # Header with 3 levels, Radar shortcut, 56 URLs badge & ⌘K
 │   ├── OngoLogo.tsx             # Official SVG Ongo brand mark
 │   ├── OngoPagesTab.tsx         # 56 live production pages inventory table
 │   ├── OverviewTab.tsx          # Executive macro KPIs & latency pings
@@ -416,7 +433,7 @@ audit-tool/
 │   ├── SitemapsTab.tsx          # 74 Competitor XML sitemaps explorer
 │   ├── StateLicensingTab.tsx    # 50-State video visit regulatory matrix
 │   ├── ToolsSitemapModal.tsx    # ⌘K Command Palette search overlay
-│   ├── ToolsSitemapTab.tsx      # 20-tool ranked visual directory
+│   ├── ToolsSitemapTab.tsx      # 21-tool ranked visual directory
 │   └── VisualMetricsWidgets.tsx # Reusable analytics metric cards
 ├── data/
 │   ├── inventory/
@@ -429,10 +446,25 @@ audit-tool/
 │   ├── reports/                            # Markdown intelligence reports
 │   ├── scraped_audit/                      # Pre-scraped offline clean pages
 │   └── sitemaps/                           # 100 Individual competitor XML folders
+├── docs/
+│   └── architecture/
+│       └── HOW_TO_USE_SCRAPER.md           # Architecture scraper documentation
 ├── lib/
+│   ├── animations.ts            # GSAP entrance staggers, floating cards & beacon pulses
 │   ├── books-data.ts            # Metadata & chapter indices for 7 books
 │   ├── competitor-gap-engine.ts # 33k URLs gap calculator & writer briefs
 │   ├── content-matcher-engine.ts# 8-Point checklist & Intent Donut engine
+│   ├── data.ts                  # Central server-side data loaders
+│   ├── industry-radar-data.ts   # 24 Curated feeds (FDA, compounding, boards, trials, pricing)
+│   ├── internal-links-engine.ts # 4 Strict topic silo linking algorithms
+│   ├── patterns-data.ts         # Common vs proprietary moat patterns
+│   └── tools-sitemap.ts         # Single source of truth for all 21 tools
+├── scripts/
+│   ├── full_live_site_audit.js  # Scrapes 56 Ongo production pages
+│   └── rescan_sitemap.js        # Re-crawls sitemap.xml on demand
+├── public/                      # Static assets & 7 onboarding PDF volumes
+└── package.json                 # Next.js 14, React 19, Lucide, GSAP
+```
 │   ├── data.ts                  # Typed data service & file loaders
 │   ├── internal-links-engine.ts # 4 Silo linking rules & anchor text engine
 │   ├── patterns-data.ts         # Table-stakes vs moat patterns database
@@ -495,10 +527,14 @@ All endpoints run on the Next.js App Router (`app/api/`):
 
 ## 🎨 Design System: $1,000 GSC + Clarity Minimal Neutral UI & Dark/Light Mode
 
-The user interface follows a high-density, low-noise aesthetic modeled after **Google Search Console** and **Microsoft Clarity**, featuring a classy, instant **Dark & Light Mode Switcher**:
+The user interface follows a high-density, low-noise aesthetic modeled after **Google Search Console** and **Microsoft Clarity**, combined with an elite **Glassneumorphic Bento Grid** architecture and **GSAP micro-animations**:
 
+* **Glassneumorphism & Bento Grids**: Cards feature frosted-glass backdrop filters (`backdrop-filter: blur(16px)`), dual-layer highlights, subtle borders, and asymmetric grid arrangements (`.glass-card`, `.bento-glass`, `.glass-pill`).
+* **GSAP Micro-Animations**: Smooth GPU-accelerated entrance stagger animations across cards, tabs, and interactive pills via GreenSock (`gsap`), providing a snappy, premium feel without layout jank.
+* **Instant Scroll-To-Top**: Tab and page changes execute a multi-pass synchronous and asynchronous scroll reset (`scrollToTopInstant`), instantly mounting the user at the exact top of the selected tool.
 * **Classy Theme Toggle**: Integrated into the top navigation bar with dynamic Sun/Moon iconography.
 * **Persistent Preference**: Remembers the user's manual selection across reloads via `localStorage` (`ongo-theme`) and automatically respects OS system settings (`prefers-color-scheme: dark`) on initial visit.
+* **Dark Mode Readability System**: All text colors, badges, and alerts automatically invert from deep tones into radiant mint, sky, amber, and obsidian-pure contrast values (`#f8fafc`, `#86efac`, `#38bdf8`, `#fbbf24`), guaranteeing 100% legibility in dark mode.
 * **Zero FOUC (Flash of Unstyled Content)**: Pre-hydration inline script in `<head>` applies `data-theme` immediately before paint.
 * **Smooth Transitions**: 0.2s CSS ease transitions across backgrounds, card borders, and typography.
 

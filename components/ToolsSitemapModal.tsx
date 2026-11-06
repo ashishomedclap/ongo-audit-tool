@@ -27,7 +27,8 @@ import {
   GitMerge,
   FileCode,
   Image as ImageIcon,
-  FileCheck2
+  FileCheck2,
+  Radar
 } from 'lucide-react';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition } from '@/lib/tools-sitemap';
 import { TabType } from './Navbar';
@@ -102,6 +103,7 @@ export default function ToolsSitemapModal({
       case 'Layers': return <Layers size={size} />;
       case 'FileText': return <FileText size={size} />;
       case 'FileCheck2': return <FileCheck2 size={size} />;
+      case 'Radar': return <Radar size={size} />;
       default: return <Activity size={size} />;
     }
   };

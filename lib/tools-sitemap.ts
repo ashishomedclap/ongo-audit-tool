@@ -182,13 +182,42 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #6: PAGERANK & LINK EQUITY FLOWCHART
+  // RANK #6: INDUSTRY RADAR & COMPETITIVE PULSE
+  // ==========================================
+  {
+    id: 'industry-radar',
+    name: 'Industry Surveillance Radar & Telehealth Pulse',
+    shortName: 'Industry Radar',
+    rank: 6,
+    rankTier: 'Tier 1: Essential Core',
+    level: 2,
+    levelLabel: 'Level 2 · Intelligence',
+    category: 'level-2',
+    categoryLabel: 'Level 2: Research & Market Surveillance',
+    categoryIcon: 'Radar',
+    path: '/industry-radar',
+    useCase: 'Daily and weekly surveillance feeds for GLP-1 FDA shortages, 503A compounding regulations, clinical trial updates, and telehealth competitor price shifts.',
+    description: 'Curated executive intelligence radar tracking 24 authoritative sources across regulatory bodies, medical journals, state licensing boards, and live competitor pricing.',
+    valueProp: 'Instant daily/weekly inspection rounds with live status checks, categorized bookmarks, and automated workflow checklists.',
+    howToUse: 'Filter by Cadence (Daily, Weekly, Monthly) or Category. Run live HTTP status pings to verify endpoints, mark items as inspected in your shift checklist, and export audit logs.',
+    whyToUse: 'Compounding regulations and telehealth GLP-1 pricing change weekly. Staying ahead of FDA shortage status and state telemedicine laws is vital to Ongo\'s clinical compliance and SEO authority.',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Indispensable intelligence dashboard keeping the executive team ahead of regulatory, clinical, and competitive shifts in the GLP-1 space.',
+    badge: 'Daily Surveillance',
+    badgeColor: '#0284c7',
+    badgeBg: '#e0f2fe',
+    keyMetrics: '24 Monitored Feeds • Live Ping Tester',
+    keywords: ['radar', 'surveillance', 'fda', 'regulations', 'compounding', 'competitors', 'clinical', 'telehealth', 'glp-1', 'daily', 'weekly']
+  },
+
+  // ==========================================
+  // RANK #7: PAGERANK & LINK EQUITY FLOWCHART
   // ==========================================
   {
     id: 'link-flowchart',
     name: 'PageRank & Link Equity Flowchart Visualizer',
     shortName: 'Link Flowchart',
-    rank: 6,
+    rank: 7,
     rankTier: 'Tier 1: Essential Core',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -211,13 +240,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #7: INTERNAL LINK & ANCHOR RECOMMENDER
+  // RANK #8: INTERNAL LINK & ANCHOR RECOMMENDER
   // ==========================================
   {
     id: 'internal-links',
     name: 'Internal Link & Anchor Text Recommender',
     shortName: 'Internal Links',
-    rank: 7,
+    rank: 8,
     rankTier: 'Tier 1: Essential Core',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -240,13 +269,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #8: ONGO LIVE PAGES & META AUDITOR
+  // RANK #9: ONGO LIVE PAGES & META AUDITOR
   // ==========================================
   {
     id: 'ongo-pages',
     name: 'Ongo Live Pages & Meta Auditor',
     shortName: 'Ongo Live Pages',
-    rank: 8,
+    rank: 9,
     rankTier: 'Tier 1: Essential Core',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
@@ -269,13 +298,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #9: 7 ONBOARDING BOOKS DIGITAL LIBRARY
+  // RANK #10: 7 ONBOARDING BOOKS DIGITAL LIBRARY
   // ==========================================
   {
     id: 'books',
     name: '7 Onboarding Books Digital Library',
     shortName: '7 Books Library',
-    rank: 9,
+    rank: 10,
     rankTier: 'Tier 2: High Value Strategy',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
@@ -298,13 +327,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #10: 100-COMPETITOR CENSUS & DIRECTORY
+  // RANK #11: 100-COMPETITOR CENSUS & DIRECTORY
   // ==========================================
   {
     id: 'competitors',
     name: '100-Competitor Census & Directory',
     shortName: '100 Competitors',
-    rank: 10,
+    rank: 11,
     rankTier: 'Tier 2: High Value Strategy',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
@@ -327,13 +356,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #11: SILO ARCHITECTURE & 217-PAGE ROADMAP
+  // RANK #12: SILO ARCHITECTURE & 217-PAGE ROADMAP
   // ==========================================
   {
     id: 'architecture',
     name: 'Silo Architecture & 217-Page Roadmap',
     shortName: '217-Page Silos',
-    rank: 11,
+    rank: 12,
     rankTier: 'Tier 2: High Value Strategy',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -356,13 +385,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #12: DOCTOR CREDENTIALS & MEDICAL E-E-A-T AUDITOR
+  // RANK #13: DOCTOR CREDENTIALS & MEDICAL E-E-A-T AUDITOR
   // ==========================================
   {
     id: 'doctor-eeat',
     name: 'Doctor Credentials & Medical E-E-A-T Auditor',
     shortName: 'Doctor E-E-A-T',
-    rank: 12,
+    rank: 13,
     rankTier: 'Tier 1: Essential Core',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -385,13 +414,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #13: 50-STATE TELEHEALTH LICENSING & VIDEO REGULATIONS
+  // RANK #14: 50-STATE TELEHEALTH LICENSING & VIDEO REGULATIONS
   // ==========================================
   {
     id: 'state-licensing',
     name: '50-State Telehealth Licensing & Video Regulations',
     shortName: 'State Licensing',
-    rank: 13,
+    rank: 14,
     rankTier: 'Tier 2: High Value Strategy',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -414,13 +443,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #14: 503A COMPOUNDING PHARMACY & COLD-CHAIN STERILITY
+  // RANK #15: 503A COMPOUNDING PHARMACY & COLD-CHAIN STERILITY
   // ==========================================
   {
     id: 'compliance',
     name: '503A Compounding Pharmacy & Sterility Hub',
     shortName: 'Pharmacy Sterility',
-    rank: 14,
+    rank: 15,
     rankTier: 'Tier 2: High Value Strategy',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -443,13 +472,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #15: META TAGS & CTR AUDITOR
+  // RANK #16: META TAGS & CTR AUDITOR
   // ==========================================
   {
     id: 'meta',
     name: 'Meta Tags & CTR Auditor',
     shortName: 'Meta Auditor',
-    rank: 15,
+    rank: 16,
     rankTier: 'Tier 2: High Value Strategy',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -472,13 +501,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #16: EXECUTIVE INTELLIGENCE OVERVIEW
+  // RANK #17: EXECUTIVE INTELLIGENCE OVERVIEW
   // ==========================================
   {
     id: 'overview',
     name: 'Executive Intelligence Overview',
     shortName: 'Overview',
-    rank: 16,
+    rank: 17,
     rankTier: 'Tier 2: High Value Strategy',
     level: 1,
     levelLabel: 'Level 1 · Foundation',
@@ -501,13 +530,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #17: COMMON VS UNIQUE MOAT PATTERNS
+  // RANK #18: COMMON VS UNIQUE MOAT PATTERNS
   // ==========================================
   {
     id: 'patterns',
     name: 'Common vs. Unique Moat Pattern Engine',
     shortName: 'Common vs Unique',
-    rank: 17,
+    rank: 18,
     rankTier: 'Tier 3: Specialized / Review',
     level: 2,
     levelLabel: 'Level 2 · Research',
@@ -530,13 +559,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #18: COMPETITOR KEYWORD MATRIX
+  // RANK #19: COMPETITOR KEYWORD MATRIX
   // ==========================================
   {
     id: 'keywords',
     name: 'Competitor Keyword & Opportunity Matrix',
     shortName: 'Keyword Explorer',
-    rank: 18,
+    rank: 19,
     rankTier: 'Tier 3: Specialized / Review',
     level: 2,
     levelLabel: 'Level 2 · Research',
@@ -559,13 +588,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #19: EXECUTIVE STRATEGY & COMPLIANCE REPORTS
+  // RANK #20: EXECUTIVE STRATEGY & COMPLIANCE REPORTS
   // ==========================================
   {
     id: 'reports',
     name: 'Executive Strategy & Compliance Reports',
     shortName: 'Reports Library',
-    rank: 19,
+    rank: 20,
     rankTier: 'Tier 3: Specialized / Review',
     level: 3,
     levelLabel: 'Level 3 · Architecture',
@@ -588,13 +617,13 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #20: COMPETITOR SITEMAPS EXPLORER
+  // RANK #21: COMPETITOR SITEMAPS EXPLORER
   // ==========================================
   {
     id: 'sitemaps',
     name: 'Competitor Sitemaps Explorer',
     shortName: 'Sitemaps (74)',
-    rank: 20,
+    rank: 21,
     rankTier: 'Tier 3: Specialized / Review',
     level: 1,
     levelLabel: 'Level 1 · Foundation',

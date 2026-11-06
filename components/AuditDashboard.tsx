@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import Navbar, { TabType } from './Navbar';
 import OverviewTab from './OverviewTab';
 import SitemapsTab from './SitemapsTab';
@@ -23,9 +23,11 @@ import LinkFlowchartTab from './LinkFlowchartTab';
 import DoctorEeatTab from './DoctorEeatTab';
 import StateLicensingTab from './StateLicensingTab';
 import ContentMatcherTab from './ContentMatcherTab';
+import IndustryRadarTab from './IndustryRadarTab';
 import CompetitorModal from './CompetitorModal';
 import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
 import { BooksIndexData } from '@/lib/books-data';
+import { animatePageEntrance } from '@/lib/animations';
 
 export const TAB_TO_URL: Record<TabType, string> = {
   'overview': '/',
@@ -46,6 +48,7 @@ export const TAB_TO_URL: Record<TabType, string> = {
   'doctor-eeat': '/doctor-eeat',
   'state-licensing': '/state-licensing',
   'content-matcher': '/content-matcher',
+  'industry-radar': '/industry-radar',
   'meta': '/meta',
   'reports': '/reports',
   'suite-sitemap': '/sitemap'
@@ -70,6 +73,7 @@ export const URL_TO_TAB: Record<string, TabType> = {
   '/doctor-eeat': 'doctor-eeat',
   '/state-licensing': 'state-licensing',
   '/content-matcher': 'content-matcher',
+  '/industry-radar': 'industry-radar',
   '/meta': 'meta',
   '/reports': 'reports',
   '/sitemap': 'suite-sitemap'
@@ -103,19 +107,41 @@ export default function AuditDashboard({
   const [activeTab, setActiveTabState] = useState<TabType>(defaultTab);
   const [currentBookSlug, setCurrentBookSlug] = useState<string | undefined>(initialBookSlug);
   const [inspectFolder, setInspectFolder] = useState<string | null>(null);
+  const mainRef = useRef<HTMLElement>(null);
 
   const totalUrls = initialCompetitors.reduce((acc, c) => acc + (c.totalUrls || 0), 0);
   const activeSitemaps = initialCompetitors.filter(c => c.status === 'SUCCESS').length;
+
+  // Robust scroll to top function that guarantees landing at top on page/tool switch
+  const scrollToTopInstant = useCallback(() => {
+    if (typeof window === 'undefined') return;
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0;
+    
+    const mainEl = document.getElementById('tool-content-mount');
+    if (mainEl) {
+      mainEl.scrollTop = 0;
+    }
+
+    requestAnimationFrame(() => {
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+    });
+    setTimeout(() => {
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+    }, 60);
+  }, []);
 
   // URL sync handler when switching tabs or books
   const handleSelectTab = useCallback((tab: TabType, bookSlug?: string) => {
     setActiveTabState(tab);
     if (typeof window === 'undefined') return;
 
-    // Immediately open from start / hero section at top of page
-    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-    document.documentElement.scrollTop = 0;
-    document.body.scrollTop = 0;
+    scrollToTopInstant();
 
     let targetUrl = TAB_TO_URL[tab] || '/';
     if (tab === 'books') {
@@ -129,24 +155,21 @@ export default function AuditDashboard({
     if (window.location.pathname !== targetUrl) {
       window.history.pushState({ tab, bookSlug: bookSlug || currentBookSlug }, '', targetUrl);
     }
-  }, [currentBookSlug]);
+  }, [currentBookSlug, scrollToTopInstant]);
 
-  // Scroll to top when activeTab or book changes (including initial load, popstate, and programmatic switch)
+  // Scroll to top when activeTab or book changes and trigger smooth GSAP entrance
   useEffect(() => {
-    if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-      document.documentElement.scrollTop = 0;
-      document.body.scrollTop = 0;
+    scrollToTopInstant();
+    if (mainRef.current) {
+      animatePageEntrance(mainRef.current);
     }
-  }, [activeTab]);
+  }, [activeTab, scrollToTopInstant]);
 
   // Handle browser back and forward navigation (popstate)
   useEffect(() => {
     const handlePopState = () => {
       if (typeof window === 'undefined') return;
-      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-      document.documentElement.scrollTop = 0;
-      document.body.scrollTop = 0;
+      scrollToTopInstant();
 
       const pathname = window.location.pathname;
       if (pathname.startsWith('/books/')) {
@@ -163,7 +186,7 @@ export default function AuditDashboard({
 
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
-  }, []);
+  }, [scrollToTopInstant]);
 
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
@@ -179,7 +202,7 @@ export default function AuditDashboard({
       />
 
       {/* Main Content Area */}
-      <main style={{
+      <main ref={mainRef} id="tool-content-mount" style={{
         flex: 1,
         maxWidth: '1440px',
         width: '100%',
@@ -286,6 +309,10 @@ export default function AuditDashboard({
           />
         )}
 
+        {activeTab === 'industry-radar' && (
+          <IndustryRadarTab />
+        )}
+
         {activeTab === 'meta' && (
           <MetaAuditorTab
             ongoMeta={ongoMeta}
@@ -312,87 +339,182 @@ export default function AuditDashboard({
         onClose={() => setInspectFolder(null)}
       />
 
-      {/* Ongo Weight Loss Executive Footer */}
-      <footer style={{
-        borderTop: '1px solid var(--border-subtle)',
-        backgroundColor: 'var(--bg-surface)',
-        padding: '32px 24px',
-        marginTop: '48px',
-        color: 'var(--text-secondary)'
+      {/* Ongo Weight Loss Executive Glassneumorphic Footer */}
+      <footer className="glass-card" style={{
+        margin: '48px 24px 24px 24px',
+        padding: '32px 36px',
+        borderRadius: '24px',
+        border: '1px solid var(--border-subtle)',
+        backgroundColor: 'var(--bg-surface)'
       }}>
         <div style={{
           maxWidth: '1440px',
           margin: '0 auto',
           display: 'flex',
-          flexWrap: 'wrap',
-          justifyContent: 'space-between',
-          alignItems: 'center',
-          gap: '20px'
+          flexDirection: 'column',
+          gap: '24px'
         }}>
-          <div>
-            <div style={{ fontWeight: 700, fontSize: '0.9rem', color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
-              Ongo Weight Loss &bull; Doctor-Led Medical Weight Loss Care
+          {/* Top Row: Brand & Telemetry Badges */}
+          <div style={{
+            display: 'flex',
+            flexWrap: 'wrap',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            gap: '16px',
+            borderBottom: '1px solid var(--border-subtle)',
+            paddingBottom: '20px'
+          }}>
+            <div>
+              <div style={{ fontWeight: 800, fontSize: '1rem', color: 'var(--color-primary-dark)', marginBottom: '4px', letterSpacing: '-0.01em' }}>
+                Ongo Intelligence & Medical Architecture Suite &bull; Doctor-Led Telehealth Care
+              </div>
+              <div style={{ fontSize: '0.82rem', color: 'var(--text-tertiary)', maxWidth: '720px', lineHeight: 1.5 }}>
+                Doctor-supervised virtual GLP-1 compounding weight loss program. HIPAA-compliant telehealth care across all 50 U.S. states with cold-chain medication delivery from PCAB/503A accredited compounding pharmacies.
+              </div>
             </div>
-            <div style={{ fontSize: '0.78rem', color: 'var(--text-tertiary)', maxWidth: '680px' }}>
-              Doctor-supervised virtual GLP-1 weight loss program. HIPAA-compliant telehealth care across all 50 U.S. states with temperature-sensitive medication shipping from licensed compounding pharmacies.
+
+            {/* Live System Badges */}
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+              <span className="glass-pill" style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '6px',
+                padding: '4px 10px',
+                fontSize: '11px',
+                fontWeight: 700,
+                color: '#166534',
+                background: 'rgba(34, 197, 94, 0.12)',
+                border: '1px solid rgba(34, 197, 94, 0.25)',
+                borderRadius: '9999px'
+              }}>
+                <span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#22c55e', display: 'inline-block' }} />
+                21 Intelligence Tools
+              </span>
+              <span className="glass-pill" style={{
+                padding: '4px 10px',
+                fontSize: '11px',
+                fontWeight: 700,
+                color: 'var(--text-secondary)',
+                background: 'var(--bg-input)',
+                border: '1px solid var(--border-subtle)',
+                borderRadius: '9999px'
+              }}>
+                56 Live Ongo Pages
+              </span>
+              <span className="glass-pill" style={{
+                padding: '4px 10px',
+                fontSize: '11px',
+                fontWeight: 700,
+                color: 'var(--text-secondary)',
+                background: 'var(--bg-input)',
+                border: '1px solid var(--border-subtle)',
+                borderRadius: '9999px'
+              }}>
+                100 Competitors Indexed
+              </span>
             </div>
           </div>
 
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '14px', fontSize: '0.78rem' }}>
+          {/* Bottom Row: Fast Links & Scroll Top */}
+          <div style={{
+            display: 'flex',
+            flexWrap: 'wrap',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            gap: '16px',
+            fontSize: '0.8rem'
+          }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', alignItems: 'center' }}>
+              <button
+                onClick={() => handleSelectTab('suite-sitemap')}
+                style={{
+                  background: 'none',
+                  border: 'none',
+                  color: 'var(--color-primary-dark)',
+                  fontWeight: 700,
+                  cursor: 'pointer',
+                  padding: 0,
+                  fontSize: '0.8rem'
+                }}
+              >
+                Tools Sitemap Directory (21) ↗
+              </button>
+              <button
+                onClick={() => handleSelectTab('industry-radar')}
+                style={{
+                  background: 'none',
+                  border: 'none',
+                  color: 'var(--color-primary-dark)',
+                  fontWeight: 700,
+                  cursor: 'pointer',
+                  padding: 0,
+                  fontSize: '0.8rem'
+                }}
+              >
+                Industry Radar ↗
+              </button>
+              <a 
+                href="https://ongoweightloss.com/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: 'var(--color-primary-dark)', fontWeight: 600, textDecoration: 'none' }}
+              >
+                Live Homepage ↗
+              </a>
+              <a 
+                href="https://ongoweightloss.com/how-it-works/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
+              >
+                How It Works
+              </a>
+              <a 
+                href="https://ongoweightloss.com/pricing/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
+              >
+                Pricing
+              </a>
+              <a 
+                href="https://ongoweightloss.com/medical-team/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
+              >
+                Medical Team
+              </a>
+              <a 
+                href="https://ongoweightloss.com/weightloss-onboard/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: 'var(--color-accent)', fontWeight: 700, textDecoration: 'none' }}
+              >
+                See If I'm Eligible ↗
+              </a>
+            </div>
+
             <button
-              onClick={() => handleSelectTab('suite-sitemap')}
+              onClick={scrollToTopInstant}
               style={{
-                background: 'none',
-                border: 'none',
-                color: 'var(--color-primary-dark)',
+                background: 'var(--bg-input)',
+                border: '1px solid var(--border-subtle)',
+                color: 'var(--text-primary)',
+                padding: '6px 14px',
+                borderRadius: '8px',
+                fontSize: '11px',
                 fontWeight: 700,
                 cursor: 'pointer',
-                padding: 0,
-                fontSize: '0.78rem'
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px'
               }}
+              title="Return to top of page"
             >
-              Tools Sitemap Directory ↗
+              <span>↑</span>
+              <span>Back to Top</span>
             </button>
-            <a 
-              href="https://ongoweightloss.com/" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ color: 'var(--color-primary-dark)', fontWeight: 600, textDecoration: 'none' }}
-            >
-              Live Homepage ↗
-            </a>
-            <a 
-              href="https://ongoweightloss.com/how-it-works/" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
-            >
-              How It Works
-            </a>
-            <a 
-              href="https://ongoweightloss.com/pricing/" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
-            >
-              Pricing
-            </a>
-            <a 
-              href="https://ongoweightloss.com/medical-team/" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
-            >
-              Medical Team
-            </a>
-            <a 
-              href="https://ongoweightloss.com/weightloss-onboard/" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ color: 'var(--color-accent)', fontWeight: 600, textDecoration: 'none' }}
-            >
-              See If I'm Eligible ↗
-            </a>
           </div>
         </div>
       </footer>
