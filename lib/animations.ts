@@ -79,3 +79,4 @@ export function pulseLiveBeacon(beacon: HTMLElement | null) {
   });
   return () => tween.kill();
 }
+

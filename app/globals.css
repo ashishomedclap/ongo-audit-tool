@@ -160,9 +160,11 @@ body[data-theme='dark'] {
   background: #9ebbaf;
 }
 
-/* Bento Tile Card */
+/* Bento Tile Card & Glassneumorphism */
 .bento-card {
   background: var(--bg-surface);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-bento);
   box-shadow: var(--shadow-bento);
@@ -173,6 +175,7 @@ body[data-theme='dark'] {
 
 .bento-card:hover {
   border-color: var(--border-medium);
+  box-shadow: var(--shadow-bento-hover);
 }
 
 .bento-card-interactive {
@@ -1137,43 +1140,186 @@ body[data-theme='dark'] {
 }
 
 /* Hardcoded White / Light Inline Background Overrides */
-[data-theme='dark'] div[style*="background: rgb(255, 255, 255)"],
-[data-theme='dark'] div[style*="background:#ffffff"],
-[data-theme='dark'] div[style*="background: #ffffff"],
-[data-theme='dark'] div[style*="backgroundColor: rgb(255, 255, 255)"],
-[data-theme='dark'] div[style*="backgroundColor:#ffffff"],
-[data-theme='dark'] div[style*="backgroundColor: #ffffff"] {
+[data-theme='dark'] [style*="background: rgb(255, 255, 255)"],
+[data-theme='dark'] [style*="background:#ffffff" i],
+[data-theme='dark'] [style*="background: #ffffff" i],
+[data-theme='dark'] [style*="background-color: rgb(255, 255, 255)"],
+[data-theme='dark'] [style*="background-color:#ffffff" i],
+[data-theme='dark'] [style*="background-color: #ffffff" i],
+[data-theme='dark'] [style*="background: white" i],
+[data-theme='dark'] [style*="background-color: white" i],
+[data-theme='dark'] [style*="background:#fcfaf6" i],
+[data-theme='dark'] [style*="background: #fcfaf6" i],
+[data-theme='dark'] [style*="background:#f7f4ee" i],
+[data-theme='dark'] [style*="background: #f7f4ee" i],
+[data-theme='dark'] [style*="background:#ede7de" i],
+[data-theme='dark'] [style*="background: #ede7de" i] {
   background-color: var(--bg-surface) !important;
 }
 
-[data-theme='dark'] div[style*="background: rgb(248, 250, 252)"],
-[data-theme='dark'] div[style*="background:#f8fafc"],
-[data-theme='dark'] div[style*="background: #f8fafc"],
-[data-theme='dark'] div[style*="backgroundColor: rgb(248, 250, 252)"],
-[data-theme='dark'] div[style*="backgroundColor:#f8fafc"],
-[data-theme='dark'] div[style*="backgroundColor: #f8fafc"],
-[data-theme='dark'] div[style*="background: #f1f5f9"],
-[data-theme='dark'] div[style*="backgroundColor: #f1f5f9"] {
+[data-theme='dark'] [style*="background: rgb(248, 250, 252)"],
+[data-theme='dark'] [style*="background:#f8fafc" i],
+[data-theme='dark'] [style*="background: #f8fafc" i],
+[data-theme='dark'] [style*="background-color: rgb(248, 250, 252)"],
+[data-theme='dark'] [style*="background-color:#f8fafc" i],
+[data-theme='dark'] [style*="background-color: #f8fafc" i],
+[data-theme='dark'] [style*="background:#f1f5f9" i],
+[data-theme='dark'] [style*="background: #f1f5f9" i],
+[data-theme='dark'] [style*="background-color:#f1f5f9" i],
+[data-theme='dark'] [style*="background-color: #f1f5f9" i],
+[data-theme='dark'] [style*="background:#f1f3f4" i],
+[data-theme='dark'] [style*="background: #f1f3f4" i] {
   background-color: var(--bg-surface-alt) !important;
 }
 
-[data-theme='dark'] [style*="border: 1px solid #e2e8f0"],
-[data-theme='dark'] [style*="border: 1px solid #cbd5e1"],
-[data-theme='dark'] [style*="border: 1px solid #ede8e0"],
-[data-theme='dark'] [style*="border: 1px solid #dfd9cf"],
-[data-theme='dark'] [style*="border-color: #e2e8f0"],
-[data-theme='dark'] [style*="border-color: #cbd5e1"] {
+/* Translucent Soft Badges & Alerts In Dark Mode */
+[data-theme='dark'] [style*="background:#dcfce7" i],
+[data-theme='dark'] [style*="background: #dcfce7" i],
+[data-theme='dark'] [style*="background-color:#dcfce7" i],
+[data-theme='dark'] [style*="background-color: #dcfce7" i],
+[data-theme='dark'] [style*="background:#d8f3dc" i],
+[data-theme='dark'] [style*="background: #d8f3dc" i],
+[data-theme='dark'] [style*="background:#e8f5e9" i],
+[data-theme='dark'] [style*="background: #e8f5e9" i],
+[data-theme='dark'] [style*="background:#f0fdf4" i],
+[data-theme='dark'] [style*="background: #f0fdf4" i],
+[data-theme='dark'] [style*="background:#ecfdf5" i],
+[data-theme='dark'] [style*="background: #ecfdf5" i],
+[data-theme='dark'] [style*="background:#e9f7ee" i],
+[data-theme='dark'] [style*="background: #e9f7ee" i] {
+  background: rgba(34, 197, 94, 0.16) !important;
+  color: #4ade80 !important;
+  border-color: rgba(74, 222, 128, 0.3) !important;
+}
+
+[data-theme='dark'] [style*="background:#e0f2fe" i],
+[data-theme='dark'] [style*="background: #e0f2fe" i],
+[data-theme='dark'] [style*="background-color:#e0f2fe" i],
+[data-theme='dark'] [style*="background-color: #e0f2fe" i],
+[data-theme='dark'] [style*="background:#dbeafe" i],
+[data-theme='dark'] [style*="background: #dbeafe" i] {
+  background: rgba(56, 189, 248, 0.16) !important;
+  color: #38bdf8 !important;
+  border-color: rgba(56, 189, 248, 0.3) !important;
+}
+
+[data-theme='dark'] [style*="background:#fef3c7" i],
+[data-theme='dark'] [style*="background: #fef3c7" i],
+[data-theme='dark'] [style*="background-color:#fef3c7" i],
+[data-theme='dark'] [style*="background-color: #fef3c7" i],
+[data-theme='dark'] [style*="background:#ffedd5" i],
+[data-theme='dark'] [style*="background: #ffedd5" i],
+[data-theme='dark'] [style*="background:#fffbeb" i],
+[data-theme='dark'] [style*="background: #fffbeb" i] {
+  background: rgba(251, 191, 36, 0.16) !important;
+  color: #fbbf24 !important;
+  border-color: rgba(251, 191, 36, 0.3) !important;
+}
+
+[data-theme='dark'] [style*="background:#fee2e2" i],
+[data-theme='dark'] [style*="background: #fee2e2" i],
+[data-theme='dark'] [style*="background-color:#fee2e2" i],
+[data-theme='dark'] [style*="background-color: #fee2e2" i],
+[data-theme='dark'] [style*="background:#fef2f2" i],
+[data-theme='dark'] [style*="background: #fef2f2" i] {
+  background: rgba(248, 113, 113, 0.16) !important;
+  color: #f87171 !important;
+  border-color: rgba(248, 113, 113, 0.3) !important;
+}
+
+[data-theme='dark'] [style*="background:#ede9fe" i],
+[data-theme='dark'] [style*="background: #ede9fe" i],
+[data-theme='dark'] [style*="background-color:#ede9fe" i],
+[data-theme='dark'] [style*="background-color: #ede9fe" i],
+[data-theme='dark'] [style*="background:#f3e8ff" i],
+[data-theme='dark'] [style*="background: #f3e8ff" i] {
+  background: rgba(168, 85, 247, 0.16) !important;
+  color: #c084fc !important;
+  border-color: rgba(168, 85, 247, 0.3) !important;
+}
+
+/* Subtle Borders in Dark Mode */
+[data-theme='dark'] [style*="border: 1px solid #e2e8f0" i],
+[data-theme='dark'] [style*="border: 1px solid #cbd5e1" i],
+[data-theme='dark'] [style*="border: 1px solid #ede8e0" i],
+[data-theme='dark'] [style*="border: 1px solid #dfd9cf" i],
+[data-theme='dark'] [style*="border: 1px solid #ede7de" i],
+[data-theme='dark'] [style*="border-color: #e2e8f0" i],
+[data-theme='dark'] [style*="border-color: #cbd5e1" i],
+[data-theme='dark'] [style*="border-color: #ede8e0" i] {
   border-color: var(--border-subtle) !important;
 }
 
-[data-theme='dark'] [style*="color: #0f1715"],
+/* High-Contrast Accessible Text Colors In Dark Mode */
+[data-theme='dark'] [style*="color: #0f1715" i],
+[data-theme='dark'] [style*="color:#0f1715" i],
+[data-theme='dark'] [style*="color: #0f172a" i],
+[data-theme='dark'] [style*="color:#0f172a" i],
+[data-theme='dark'] [style*="color: #081c15" i],
+[data-theme='dark'] [style*="color:#081c15" i],
+[data-theme='dark'] [style*="color: #0f2c24" i],
+[data-theme='dark'] [style*="color: #202124" i],
 [data-theme='dark'] [style*="color: rgb(15, 23, 21)"] {
-  color: var(--text-primary) !important;
+  color: #f8fafc !important;
 }
 
-[data-theme='dark'] [style*="color: #1e293b"],
-[data-theme='dark'] [style*="color: #334155"] {
-  color: var(--text-secondary) !important;
+[data-theme='dark'] [style*="color: #1e293b" i],
+[data-theme='dark'] [style*="color:#1e293b" i],
+[data-theme='dark'] [style*="color: #334155" i],
+[data-theme='dark'] [style*="color:#334155" i],
+[data-theme='dark'] [style*="color: #475569" i],
+[data-theme='dark'] [style*="color:#475569" i],
+[data-theme='dark'] [style*="color: #4d5156" i],
+[data-theme='dark'] [style*="color: #5f6368" i],
+[data-theme='dark'] [style*="color: #70757a" i] {
+  color: #cbd5e1 !important;
+}
+
+[data-theme='dark'] [style*="color: #1b4332" i],
+[data-theme='dark'] [style*="color:#1b4332" i],
+[data-theme='dark'] [style*="color: #166534" i],
+[data-theme='dark'] [style*="color:#166534" i],
+[data-theme='dark'] [style*="color: #15803d" i],
+[data-theme='dark'] [style*="color:#15803d" i],
+[data-theme='dark'] [style*="color: #14532d" i],
+[data-theme='dark'] [style*="color: #065f46" i],
+[data-theme='dark'] [style*="color: #047857" i],
+[data-theme='dark'] [style*="color: #2d6a4f" i],
+[data-theme='dark'] [style*="color: #347e5d" i] {
+  color: #4ade80 !important;
+}
+
+[data-theme='dark'] [style*="color: #0369a1" i],
+[data-theme='dark'] [style*="color:#0369a1" i],
+[data-theme='dark'] [style*="color: #0284c7" i],
+[data-theme='dark'] [style*="color:#0284c7" i],
+[data-theme='dark'] [style*="color: #1d4ed8" i],
+[data-theme='dark'] [style*="color: #1558d6" i],
+[data-theme='dark'] [style*="color: #1a0dab" i],
+[data-theme='dark'] [style*="color: #3730a3" i],
+[data-theme='dark'] [style*="color: #3f37c9" i] {
+  color: #38bdf8 !important;
+}
+
+[data-theme='dark'] [style*="color: #92400e" i],
+[data-theme='dark'] [style*="color:#92400e" i],
+[data-theme='dark'] [style*="color: #b45309" i],
+[data-theme='dark'] [style*="color:#b45309" i],
+[data-theme='dark'] [style*="color: #9a3412" i],
+[data-theme='dark'] [style*="color: #855800" i],
+[data-theme='dark'] [style*="color: #b26a27" i],
+[data-theme='dark'] [style*="color: #c2410c" i] {
+  color: #fbbf24 !important;
+}
+
+[data-theme='dark'] [style*="color: #991b1b" i],
+[data-theme='dark'] [style*="color:#991b1b" i],
+[data-theme='dark'] [style*="color: #9b1c1c" i],
+[data-theme='dark'] [style*="color: #b91c1c" i],
+[data-theme='dark'] [style*="color: #dc2626" i],
+[data-theme='dark'] [style*="color: #bc4749" i],
+[data-theme='dark'] [style*="color: #be185d" i] {
+  color: #f87171 !important;
 }
 
 /* Modals & Dialogs */

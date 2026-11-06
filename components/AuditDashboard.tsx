@@ -112,9 +112,22 @@ export default function AuditDashboard({
   const totalUrls = initialCompetitors.reduce((acc, c) => acc + (c.totalUrls || 0), 0);
   const activeSitemaps = initialCompetitors.filter(c => c.status === 'SUCCESS').length;
 
-  // Robust scroll to top function that guarantees landing at top on page/tool switch
-  const scrollToTopInstant = useCallback(() => {
+  // Robust scroll to top or exact tool anchor that guarantees landing at top on page/tool switch
+  const scrollToTopInstant = useCallback((targetAnchor?: string | unknown) => {
     if (typeof window === 'undefined') return;
+
+    // If an anchor or hash is present, scroll directly to that exact tool/element
+    const targetId = (typeof targetAnchor === 'string' && targetAnchor) 
+      || (window.location.hash ? window.location.hash.replace('#', '') : null);
+    if (targetId) {
+      const targetEl = document.getElementById(targetId);
+      if (targetEl) {
+        targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        return;
+      }
+    }
+
+    // Default: Reset scroll unconditionally to the exact top
     window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
     document.documentElement.scrollTop = 0;
     document.body.scrollTop = 0;
@@ -137,11 +150,11 @@ export default function AuditDashboard({
   }, []);
 
   // URL sync handler when switching tabs or books
-  const handleSelectTab = useCallback((tab: TabType, bookSlug?: string) => {
+  const handleSelectTab = useCallback((tab: TabType, bookSlug?: string, anchorId?: string) => {
     setActiveTabState(tab);
     if (typeof window === 'undefined') return;
 
-    scrollToTopInstant();
+    scrollToTopInstant(anchorId);
 
     let targetUrl = TAB_TO_URL[tab] || '/';
     if (tab === 'books') {
@@ -150,6 +163,10 @@ export default function AuditDashboard({
         targetUrl = `/books/${slug}`;
         setCurrentBookSlug(slug);
       }
+    }
+
+    if (anchorId) {
+      targetUrl = `${targetUrl}#${anchorId}`;
     }
 
     if (window.location.pathname !== targetUrl) {
@@ -165,7 +182,7 @@ export default function AuditDashboard({
     }
   }, [activeTab, scrollToTopInstant]);
 
-  // Handle browser back and forward navigation (popstate)
+  // Handle browser back and forward navigation (popstate) & hash changes
   useEffect(() => {
     const handlePopState = () => {
       if (typeof window === 'undefined') return;
@@ -184,8 +201,17 @@ export default function AuditDashboard({
       }
     };
 
+    const handleHashChange = () => {
+      if (typeof window === 'undefined') return;
+      scrollToTopInstant();
+    };
+
     window.addEventListener('popstate', handlePopState);
-    return () => window.removeEventListener('popstate', handlePopState);
+    window.addEventListener('hashchange', handleHashChange);
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+      window.removeEventListener('hashchange', handleHashChange);
+    };
   }, [scrollToTopInstant]);
 
   return (
@@ -496,7 +522,7 @@ export default function AuditDashboard({
             </div>
 
             <button
-              onClick={scrollToTopInstant}
+              onClick={() => scrollToTopInstant()}
               style={{
                 background: 'var(--bg-input)',
                 border: '1px solid var(--border-subtle)',

@@ -394,3 +394,4 @@ export function getResourcesByCategory(category: string) {
   if (category === 'all') return INDUSTRY_RADAR_RESOURCES;
   return INDUSTRY_RADAR_RESOURCES.filter(r => r.category === category);
 }
+
