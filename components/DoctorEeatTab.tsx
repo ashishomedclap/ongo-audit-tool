@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { 
   Stethoscope, 
   ShieldCheck, 
@@ -13,7 +13,11 @@ import {
   Copy, 
   Check, 
   Download,
-  Filter
+  Filter,
+  Zap,
+  Sparkles,
+  RefreshCw,
+  FileCode
 } from 'lucide-react';
 import { CompetitorComplianceItem } from '@/lib/data';
 import ContextCue from './ContextCue';
@@ -28,6 +32,36 @@ export default function DoctorEeatTab({ complianceData, onInspectCompetitor }: D
   const [doctorTypeFilter, setDoctorTypeFilter] = useState<'all' | 'doctor-led' | 'midlevel'>('all');
   const [eeatFilter, setEeatFilter] = useState<'all' | 'high' | 'moderate' | 'low'>('all');
   const [copiedText, setCopiedText] = useState<string | null>(null);
+  const [npiQuery, setNpiQuery] = useState('Brett Kramer');
+  const [npiLoading, setNpiLoading] = useState(false);
+  const [npiDoctor, setNpiDoctor] = useState<any>(null);
+  const [schemaCopied, setSchemaCopied] = useState(false);
+
+  const handleNpiSearch = async (queryText?: string) => {
+    const q = (queryText !== undefined ? queryText : npiQuery).trim();
+    if (!q) return;
+    setNpiLoading(true);
+    try {
+      const isNum = /^\d+$/.test(q);
+      const parts = q.split(' ').filter(Boolean);
+      const url = isNum 
+        ? `/api/npi-lookup?number=${q}` 
+        : `/api/npi-lookup?lastName=${encodeURIComponent(parts.length > 1 ? parts[parts.length - 1] : parts[0])}&firstName=${encodeURIComponent(parts.length > 1 ? parts[0] : '')}`;
+      const res = await fetch(url);
+      const json = await res.json();
+      if (json.success && json.results && json.results.length > 0) {
+        setNpiDoctor(json.results[0]);
+      }
+    } catch (e) {
+      console.error(e);
+    } finally {
+      setNpiLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    handleNpiSearch('Brett Kramer');
+  }, []);
 
   const ongoBenchmark = useMemo(() => {
     return complianceData.find(c => c.isBenchmark) || complianceData[0];
@@ -155,6 +189,286 @@ export default function DoctorEeatTab({ complianceData, onInspectCompetitor }: D
         title="Physician Credentials & Author Attribution Radar"
         about="Google's search algorithms evaluate healthcare content under strict Your Money or Your Life (YMYL) standards. This tool benchmarks Ongo's 100% physician-led model (5 Board-Certified MDs) against competitors relying on mid-level nurses or anonymous medical content."
       />
+
+      {/* Live US Federal CMS NPI & State License Verifier Card */}
+      <div className="glass-card" style={{
+        padding: '22px 24px',
+        borderRadius: '18px',
+        border: '1px solid var(--border-medium)',
+        display: 'flex',
+        flexDirection: 'column',
+        gap: '16px'
+      }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '10px' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+              <span style={{
+                fontSize: '0.74rem',
+                fontWeight: 800,
+                padding: '2px 8px',
+                borderRadius: '9999px',
+                background: 'rgba(16, 185, 129, 0.16)',
+                color: '#10b981',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '5px'
+              }}>
+                <span className="gsc-pulse-dot" />
+                Live Federal CMS NPPES API
+              </span>
+              <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
+                Direct Federal Registry Query (Zero API Key Needed)
+              </span>
+            </div>
+            <h2 style={{ fontSize: '1.2rem', fontWeight: 800, margin: 0, color: 'var(--text-primary)' }}>
+              Federal Doctor NPI &amp; Medical License Verifier
+            </h2>
+          </div>
+
+          {/* Quick Search Input */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flex: '0 1 360px' }}>
+            <div style={{ position: 'relative', width: '100%' }}>
+              <Search size={15} style={{ position: 'absolute', left: '10px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-muted)' }} />
+              <input
+                type="text"
+                value={npiQuery}
+                onChange={(e) => setNpiQuery(e.target.value)}
+                onKeyDown={(e) => { if (e.key === 'Enter') handleNpiSearch(); }}
+                placeholder="Doctor name or 10-digit NPI number..."
+                style={{
+                  width: '100%',
+                  padding: '8px 10px 8px 32px',
+                  borderRadius: '8px',
+                  border: '1px solid var(--border-medium)',
+                  background: 'var(--bg-input)',
+                  color: 'var(--text-primary)',
+                  fontSize: '0.82rem'
+                }}
+              />
+            </div>
+            <button
+              type="button"
+              onClick={() => handleNpiSearch()}
+              className="gsc-btn-primary"
+              disabled={npiLoading}
+              style={{ whiteSpace: 'nowrap', padding: '8px 14px' }}
+            >
+              <Zap size={13} />
+              {npiLoading ? 'Checking...' : 'Verify'}
+            </button>
+          </div>
+        </div>
+
+        {/* 1-Click Doctor Preset Chips */}
+        <div style={{ display: 'flex', alignItems: 'center', gap: '6px', flexWrap: 'wrap' }}>
+          <span style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--text-muted)', marginRight: '4px' }}>
+            1-Click Telehealth Medical Directors:
+          </span>
+          {[
+            { label: 'Dr. Brett Kramer, DO (Ongo)', query: 'Brett Kramer', isOngo: true },
+            { label: 'Dr. Nkemakonam Okonkwo, MD (Ongo)', query: 'Nkemakonam Okonkwo', isOngo: true },
+            { label: 'Dr. Rushi Patel, MD (Ongo)', query: 'Rushi Patel', isOngo: true },
+            { label: 'Dr. Sarah Miller, MD (Ongo)', query: 'Sarah Miller', isOngo: true },
+            { label: 'Dr. Jason Krasne, MD (Ongo)', query: 'Jason Krasne', isOngo: true },
+            { label: 'Dr. Mike Bohl, MD (Ro.co)', query: 'Mike Bohl', isOngo: false },
+            { label: 'Dr. Patrick Carroll, MD (Hims)', query: 'Patrick Carroll', isOngo: false }
+          ].map(doc => {
+            const isSelected = npiQuery === doc.query;
+            return (
+              <button
+                key={doc.query}
+                type="button"
+                onClick={() => {
+                  setNpiQuery(doc.query);
+                  handleNpiSearch(doc.query);
+                }}
+                style={{
+                  fontSize: '0.72rem',
+                  fontWeight: 700,
+                  padding: '3px 8px',
+                  borderRadius: '9999px',
+                  cursor: 'pointer',
+                  border: isSelected 
+                    ? '1px solid #10b981' 
+                    : doc.isOngo ? '1px solid rgba(45, 106, 79, 0.25)' : '1px solid var(--border-subtle)',
+                  background: isSelected 
+                    ? 'rgba(16, 185, 129, 0.18)' 
+                    : doc.isOngo ? 'rgba(34, 197, 94, 0.08)' : 'var(--bg-surface-alt)',
+                  color: isSelected 
+                    ? '#10b981' 
+                    : doc.isOngo ? '#166534' : 'var(--text-secondary)',
+                  transition: 'all 0.12s ease'
+                }}
+              >
+                {doc.isOngo ? '🟢 ' : '🔵 '}{doc.label}
+              </button>
+            );
+          })}
+        </div>
+
+        {/* Verified Federal Certificate Card */}
+        {npiDoctor && (
+          <div style={{
+            padding: '18px 20px',
+            borderRadius: '14px',
+            background: 'var(--bg-surface-alt)',
+            border: '1px solid var(--border-medium)',
+            display: 'flex',
+            flexDirection: 'column',
+            gap: '14px'
+          }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '12px' }}>
+              <div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <h3 style={{ fontSize: '1.2rem', fontWeight: 800, margin: 0, color: 'var(--text-primary)' }}>
+                    {npiDoctor.name}
+                  </h3>
+                  <span style={{
+                    fontSize: '0.72rem',
+                    fontWeight: 800,
+                    padding: '2px 8px',
+                    borderRadius: '9999px',
+                    background: 'rgba(16, 185, 129, 0.15)',
+                    color: '#10b981',
+                    border: '1px solid rgba(16, 185, 129, 0.3)'
+                  }}>
+                    CMS Verified • {npiDoctor.status}
+                  </span>
+                  {npiDoctor.isOngoDoctor && (
+                    <span style={{
+                      fontSize: '0.72rem',
+                      fontWeight: 800,
+                      padding: '2px 8px',
+                      borderRadius: '9999px',
+                      background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)',
+                      color: '#ffffff'
+                    }}>
+                      Ongo Medical Director
+                    </span>
+                  )}
+                </div>
+
+                <div style={{ fontSize: '0.84rem', color: 'var(--text-secondary)', marginTop: '4px' }}>
+                  <strong>Specialty / Taxonomy:</strong> {npiDoctor.primaryTaxonomy?.description} ({npiDoctor.primaryTaxonomy?.code})
+                </div>
+              </div>
+
+              {/* E-E-A-T Score Badge */}
+              <div style={{
+                textAlign: 'right',
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'flex-end'
+              }}>
+                <div style={{
+                  fontSize: '1.4rem',
+                  fontWeight: 900,
+                  color: '#10b981',
+                  lineHeight: 1
+                }}>
+                  {npiDoctor.eeatScore} <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>/ 100</span>
+                </div>
+                <div style={{
+                  fontSize: '0.74rem',
+                  fontWeight: 800,
+                  color: '#10b981',
+                  marginTop: '3px'
+                }}>
+                  Google E-E-A-T Grade: {npiDoctor.eeatGrade}
+                </div>
+              </div>
+            </div>
+
+            {/* 4 Telemetry Inset Columns */}
+            <div style={{
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))',
+              gap: '10px'
+            }}>
+              <div style={{ padding: '10px 12px', background: 'var(--bg-input)', borderRadius: '8px', border: '1px solid var(--border-subtle)' }}>
+                <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: 700 }}>NATIONAL PROVIDER ID (NPI)</div>
+                <div style={{ fontSize: '0.92rem', fontWeight: 800, color: 'var(--text-primary)', marginTop: '2px' }}>
+                  {npiDoctor.npi}
+                </div>
+              </div>
+
+              <div style={{ padding: '10px 12px', background: 'var(--bg-input)', borderRadius: '8px', border: '1px solid var(--border-subtle)' }}>
+                <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: 700 }}>STATE LICENSE ID</div>
+                <div style={{ fontSize: '0.92rem', fontWeight: 800, color: 'var(--text-primary)', marginTop: '2px' }}>
+                  {npiDoctor.primaryTaxonomy?.license} ({npiDoctor.primaryTaxonomy?.state})
+                </div>
+              </div>
+
+              <div style={{ padding: '10px 12px', background: 'var(--bg-input)', borderRadius: '8px', border: '1px solid var(--border-subtle)' }}>
+                <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: 700 }}>ENUMERATION DATE</div>
+                <div style={{ fontSize: '0.92rem', fontWeight: 800, color: 'var(--text-primary)', marginTop: '2px' }}>
+                  {npiDoctor.enumerationDate || 'Active Record'}
+                </div>
+              </div>
+
+              <div style={{ padding: '10px 12px', background: 'var(--bg-input)', borderRadius: '8px', border: '1px solid var(--border-subtle)' }}>
+                <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: 700 }}>PRACTICE LOCATION</div>
+                <div style={{ fontSize: '0.85rem', fontWeight: 700, color: 'var(--text-primary)', marginTop: '2px' }}>
+                  {npiDoctor.addresses?.[0]?.city}, {npiDoctor.addresses?.[0]?.state}
+                </div>
+              </div>
+            </div>
+
+            {/* Action Buttons: Schema Copy & CMS Registry External Link */}
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '8px', paddingTop: '6px' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <button
+                  type="button"
+                  onClick={() => {
+                    navigator.clipboard.writeText(npiDoctor.schemaSnippet);
+                    setSchemaCopied(true);
+                    setTimeout(() => setSchemaCopied(false), 2000);
+                  }}
+                  style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: '5px',
+                    fontSize: '0.78rem',
+                    fontWeight: 700,
+                    padding: '5px 12px',
+                    borderRadius: '6px',
+                    background: schemaCopied ? '#10b981' : 'var(--bg-surface)',
+                    color: schemaCopied ? '#ffffff' : 'var(--text-primary)',
+                    border: '1px solid var(--border-medium)',
+                    cursor: 'pointer',
+                    transition: 'all 0.15s ease'
+                  }}
+                >
+                  {schemaCopied ? <Check size={13} /> : <FileCode size={13} />}
+                  {schemaCopied ? 'Copied Physician JSON-LD Schema!' : 'Copy Schema.org JSON-LD'}
+                </button>
+
+                <a
+                  href={`https://npiregistry.cms.hhs.gov/provider-view/${npiDoctor.npi}`}
+                  target="_blank"
+                  rel="noreferrer"
+                  style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: '4px',
+                    fontSize: '0.78rem',
+                    color: 'var(--color-primary)',
+                    fontWeight: 700,
+                    textDecoration: 'none'
+                  }}
+                >
+                  <ExternalLink size={12} />
+                  View on Official CMS.gov
+                </a>
+              </div>
+
+              <span style={{ fontSize: '0.72rem', color: 'var(--text-muted)' }}>
+                Verified via US Department of Health &amp; Human Services (HHS) NPPES
+              </span>
+            </div>
+          </div>
+        )}
+      </div>
 
       {/* 4 Clarity Executive Scorecards */}
       <div style={{

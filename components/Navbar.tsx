@@ -33,7 +33,9 @@ import {
   Moon,
   Radar,
   X,
-  ChevronRight
+  ChevronRight,
+  Zap,
+  MessageSquare
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 import ToolsSitemapModal from './ToolsSitemapModal';
@@ -59,6 +61,8 @@ export type TabType =
   | 'state-licensing'
   | 'content-matcher'
   | 'industry-radar'
+  | 'pagespeed-benchmark'
+  | 'reddit-sentiment'
   | 'meta' 
   | 'architecture' 
   | 'reports'
@@ -161,6 +165,8 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       case 'FileCode': return <FileCode size={size} />;
       case 'FileCheck2': return <FileCheck2 size={size} />;
       case 'Radar': return <Radar size={size} />;
+      case 'Zap': return <Zap size={size} />;
+      case 'MessageSquare': return <MessageSquare size={size} />;
       default: return <Activity size={size} />;
     }
   };

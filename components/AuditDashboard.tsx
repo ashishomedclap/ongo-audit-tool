@@ -24,6 +24,8 @@ import DoctorEeatTab from './DoctorEeatTab';
 import StateLicensingTab from './StateLicensingTab';
 import ContentMatcherTab from './ContentMatcherTab';
 import IndustryRadarTab from './IndustryRadarTab';
+import PageSpeedBenchmarkTab from './PageSpeedBenchmarkTab';
+import RedditSentimentTab from './RedditSentimentTab';
 import CompetitorModal from './CompetitorModal';
 import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
 import { BooksIndexData } from '@/lib/books-data';
@@ -49,6 +51,8 @@ export const TAB_TO_URL: Record<TabType, string> = {
   'state-licensing': '/state-licensing',
   'content-matcher': '/content-matcher',
   'industry-radar': '/industry-radar',
+  'pagespeed-benchmark': '/pagespeed-benchmark',
+  'reddit-sentiment': '/reddit-sentiment',
   'meta': '/meta',
   'reports': '/reports',
   'suite-sitemap': '/sitemap'
@@ -74,6 +78,8 @@ export const URL_TO_TAB: Record<string, TabType> = {
   '/state-licensing': 'state-licensing',
   '/content-matcher': 'content-matcher',
   '/industry-radar': 'industry-radar',
+  '/pagespeed-benchmark': 'pagespeed-benchmark',
+  '/reddit-sentiment': 'reddit-sentiment',
   '/meta': 'meta',
   '/reports': 'reports',
   '/sitemap': 'suite-sitemap'
@@ -337,6 +343,14 @@ export default function AuditDashboard({
 
         {activeTab === 'industry-radar' && (
           <IndustryRadarTab />
+        )}
+
+        {activeTab === 'pagespeed-benchmark' && (
+          <PageSpeedBenchmarkTab />
+        )}
+
+        {activeTab === 'reddit-sentiment' && (
+          <RedditSentimentTab />
         )}
 
         {activeTab === 'meta' && (

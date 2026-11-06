@@ -95,6 +95,35 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
+  // RANK #2.5: LIVE CORE WEB VITALS & SPEED BENCHMARK
+  // ==========================================
+  {
+    id: 'pagespeed-benchmark',
+    name: 'Live Core Web Vitals & Speed Benchmark',
+    shortName: 'Speed Benchmark',
+    rank: 3,
+    rankTier: 'Tier 1: Essential Core',
+    level: 1,
+    levelLabel: 'Level 1 · Foundation',
+    category: 'level-1',
+    categoryLabel: 'Level 1: Foundation & Baseline',
+    categoryIcon: 'Zap',
+    path: '/pagespeed-benchmark',
+    useCase: 'Audit live mobile and desktop Core Web Vitals (LCP, INP, CLS, TTFB) head-to-head against Ro, Hims, Mochi, and Henry Meds.',
+    description: 'Real-time performance benchmark querying Google PageSpeed Insights and live edge network probes to verify Ongo\'s sub-2s mobile loading advantage.',
+    valueProp: 'Instant CWV radar, edge TTFB waterfall breakdown, and competitive speed moat scorecard.',
+    howToUse: 'Select any 1-click competitor preset or input any telehealth URL to run a live speed audit with radial performance gauges and timing diagnostics.',
+    whyToUse: 'Telehealth conversion rates drop by 7% per 100ms delay. Proves Ongo\'s clean Next.js server-rendered architecture loads 46% faster than bloated competitor portals.',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Crucial technical SEO and conversion rate optimization proof point.',
+    badge: 'Live CWV Radar',
+    badgeColor: '#059669',
+    badgeBg: '#dcfce7',
+    keyMetrics: 'LCP • INP • CLS • TTFB',
+    keywords: ['pagespeed', 'speed', 'cwv', 'lcp', 'inp', 'cls', 'performance', 'lighthouse', 'ttfb', 'mobile']
+  },
+
+  // ==========================================
   // RANK #3: COMPETITOR GAP & CONTENT ROADMAP
   // ==========================================
   {
@@ -208,6 +237,35 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     badgeBg: '#e0f2fe',
     keyMetrics: '24 Monitored Feeds • Live Ping Tester',
     keywords: ['radar', 'surveillance', 'fda', 'regulations', 'compounding', 'competitors', 'clinical', 'telehealth', 'glp-1', 'daily', 'weekly']
+  },
+
+  // ==========================================
+  // RANK #6.5: REDDIT PATIENT SENTIMENT & COMPLAINT RADAR
+  // ==========================================
+  {
+    id: 'reddit-sentiment',
+    name: 'Reddit GLP-1 Patient Sentiment & Complaint Radar',
+    shortName: 'Reddit Sentiment',
+    rank: 7,
+    rankTier: 'Tier 1: Essential Core',
+    level: 2,
+    levelLabel: 'Level 2 · Intelligence',
+    category: 'level-2',
+    categoryLabel: 'Level 2: Research & Market Surveillance',
+    categoryIcon: 'MessageSquare',
+    path: '/reddit-sentiment',
+    useCase: 'Harvest unfiltered patient complaints from r/Semaglutide, r/Tirzepatide & r/compoundedcompleted to extract competitor service flaws and content hooks.',
+    description: 'Real-time patient intelligence engine monitoring verified competitor breakdowns (melted cold-packs, hidden fees, prescription delays, doctor ghosting).',
+    valueProp: 'Automated complaint categorization, sentiment analysis, and 1-click strategic content moat recommendations for high-intent SEO pages.',
+    howToUse: 'Filter by category (Competitor Complaints, Titration, Side Effects, 503A Pharmacies) or search by rival brand (Mochi, Ro, Fridays, Henry Meds) to extract copy hooks.',
+    whyToUse: 'Allows Ongo to capture dissatisfied patients by building transparent landing pages directly addressing competitor failures (e.g. 3-5 day guaranteed cold-pack shipping).',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Highest conversion copywriting ROI in the suite. Turns real-world patient frustrations into winning competitive moats.',
+    badge: 'Patient Voice',
+    badgeColor: '#dc2626',
+    badgeBg: '#fee2e2',
+    keyMetrics: 'Verified Complaints • Moat Directives',
+    keywords: ['reddit', 'sentiment', 'complaints', 'patient', 'semaglutide', 'tirzepatide', 'reviews', 'voice', 'ice pack', 'cold chain']
   },
 
   // ==========================================
