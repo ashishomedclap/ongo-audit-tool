@@ -28,7 +28,11 @@ import {
   FileCode,
   Image as ImageIcon,
   FileCheck2,
-  Radar
+  Radar,
+  ShieldAlert,
+  Bot,
+  FlaskConical,
+  Scale
 } from 'lucide-react';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition } from '@/lib/tools-sitemap';
 import { TabType } from './Navbar';
@@ -104,6 +108,10 @@ export default function ToolsSitemapModal({
       case 'FileText': return <FileText size={size} />;
       case 'FileCheck2': return <FileCheck2 size={size} />;
       case 'Radar': return <Radar size={size} />;
+      case 'ShieldAlert': return <ShieldAlert size={size} />;
+      case 'Bot': return <Bot size={size} />;
+      case 'FlaskConical': return <FlaskConical size={size} />;
+      case 'Scale': return <Scale size={size} />;
       default: return <Activity size={size} />;
     }
   };
@@ -175,10 +183,10 @@ export default function ToolsSitemapModal({
             </div>
             <div>
               <h2 style={{ fontSize: '18px', fontWeight: 800, margin: 0, color: '#ffffff' }}>
-                Master Tools Sitemap · Level 1, 2, 3 Index
+                Master Tools Sitemap · Level 1, 2, 3 &amp; USA Suite Index
               </h2>
               <span style={{ fontSize: '12px', color: '#d8f3dc' }}>
-                Jump to any of Ongo's 14 proprietary SEO audit and growth tools
+                Jump to any of Ongo's 29 proprietary SEO audit and clinical intelligence tools
               </span>
             </div>
           </div>

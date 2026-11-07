@@ -35,7 +35,11 @@ import {
   X,
   ChevronRight,
   Zap,
-  MessageSquare
+  MessageSquare,
+  ShieldAlert,
+  Bot,
+  FlaskConical,
+  Scale
 } from 'lucide-react';
 import OngoLogo from './OngoLogo';
 import ToolsSitemapModal from './ToolsSitemapModal';
@@ -66,7 +70,13 @@ export type TabType =
   | 'meta' 
   | 'architecture' 
   | 'reports'
-  | 'suite-sitemap';
+  | 'suite-sitemap'
+  | 'fda-shortages'
+  | 'clinical-citations'
+  | 'geo-readiness'
+  | 'clinical-trials'
+  | 'readability-audit'
+  | 'content-extractor';
 
 interface NavbarProps {
   activeTab: TabType;
@@ -81,7 +91,7 @@ interface NavbarProps {
 export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) {
   const [sitemapModalOpen, setSitemapModalOpen] = useState(false);
   const [masterScanModalOpen, setMasterScanModalOpen] = useState(false);
-  const [openDropdown, setOpenDropdown] = useState<'level-1' | 'level-2' | 'level-3' | null>(null);
+  const [openDropdown, setOpenDropdown] = useState<'level-1' | 'level-2' | 'level-3' | 'usa-suite' | null>(null);
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const navRef = useRef<HTMLDivElement>(null);
   const dropdownRef = useRef<HTMLDivElement>(null);
@@ -167,6 +177,10 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       case 'Radar': return <Radar size={size} />;
       case 'Zap': return <Zap size={size} />;
       case 'MessageSquare': return <MessageSquare size={size} />;
+      case 'ShieldAlert': return <ShieldAlert size={size} />;
+      case 'Bot': return <Bot size={size} />;
+      case 'FlaskConical': return <FlaskConical size={size} />;
+      case 'Scale': return <Scale size={size} />;
       default: return <Activity size={size} />;
     }
   };
@@ -201,6 +215,16 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
       useCase: 'Scale 6 topic silos, visualize PageRank equity flowcharts, audit MD E-E-A-T credentials & executive reports',
       accentColor: '#e76f51',
       tools: TOOLS_DIRECTORY.filter(t => t.level === 3)
+    },
+    {
+      id: 'usa-suite' as const,
+      levelNum: 'USA',
+      name: 'USA Federal Telehealth & AI Suite',
+      shortLabel: '🇺🇸 USA Suite',
+      compactLabel: 'USA',
+      useCase: 'US FDA Drug Shortages Database, Section 503A Safe Harbor, PubMed NLM Citations, Princeton GEO, NIH ClinicalTrials.gov & HTTP Indexability',
+      accentColor: '#059669',
+      tools: TOOLS_DIRECTORY.filter(t => ['fda-shortages', 'geo-readiness', 'clinical-citations', 'clinical-trials', 'readability-audit', 'content-extractor'].includes(t.id))
     }
   ];
 
@@ -330,6 +354,23 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
             >
               <OngoLogo variant="dark" height={32} />
             </button>
+            {activeTool && activeTab !== 'overview' && (
+              <div className="nav-text-desktop" style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px',
+                padding: '3px 8px',
+                borderRadius: '6px',
+                background: 'rgba(255, 255, 255, 0.08)',
+                border: '1px solid rgba(255, 255, 255, 0.14)',
+                fontSize: '11px',
+                color: '#d8f3dc',
+                fontWeight: 600
+              }}>
+                <span style={{ color: 'rgba(255, 255, 255, 0.35)' }}>/</span>
+                <span>{activeTool.shortName}</span>
+              </div>
+            )}
           </div>
 
           {/* Center: Reorganized Level 1, 2, 3 Use-Case Segmented Navigation */}
@@ -389,17 +430,28 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                       title={cat.useCase}
                     >
                       <span style={{
-                        background: isLevelActive ? '#74c69d' : 'rgba(255, 255, 255, 0.18)',
+                        background: isLevelActive 
+                          ? (cat.id === 'usa-suite' ? '#34d399' : '#74c69d')
+                          : (cat.id === 'usa-suite' ? 'rgba(52, 211, 153, 0.28)' : 'rgba(255, 255, 255, 0.18)'),
                         color: isLevelActive ? '#081c15' : '#ffffff',
-                        padding: '1px 4px',
+                        padding: '1px 5px',
                         borderRadius: '3px',
                         fontSize: '9px',
                         fontWeight: 800
                       }}>
-                        L{cat.levelNum}
+                        {typeof cat.levelNum === 'number' ? `L${cat.levelNum}` : cat.levelNum}
                       </span>
                       <span className="nav-label-full">{cat.shortLabel}</span>
                       <span className="nav-label-compact">{cat.compactLabel}</span>
+                      {cat.id === 'usa-suite' && (
+                        <span style={{
+                          width: '5px',
+                          height: '5px',
+                          borderRadius: '50%',
+                          backgroundColor: '#34d399',
+                          display: 'inline-block'
+                        }} />
+                      )}
                       <ChevronDown size={11} style={{ transform: isOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.18s ease' }} />
                     </button>
                   </div>
@@ -433,7 +485,8 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                 title="Open Industry Radar (FDA Shortages, 503A Compounding GFI, Live Competitor Prices)"
               >
                 <Radar size={12} />
-                <span>Radar</span>
+                <span className="nav-label-full">Radar</span>
+                <span className="nav-label-compact">Rad</span>
                 <span style={{
                   width: '5px',
                   height: '5px',
@@ -467,11 +520,11 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                   transition: 'all 0.15s ease',
                   whiteSpace: 'nowrap'
                 }}
-                title="Open Visual Master Sitemap (All 21 Tools)"
+                title="Open Visual Master Sitemap (All 29 Tools)"
               >
                 <FolderTree size={12} />
                 <span className="nav-label-full">Sitemap</span>
-                <span className="nav-label-compact">21</span>
+                <span className="nav-label-compact">29</span>
               </button>
             </nav>
           </div>
@@ -851,7 +904,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                   }}
                 >
                   <FolderTree size={13} />
-                  <span>View All 21 Tools in Visual Master Sitemap</span>
+                  <span>View All 29 Tools in Visual Master Sitemap</span>
                   <ChevronRight size={12} />
                 </button>
 
@@ -862,7 +915,7 @@ export default function Navbar({ activeTab, setActiveTab, stats }: NavbarProps) 
                     fontWeight: 600,
                     color: theme === 'dark' ? '#9cb1a5' : '#64748b'
                   }}>
-                    Level {activeCategory.levelNum} · Ready for Audit
+                    {typeof activeCategory.levelNum === 'number' ? `Level ${activeCategory.levelNum}` : activeCategory.levelNum} · Ready for Audit
                   </span>
                 </div>
               </div>

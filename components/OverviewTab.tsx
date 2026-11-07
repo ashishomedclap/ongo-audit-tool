@@ -26,7 +26,12 @@ import {
   Link2,
   GitCompare,
   BookOpen,
-  FolderTree
+  FolderTree,
+  ShieldAlert,
+  Bot,
+  FlaskConical,
+  Scale,
+  FileCheck2
 } from 'lucide-react';
 import { CompetitorSummary } from '@/lib/data';
 import { TabType } from './Navbar';
@@ -118,7 +123,256 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
       />
 
       {/* =========================================================================
-          EXECUTIVE INTELLIGENCE SKIM & SCAN HERO BAR
+          FEATURED USA TELEHEALTH & AI CITATION TOOLS LAUNCHER (#24 - #29)
+          ========================================================================= */}
+      <div className="glass-card" style={{
+        padding: '20px 24px',
+        borderRadius: '18px',
+        border: '1px solid rgba(116, 198, 157, 0.35)',
+        background: 'linear-gradient(135deg, rgba(15, 44, 36, 0.92) 0%, rgba(10, 28, 22, 0.98) 100%)',
+        color: '#ffffff',
+        boxShadow: '0 8px 32px rgba(10, 28, 22, 0.35)'
+      }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
+          <div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+              <span style={{
+                padding: '2px 8px',
+                borderRadius: '9999px',
+                fontSize: '10px',
+                fontWeight: 800,
+                backgroundColor: 'rgba(52, 211, 153, 0.2)',
+                color: '#34d399',
+                border: '1px solid rgba(52, 211, 153, 0.4)',
+                letterSpacing: '0.04em'
+              }}>
+                NEW &bull; 6 USA FEDERAL &amp; TECHNICAL AUDIT TOOLS ADDED
+              </span>
+              <span style={{ fontSize: '11px', color: '#a7f3d0', fontWeight: 600 }}>
+                100% Grounded for United States Telehealth Operations
+              </span>
+            </div>
+            <h3 style={{ fontSize: '1.15rem', fontWeight: 800, margin: 0, color: '#ffffff', letterSpacing: '-0.01em' }}>
+              USA Regulatory, Clinical E-E-A-T &amp; AI Citation Suite
+            </h3>
+          </div>
+          <span style={{ fontSize: '12px', color: '#94a3b8' }}>
+            Click any tool to launch immediately:
+          </span>
+        </div>
+
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
+          gap: '12px'
+        }}>
+          {/* Tool 1: FDA 503A Watchdog */}
+          <button
+            onClick={() => onSelectTab('fda-shortages')}
+            style={{
+              padding: '14px 16px',
+              borderRadius: '14px',
+              background: 'rgba(5, 150, 105, 0.15)',
+              border: '1px solid rgba(52, 211, 153, 0.3)',
+              cursor: 'pointer',
+              textAlign: 'left',
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'space-between',
+              gap: '10px',
+              transition: 'all 0.18s ease'
+            }}
+          >
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <ShieldAlert size={16} color="#34d399" />
+                <span style={{ fontSize: '12px', fontWeight: 800, color: '#34d399' }}>#24 FDA 503A</span>
+              </div>
+              <span style={{ width: '6px', height: '6px', borderRadius: '50%', backgroundColor: '#34d399' }} />
+            </div>
+            <div>
+              <div style={{ fontSize: '13px', fontWeight: 700, color: '#ffffff', marginBottom: '2px' }}>
+                Drug Shortages &amp; 503A
+              </div>
+              <div style={{ fontSize: '11px', color: '#a7f3d0' }}>
+                FD&C Act §503A legal safe harbor &amp; FAERS
+              </div>
+            </div>
+          </button>
+
+          {/* Tool 2: PubMed Citations */}
+          <button
+            onClick={() => onSelectTab('clinical-citations')}
+            style={{
+              padding: '14px 16px',
+              borderRadius: '14px',
+              background: 'rgba(2, 132, 199, 0.15)',
+              border: '1px solid rgba(56, 189, 248, 0.3)',
+              cursor: 'pointer',
+              textAlign: 'left',
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'space-between',
+              gap: '10px',
+              transition: 'all 0.18s ease'
+            }}
+          >
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <BookOpen size={16} color="#38bdf8" />
+                <span style={{ fontSize: '12px', fontWeight: 800, color: '#38bdf8' }}>#25 PubMed</span>
+              </div>
+              <span style={{ fontSize: '10px', color: '#38bdf8', fontWeight: 700 }}>36M+ Studies</span>
+            </div>
+            <div>
+              <div style={{ fontSize: '13px', fontWeight: 700, color: '#ffffff', marginBottom: '2px' }}>
+                NLM Clinical Citations
+              </div>
+              <div style={{ fontSize: '11px', color: '#bae6fd' }}>
+                1-click AMA &amp; ScholarlyArticle JSON-LD
+              </div>
+            </div>
+          </button>
+
+          {/* Tool 3: GEO AI Readiness */}
+          <button
+            onClick={() => onSelectTab('geo-readiness')}
+            style={{
+              padding: '14px 16px',
+              borderRadius: '14px',
+              background: 'rgba(124, 58, 237, 0.15)',
+              border: '1px solid rgba(167, 139, 250, 0.3)',
+              cursor: 'pointer',
+              textAlign: 'left',
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'space-between',
+              gap: '10px',
+              transition: 'all 0.18s ease'
+            }}
+          >
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <Bot size={16} color="#a78bfa" />
+                <span style={{ fontSize: '12px', fontWeight: 800, color: '#a78bfa' }}>#26 GEO AI</span>
+              </div>
+              <span style={{ fontSize: '10px', color: '#a78bfa', fontWeight: 700 }}>ChatGPT / Perplexity</span>
+            </div>
+            <div>
+              <div style={{ fontSize: '13px', fontWeight: 700, color: '#ffffff', marginBottom: '2px' }}>
+                AI Citation Readiness
+              </div>
+              <div style={{ fontSize: '11px', color: '#ddd6fe' }}>
+                Scores statistic density &amp; MD quotes
+              </div>
+            </div>
+          </button>
+
+          {/* Tool 4: NIH Clinical Trials */}
+          <button
+            onClick={() => onSelectTab('clinical-trials')}
+            style={{
+              padding: '14px 16px',
+              borderRadius: '14px',
+              background: 'rgba(13, 148, 136, 0.15)',
+              border: '1px solid rgba(45, 212, 191, 0.3)',
+              cursor: 'pointer',
+              textAlign: 'left',
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'space-between',
+              gap: '10px',
+              transition: 'all 0.18s ease'
+            }}
+          >
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <FlaskConical size={16} color="#2dd4bf" />
+                <span style={{ fontSize: '12px', fontWeight: 800, color: '#2dd4bf' }}>#27 Trials</span>
+              </div>
+              <span style={{ fontSize: '10px', color: '#2dd4bf', fontWeight: 700 }}>Phase 2/3</span>
+            </div>
+            <div>
+              <div style={{ fontSize: '13px', fontWeight: 700, color: '#ffffff', marginBottom: '2px' }}>
+                Next-Gen Obesity Radar
+              </div>
+              <div style={{ fontSize: '11px', color: '#99f6e4' }}>
+                Retatrutide, CagriSema &amp; Orforglipron
+              </div>
+            </div>
+          </button>
+
+          {/* Tool 5: AMA Readability */}
+          <button
+            onClick={() => onSelectTab('readability-audit')}
+            style={{
+              padding: '14px 16px',
+              borderRadius: '14px',
+              background: 'rgba(234, 88, 12, 0.15)',
+              border: '1px solid rgba(251, 146, 60, 0.3)',
+              cursor: 'pointer',
+              textAlign: 'left',
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'space-between',
+              gap: '10px',
+              transition: 'all 0.18s ease'
+            }}
+          >
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <FileText size={16} color="#fb923c" />
+                <span style={{ fontSize: '12px', fontWeight: 800, color: '#fb923c' }}>#28 Readability</span>
+              </div>
+              <span style={{ fontSize: '10px', color: '#fb923c', fontWeight: 700 }}>AMA 6-8th</span>
+            </div>
+            <div>
+              <div style={{ fontSize: '13px', fontWeight: 700, color: '#ffffff', marginBottom: '2px' }}>
+                Patient Jargon Auditor
+              </div>
+              <div style={{ fontSize: '11px', color: '#fed7aa' }}>
+                1-click plain language replacements
+              </div>
+            </div>
+          </button>
+
+          {/* Tool 6: Content Extractor & HTTP Indexability */}
+          <button
+            onClick={() => onSelectTab('content-extractor')}
+            style={{
+              padding: '14px 16px',
+              borderRadius: '14px',
+              background: 'rgba(16, 185, 129, 0.15)',
+              border: '1px solid rgba(52, 211, 153, 0.35)',
+              cursor: 'pointer',
+              textAlign: 'left',
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'space-between',
+              gap: '10px',
+              transition: 'all 0.18s ease'
+            }}
+          >
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <FileCheck2 size={16} color="#34d399" />
+                <span style={{ fontSize: '12px', fontWeight: 800, color: '#34d399' }}>#29 Extractor</span>
+              </div>
+              <span style={{ fontSize: '10px', color: '#34d399', fontWeight: 700 }}>HTTP 200 &bull; Robots</span>
+            </div>
+            <div>
+              <div style={{ fontSize: '13px', fontWeight: 700, color: '#ffffff', marginBottom: '2px' }}>
+                Content &amp; Indexability
+              </div>
+              <div style={{ fontSize: '11px', color: '#a7f3d0' }}>
+                Strips noise &amp; checks noindex/robots
+              </div>
+            </div>
+          </button>
+        </div>
+      </div>
+
+      {/* =========================================================================
           Sleek, minimal, premium royal glassneumorphic cards designed for instant 5-second skimming
           ========================================================================= */}
       <div style={{
@@ -636,9 +890,17 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
               <BookOpen size={14} color="#d1fae5" />
               7 Onboarding Books (PDF)
             </button>
+            <button className="btn-minimal-primary" onClick={() => onSelectTab('fda-shortages')} style={{ background: 'linear-gradient(135deg, #059669 0%, #047857 100%)', color: '#ffffff' }}>
+              <ShieldAlert size={14} color="#a7f3d0" />
+              FDA 503A Watchdog
+            </button>
+            <button className="btn-minimal-primary" onClick={() => onSelectTab('geo-readiness')} style={{ background: 'linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%)', color: '#ffffff' }}>
+              <Bot size={14} color="#ddd6fe" />
+              GEO AI Auditor
+            </button>
             <button className="btn-minimal-primary" onClick={() => onSelectTab('suite-sitemap')} style={{ background: 'linear-gradient(135deg, #1b4332 0%, #24553f 100%)', color: '#ffffff' }}>
               <FolderTree size={14} color="#74c69d" />
-              Master Sitemap (14 Tools)
+              Master Sitemap (29 Tools)
             </button>
             <button className="btn-minimal-primary" onClick={() => onSelectTab('keywords-harvester')} style={{ background: 'linear-gradient(135deg, #1b4332 0%, #2d6a4f 100%)', color: '#ffffff' }}>
               <Sparkles size={14} color="#74c69d" />
@@ -916,7 +1178,7 @@ export default function OverviewTab({ competitors, onSelectTab, onInspectCompeti
                   Ordered Workflow Architecture
                 </span>
                 <span className="badge-minimal badge-minimal-coral" style={{ fontSize: '0.72rem' }}>
-                  3 Levels • 14 Specialized Tools
+                  3 Levels + USA Suite • 29 Specialized Tools
                 </span>
               </div>
               <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)', margin: 0, letterSpacing: '-0.02em' }}>

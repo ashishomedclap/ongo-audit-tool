@@ -35,7 +35,12 @@ import {
   GitMerge,
   Image as ImageIcon,
   CheckSquare,
-  FileCheck2
+  FileCheck2,
+  Radar,
+  ShieldAlert,
+  Bot,
+  FlaskConical,
+  Scale
 } from 'lucide-react';
 import ContextCue from './ContextCue';
 import { TOOLS_DIRECTORY, TOOL_CATEGORIES, ToolDefinition, getToolsByRank } from '@/lib/tools-sitemap';
@@ -103,6 +108,11 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
       case 'FileText': return <FileText size={size} />;
       case 'FileCode': return <FileCode size={size} />;
       case 'FileCheck2': return <FileCheck2 size={size} />;
+      case 'Radar': return <Radar size={size} />;
+      case 'ShieldAlert': return <ShieldAlert size={size} />;
+      case 'Bot': return <Bot size={size} />;
+      case 'FlaskConical': return <FlaskConical size={size} />;
+      case 'Scale': return <Scale size={size} />;
       default: return <Activity size={size} />;
     }
   };

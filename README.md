@@ -30,6 +30,15 @@
    - [Rank #18: Competitor Keyword Matrix](#rank-18-competitor-keyword-matrix)
    - [Rank #19: Executive Strategy & Compliance Reports](#rank-19-executive-strategy--compliance-reports)
    - [Rank #20: Competitor Sitemaps Explorer](#rank-20-competitor-sitemaps-explorer)
+   - [Rank #21: Industry Radar & Telehealth Pulse](#rank-21-industry-radar--telehealth-pulse)
+   - [Rank #22: Live Core Web Vitals & Speed Benchmark](#rank-22-live-core-web-vitals--speed-benchmark)
+   - [Rank #23: Reddit GLP-1 Patient Sentiment Radar](#rank-23-reddit-glp-1-patient-sentiment-radar)
+   - [Rank #24: US FDA Drug Shortages & 503A Legal Watchdog](#rank-24-us-fda-drug-shortages--503a-legal-watchdog)
+   - [Rank #25: US PubMed & NLM Clinical Citation Generator](#rank-25-us-pubmed--nlm-clinical-citation-generator)
+   - [Rank #26: Generative Engine Optimization (GEO) & US AI Citation Auditor](#rank-26-generative-engine-optimization-geo--us-ai-citation-auditor)
+   - [Rank #27: NIH ClinicalTrials.gov Next-Gen Obesity Pipeline Radar](#rank-27-nih-clinicaltrialsgov-next-gen-obesity-pipeline-radar)
+   - [Rank #28: US AMA/NIH Patient Readability & Jargon Auditor](#rank-28-us-amanih-patient-readability--jargon-auditor)
+   - [Rank #29: Clean Content Extractor & HTTP Indexability Auditor](#rank-29-clean-content-extractor--http-indexability-auditor)
 5. [The Ongo 56 Live Footprint & Live Scanning System](#-the-ongo-56-live-footprint--live-scanning-system)
 6. [Complete Codebase & File Tree](#-complete-codebase--file-tree)
 7. [API Endpoints Reference](#-api-endpoints-reference)
@@ -537,6 +546,11 @@ All endpoints run on the Next.js App Router (`app/api/`):
 * **Purpose**: Real-time patient complaints and clinical inquiries from `r/Semaglutide`, `r/Tirzepatide`, and `r/compoundedcompleted` paired with actionable Ongo conversion moats.
 * **Payload**: `GET /api/reddit-sentiment?category=COMPETITOR_COMPLAINT`
 * **Response**: `{ success: true, totalDiscussions: 8, posts: [{ id, title, category, competitorMentioned, ongoMoatTakeaway, targetContentOpportunity }] }`
+
+### 11. `POST /api/content-extractor`
+* **Purpose**: Strips HTML boilerplate into distraction-free Markdown/plain text, audits live HTTP status codes (200, 301, 403, 404), flags meta robots (`noindex, nofollow`), X-Robots-Tag, canonical mismatch, and robots.txt bot rules (Googlebot, GPTBot, PerplexityBot, ClaudeBot).
+* **Payload**: `{ url: 'https://ongoweightloss.com/services/glp-1-compounded-semaglutide' }`
+* **Response**: `{ statusCode: 200, isIndexable: true, directives: { metaRobots, xRobotsTag, canonical, robotsTxt }, cleanMarkdown: '...', cleanText: '...', wordCount: 1240, readingTimeMin: 6 }`
 
 ---
 

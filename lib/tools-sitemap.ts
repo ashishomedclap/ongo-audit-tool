@@ -701,6 +701,180 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     badgeBg: '#e0f2fe',
     keyMetrics: '74 Active Sitemaps',
     keywords: ['sitemaps', 'xml', 'competitors', 'urls', 'hierarchy', 'status']
+  },
+
+  // ==========================================
+  // RANK #22: US FDA DRUG SHORTAGES & 503A WATCHDOG
+  // ==========================================
+  {
+    id: 'fda-shortages',
+    name: 'US FDA Drug Shortages & 503A Compounding Legal Watchdog',
+    shortName: 'FDA Shortages & 503A',
+    rank: 22,
+    rankTier: 'Tier 1: Essential Core',
+    level: 3,
+    levelLabel: 'Level 3 · Governance & Trust',
+    category: 'level-3',
+    categoryLabel: 'Level 3: Silos, Equity Flow & Trust',
+    categoryIcon: 'ShieldAlert',
+    path: '/fda-shortages',
+    useCase: 'Monitor official US FDA Drug Shortages to verify Section 503A compounding safe harbor status for Semaglutide & Tirzepatide, with FAERS adverse reactions.',
+    description: 'Direct surveillance of the official U.S. FDA Drug Shortages Database (FD&C Act §503A/506E) and MedWatch FAERS adverse events for clinical risk mitigation.',
+    valueProp: 'Live federal shortage status, 503A legal safe harbor verification, and 1-click copyable US compounding disclaimers.',
+    howToUse: 'Inspect active shortages across Semaglutide, Tirzepatide, and Liraglutide, review FAERS side-effect telemetry, and copy compliant legal disclaimers.',
+    whyToUse: 'Protects Ongo against regulatory enforcement risks by proving compounding legality under Section 503A of the US Federal Food, Drug, and Cosmetic Act.',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Critical US regulatory safeguard tracking live FDA shortage status required for all US compounded telehealth operations.',
+    badge: 'US FDA Live',
+    badgeColor: '#059669',
+    badgeBg: '#dcfce7',
+    keyMetrics: 'Live FDA Database • 503A Safe Harbor',
+    keywords: ['fda', 'shortages', 'compounding', '503a', 'semaglutide', 'tirzepatide', 'faers', 'adverse events', 'regulations']
+  },
+
+  // ==========================================
+  // RANK #23: US PUBMED & NLM CLINICAL CITATION GENERATOR
+  // ==========================================
+  {
+    id: 'clinical-citations',
+    name: 'US PubMed & NLM Clinical Citation Generator',
+    shortName: 'PubMed Citations',
+    rank: 23,
+    rankTier: 'Tier 1: Essential Core',
+    level: 2,
+    levelLabel: 'Level 2 · Content Engine',
+    category: 'level-2',
+    categoryLabel: 'Level 2: Content & Keywords Engine',
+    categoryIcon: 'BookOpen',
+    path: '/clinical-citations',
+    useCase: 'Search 36M+ US clinical studies on PubMed to generate 1-click AMA/NLM citations and ScholarlyArticle JSON-LD for Google Medical E-E-A-T badges.',
+    description: 'Instant clinical citation generator indexing landmark US obesity trials (STEP-1, SURMOUNT-1, SELECT) with PMIDs, DOIs, and Schema.org snippets.',
+    valueProp: '1-click AMA, APA, and NLM citation formatting with direct links to PubMed and structured JSON-LD for Google YMYL ranking.',
+    howToUse: 'Search by clinical keyword or select preloaded landmark GLP-1 trials to copy formatted AMA citations or copy ScholarlyArticle JSON-LD schema.',
+    whyToUse: 'Google Medical YMYL algorithms penalize unsubstantiated health claims; linking to US PubMed studies provides unbeatable E-E-A-T authority.',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Direct connection to US National Library of Medicine clinical trials to satisfy Google E-E-A-T requirements.',
+    badge: '36M+ PubMed',
+    badgeColor: '#0284c7',
+    badgeBg: '#e0f2fe',
+    keyMetrics: '36M+ Studies • 1-Click AMA Citation',
+    keywords: ['pubmed', 'nlm', 'nih', 'citations', 'ama', 'scholarly article', 'clinical trials', 'step 1', 'surmount']
+  },
+
+  // ==========================================
+  // RANK #24: GEO & US AI CITATION AUDITOR
+  // ==========================================
+  {
+    id: 'geo-readiness',
+    name: 'Generative Engine Optimization (GEO) & US AI Citation Auditor',
+    shortName: 'GEO AI Readiness',
+    rank: 24,
+    rankTier: 'Tier 1: Essential Core',
+    level: 2,
+    levelLabel: 'Level 2 · Content Engine',
+    category: 'level-2',
+    categoryLabel: 'Level 2: Content & Keywords Engine',
+    categoryIcon: 'Bot',
+    path: '/geo-readiness',
+    useCase: 'Audit content against Princeton/Georgia Tech GEO benchmarks to maximize citation probability in ChatGPT Search, Perplexity US, and Google AI Overviews.',
+    description: 'Evaluates on-page content across 5 weighted algorithmic signals: statistic density, MD quotation ratio, clinical citations, and direct-answer TL;DR definition boxes.',
+    valueProp: 'Instant GEO Readiness Score (0-100), letter grade (A-D), and 1-click actionable fix suggestions to capture #1 AI search citations.',
+    howToUse: 'Select an Ongo page preset or paste any article draft to analyze AI visibility and receive specific recommendations for statistical and quotation injection.',
+    whyToUse: '40%+ of US healthcare searches now originate in AI search engines; optimizing for GEO ensures Ongo is recommended by ChatGPT and Perplexity.',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Next-generation SEO framework optimized for the modern AI-assisted search landscape.',
+    badge: 'ChatGPT & Perplexity',
+    badgeColor: '#8b5cf6',
+    badgeBg: '#f3e8ff',
+    keyMetrics: '0-100 GEO Score • 5 Algorithmic Signals',
+    keywords: ['geo', 'aeo', 'chatgpt', 'perplexity', 'ai search', 'generative engine optimization', 'llm citation']
+  },
+
+  // ==========================================
+  // RANK #25: NIH CLINICALTRIALS.GOV NEXT-GEN RADAR
+  // ==========================================
+  {
+    id: 'clinical-trials',
+    name: 'NIH ClinicalTrials.gov Next-Gen Obesity Pipeline Radar',
+    shortName: 'Next-Gen Trials Radar',
+    rank: 25,
+    rankTier: 'Tier 2: High Value Strategy',
+    level: 2,
+    levelLabel: 'Level 2 · Content Engine',
+    category: 'level-2',
+    categoryLabel: 'Level 2: Content & Keywords Engine',
+    categoryIcon: 'FlaskConical',
+    path: '/clinical-trials',
+    useCase: 'Surveys US FDA Phase 2/3 clinical trials for upcoming obesity molecules (Retatrutide, CagriSema, Orforglipron) to capture search demand ahead of competitors.',
+    description: 'Tracks NCT identifiers, primary completion target dates, study locations across US states, and commercial impact timelines from ClinicalTrials.gov.',
+    valueProp: 'Surfaces emerging drug demand 12 months ahead of commercial FDA approval so Ongo can establish dominant Page 1 rankings early.',
+    howToUse: 'Filter by trial phase or sponsor to review upcoming molecule milestones, trial sites, and target patient enrollments.',
+    whyToUse: 'First-mover advantage in SEO: ranking for new drug keywords before commercial launch locks in high domain authority.',
+    recommendation: 'KEEP (High Value)',
+    recommendationReason: 'Provides long-term editorial foresight into the 2025-2027 US telehealth and pharmaceutical pipeline.',
+    badge: 'ClinicalTrials.gov',
+    badgeColor: '#0d9488',
+    badgeBg: '#ccfbf1',
+    keyMetrics: 'Next-Gen GLP-1s • FDA Phase 3',
+    keywords: ['clinical trials', 'retatrutide', 'cagrisema', 'orforglipron', 'nih', 'fda', 'phase 3', 'pipeline']
+  },
+
+  // ==========================================
+  // RANK #26: US AMA/NIH PATIENT READABILITY AUDITOR
+  // ==========================================
+  {
+    id: 'readability-audit',
+    name: 'US AMA/NIH Patient Readability & Jargon Auditor',
+    shortName: 'AMA Patient Readability',
+    rank: 26,
+    rankTier: 'Tier 2: High Value Strategy',
+    level: 2,
+    levelLabel: 'Level 2 · Content Engine',
+    category: 'level-2',
+    categoryLabel: 'Level 2: Content & Keywords Engine',
+    categoryIcon: 'FileText',
+    path: '/readability-audit',
+    useCase: 'Ensure content meets American Medical Association (AMA) guidelines requiring 6th-to-8th grade reading levels, with 1-click medical jargon replacement.',
+    description: 'Calculates Flesch-Kincaid Grade Level and Flesch Reading Ease in real time, detecting multi-syllabic clinical jargon and suggesting plain-language alternatives.',
+    valueProp: 'Prevents patient confusion and bounce rates by translating complex endocrinology terms into plain-English conversational copy.',
+    howToUse: 'Type or paste content in the live editor to see real-time grade calculations and click "Replace" to simplify flagged clinical jargon.',
+    whyToUse: 'High reading difficulty causes patient drop-off and violates US federal plain-language healthcare standards.',
+    recommendation: 'KEEP (High Value)',
+    recommendationReason: 'Directly improves patient conversion and complies with US healthcare communication best practices.',
+    badge: 'AMA 6-8th Grade',
+    badgeColor: '#ea580c',
+    badgeBg: '#ffedd5',
+    keyMetrics: 'Flesch-Kincaid Grade • 1-Click Jargon Fix',
+    keywords: ['readability', 'flesch-kincaid', 'ama', 'nih', 'jargon', 'plain language', 'patient education']
+  },
+
+  // ==========================================
+  // RANK #27: CLEAN CONTENT EXTRACTOR & HTTP INDEXABILITY AUDITOR
+  // ==========================================
+  {
+    id: 'content-extractor',
+    name: 'Clean Content Extractor & HTTP Indexability Auditor',
+    shortName: 'Content & Indexability',
+    rank: 27,
+    rankTier: 'Tier 1: Essential Core',
+    level: 1,
+    levelLabel: 'Level 1 · Foundation',
+    category: 'level-1',
+    categoryLabel: 'Level 1: Foundation & Baseline',
+    categoryIcon: 'FileCheck2',
+    path: '/content-extractor',
+    useCase: 'Strips bloated HTML boilerplate into distraction-free Markdown/Text, audits live HTTP status codes, and diagnoses meta robots, X-Robots-Tag, and canonical indexability.',
+    description: 'Diagnoses whether Google and AI bots can index a URL, inspects HTTP response codes (200, 301, 403, 404), flags noindex/robots.txt blocks, and strips all page noise to extract clean Markdown.',
+    valueProp: 'Uncovers fatal noindex crawl blocks before they destroy rankings, and provides clean distraction-free Markdown text with 1-click export.',
+    howToUse: 'Pick from 46 sitemap pages or type any URL to inspect live HTTP status, robots directives, canonical tags, and view the clean readable content.',
+    whyToUse: 'Accidental noindex tags or robots.txt blocks instantly de-index commercial landing pages, resulting in total loss of organic traffic.',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Essential technical SEO safeguard and high-utility content extraction engine for editorial and audit workflows.',
+    badge: 'HTTP 200 & Robots',
+    badgeColor: '#059669',
+    badgeBg: '#d1fae5',
+    keyMetrics: 'HTTP Status • Noindex Audit • Clean Markdown',
+    keywords: ['content extractor', 'indexability', 'robots.txt', 'noindex', 'canonical', 'http status', 'boilerplate stripper', 'reader mode']
   }
 ];
 

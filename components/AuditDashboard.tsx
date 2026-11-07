@@ -26,6 +26,12 @@ import ContentMatcherTab from './ContentMatcherTab';
 import IndustryRadarTab from './IndustryRadarTab';
 import PageSpeedBenchmarkTab from './PageSpeedBenchmarkTab';
 import RedditSentimentTab from './RedditSentimentTab';
+import FdaShortagesTab from './FdaShortagesTab';
+import ClinicalCitationsTab from './ClinicalCitationsTab';
+import GeoReadinessTab from './GeoReadinessTab';
+import ClinicalTrialsTab from './ClinicalTrialsTab';
+import ReadabilityAuditTab from './ReadabilityAuditTab';
+import ContentExtractorTab from './ContentExtractorTab';
 import CompetitorModal from './CompetitorModal';
 import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
 import { BooksIndexData } from '@/lib/books-data';
@@ -55,7 +61,13 @@ export const TAB_TO_URL: Record<TabType, string> = {
   'reddit-sentiment': '/reddit-sentiment',
   'meta': '/meta',
   'reports': '/reports',
-  'suite-sitemap': '/sitemap'
+  'suite-sitemap': '/sitemap',
+  'fda-shortages': '/fda-shortages',
+  'clinical-citations': '/clinical-citations',
+  'geo-readiness': '/geo-readiness',
+  'clinical-trials': '/clinical-trials',
+  'readability-audit': '/readability-audit',
+  'content-extractor': '/content-extractor'
 };
 
 export const URL_TO_TAB: Record<string, TabType> = {
@@ -82,7 +94,13 @@ export const URL_TO_TAB: Record<string, TabType> = {
   '/reddit-sentiment': 'reddit-sentiment',
   '/meta': 'meta',
   '/reports': 'reports',
-  '/sitemap': 'suite-sitemap'
+  '/sitemap': 'suite-sitemap',
+  '/fda-shortages': 'fda-shortages',
+  '/clinical-citations': 'clinical-citations',
+  '/geo-readiness': 'geo-readiness',
+  '/clinical-trials': 'clinical-trials',
+  '/readability-audit': 'readability-audit',
+  '/content-extractor': 'content-extractor'
 };
 
 interface AuditDashboardProps {
@@ -371,6 +389,30 @@ export default function AuditDashboard({
             reportsList={reportsList}
           />
         )}
+
+        {activeTab === 'fda-shortages' && (
+          <FdaShortagesTab />
+        )}
+
+        {activeTab === 'clinical-citations' && (
+          <ClinicalCitationsTab />
+        )}
+
+        {activeTab === 'geo-readiness' && (
+          <GeoReadinessTab />
+        )}
+
+        {activeTab === 'clinical-trials' && (
+          <ClinicalTrialsTab />
+        )}
+
+        {activeTab === 'readability-audit' && (
+          <ReadabilityAuditTab />
+        )}
+
+        {activeTab === 'content-extractor' && (
+          <ContentExtractorTab />
+        )}
       </main>
 
       {/* Competitor Detail Inspector Modal */}
@@ -428,7 +470,7 @@ export default function AuditDashboard({
                 borderRadius: '9999px'
               }}>
                 <span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#22c55e', display: 'inline-block' }} />
-                21 Intelligence Tools
+                29 Intelligence Tools
               </span>
               <span className="glass-pill" style={{
                 padding: '4px 10px',
