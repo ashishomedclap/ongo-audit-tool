@@ -8,9 +8,13 @@
 For the complete, single-file reference covering all 23 tools, architectural tiers, live 56 URLs footprint, and API endpoints, please see:
 👉 **[`audit-tool/README.md`](./audit-tool/README.md)**
 
+🔬 **Next-Gen Expansion & Research Blueprint (Tools #24 – #38+)**:  
+Comprehensive web research covering modern Python scraping libraries (`Crawl4AI`, `Scrapling`, `advertools`), live clinical APIs (`openFDA`, `Europe PMC`), social listening (`Postiz`, `yt-dlp`), and engineering leadership systems:  
+👉 **[`audit-tool/docs/TOOLING_EXPANSION_RESEARCH.md`](./audit-tool/docs/TOOLING_EXPANSION_RESEARCH.md)**
+
 ---
 
-## ⚡ The 23 Ranked Tools Directory
+## ⚡ The 29 Ranked Tools Directory
 
 | Rank | Tool Name | Route | Category | Strategic Purpose |
 | :---: | :--- | :--- | :--- | :--- |
@@ -37,6 +41,12 @@ For the complete, single-file reference covering all 23 tools, architectural tie
 | **#21**| **Competitor Keyword Matrix** | `/keywords` | L2 Content | Search volumes, CPC, and keyword difficulty across 54k keywords |
 | **#22**| **Executive Strategy Reports** | `/reports` | L3 Silos | Comprehensive downloadable architectural & compliance whitepapers |
 | **#23**| **Competitor Sitemaps (74)** | `/sitemaps` | L1 Foundation | 74 raw competitor XML sitemaps powering indexation benchmarks |
+| **#24**| **US FDA Drug Shortages & 503A Legal Watchdog** | `/fda-shortages` | L3 Silos | FD&C Act §503A compounding safe harbor, FAERS telemetry, 1-click legal disclaimer |
+| **#25**| **US PubMed & NLM Clinical Citation Generator** | `/clinical-citations` | L2 Content | 36M+ US studies (STEP-1, SURMOUNT-1, SELECT), 1-click AMA & Schema.org JSON-LD |
+| **#26**| **Generative Engine Optimization (GEO) & AI Auditor** | `/geo-readiness` | L2 Content | Princeton GEO benchmark, ChatGPT Search & Perplexity citation likelihood scorecard |
+| **#27**| **NIH ClinicalTrials.gov Next-Gen Pipeline Radar** | `/clinical-trials` | L2 Content | US FDA Phase 2/3 trials for Retatrutide, CagriSema, Orforglipron early SEO capture |
+| **#28**| **US AMA/NIH Patient Readability & Jargon Auditor** | `/readability-audit` | L2 Content | American Medical Association 6-8th grade level auditor with 1-click medical jargon simplifier |
+| **#29**| **Clean Content Extractor & HTTP Indexability Auditor** | `/content-extractor` | L1 Foundation | Live HTTP status code probe (200/301/403/404), meta robots noindex checker, canonical verification & boilerplate noise stripper |
 
 ---
 
