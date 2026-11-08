@@ -1,0 +1,3332 @@
+{
+  "name": "Mhealthfairview",
+  "domain": "mhealthfairview.org",
+  "total_urls": 2375,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.mhealthfairview.org/bill-pay-and-financial-resources/support/payment-plan",
+    "https://www.mhealthfairview.org/bill-pay-and-financial-resources/support/payment-plan-old",
+    "https://www.mhealthfairview.org/bill-pay-and-financial-resources/support/payment-plan/payzen",
+    "https://www.mhealthfairview.org/blog/1-year-old-livi-every-day-cochlear-implants-miracle",
+    "https://www.mhealthfairview.org/blog/1000-second-chances-university-minnesota-health-celebrates-lung-transplant-milestone",
+    "https://www.mhealthfairview.org/blog/10000-kidney-transplants-landmark-milestone-our-world-class-organ-transplant-center",
+    "https://www.mhealthfairview.org/blog/100th-non-directed-kidney-donation-major-milestone-m-health-organ-transplant-program",
+    "https://www.mhealthfairview.org/blog/16-year-old-ray-sunshine-throughout-pediatric-pancreas-kidney-transplant",
+    "https://www.mhealthfairview.org/blog/18-surgeries-nine-lives-saved-university-minnesota-health-transplant-team-earns-national-honor",
+    "https://www.mhealthfairview.org/blog/4-year-old-kidney-dialysis-after-receiving-2001st-pediatric-organ-transplant",
+    "https://www.mhealthfairview.org/blog/5-tips-feeding-picky-eater-registered-dietitian",
+    "https://www.mhealthfairview.org/blog/5-year-old-thriving-after-total-pancreatectomy-and-islet-auto-transplant",
+    "https://www.mhealthfairview.org/blog/5-years-after-first-world-transplant-siblings-are-living-hope",
+    "https://www.mhealthfairview.org/blog/50-years-after-first-pancreas-transplant-doctors-and-patients-celebrate-pioneering-procedure",
+    "https://www.mhealthfairview.org/blog/600th-surgery-milestone-total-pancreatectomy-and-islet-auto-transplant-program"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.mhealthfairview.org/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/awards-and-recognition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/experience-surveys",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/giving",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/giving/corporate-engagement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/giving/employee-giving",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/giving/support-masonic-childrens",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/giving/tribute-giving",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/giving/why-giving-matters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/advancing-healthcare-equity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/dei",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/hope-commission",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/hope-commission/framework",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/hope-commission/whats-new",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/hope-commission/whats-next",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/m-health-fairview-center-for-community-health-equity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/m-health-fairview-center-for-community-health-equity/cche",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/mobile-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/our-community-commitment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/our-community-commitment/classes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/our-community-commitment/classes/community-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/our-community-commitment/classes/community-health-education",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/our-community-commitment/classes/mental-health-and-wellbeing-classes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/health-equity/our-community-commitment/sponsorship-requests",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/patient-experience",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/patient-relations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/putting-people-first",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/putting-people-first/accreditations-and-rankings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/putting-people-first/quality-and-safety",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/research/clinical-trials-office",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/research/fairview-frontiers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/research/innovation-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/about-us/volunteering",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/app-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/bill-pay-and-financial-resources/support/payment-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/bill-pay-and-financial-resources/support/payment-plan-old",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/bill-pay-and-financial-resources/support/payment-plan/payzen",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/1-year-old-livi-every-day-cochlear-implants-miracle",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/10-years-later-trauma-center-physicians-and-nurses-reflect-i-35w-bridge-collapse",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/1000-second-chances-university-minnesota-health-celebrates-lung-transplant-milestone",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/10000-kidney-transplants-landmark-milestone-our-world-class-organ-transplant-center",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/100th-non-directed-kidney-donation-major-milestone-m-health-organ-transplant-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/134-our-doctors-named-rising-stars-shaping-future-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/140-university-minnesota-health-physicians-and-associates-recognized-best-doctors-america",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/141-university-minnesota-health-physicians-named-top-doctors-mplsstpaul-magazine-2016",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/16-year-old-ray-sunshine-throughout-pediatric-pancreas-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/18-surgeries-nine-lives-saved-university-minnesota-health-transplant-team-earns-national-honor",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/2023-top-doctors-women-list-recognizes-50-m-health-fairview-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/250-physicians-honored-2022-top-doctors-minnesota-monthly",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/300-m-health-fairview-physicians-honored-doctors-doctors-would-trust",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/300-m-health-fairview-physicians-named-top-doctors-minnesota-monthly",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/4-year-old-kidney-dialysis-after-receiving-2001st-pediatric-organ-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/5-tips-feeding-picky-eater-registered-dietitian",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/5-year-old-thriving-after-total-pancreatectomy-and-islet-auto-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/5-years-after-first-world-transplant-siblings-are-living-hope",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/50-years-after-first-pancreas-transplant-doctors-and-patients-celebrate-pioneering-procedure",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/600th-surgery-milestone-total-pancreatectomy-and-islet-auto-transplant-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/after-collapsing-basketball-court-12-year-old-landyn-received-heart-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/after-life-saving-transplant-groh-family-mission-x-out-ald",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/after-stem-cell-transplant-matt-hopes-he-can-help-heal-others",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/after-suffering-stroke-kim-received-immediate-care-doctor-175-miles-away",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/after-surgery-scoliosis-teenager-teams-his-surgeon-help-other-patients-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/aug-24-celebrating-50-years-blood-and-marrow-transplant-history",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/beating-heart-technology-drives-increase-heart-transplants-university-minnesota-health",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/beautiful-sound-mother-who-donated-sons-heart-hears-it-beat-again-transplant-patient",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/best-best-minnesota-monthly-honors-over-400-our-physicians-2021-top-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/best-both-worlds-hometown-doctors-state-art-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/best-outpatient-surgery-centers-four-m-health-fairview-locations-earn-nationwide-recognition",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/blood-and-marrow-transplant-helps-barbel-acrobatic-pilot-conquer-cancer",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/blood-and-marrow-transplant-patients-resources-and-support-every-step-way",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/bone-marrow-transplant-patient-dedicates-life-helping-others",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/bone-marrow-transplant-recipient-meets-his-donor-during-powerful-moment-witnessed-thousands",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/born-rare-heart-little-lilly-celebrates-her-one-year-transplant-anniversary",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/botox-and-filler-safety-go-through-licensed-professionals-cosmetic-procedures",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/brain-cancer-patient-and-his-doctor-connect-basketball-court-teammates",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/bringing-best-you-hundreds-honored-top-doctors-minnesota-monthly-2020",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/brother-and-sister-receive-first-world-bone-marrow-transplants-rare-genetic-disorder",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/childs-drawing-leads-lifesaving-kidney-transplant-her-father",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/cochlear-implant-helped-rita-start-hearing-again",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/cochlear-implant-patients-find-community-laughter-annual-picnic-gathering",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/coping-skills-can-help-reduce-feelings-depression",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/dont-want-see-weight-information-doctors-office-no-problem",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/double-blessing-former-patient-creates-and-shares-coloring-sheets-patients-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/double-lung-transplant-means-new-life-young-woman-cystic-fibrosis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/dozen-m-health-fairview-staff-recognized-2022-health-care-heroes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/during-pandemic-year-we-performed-record-breaking-116-liver-transplants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/emergency-medicine-and-ems-physician-offers-tips-safe-and-healthy-winter",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/enhanced-recovery-program-helps-surgery-patients-feel-better-sooner",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/expanding-infusion-services-meets-growing-needs-safety-expertise-and-efficiency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/expert-medical-staff-help-young-woman-overcome-life-threatening-diagnosis-and-heart-failure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/family-holds-surprise-celebration-cindy-20th-anniversary-her-lung-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/family-medicine-physician-jeremy-peterson-md-cares-children-and-families-across-lifespan",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/faq-what-you-need-know-about-our-new-university-minnesota-health-clinics-and-surgery-center",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/fifteen-years-after-her-heart-transplant-skys-limit-evelyn",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/fight-hunger-minnesota-m-health-fairview-medical-staff-donate-100000-second-harvest-heartland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/first-its-kind-book-program-designed-make-nicu-feel-more-home",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/five-things-know-about-m-health-fairviews-cochlear-implant-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/five-things-know-about-our-pediatric-heart-transplant-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/five-things-know-about-umbilical-cord-blood-transplants-and-donations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/five-things-you-should-know-about-total-pancreatectomy-and-islet-auto-transplant-tp-iat",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/five-things-you-should-tell-nursing-staff-your-primary-care-appointment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/got-sniffles-and-sore-throat-heres-your-game-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/heart-center-m-health-fairview-masonic-childrens-hospital-welcomes-new-co-director-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/heart-transplant-saves-2-week-old-heart-failure",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/how-deal-anxiety-some-home-remedies-can-help-you-feel-calmer",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/how-get-your-medication-when-you-dont-feel-comfortable-going-pharmacy",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/hyundai-hope-wheels-honors-two-m-health-doctors-cancer-research-grants",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/if-youre-over-65-talk-your-doctor-about-chronic-kidney-disease",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/increasing-life-saving-transplants-through-specialized-donor-care-unit-minneapolis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/innovative-brain-tumor-treatment-helps-12-year-old-trevor-get-back-his-feet-faster",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/its-bird-its-plane-its-superhero-day-university-minnesota-masonic-childrens-hospital",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/joyful-and-resilient-michael-has-successful-kidney-transplant-after-dual-cancer-diagnosis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/kaley-rose-certified-child-life-specialist-helps-patients-feel-safe-and-empowered-during-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/kidney-recipient-reunites-care-team-40th-anniversary-pioneering-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/kidney-transplant-recipient-donors-gift-has-given-me-future",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/knowing-your-breast-cancer-risk-can-help-guide-your-planning-and-treatment-choices",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/leukemia-and-blood-and-marrow-transplant-cant-stop-beths-wedding-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/life-after-organ-transplant-despite-early-challenges-drew-hits-his-stride",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/life-saving-berlin-heart-kept-baby-regan-healthy-while-she-waited-heart-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/liver-donor-runs-grandmas-marathon-after-life-saving-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/liver-transplant-brings-dara-back-brink-after-wilsons-disease-diagnosis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/living-donor-liver-transplant-one-six-transplants-single-day-m-health-fairview-university",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/living-kidney-donors-save-lives-and-shorten-transplant-waiting-list",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/looking-top-doc-mplsstpaul-magazine-honors-more-140-our-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-converts-bethesda-hospital-states-first-dedicated-covid-19-care-facility",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-doctors-fight-heart-disease-after-breast-cancer-treatment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-first-nation-implant-new-deep-brain-stimulation-device",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-lung-transplant-team-has-record-setting-year",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-medical-staff-pledges-100000-second-harvest-heartland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-opens-donor-care-unit-advance-transplant-care-save-more-lives",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-ridges-hospital-earns-national-patient-safety-award-8th-consecutive-year",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-ridges-hospital-earns-national-patient-safety-award-9th-consecutive-year",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/m-health-fairview-teams-perform-record-breaking-139-liver-transplants-2023",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/making-kids-feel-comfortable-hospital-michael-pitt-md-its-magic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/making-life-easier-frontline-volunteers-turn-out-support-care-providers-during-surge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/meet-our-top-doctors-400-physicians-across-our-system-honored-mplsstpaul-magazine",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/minnesota-monthly-honors-60-m-health-fairview-providers-top-doctors-women",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/minnesota-monthly-recognizes-nearly-200-our-physicians-top-doctors-2019",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/minnesota-monthly-spotlights-doctors-minnesotans-trust-most-m-health-fairview-leads-way",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/minnesota-monthlys-inaugural-best-doctors-issue-includes-124-university-minnesota-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/minnesota-teenager-hopes-bone-marrow-transplant-will-cure-her-blood-disorder",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/moments-8-month-old-thrives-after-two-liver-transplants-two-days",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/moments-after-three-liver-transplants-family-looks-future",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/moments-kidney-transplant-gives-donald-his-freedom-back",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/moments-lifelong-dancer-hears-music-once-more-after-cochlear-implant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/more-120-m-health-fairview-doctors-honored-rising-stars-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/more-130-university-minnesota-health-physicians-honored-top-doctors-2017",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/more-160-university-minnesota-health-physicians-named-best-doctors-minnesota-monthly-magazine",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/more-200-m-health-fairview-doctors-named-top-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/more-200-university-minnesota-health-physicians-named-top-doctors-2017-minnesota-monthly",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/more-40-m-health-fairview-physicians-named-top-doctors-women",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/most-top-doctors-twin-cities-nearly-400-our-physicians-honored-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/mplsstpaul-magazine-honors-143-university-minnesota-health-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/mplsstpaul-magazine-names-more-130-our-early-career-doctors-rising-stars-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/mplsstpaul-magazine-names-more-200-m-health-fairview-physicians-top-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/mplsstpaul-magazine-recognizes-128-m-health-physicians-top-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/mplsstpaul-magazine-recognizes-64-university-minnesota-health-physicians-rising-stars",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/mplsstpaul-magazine-recognizes-m-health-doctors-rising-stars-2016",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/mplsstpaul-magazine-recognizes-university-minnesota-health-doctors-rising-stars-2017",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/naloxone-available-10-m-health-fairview-locations-and-counting-across-state",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/nearly-100-university-minnesota-health-doctors-honored-2019-rising-stars-mplsstpaul-magazine",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/nearly-70-university-minnesota-health-physicians-recognized-top-doctors-rising-stars-2018",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/new-m-health-fairview-partnership-feeds-families-st-pauls-east-side-traveling-food-shelf",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/new-tool-connecting-patients-their-doctors-improve-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/new-york-times-m-health-fairviews-extracorporeal-cpr-program-unparalleled",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/nikos-new-game-plan-how-support-family-care-team-and-facility-dog-helping-sports-loving-teen",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/nothing-short-remarkable-heart-transplant-saves-18-year-old-gavin-nieters",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/one-year-after-neuropace-implant-epilepsy-patient-now-seizure-free",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/our-200-top-doctors-bring-world-class-care-minnesota-communities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/partial-heart-transplant-saves-big-lake-infant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/pediatric-feeding-program-helps-newborn-karter-stewart-defy-odds",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/pediatric-nurse-feels-honored-sacred-trust-families-place-her",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/pitt-doctor-approved-literally",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/qa-caring-kids-advanced-heart-failure-transplant-cardiologist-nathan-rodgers-mission",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/qa-gastroenterologist-kimberly-viskocil-md-loves-her-role-doctor-and-educator",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/qa-innovative-breathing-lung-technology-poised-revolutionize-lung-transplants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/rare-double-transplant-helps-special-olympics-athlete-get-back-game",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/rare-pediatric-pancreas-transplant-helps-teenager-emmy-overcome-diabetes-insulin-injection",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/renowned-heart-transplant-program-celebrates-40-year-milestone",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/safety-first-parents-families-celebrate-environmental-services-team",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/safety-vaccines-what-every-parent-should-know",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/second-kidney-transplant-saves-gavin-exactly-17-years-after-his-first",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/self-care-strategies-can-help-adolescents-feel-better-stressful-moment",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/she-has-been-our-strength-first-its-kind-transplant-surgery-saves-11-year-old-khloe",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/split-liver-transplant-saving-two-lives-one-donated-organ",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/spotlight-family-and-sports-medicine-physician-jennifer-oberstar-wants-get-you-back-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/spotlight-physician-assistant-jonathan-berger-bridges-gaps-patient-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/spotlight-physician-assistant-kristi-kopacz-bridges-gap-weight-loss-patients",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/spotlight-saving-lives-team-effort-longtime-transplant-surgeon-dr-c",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/spotlight-skin-cancer-specialist-ian-maher-md-sun-safety-minnesota",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/st-johns-hospital-pioneers-colonoscopy-training-family-medicine-physicians-expanding-access",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/strong-showing-university-minnesota-health-and-partners-minnesota-monthly-top-doctors-2018",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/summer-made-fun-and-games-safety-important",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/tackle-opioids-doctors-blend-ancient-practices-innovative-medical-techniques",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/thanks-telemedicine-heart-patient-receives-expert-care-doctor-three-hours-away",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/top-doctors-more-150-university-minnesota-health-physicians-recognized-mplsstpaul-magazine",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/two-childrens-hospital-staff-honored-impact-awards-their-extraordinary-work-support-our",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/two-year-old-baelyn-undergoes-transplant-after-mysterious-liver-disease-outbreak",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/two-young-patients-share-three-milestones-birth-cochlear-implant-surgery-and-hearing-first",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/university-minnesota-university-minnesota-physicians-and-fairview-announce-expanded",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/valentines-day-heart-transplant-recipient-remembers-his-fathers-legacy",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/video-blind-pastor-sees-his-wife-first-time-thanks-innovative-bionic-eye",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/video-blood-and-marrow-transplant-patient-reunites-doctor-one-year-later",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/what-does-it-feel-have-covid-19-now-and-when-should-i-seek-help",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/what-transplant-rejection-and-can-we-teach-body-tolerate-donor-organ",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/while-waiting-heart-transplant-matt-received-invitation-lifetime",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/why-i-love-my-job-three-child-and-family-life-services-team-members-help-kids-feel-kids",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/why-my-doctor-asking-me",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/wisconsin-man-went-feeling-breathless-getting-lung-transplant-seven-days",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/blog/your-childs-doctor-also-looking-out-their-teeth",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/condition/pediatric-lung-complications-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/condition/plantar-fasciitis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/department/organ-transplant-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/department/orthopedic-care/view-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/department/orthotics-and-prosthetics/orthotics-and-prosthetics-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/department/rare-diseases/view-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/department/vascular/view-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/insurance-coverage-and-programs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/insurance-coverage-and-programs-0",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/insurance-coverage-and-programs-1",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/my-way-urgent-care-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/mychart-and-other-technologies-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/mychart-other-technologies-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/mychart-other-technologies-faq-0",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/mychart-other-technologies-faq-1",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/mychart-other-technologies-faq-2",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/mychart-other-technologies-faq-3",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/frequently-asked-questions/support-and-volunteering-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/1600-medical-building",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/2512-building",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/6363-france-medical-building",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/east-building-lab---m-health-fairview-university-of-minnesota-medical-center-west-bank",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-lakes-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-masonic-childrens-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-northland-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-ridges-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-southdale-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-st-johns-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-university-of-minnesota-medical-center---east-bank",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-university-of-minnesota-medical-center---west-bank",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/emergency-department---m-health-fairview-woodwinds-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-community-health-and-wellness-hub-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-compounding-pharmacy",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-diabetes-care-services-pharmacy",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-mail-service-pharmacy",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---andover",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---apple-valley",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---blaine",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---bloomington",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---burnsville-specialty-care-center",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---chisago-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---clinics-and-surgery-center",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---eagan",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---edina",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---elk-river",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---fridley",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---hugo",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---maple-grove",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---maplewood",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---minneapolis-university-village",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---new-brighton",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---north-branch",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---princeton",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---prior-lake",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---riverside",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---rosemount",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---saint-paul-highland-park",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---smileys",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---university-clinic",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---university-discharge",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-pharmacy---wyoming",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/fairview-specialty-pharmacy",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/katie-hageboeck-childrens-cancer-research-fund-clinic-formerly-journey-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/lions-hearing-and-ear-nose-and-throat-ent-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/list",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview---molecular-diagnostics-laboratory",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-acute-rehabilitation-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-adolescent-mental-health-and-addiction-intensive-outpatient-program---crystal",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-adolescent-mental-health-and-addiction-intensive-outpatient-program---princeton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-adult-addiction-intensive-outpatient-program---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-adult-addiction-intensive-outpatient-program---st-paul-bethesda",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-anticoagulation-clinic---virtual",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-bethesda-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-bethesda-hospital-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-breast-center---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-breast-center---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-breast-center---maple-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-breast-center---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-breast-center---minneapolis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-breast-center---woodbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-breast-center---wyoming",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-cancer-center---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-cancer-center---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-cancer-center---maple-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-cancer-center---woodbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-cancer-center---wyoming",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-cancer-center-maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-center-for-bleeding-and-clotting-disorders",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-center-for-bleeding-and-clotting-disorders-pharmacy",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-center-for-women---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-child-and-adolescent-mental-health-and-addiction-intensive-outpatient-programs---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-childrens-clinic---university",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-childrens-clinic-university-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---andover",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---apple-valley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---bass-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---bethesda",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---blaine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---brooklyn-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---chisago-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---cottage-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---eagan",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---eden-prairie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---elk-river",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---fridley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---highland-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---hugo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---lakeville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---midway",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---new-brighton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---north-branch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---oakdale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---oxboro",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---phalen-village",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---princeton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---prior-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---rice-street",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---river-falls",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---riverside",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---rogers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---roselawn",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---rosemount",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---smileys",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---stillwater",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---tamarack",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---uptown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---vadnais-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---woodwinds",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic---wyoming",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-andover-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-apple-valley-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-bass-lake-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-bethesda-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-blaine-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-brooklyn-park-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-burnsville-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-chisago-city-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-cottage-grove-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-eagan-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-eden-prairie-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-edina-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-elk-river-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-fridley-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-highland-park-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-hugo-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-lakeville-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-maplewood-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-midway-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-new-brighton-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-north-branch-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-oakdale-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-oxboro-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-phalen-village-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-princeton-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-prior-lake-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-rice-street-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-riverside-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-rogers-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-roselawn-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-rosemount-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-smileys-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-stillwater-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-tamarack-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-uptown-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-vadnais-heights-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-woodwinds-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinic-wyoming-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-specialty-center---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-specialty-center---edina-southdale-place",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-specialty-center---fridley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-specialty-center---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-specialty-center---princeton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-specialty-center-fridley-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-surgery-center---maple-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-surgery-center---maple-grove-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-surgery-center---minneapolis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-and-surgery-center---minneapolis-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-clinics-river-falls-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-geriatrics",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-heart-care---stillwater",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-heart-clinic---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-heart-clinic---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-heart-clinic---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-heart-clinic---river-falls",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-heart-clinic---woodwinds",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-home-medical-equipment---st-paul",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-imaging---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-imaging---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-lakes-medical-center---wyoming",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-masonic-cancer-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-masonic-childrens-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-masonic-childrens-hospital---riverside-park-plaza-building",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-maternal-fetal-medicine-center-brooklyn-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-maternal-fetal-medicine-center-burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-maternal-fetal-medicine-center-edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-maternal-fetal-medicine-center-maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-maternal-fetal-medicine-center-minneapolis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-mental-health-clinic---forest-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-multidisciplinary-head-and-neck-cancer-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-neurology-clinic---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-neurology-clinic---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-neurology-clinic---woodbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-northland-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-northland-medical-center-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-orthopedics---lakes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-orthotics-and-prosthetics---st-paul",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pain-clinic---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---chaska",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---discovery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---explorer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---hudson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---maple-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---minnetonka",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---voyager",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-specialty-clinic---woodbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-pediatric-therapy---new-hope",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-phillips-wangensteen-building",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation---burnsville-cobblestone",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---arbor-lakes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---burnsville-cobblestone",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---chisago-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---eden-prairie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---golden-valley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---maple-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---north-branch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---st-anthony",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services---university-village",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-rehabilitation-services-st-paul",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-ridges-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-ridges-hospital-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-riverside-professional-building",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-sexual-and-gender-health-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-southdale-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-southdale-hospital-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-specialty-clinic---beam",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-specialty-clinic---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-spine-and-brain-clinic---fridley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-spine-and-neurosurgery-center---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-spine-and-neurosurgery-clinic---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-sports-medicine-same-day-access-clinic---blaine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-sports-medicine-same-day-access-clinic---fulton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-sports-medicine-same-day-access-clinic-burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-st-johns-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-st-johns-hospital-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-surgical-consultants---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-surgical-consultants---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-university-of-minnesota-medical-center---east-bank",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-university-of-minnesota-medical-center---west-bank-east-building",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-university-of-minnesota-medical-center---west-bank-west-building",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-university-of-minnesota-medical-center-west-bank-east-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---andover",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---brooklyn-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---eagan",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---highland-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---lakeville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---north-branch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---oxboro",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---river-falls",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---woodwinds",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urgent-care---wyoming",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urology-clinic---burnsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-urology-clinic---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-vascular-clinic---maplewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-vascular-clinic---woodbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-vascular-clinic-edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-vein-clinic---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-virtual-urgent-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-weight-management-clinic---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-womens-clinic---minneapolis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-woodwinds-hospital---woodbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-woodwinds-hospital-birch-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-woodwinds-hospital-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/m-health-fairview-wound-healing-institute---edina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/masonic-institute-for-the-developing-brain-midb---minneapolis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/minnesota-lions-childrens-eye-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/north-building---m-health-fairview-university-of-minnesota-medical-center-west-bank",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/rasmussen-center-for-cardiovascular-disease-prevention",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/the-birthplace-at-m-health-fairview-lakes-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/the-birthplace-at-m-health-fairview-masonic-childrens-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/the-birthplace-at-m-health-fairview-northland-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/the-birthplace-at-m-health-fairview-ridges-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/the-birthplace-at-m-health-fairview-southdale-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/the-birthplace-at-m-health-fairview-st-johns-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/the-birthplace-at-m-health-fairview-woodwinds-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/locations/university-of-minnesota-physicians-radiation-therapy-center",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/providers-search",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/resources/patients-and-visitors/advance-care-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/resources/policies-and-documentation/billing-and-collections-policy-plain-language-summary",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/resources/policies-and-documentation/financial-assistance-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/resources/policies-and-documentation/hospital-price-transparency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/service/bathroom-safety-equipment",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/service/biopsy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/service/colonoscopy-adult/resources/planning-your-colonoscopy",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/service/inflammatory-bowel-disease-pre-conception-and-pregnancy-planning-clinic-iprepp-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/service/liver-biopsy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/service/transplant-education",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/sms-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/sms-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/specialty/gastroenterology/resources/caring-your-childs-feeding-tube",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/specialty/gastroenterology/resources/caring-your-feeding-tube",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/adult-total-pancreatectomy-and-islet-auto-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/allo-islet-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/blood-and-marrow-transplant-adult",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/blood-and-marrow-transplant-pediatrics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/cochlear-implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/heart-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/heart-transplant-pediatrics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/intestinal-rehabilitation-and-transplant-pediatrics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/kidney-transplant-pediatrics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/liver-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/liver-transplant-pediatrics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/living-donor-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/living-donor-kidney-transplant/donor-education",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/living-donor-liver-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/living-donor-liver-transplant/donor-education",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/lung-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/lung-transplant-surgery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/pancreas-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/pediatric-feeding-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/pediatric-total-pancreatectomy-and-islet-auto-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/transplant-hepatology",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/transplant-nephrology",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/treatment/transplant-surgery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mhealthfairview.org/video-visits/virtual-care-faqs",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

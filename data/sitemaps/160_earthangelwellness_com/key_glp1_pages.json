@@ -1,0 +1,59 @@
+{
+  "name": "Earthangelwellness",
+  "domain": "earthangelwellness.com",
+  "total_urls": 45,
+  "semaglutide_pages": [
+    "https://earthangelwellness.com/semaglutide/"
+  ],
+  "tirzepatide_pages": [
+    "https://earthangelwellness.com/blog/beat-obesity-with-tirzepatide/",
+    "https://earthangelwellness.com/tirzepatide/"
+  ],
+  "pricing_pages": [
+    "https://earthangelwellness.com/payment-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://earthangelwellness.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://earthangelwellness.com/blog/beat-obesity-with-tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://earthangelwellness.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://earthangelwellness.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://earthangelwellness.com/return-and-refund-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://earthangelwellness.com/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://earthangelwellness.com/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

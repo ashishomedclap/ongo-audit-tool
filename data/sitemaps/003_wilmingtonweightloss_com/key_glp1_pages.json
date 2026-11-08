@@ -1,0 +1,37 @@
+{
+  "name": "Wilmington Weight Loss",
+  "domain": "wilmingtonweightloss.com",
+  "total_urls": 24,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://wilmingtonweightloss.com/product-category/membership/",
+    "https://wilmingtonweightloss.com/tag/personalized-weight-loss-plan/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://wilmingtonweightloss.com/author/theinstinctivedevteam/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://wilmingtonweightloss.com/product-category/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://wilmingtonweightloss.com/tag/personalized-weight-loss-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://wilmingtonweightloss.com/tag/weight-loss-doctors-wilmington-nc/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Vvitarx",
+  "domain": "vvitarx.com",
+  "total_urls": 5,
+  "semaglutide_pages": [
+    "https://info.vvitarx.com/blog/semaglutide-a-promising-solution-for-reducing-inflammation",
+    "https://info.vvitarx.com/blog/unlocking-the-benefits-of-semaglutide-scientific-research-revealed"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://info.vvitarx.com/blog/semaglutide-a-promising-solution-for-reducing-inflammation",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://info.vvitarx.com/blog/unlocking-the-benefits-of-semaglutide-scientific-research-revealed",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

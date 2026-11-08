@@ -1,0 +1,46 @@
+{
+  "name": "Aestheticsolutionsny",
+  "domain": "aestheticsolutionsny.com",
+  "total_urls": 87,
+  "semaglutide_pages": [
+    "https://aestheticsolutionsny.com/semaglutide-for-weight-loss/"
+  ],
+  "tirzepatide_pages": [
+    "https://aestheticsolutionsny.com/tirzepatide/"
+  ],
+  "pricing_pages": [
+    "https://aestheticsolutionsny.com/weight-loss-treatment-plans-ny/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://aestheticsolutionsny.com/semaglutide-for-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://aestheticsolutionsny.com/terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://aestheticsolutionsny.com/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://aestheticsolutionsny.com/vein-removal-queens-new-york/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://aestheticsolutionsny.com/weight-loss-treatment-plans-ny/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

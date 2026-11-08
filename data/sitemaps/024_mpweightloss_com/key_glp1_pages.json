@@ -1,0 +1,56 @@
+{
+  "name": "MP Medical Weight Loss",
+  "domain": "mpweightloss.com",
+  "total_urls": 95,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mpweightloss.com/cost-breakdown/",
+    "https://mpweightloss.com/pricing/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://mpweightloss.com/cost-breakdown/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mpweightloss.com/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mpweightloss.com/patient-medication-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mpweightloss.com/patient-safety-medical-policies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mpweightloss.com/pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mpweightloss.com/staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mpweightloss.com/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

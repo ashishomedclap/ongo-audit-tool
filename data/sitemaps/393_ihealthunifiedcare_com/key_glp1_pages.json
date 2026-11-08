@@ -1,0 +1,1178 @@
+{
+  "name": "Ihealthunifiedcare",
+  "domain": "ihealthunifiedcare.com",
+  "total_urls": 5066,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.ihealthunifiedcare.com/article-categories/sample-eating-plans",
+    "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing",
+    "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing-chinese-simplified",
+    "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing-chinese-tradition",
+    "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing-spanish",
+    "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing-vietnamese",
+    "https://www.ihealthunifiedcare.com/articles/bi-tieu-duong-hay-bao-ve-chan-cua-ban-have-diabetes-protect-your-feet",
+    "https://www.ihealthunifiedcare.com/articles/bu-chi-rou-ye-ok-zhi-wu-dan-bai-bang-ni-bu-ying-yang-complete-your-protein-from-plants",
+    "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources",
+    "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources-chinese-simplified",
+    "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources-chinese-tradition",
+    "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources-spanish",
+    "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources-vietnamese",
+    "https://www.ihealthunifiedcare.com/articles/confidence-7-minute-meditation-to-feel-steady-and-capable",
+    "https://www.ihealthunifiedcare.com/articles/confidence-7-minute-meditation-to-feel-steady-and-capable-chinese-simplified"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.ihealthunifiedcare.com/article-categories/sample-eating-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/adjusting-your-meal-plan-based-on-home-glucose-testing-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/bi-tieu-duong-hay-bao-ve-chan-cua-ban-have-diabetes-protect-your-feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/bu-chi-rou-ye-ok-zhi-wu-dan-bai-bang-ni-bu-ying-yang-complete-your-protein-from-plants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/complete-your-protein-needs-from-plant-sources-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/confidence-7-minute-meditation-to-feel-steady-and-capable",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/confidence-7-minute-meditation-to-feel-steady-and-capable-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/confidence-7-minute-meditation-to-feel-steady-and-capable-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/confidence-7-minute-meditation-to-feel-steady-and-capable-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/confidence-7-minute-meditation-to-feel-steady-and-capable-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/diabetes-foot-care-keep-your-feet-feeling-their-best",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-down-your-gut-might-be-causing-it",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-down-your-gut-might-be-causing-it-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-down-your-gut-might-be-causing-it-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-down-your-gut-might-be-causing-it-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-down-your-gut-might-be-causing-it-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-stiff-try-these-3-stretches-to-release-a-tight-hip",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-stiff-try-these-3-stretches-to-release-a-tight-hip-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-stiff-try-these-3-stretches-to-release-a-tight-hip-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-stiff-try-these-3-stretches-to-release-a-tight-hip-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-stiff-try-these-3-stretches-to-release-a-tight-hip-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/feeling-the-post-holiday-slump-5-simple-steps-to-get-back-on-track",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/for-beginners-a-30-day-plan-to-ease-you-into-fitness-success",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/from-the-ground-edible-wild-plants-and-their-health-benefits",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/glucagon-your-safety-net-for-low-blood-sugars",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/glucagon-your-safety-net-for-low-blood-sugars-chinese-simplified",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/glucagon-your-safety-net-for-low-blood-sugars-chinese-tradition",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/glucagon-your-safety-net-for-low-blood-sugars-spanish",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/glucagon-your-safety-net-for-low-blood-sugars-vietnamese",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/glucose-readings-feeling-wrong-check-your-strips",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/healthy-or-hype-how-to-decode-marketing-claims-on-packages",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/healthy-or-hype-how-to-decode-marketing-claims-on-packages-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/healthy-or-hype-how-to-decode-marketing-claims-on-packages-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/healthy-or-hype-how-to-decode-marketing-claims-on-packages-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/healthy-or-hype-how-to-decode-marketing-claims-on-packages-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/how-to-manage-when-you-feel-emotionally-drained",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/how-to-manage-when-you-feel-emotionally-drained-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/how-to-manage-when-you-feel-emotionally-drained-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/how-to-manage-when-you-feel-emotionally-drained-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/how-to-manage-when-you-feel-emotionally-drained-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/its-okay-if-this-feels-hard-tips-for-facing-health-changes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/its-okay-if-this-feels-hard-tips-for-facing-health-changes-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/its-okay-if-this-feels-hard-tips-for-facing-health-changes-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/its-okay-if-this-feels-hard-tips-for-facing-health-changes-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/its-okay-if-this-feels-hard-tips-for-facing-health-changes-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/mushrooms-in-your-coffee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/mushrooms-in-your-coffee-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/mushrooms-in-your-coffee-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/mushrooms-in-your-coffee-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/mushrooms-in-your-coffee-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/planning-when-to-check-your-glucose-here-here-some-tips",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/planning-when-to-check-your-glucose-here-here-some-tips-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/planning-when-to-check-your-glucose-here-here-some-tips-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/planning-when-to-check-your-glucose-here-here-some-tips-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/planning-when-to-check-your-glucose-here-here-some-tips-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/plant-based-protein-sources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/plant-based-protein-sources-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/plant-based-protein-sources-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/plant-based-protein-sources-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/plant-based-protein-sources-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/prebiotics-nourishing-the-friendly-bacteria-in-your-gut",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/prebiotics-nourishing-the-friendly-bacteria-in-your-gut-chinese-simplified",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/prebiotics-nourishing-the-friendly-bacteria-in-your-gut-chinese-tradition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/prebiotics-nourishing-the-friendly-bacteria-in-your-gut-spanish",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/prebiotics-nourishing-the-friendly-bacteria-in-your-gut-vietnamese",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/preconception-planning-with-diabetes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/preconception-planning-with-diabetes-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/preconception-planning-with-diabetes-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/preconception-planning-with-diabetes-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/preconception-planning-with-diabetes-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/probioticos-no-solo-otro-bicho-estomacal-probiotics-not-just-another-stomach-bug",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/probiotics-not-just-another-stomach-bug",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/probiotics-not-just-another-stomach-bug-chinese-simplified",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/probiotics-not-just-another-stomach-bug-chinese-tradition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/probiotics-not-just-another-stomach-bug-spanish",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/probiotics-not-just-another-stomach-bug-vietnamese",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/ru-he-gen-ju-jia-ting-xie-tang-jian-ce-diao-zheng-yin-shi-ji-hua-adjusting-your-meal-plan-based-on-home-glucose-testing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/shao-chi-rou-ye-ok-zhi-wu-dan-bai-bang-ni-bu-ying-yang-complete-your-protein-from-plants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/stretch-your-food-budget-calculate-the-true-cost-of-foods",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/stretch-your-food-budget-calculate-the-true-cost-of-foods-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/stretch-your-food-budget-calculate-the-true-cost-of-foods-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/stretch-your-food-budget-calculate-the-true-cost-of-foods-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/stretch-your-food-budget-calculate-the-true-cost-of-foods-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/take-control-of-meal-planning-the-portioned-plate",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/take-control-of-meal-planning-the-portioned-plate-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/take-control-of-meal-planning-the-portioned-plate-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/the-science-against-meal-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/the-science-against-meal-plans-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/the-science-against-meal-plans-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/the-science-against-meal-plans-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/the-science-against-meal-plans-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/tiene-diabetes-proteja-sus-pies-have-diabetes-protect-your-feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/tome-el-control-de-sus-comidas-conteo-de-carbohidratos-y-el-sistema-de-listas-de-intercambio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/want-to-cut-coffee-here-are-some-alternatives",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/want-to-cut-coffee-here-are-some-alternatives-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/want-to-cut-coffee-here-are-some-alternatives-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/want-to-cut-coffee-here-are-some-alternatives-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/want-to-cut-coffee-here-are-some-alternatives-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/when-should-i-call-my-doctor-about-my-cgm-readings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/when-should-i-call-my-doctor-about-my-cgm-readings-chinese-simplified",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/when-should-i-call-my-doctor-about-my-cgm-readings-chinese-tradition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/when-should-i-call-my-doctor-about-my-cgm-readings-spanish",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/when-should-i-call-my-doctor-about-my-cgm-readings-vietnamese",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/where-to-obtain-low-cost-medical-supplies",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/where-to-obtain-low-cost-medical-supplies-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/where-to-obtain-low-cost-medical-supplies-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/where-to-obtain-low-cost-medical-supplies-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/where-to-obtain-low-cost-medical-supplies-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-meal-plans-dont-really-work",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-meal-plans-dont-really-work-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-meal-plans-dont-really-work-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-meal-plans-dont-really-work-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-meal-plans-dont-really-work-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-you-shouldnt-drink-coffee-first-thing-in-the-morning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-you-shouldnt-drink-coffee-first-thing-in-the-morning-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-you-shouldnt-drink-coffee-first-thing-in-the-morning-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-you-shouldnt-drink-coffee-first-thing-in-the-morning-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-you-shouldnt-drink-coffee-first-thing-in-the-morning-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-youre-feeling-bloated--and-how-to-fix-it",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-youre-feeling-bloated--and-how-to-fix-it-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-youre-feeling-bloated--and-how-to-fix-it-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-youre-feeling-bloated--and-how-to-fix-it-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/why-youre-feeling-bloated--and-how-to-fix-it-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/your-coffee-creamer-reimagined",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/your-coffee-creamer-reimagined-chinese-simplified",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/your-coffee-creamer-reimagined-chinese-tradition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/your-coffee-creamer-reimagined-spanish",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/articles/your-coffee-creamer-reimagined-vietnamese",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/providers/billing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/providers/programs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/providers/support",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/terms-of-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/unified-care-app-articles/diabetes-foot-care-keep-your-feet-feeling-their-best",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/unified-care-app-articles/take-control-of-meal-planning-the-portioned-plate",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/unified-care-app-articles/tome-el-control-de-sus-comidas-conteo-de-carbohidratos-y-el-sistema-de-listas-de-intercambio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/article-categories/sample-eating-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/adjusting-your-meal-plan-based-on-home-glucose-testing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/bi-tieu-duong-hay-bao-ve-chan-cua-ban-have-diabetes-protect-your-feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/bu-chi-rou-ye-ok-zhi-wu-dan-bai-bang-ni-bu-ying-yang-complete-your-protein-from-plants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/complete-your-protein-needs-from-plant-sources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/confidence-7-minute-meditation-to-feel-steady-and-capable",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/diabetes-foot-care-keep-your-feet-feeling-their-best",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/feeling-down-your-gut-might-be-causing-it",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/feeling-stiff-try-these-3-stretches-to-release-a-tight-hip",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/feeling-the-post-holiday-slump-5-simple-steps-to-get-back-on-track",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/for-beginners-a-30-day-plan-to-ease-you-into-fitness-success",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/from-the-ground-edible-wild-plants-and-their-health-benefits",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/glucagon-your-safety-net-for-low-blood-sugars",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/glucose-readings-feeling-wrong-check-your-strips",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/healthy-or-hype-how-to-decode-marketing-claims-on-packages",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/how-to-manage-when-you-feel-emotionally-drained",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/its-okay-if-this-feels-hard-tips-for-facing-health-changes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/lemon-chicken-noodle-soup-a-cozy-feel-good-bowl",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/mushrooms-in-your-coffee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/plant-based-protein-sources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/prebiotics-nourishing-the-friendly-bacteria-in-your-gut",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/preconception-planning-with-diabetes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/probioticos-no-solo-otro-bicho-estomacal-probiotics-not-just-another-stomach-bug",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/probiotics-not-just-another-stomach-bug",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/ru-he-gen-ju-jia-ting-xie-tang-jian-ce-diao-zheng-yin-shi-ji-hua-adjusting-your-meal-plan-based-on-home-glucose-testing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/shao-chi-rou-ye-ok-zhi-wu-dan-bai-bang-ni-bu-ying-yang-complete-your-protein-from-plants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/stretch-your-food-budget-calculate-the-true-cost-of-foods",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/take-control-of-meal-planning-the-portioned-plate",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/the-science-against-meal-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/tiene-diabetes-proteja-sus-pies-have-diabetes-protect-your-feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/tome-el-control-de-sus-comidas-conteo-de-carbohidratos-y-el-sistema-de-listas-de-intercambio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/want-to-cut-coffee-here-are-some-alternatives",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/when-should-i-call-my-doctor-about-my-cgm-readings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/where-to-obtain-low-cost-medical-supplies",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/why-meal-plans-dont-really-work",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/why-you-shouldnt-drink-coffee-first-thing-in-the-morning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/why-youre-feeling-bloated--and-how-to-fix-it",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/articles/your-coffee-creamer-reimagined",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/providers/billing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/providers/programs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/providers/support",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/terms-of-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/unified-care-app-articles/diabetes-foot-care-keep-your-feet-feeling-their-best",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/unified-care-app-articles/take-control-of-meal-planning-the-portioned-plate",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ihealthunifiedcare.com/zh-cn/unified-care-app-articles/tome-el-control-de-sus-comidas-conteo-de-carbohidratos-y-el-sistema-de-listas-de-intercambio",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

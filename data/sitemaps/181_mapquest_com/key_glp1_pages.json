@@ -1,0 +1,13 @@
+{
+  "name": "Mapquest",
+  "domain": "mapquest.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://mapquest.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mapquest.com/pricing"
+  ],
+  "all_categorized": []
+}

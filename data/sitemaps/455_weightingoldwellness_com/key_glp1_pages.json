@@ -1,0 +1,57 @@
+{
+  "name": "Weightingoldwellness",
+  "domain": "weightingoldwellness.com",
+  "total_urls": 50,
+  "semaglutide_pages": [
+    "https://weightingoldwellness.com/blog/f/oral-wegovy-a-new-fda-approved-pill-for-obesity-treatment",
+    "https://weightingoldwellness.com/blog/f/wegovy-just-got-stronger-what-the-new-high-dose-means-for-you"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://weightingoldwellness.com/medication-price-guide"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://weightingoldwellness.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://weightingoldwellness.com/blog/f/oral-wegovy-a-new-fda-approved-pill-for-obesity-treatment",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://weightingoldwellness.com/blog/f/wegovy-just-got-stronger-what-the-new-high-dose-means-for-you",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://weightingoldwellness.com/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://weightingoldwellness.com/medication-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://weightingoldwellness.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://weightingoldwellness.com/terms-of-use",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

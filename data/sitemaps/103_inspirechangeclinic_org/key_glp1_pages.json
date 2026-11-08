@@ -1,0 +1,43 @@
+{
+  "name": "Inspirechangeclinic",
+  "domain": "inspirechangeclinic.org",
+  "total_urls": 70,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.inspirechangeclinic.org/blog/breastfeeding-advocacy-grows-in-minnesota-communities-of-color",
+    "https://www.inspirechangeclinic.org/blog/breastfeeding-advocacy-grows-in-minnesota-communities-of-color/jobs"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.inspirechangeclinic.org/blog/breastfeeding-advocacy-grows-in-minnesota-communities-of-color",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.inspirechangeclinic.org/blog/breastfeeding-advocacy-grows-in-minnesota-communities-of-color/jobs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.inspirechangeclinic.org/blog/primary-care-provider-(physician-nurse-practitioner-or-physician-assistant)",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.inspirechangeclinic.org/blog/primary-care-provider-(physician-nurse-practitioner-or-physician-assistant)/jobs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.inspirechangeclinic.org/join-our-team",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2745 @@
+{
+  "name": "Ncdps.gov",
+  "domain": "ncdps.gov",
+  "total_urls": 5315,
+  "semaglutide_pages": [
+    "https://www.ncdps.gov/news/press-releases/2022/07/18/gob-cooper-proclama-del-17al-23-de-julio-como-semana-conmemorativa-de-oficiales-de-libertad",
+    "https://www.ncdps.gov/news/press-releases/2023/11/13/shp-se-integra-campana-nacional-semana-de-seguridad-del-personal-de-intervencion-inmediata-de",
+    "https://www.ncdps.gov/news/press-releases/2024/05/28/gob-cooper-proclama-del-26-de-mayo-al-1o-de-junio-semana-de-concientizacion-sobre-el-calor",
+    "https://www.ncdps.gov/news/press-releases/2024/06/02/ncdps-fomenta-el-almacenamiento-seguro-de-armas-de-fuego-en-el-segundo-aniversario-de-la-semana-de",
+    "https://www.ncdps.gov/news/press-releases/2024/06/03/notificacion-de-prensa-evento-inaugural-de-la-semana-de-accion-nc-safe-en-high-point",
+    "https://www.ncdps.gov/news/press-releases/2024/06/04/notificacion-de-prensa-evento-de-la-semana-de-accion-nc-safe-en-durham",
+    "https://www.ncdps.gov/news/press-releases/2024/06/04/notificacion-de-prensa-evento-de-la-semana-de-accion-nc-safe-en-raleigh",
+    "https://www.ncdps.gov/news/press-releases/2024/06/05/notificacion-de-prensa-evento-de-la-semana-de-accion-nc-safe-en-condado-scotland",
+    "https://www.ncdps.gov/news/press-releases/2024/06/06/notificacion-de-prensa-evento-de-la-semana-de-accion-nc-safe-en-asheville",
+    "https://www.ncdps.gov/news/press-releases/2024/08/09/se-espera-que-efectos-del-sistema-tropical-debby-persistan-este-fin-de-semana",
+    "https://www.ncdps.gov/news/press-releases/2025/06/02/durante-esta-semana-de-accion-nc-safe-gob-stein-y-ncdps-fomentan-la-guarda-segura-de-armas-de-fuego",
+    "https://www.ncdps.gov/news/press-releases/2025/06/06/durante-la-semana-de-accion-nc-safe-gob-stein-fomenta-la-guarda-segura-de-armas-de-fuego",
+    "https://www.ncdps.gov/news/press-releases/2026/03/02/durante-la-semana-de-preparacion-para-las-inclemencias-del-tiempo-gob-stein-les-recuerda-los"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.ncdps.gov/about-dps/boards-and-commissions/nc-boxing-and-combat-sports-commission/nc-boxing-commission-forms-and-fees",
+    "https://www.ncdps.gov/about-dps/current-initiatives/north-carolina-office-violence-prevention/nc-office-violence-prevention-implementation-plan",
+    "https://www.ncdps.gov/contact/feedback",
+    "https://www.ncdps.gov/document/amber-alert-system-plan-2013",
+    "https://www.ncdps.gov/document/dps-lesson-plan-template",
+    "https://www.ncdps.gov/document/explanation-annual-report",
+    "https://www.ncdps.gov/document/federal-guidance-assist-states-improving-state-level-pandemic-influenza-operating-plans",
+    "https://www.ncdps.gov/document/legislative-report-strategic-plan-facility-closure-construction-and-repair-%E2%80%93-division",
+    "https://www.ncdps.gov/document/los-albergues-se-abren-para-las-personas-evacuadas-de-la-costa",
+    "https://www.ncdps.gov/document/national-strategy-pandemic-influenza-%E2%80%93-implementation-plan",
+    "https://www.ncdps.gov/document/north-carolina-comprehensive-statewide-juvenile-reentry-systems-reform-planning-improving",
+    "https://www.ncdps.gov/document/role-local-emergency-planning-committee-lepc",
+    "https://www.ncdps.gov/document/school-risk-management-planning",
+    "https://www.ncdps.gov/document/youth-accountability-planning-task-force-connecticut-experience",
+    "https://www.ncdps.gov/documents/2013-amber-alert-plan"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.ncdps.gov/about-dps/boards-and-commissions/governors-crime-commission/contact-staff-governors-crime-commission",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/boards-and-commissions/governors-crime-commission/grant-information/dashboard-public-safety-grants-north-carolina",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/boards-and-commissions/nc-boxing-and-combat-sports-commission/1996-professional-boxing-safety-act",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/boards-and-commissions/nc-boxing-and-combat-sports-commission/nc-boxing-commission-forms-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/current-initiatives/governors-advisory-council-student-safety-and-well-being",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/current-initiatives/governors-advisory-council-student-safety-and-well-being/meetings",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/current-initiatives/governors-advisory-council-student-safety-and-well-being/public-comment",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/current-initiatives/north-carolina-office-violence-prevention/nc-office-violence-prevention-implementation-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/current-initiatives/school-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/office-secretary/chief-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/office-secretary/chief-staff/internal-audit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/about-dps/sections/administration/hr/statewide-personnel-policy-manual",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/adult-corrections/staff-development-training/for-employees/educational-assistance-acjj-only",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/adult-corrections/staff-development-training/for-employees/learning-management-system",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/adult-corrections/staff-development-training/for-employees/training-requests",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/adult-corrections/staff-development-training/for-employees/veterans-earn-learn",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/adult-corrections/staff-development-training/lms-learning-management-systems",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/adult-corrections/staff-development-training/our-sections",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/adult-corrections/staff-development-training/statistics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/adult-corrections/staff-development-training/training-facility-info",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/asl-staff-roster",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/authority-release-information",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/careers-matter/ncdps-internships/dept-public-safety-hbcumsi-internship-program",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/contact/feedback",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/department-public-safety-prepares-open-youth-development-center-kinston",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/amber-alert-system-plan-2013",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/appendix-b-glossary-acronyms-and-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/appendix-second-chance-act-guarantees-what-you-need-know-ensure-your-program-built",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/black-mountain-substance-abuse-treatment-center-women-authorized-personal-property",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/dart-cherry-visitation-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/dps-lesson-plan-template",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/educational-assistance-program-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/explanation-annual-report",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/federal-guidance-assist-states-improving-state-level-pandemic-influenza-operating-plans",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/healthcare-policy-manual-certification",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/large-wrecker-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/legislative-report-strategic-plan-facility-closure-construction-and-repair-%E2%80%93-division",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/los-albergues-se-abren-para-las-personas-evacuadas-de-la-costa",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/national-strategy-pandemic-influenza-%E2%80%93-implementation-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/nc-department-public-safety-office-staff-development-training-employee-directory",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-comprehensive-statewide-juvenile-reentry-systems-reform-planning-improving",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-black-0",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-black-1",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-black-2",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-black-3",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-black-4",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-black-5",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-dart",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-dart-0",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-dart-1",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-dart-2",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-dart-3",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-dart-4",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/north-carolina-department-public-safety-alcoholism-and-chemical-dependency-programs-items",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/osdt-apex-facility-rental-usage-agreement-and-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/qafaq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/report-sexual-assault-staff-member-poster-prison-rape-elimination-act",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/role-local-emergency-planning-committee-lepc",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/school-risk-management-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/small-wrecker-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/training-authorization",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/document/youth-accountability-planning-task-force-connecticut-experience",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/2013-amber-alert-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/2018-prison-reform-advisory-board-bios-0",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/2519-prab-prison-safety-security-update",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/ahimt-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/attachment-cost-proposal-worksheet-revised-4-24-19",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/back-school-safety-summit-presentations",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/byrne-jag-strategic-plan-2019-2022",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/chemical-safety-documents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/chemical-safety-documents-0",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/department-information-technology-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/disciplinary-procedures-policy-summary",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/dps-13-001b-conflict-interest-policy-template-jcpcs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/fy-2021-2022-county-funding-plan-form",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/jcpc-po-003-dps-policy-and-procedures-acknowledgement-statement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/jjpc-3-year-planning-questions",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/jjpc-proposed-nc-tta-work-plan-7-31-20",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/juvenile-justice-planning-committee-meeting-agenda-2-15-2022",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/juvenile-justice-planning-committee-meeting-agenda-2-16-2021",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/juvenile-justice-planning-committee-meeting-minutes-11-10-2020",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/juvenile-justice-planning-committee-meeting-minutes-11-16-2021",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/media-communications-policy-juvenile-justice",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/memo-sanctions-stemming-assaults-staff-resulting-physical-injury",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/nc-sentencing-policy-presentation-prison-reform-advisory-board-3-20-18",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/nc-vawa-implementation-plan-2017-2020",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/ncid-acceptable-use-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/north-carolinas-reentry-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/policy-reporting-workplace-incidents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/prison-safety-and-security-update-10-10-18",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/red-staff-updates-7-22-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/school-safety-documents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/senate-bill-207-determination-language-cca-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/shp-internship-authority-release-information-form",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/staffing-allocation-form",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/documents/statesville-resource-fair",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/office-victim-compensation-services/office-victim-compensation-provider-resources/schedule-group-training-your-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/permits-licenses/alarm-system-licensing-board/document/staff-roster",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/permits-licenses/boxing/forms-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/public-safety/personal-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tip-index",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/business-fraud-protection",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/business-theft-prevention",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/child-abuse-prevention",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/children-staying-home-alone",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/date-rape",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/employee-theft",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/fraud-and-scams",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/gun-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/home-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/human-trafficking",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/internet-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/school-bus-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/slamming",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/substance-abuse",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/travel-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/vehicle-theft",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/winter-driving",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/safety-tips/workplace-violence",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/samarcand-training-academy/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/victim-services/nc-savan/internet-and-computer-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/dps-services/victim-services/nc-savan/nc-savan-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/faqs-executive-order-209",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/feedback",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/feedback-state-action-plan-school-safety",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/governor-urges-residents-prepare-emergencies-here-while-helping-texas-neighbors",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/health-services-policy-table-contents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/html/current-initiatives/ncdps-language-access-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/html/intern-for-the-department-of-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/html/providing-mental-health-support-for-public-safety-professionals",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/html/safety-is-a-shared-responsibility",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/nc-emergency-operations-plan-annex",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/case-you-missed-it/safety-scoop-transcripts",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/04/15/public-safety-telecommunicators-week",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/06/01/highway-patrol-joins-eight-other-states-%E2%80%9Coperation-border-border%E2%80%9D",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/08/27/highway-patrol-offers-pedestrian-and-school-bus-safety-tips-school",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/09/15/communities-awarded-nearly-70-million-public-safety-programs-through",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/09/15/communities-awarded-nearly-70-million-public-safety-programs-through-0",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/10/10/emergency-management-officials-offer-flood-safety-tips",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/10/10/practice-chain-saw-safety-during-clean-after-hurricane-matthew",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/10/14/food-and-water-safety-important-following-hurricane-matthew",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/10/14/food-and-water-safety-important-following-hurricane-matthew-0",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/11/01/governor-mccrory-outlines-recovery-plan-first-100-days",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/11/02/governor-mccrory-temporarily-waives-dmv-fees-three-additional-hurricane",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/11/23/highway-patrol-emphasizes-safety-during-thanksgiving-holiday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2016/12/02/don%E2%80%99t-wait-make-plan-your-recovery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2017/03/07/planning-emergency-crucial-family-safety",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2017/10/13%20/state-prisons-take-immediate-steps-assess-and-improve-prison-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2017/10/20%20/department-public-safety-announces-more-actions-following-fatal",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2017/11/16%20/public-safety-department-adds-three-leadership-team",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2017/12/01%20/new-law-helps-enhance-prison-safety-0",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2017/12/29%20/inmate-disciplinary-policy-upgraded-make-prisons-safer",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/news-release/2018/01/25/public-safety-secretary-speaks-legislative-committee-about-prison",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2012/06/08/staff-psychologist-%E2%80%98fixing-broken-youths",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2013/01/20/department-public-safety-announces-activation-clay-county-viper-site",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2013/09/17/school-safety-justice-reinvestment-top-agenda-council-state-governments-justice-center-ncdps",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2014/03/10/governor-joins-dept-public-safety-launch-litter-free-nc",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2014/09/19/department-public-safety-pitch-during-statewide-litter-sweep",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2014/12/29/department-public-safety-looks-back-2014",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2015/06/17/governor-mccrorys-connect-nc-bond-investments-will-enhance-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2016/02/17/public-safety-remembers-two-leaders-during-black-history-month",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2016/05/03/bertie-officers-win-special-olympics-plane-pull-contest",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2016/06/16/statesville-opens-veterans-transitional-home",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2016/08/25/department-public-safety-prepares-open-juvenile-justice-center-asheville",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2016/10/04/governor-mccrory-urges-residents-plan-now-state-prepares-major-impacts-hurricane-matthew",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2016/10/08/state-and-local-officials-encourage-food-safety-precautions-power-outages-north-carolina",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2016/11/14/public-safety-and-containment-remain-top-priorities-western-north-carolina-wildfires",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2016/11/29/governor-mccrory-hails-efforts-contain-party-rock-fire-and-support-crews-tennessee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/01/08/governor-cooper-continues-encourage-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/04/20/department-public-safety-appoints-new-director-prisons",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/04/20/department-public-safety-names-new-director-community-corrections",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/07/14/freeman-named-director-office-staff-development-and-training",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/08/08/state-highway-patrol-hopes-eclipse-doesn%E2%80%99t-shadow-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/08/21/ncdps-adult-correction-partners-southeastern-baptist-theological-seminary-game-plan-life",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/08/22/design-teams-gather-plan-princevilles-future",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/08/27/north-carolina-sends-teams-texas-respond-hurricane-harvey",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/08/30/north-carolina-send-five-swift-water-rescue-teams-texas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/09/27/department-public-safety-methodist-home-children-host-open-house-wayne-county-facility",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/10/12/department-public-safety-identifies-employees-who-died-pasquotank-correctional-institution",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2017/11/06/public-safety-secretary-embarks-listening-tour-prison-reform-efforts",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/03/01/nc-public-safety-national-guard-host-job-fair",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/03/08/state-working-improve-school-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/03/15/department-announces-additional-steps-taken-improve-prison-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/04/09/safety-and-security-improvements-prompt-mission-changes-several",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/04/24/state-assistance-will-help-towns-recover-storm-cleanup-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/05/07/information-regarding-staff-assault-sampson-correctional-institution",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/06/13/new-flood-gauges-increase-public-safety-expand-flood-prediction-capability",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/06/16/information-regarding-june-16-staff-assault-polk-correctional",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/06/17/information-june-17-staff-inmate-assaults-scotland-correctional",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/06/18/information-regarding-staff-assault-today-craven-correctional",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/06/19/8-pm-update-information-regarding-june-19-staff-assault-central-prison",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/06/19/information-regarding-june-19%C2%A0staff-assault%C2%A0-central-prison",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/06/20/information-regarding-june-20-staff-assault-central-prison",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/06/20/update-june-19-staff-assault-central-prison",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/07/06/gaston-correctional-center-inmate-miller-captured-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/08/13/nc-emergency-management-test-new-low-cost-flood-gauges",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/08/21/information-regarding-august-21-staff-assault-tabor-correctional",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/08/31/national-prison-expert-hired-help-safety-reforms-nc-prisons",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/09/06/outreach-events-planned-pitt-county-help-people-apply-help-repair",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/09/13/adult-correction-and-juvenile-justice-evacuate-staff-offenders-due",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/09/13/coastal-north-carolina-feels-effects-hurricane-florence-gov-cooper",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/09/16/pool-coverage-information-governor%E2%80%99s-survey-hurricane-florence-impact",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/09/29/information-inmate-assault-staff-member-scotland-correctional",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/10/10/governor-cooper-recommends-robust-state-funding-package-hurricane",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/10/11/message-public-safety-secretary-erik-hooks",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/10/24/authorities-make-arrest-vance-county-hit-and-run",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/11/14/public-safety-officials-urge-public-prepare-blast-winter-weather",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2018/11/15/public-safety-officials-urge-public-stay-cautious-during-blast-winter-weather",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/01/07/public-comment-period-hurricane-matthew-cdbg-dr-action-plan-amendment",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/02/26/brittany-splant-named-prisons-employee-year",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/03/19/staff-member-assaulted-harnett-correctional-institution",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/04/15/media-advisory-department-public-safety-hosts-career-fair",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/04/22/severe-weather-safety-mobile-homes-or-rvs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/05/16/governor-cooper-public-safety-secretary-urge-local-schools-and-law",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/05/23/shp-urges-motorists-plan-ahead-memorial-day-travel",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/06/03/new-%E2%80%9Cflag-hazard%E2%80%9D-workplace-safety-campaign-launched-safety-month",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/07/02/state-highway-patrol-focuses-safety-july-fourth-weekend",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/08/02/adopt-gauge-program-municipalities-gauging-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/08/09/media-advisory-back-school-safety-summit-monday-focuses-school-safety-initiatives",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/08/12/governor-cooper-public-safety-secretary-urge-collaboration-between",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/08/16/school-safety-planning-and-response-tools-available-schools-and-law",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/08/21/shp-emphasizes-safety-new-school-year",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/08/27/new-samarcand-academy-dining-hall-part-recipe-premier-public-safety-training-experience",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/09/03/media-advisory-governor%E2%80%99s-crime-commission-meeting-canceled",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/09/05/76-million-announced-brunswick-electric-membership-corporation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/09/05/governor-cooper-urges-north-carolinians-get-safety-and-stay-there",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/09/24/6-million-approved-mold-remediation-costs-pender-county-schools",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/09/24/department-announces-temporary-suspension-operations-three-prisons-alleviate-high-staff-vacancy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/10/01/ale-becomes-division-within-department-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/10/05/information-regarding-oct-5-staff-assault-bertie-correctional",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/10/11/media-advisory-public-hearings-disaster-mitigation-funds-planned-oct-14-16",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/10/17/hurricane-dorian-proof-loss-deadline-approaches-policyholders",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/11/06/public-safety-law-enforcement-officials-continue-search-escaped",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/11/11/media-advisory-dept-public-safety-career-fair",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/11/12/rebuild-nc-seeks-public-feedback-plan-spending-168-million-disaster",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/11/18/rebuild-nc-hold-public-hearings-plan-spending-168-million-disaster",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/11/19/department-public-safety-presents-outstanding-employees-badge-excellence-awards",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/11/25/shp-promotes-thanksgiving-holiday-traffic-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2019/11/26/public-invited-comment-proposed-changes-state%E2%80%99s-action-plan-hurricane",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/02/18/public-invited-comment-state%E2%80%99s-plan-hurricane-florence-disaster",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/03/09/public-urged-send-feedback-hurricane-florence-draft-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/03/13/goldsboro-rebuild-nc-buyout-meeting-canceled",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/03/24/governor-cooper-directs-funding-schools-teach-and-feed-students",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/04/04/coronavirus-screenings-prison-staff-now-system-wide",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/04/07/ncdhhs-provide-financial-support-essential-workers-and-child-care-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/04/13/pandemic-prompts-department-public-safety-transition-some-offenders",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/04/20/prisons-temporarily-suspends-operations-one-prison-bring-relief-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/04/23/governor-extends-stay-home-order-through-may-8-plans-three-phase",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/04/30/hud-approves-nc-plan-spending-hurricane-florence-recovery-funds-0",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/05/11/fema-extends-authorization-covid-19-sheltering-north-carolina",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/05/14/more-19-million-approved-laurinburg-housing-authority",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/05/16/testing-initiative-planned-juvenile-facility-concord-following-staff",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/05/26/state-federal-disaster-dollars-help-tideland-electric-membership-corporation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/06/09/public-safety-secretary-directs-law-enforcement-community-corrections",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/06/11/nc-office-recovery-and-resiliency-seeks-public-feedback-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/06/19/state-federal-dollars-help-brunswick-electric-membership-corporation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/07/06/covid-19-mass-testing-planned-ncciw-offender-population",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/07/28/state-federal-disaster-dollars-reimburse-hyde-county-hurricane-dorian-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/09/29/media-advisory-department-public-safety-hosts-community-forum-oct-1",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/09/30/department-public-safety-recognizes-outstanding-employees-badge",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/10/06/three-offenders-walk-away-extending-limits-confinement-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/10/12/prisons-implements-staff-covid-19-testing-pilot-project",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/10/20/media-advisory-department-public-safety-hosts-community-forum-oct-22",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/11/23/shp-encourages-traffic-safety-during-holidays",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/12/07/nc-office-recovery-and-resiliency-seeks-public-feedback-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2020/12/18/correction-enterprises%E2%80%99-moore-recycling-plant-recommended-%E2%80%98gold",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/01/05/public-urged-submit-feedback-use-federal-disaster-recovery-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/02/01/fema-obligates-103-million-north-carolina-covid-19-vaccination-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/03/08/nc-department-public-safety-settles-hepatitis-c-lawsuit",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/04/01/secretary-hooks-department-public-safety-enhance-autism-response",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/04/14/prisons-printing-plant-wins-two-quality-awards",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/04/15/final-judgement-ordered-statesville-nuisance-case",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/04/22/public-safety-secretary-names-jane-ammons-gilchrist-chief-staff",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/05/26/state-highway-patrol-urges-motorists-plan-ahead-memorial-day-travel",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/05/28/nc-office-recovery-and-resiliency-seeks-public-feedback-use-346-million-community-development-block",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/06/03/16-million-awarded-reimburse-repair-costs-sampson-county-roads-damaged-hurricane-florence",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/06/03/2-million-approved-storm-damage-repairs-brunswick-electric-membership-corporation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/06/16/23-million-awarded-reimburse-repair-costs-duplin-county-roads-damaged-hurricane-florence",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/06/16/24-million-awarded-reimburse-repair-costs-sampson-county-roads-damaged-hurricane-florence",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/06/24/media-advisory-public-comment-period-ends-june-27-mitigation-funds-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/07/01/shp-focus-traffic-safety-during-holiday-weekend",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/07/02/public-safety-secretary-appoints-new-director-nc-emergency-management",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/07/07/department-public-safety-secretary-planning-retire",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/07/08/north-carolina-feels-effects-tropical-storm-elsa",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/07/30/governor-appoints-interim-secretary-department-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/07/30/media-advisory-back-school-safety-summit-monday-focuses-north",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/08/02/governor-cooper-public-safety-team-roll-out-state-action-plan-school",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/08/12/authorities-searching-escapee-foothills-correctional-institution",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/08/20/information-regarding%C2%A0staff-assault-today-%C2%A0columbus-correctional",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/09/28/governor-appoints-eddie-buffaloe-department-public-safety-secretary",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/11/19/states-new-regional-resilience-portfolio-program-help-nc-communities-plan-climate-change",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/11/29/nc-department-public-safety-recognizes-21-employees-badge-excellence",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2021/12/08/nc-office-recovery-and-resiliency-seeks-public-feedback-disaster-recovery-and-mitigation-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/01/03/governor-cooper-urges-caution-and-safety-during-severe-weather",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/01/21/laura-howard-named-general-counsel-department-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/02/28/governor-cooper-public-safety-officials-discuss-safety-concerns",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/03/30/community-feedback-sought-identify-cape-fear-and-albemarle-regions-community-climate-hazards",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/04/01/new-state-partnership-support-local-planning-community-resilience",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/04/05/community-feedback-sought-identify-eastern-carolina-mid-east-and-upper-coastal-plain-regions",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/04/08/community-feedback-sought-identify-kerr-tar-mid-carolina-and-triangle-j-regions-community-climate",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/04/14/community-feedback-sought-identify-lumber-river-region-community-climate-hazards",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/04/26/state-prisons-host-hiring-event-western-piedmont-community-college-17-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/05/06/prisons-spotlights-top-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/06/13/burlington-shooting-prompts-ale-investigation-cancellation-abc-permits",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/07/12/ale-investigation-shuts-down-illegal-drug-alcohol-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/07/13/invitacion-al-publico-comentar-sobre-las-evaluaciones-regionales-de-vulnerabilidad-por-cambio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/07/13/public-invited-submit-feedback-regional-climate-change-and-natural-hazards-vulnerability-assessments",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/07/18/gob-cooper-proclama-del-17al-23-de-julio-como-semana-conmemorativa-de-oficiales-de-libertad",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/07/28/brunswick-nuclear-plant-exercise-evaluates-emergency-response",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/07/28/ejercicio-de-simulacion-para-la-planta-nucleoelectrica-brunswick-evalua-respuesta-emergencias",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/08/01/public-invited-comment-plan-tropical-storm-fred-federal-recovery-funds",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/08/01/se-invita-al-publico-comentar-sobre-plan-de-accion-para-fondos-federales-de-recuperacion-por",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/08/03/public-invited-submit-feedback-regional-climate-change-and-natural-hazards-vulnerability-assessments",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/08/03/se-invita-al-publico-comentar-sobre-evaluaciones-regionales-de-vulnerabilidad-por-cambio-climatico-y",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/08/05/authorities-searching-escapee-robeson-crv-center",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/09/02/state-seeks-community-feedback-regional-resilience-projects-september",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/09/13/goldsboro-firma-acuerdo-de-plan-de-resiliencia-comunitaria-local-con-beneficios-largo-plazo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/09/13/goldsboro-signs-agreement-local-community-resilience-plan-long-term-benefits",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/09/21/invitacion-al-publico-comentar-sobre-evaluaciones-regionales-de-vulnerabilidad-por-cambio-climatico",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/09/21/public-invited-submit-feedback-regional-climate-change-and-natural-hazards-vulnerability-assessments",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/09/22/state-seeks-community-feedback-albemarle-and-lumber-river-resilience-projects",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/09/30/governor-cooper-urges-caution-north-carolina-begins-feel-ians-effects",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/10/04/state-seeks-community-feedback-mid-east-regional-resilience-projects",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/10/05/nc-ofrece-soporte-florida-en-la-respuesta-y-recuperacion-del-huracan-ian",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/10/05/north-carolina-supports-florida-hurricane-ian-response-and-recovery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/10/12/state-seeks-community-feedback-identify-eastern-carolina-regional-resilience-projects",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/10/18/department-public-safety-hosts-three-sessions-autism-response-training-law-enforcement-first",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/10/19/authorities-searching-sanford-correctional-offender",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/10/19/state-seeks-community-feedback-identify-albemarle-regional-resilience-projects",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/11/21/state-highway-patrol-promotes-traffic-safety-holidays",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/11/22/public-invited-submit-feedback-regional-resilience-portfolios",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/12/09/nc-office-recovery-and-resiliency-seeks-public-feedback-proposed-changes-disaster-recovery-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/12/09/ncorr-en-busqueda-de-comentarios-publicos-sobre-propuestas-de-cambio-planes-de-fondos-de",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2022/12/20/governor-cooper-signs-state-emergency-activate-emergency-response-plan-increase-transportation-fuel",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/01/03/citizen-advisory-committee-discuss-states-mitigation-funding-plan-jan-10-meeting",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/01/03/el-comite-asesor-ciudadano-discutira-el-plan-del-estado-de-fondos-economicos-para-medidas-de",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/01/03/public-reminded-submit-feedback-state-disaster-recovery-plan-amendments-jan-9",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/01/03/se-recuerda-al-publico-enviar-comentarios-sobre-enmiendas-al-plan-estatal-de-recuperacion-de",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/01/18/public-reminded-submit-feedback-state-mitigation-plan-amendment-jan-23",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/01/18/se-recuerda-al-publico-enviar-comentarios-sobre-la-enmienda-del-plan-de-mitigacion-estatal-antes-del",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/01/20/state-disaster-recovery-leader-join-nc-department-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/02/07/retirement-united-states-survey-foot",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/03/16/state-highway-patrol-requests-public-feedback-calea-portal",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/04/13/department-public-safety-hosts-sessions-autism-response-training-law-enforcement-and-first",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/04/18/fema-evaluators-present-harris-nuclear-plant-exercise-outcome-public-meeting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/04/20/coharie-tribe-signs-agreement-local-resilience-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/04/20/tribu-coharie-firma-acuerdo-de-plan-local-de-resiliencia",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/05/18/north-carolina-department-public-safety-launches-nc-safe-initiative",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/05/25/state-highway-patrol-encourages-safety-during-summer-travel-period",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/07/11/completed-whiteville-flood-mitigation-and-resilience-plan-serve-launch-pad-funding-and-future",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/07/11/plan-de-resiliencia-y-mitigacion-de-inundaciones-para-whiteville-completado-servira-como-lanzamiento",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/11/13/shp-se-integra-campana-nacional-semana-de-seguridad-del-personal-de-intervencion-inmediata-de",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/11/13/state-highway-patrol-joins-nationwide-crash-responder-safety-week-campaign",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/11/21/state-highway-patrol-promotes-thanksgiving-holiday-traffic-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/11/29/department-public-safety-honors-10-employees-badge-excellence",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2023/12/12/unc-assessment-will-guide-states-response-reduced-federal-funding-crime-victim-services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/01/22/media-advisory-task-force-racial-equity-criminal-justice-trec-planning-meeting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/01/23/notificacion-de-prensa-reunion-de-planificacion-del-grupo-de-trabajo-para-la-equidad-racial-en-la",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/03/04/gob-cooper-recuerda-norcarolinianos-prepararse-y-practicar-planes-para-afrontar-condiciones-severas",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/03/15/invitacion-al-foro-de-comentarios-publicos-sobre-propuesta-de-cambios-planes-estatales-para-fondos",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/03/15/public-invited-comment-proposed-changes-state-disaster-recovery-and-mitigation-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/04/09/plazo-del-foro-de-comentarios-publicos-para-propuestas-de-cambios-planes-de-fondos-estatales-de",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/04/09/public-comment-period-proposed-changes-state-disaster-recovery-and-mitigation-plans-ends-april-15",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/05/06/state-highway-patrol-seeks-public-feedback",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/05/21/nuevo-sitio-web-estatal-ofrece-recursos-unicos-sobre-el-cambio-climatico-para-comunidades-de-nc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/05/28/gob-cooper-proclama-del-26-de-mayo-al-1o-de-junio-semana-de-concientizacion-sobre-el-calor",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/06/02/ncdps-fomenta-el-almacenamiento-seguro-de-armas-de-fuego-en-el-segundo-aniversario-de-la-semana-de",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/06/03/media-advisory-nc-department-public-safety-local-partners-host-nc-safe-week-action-events-across",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/06/03/notificacion-de-prensa-evento-inaugural-de-la-semana-de-accion-nc-safe-en-high-point",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/06/04/notificacion-de-prensa-evento-de-la-semana-de-accion-nc-safe-en-durham",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/06/04/notificacion-de-prensa-evento-de-la-semana-de-accion-nc-safe-en-raleigh",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/06/05/notificacion-de-prensa-evento-de-la-semana-de-accion-nc-safe-en-condado-scotland",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/06/06/notificacion-de-prensa-evento-de-la-semana-de-accion-nc-safe-en-asheville",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/07/08/no-se-esta-registrando-ninguna-emergencia-en-la-planta-nucleoelectrica-harris",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/07/08/there-no-emergency-harris-nuclear-plant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/08/09/se-espera-que-efectos-del-sistema-tropical-debby-persistan-este-fin-de-semana",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/10/17/governor-cooper-joins-united-states-secretary-transportation-pete-buttigieg-western-north-carolina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/10/25/governor-cooper-surveys-storm-damage-polk-county-joins-first-lady-united-states-jill-biden-asheville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/11/12/gob-cooper-anuncia-plan-estrategico-de-prevencion-de-violencia-en-la-comunidad-desarrollado-por-la",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/11/12/governor-cooper-announces-community-violence-prevention-strategic-plan-developed-north-carolina",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/12/02/plazo-de-comentarios-publicos-referentes-cambios-propuestos-al-plan-de-recuperacion-por-tormenta",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2024/12/02/public-comment-period-proposed-changes-tropical-storm-fred-recovery-plan-ends-dec-8",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/01/22/state-capitol-police-requests-public-feedback-calea-portal",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/03/05/governor-stein-provides-updates-severe-weather-impacting-north-carolina-issues-safety-guidance",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/04/11/first-meeting-governors-advisory-council-student-safety-and-well-being-scheduled-monday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/04/15/evaluadores-de-fema-presentaran-en-reunion-publica-resultados-de-simulacros-en-planta",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/04/15/fema-evaluators-present-harris-nuclear-plant-exercise-outcome-public-meeting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/04/15/state-highway-patrol-seeks-public-feedback-during-accreditation-process",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/05/06/meeting-governors-advisory-council-student-safety-and-well-being-scheduled-thursday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/05/08/state-capitol-police-seeks-public-feedback",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/06/02/durante-esta-semana-de-accion-nc-safe-gob-stein-y-ncdps-fomentan-la-guarda-segura-de-armas-de-fuego",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/06/02/governor-stein-and-north-carolina-department-public-safety-promote-safe-gun-storage-during-nc-safe",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/06/02/ncdps-and-tsa-host-firearm-safety-event-charlotte-douglas-international-airport-during-nc-safe-week",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/06/06/durante-la-semana-de-accion-nc-safe-gob-stein-fomenta-la-guarda-segura-de-armas-de-fuego",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/08/01/public-invited-comment-proposed-changes-eastern-nc-long-term-disaster-recovery-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/08/01/se-invita-al-publico-comentar-sobre-cambios-propuestos-al-plan-de-recuperacion-largo-plazo-por",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/08/05/north-carolina-department-public-safety-collects-school-supplies-hertford-county",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/08/14/fema-evaluators-present-mcguire-nuclear-plant-exercise-outcome-public-meeting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/09/26/meeting-governors-advisory-council-student-safety-and-well-being-scheduled-monday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2025/11/14/meeting-governors-advisory-council-student-safety-and-well-being-scheduled-monday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2026/01/30/public-invited-comment-proposed-changes-state-mitigation-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2026/01/30/se-invita-al-publico-comentar-sobre-cambios-propuestos-al-plan-de-accion-de-medidas-de-mitigacion",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2026/03/02/durante-la-semana-de-preparacion-para-las-inclemencias-del-tiempo-gob-stein-les-recuerda-los",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2026/03/20/meeting-governors-advisory-council-student-safety-and-well-being-scheduled-monday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2026/04/29/north-carolina-department-public-safety-hosts-autism-response-training",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2026/05/15/meeting-governors-advisory-council-student-safety-and-well-being-scheduled-monday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2026/07/31/media-advisory-meeting-governors-advisory-council-student-safety-and-well-being-scheduled-monday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/news/press-releases/2026/09/25/meeting-governors-advisory-council-student-safety-and-well-being-scheduled-monday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/adult-correction/governors-clemency-office/glossary-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/emergency-management/em-operations/emergency-operations-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/emergency-management/emergency-management-grants/grants-management-compliance-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/emergency-management/hazard-mitigation/enhanced-hazard-mitigation-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/emergency-management/hazard-mitigation/hazard-mitigation-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/emergency-management/hazardous-materials/chemical-safety-reporting",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/emergency-management/hazardous-materials/epcratier-ii-reporting/epcratier-2-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/emergency-management/hazardous-materials/local-emergency-planning-committees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/emergency-management/hazardous-materials/pre-planning-and-exercise-resources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/law-enforcement/state-highway-patrol/nc-gangnet/overview-and-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/law-enforcement/state-highway-patrol/safety-tips",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/our-organization/law-enforcement/state-highway-patrol/surplus-vehicle-sales/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/pps-staff-roster",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/after-28-years-service-colonel-marc-d-axelberg-retires-united-states-army",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/corporate-sponsors-present-checks-public-safety-cadet-program",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/corporate-sponsors-present-donations-public-safety-cadet-program",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/correctional-staff-evacuate-portion-neuse-correctional-institution-following-prison",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/department-public-safety-employees-receive-badge-excellence",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/department-public-safety-prepares-open-juvenile-detention-center-concord",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/department-public-safety-requests-investigation-inmate-death",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/event-brunswick-plant-posed-no-public-threat",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/event-brunswick-plant-prompts-coordinated-response",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/governor%E2%80%99s-task-force-safer-schools-presents-school-safety-award",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/harris-nuclear-plant-exercise",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/highway-patrol-joins-eight-other-states-%E2%80%9Coperation-border-border%E2%80%9D-0",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/media-advisory-state-emergency-response-commission-meeting-cancelled",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/nc-national-guard-deploys-fight-california-forest-fires",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/ncshp-partners-maine-florida-national-drive-save-lives-campaign",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/new-public-safety-cadet-program-begin-bertie-county-schools",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/partnership-uses-data-modeling-visualization-help-improve-hurricane-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/practice-chain-saw-safety-during-clean-after-hurricane-matthew-0",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/state-officials-stress-importance-health-and-safety-clean-following-hurricane-matthew",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/state-urges-families-update-emergency-plans-part-back-school-preparations-0",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/statement-department-public-safety-secretary-frank-l-perry-regarding-last-week%E2%80%99s",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/states-assist-north-carolina-hurricane-matthew-relief-efforts",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/press-release/suspect-fatal-collision-arrested-california",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/responder-assistance-initiative-staff-bios",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/social-media-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/state-highway-patrol-promotes-back-school-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdps.gov/written-plan-supervision",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

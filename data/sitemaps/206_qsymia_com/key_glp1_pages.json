@@ -1,0 +1,22 @@
+{
+  "name": "Qsymia",
+  "domain": "qsymia.com",
+  "total_urls": 10,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://qsymia.com/patient/resources/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://qsymia.com/patient/resources/safety-information/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

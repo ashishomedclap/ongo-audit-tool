@@ -1,0 +1,34 @@
+{
+  "name": "Synergyhealthpc",
+  "domain": "synergyhealthpc.com",
+  "total_urls": 24,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://synergyhealthpc.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://synergyhealthpc.com/cookie-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://synergyhealthpc.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://synergyhealthpc.com/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

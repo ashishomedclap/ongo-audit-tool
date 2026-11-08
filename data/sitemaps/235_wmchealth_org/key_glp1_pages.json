@@ -1,0 +1,287 @@
+{
+  "name": "Wmchealth",
+  "domain": "wmchealth.org",
+  "total_urls": 541,
+  "semaglutide_pages": [
+    "https://www.wmchealth.org/living-well/beyond-the-ozempic-buzz-how-glp-1s-actually-work"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.wmchealth.org/graduate-medical-education/advanced-heart-failure-and-transplant-cardiology-fellowship-program",
+    "https://www.wmchealth.org/living-well/after-a-heart-transplant-this-tv-chef-has-a-new-life-recipe",
+    "https://www.wmchealth.org/living-well/beyond-mammograms-what-dense-breast-tissue-means-for-your-screening-plan",
+    "https://www.wmchealth.org/living-well/getting-back-on-her-feet-after-acl-surgery",
+    "https://www.wmchealth.org/living-well/halloween-safety-costumes-street-safety-and-more",
+    "https://www.wmchealth.org/living-well/summer-nutrition-tips-to-keep-you-feeling-your-best",
+    "https://www.wmchealth.org/living-well/when-something-feels-off-what-women-should-know-about-ovarian-cancer-symptoms",
+    "https://www.wmchealth.org/our-breakthroughs-and-innovations/clinical-trials/kidney-transplant-clinical-research-program",
+    "https://www.wmchealth.org/our-breakthroughs-and-innovations/clinical-trials/liver-transplant-clinical-research-program",
+    "https://www.wmchealth.org/our-breakthroughs-and-innovations/clinical-trials/transplants-clinical-research-program",
+    "https://www.wmchealth.org/patient-feedback",
+    "https://www.wmchealth.org/patients-and-visitors/insurance-and-billing/price-transparency",
+    "https://www.wmchealth.org/service-line/cancer-care/bone-marrow-transplant",
+    "https://www.wmchealth.org/service-line/ear-nose-and-throat-ent/cochlear-implant-center",
+    "https://www.wmchealth.org/service-line/ear-nose-and-throat-ent/ear-surgeries-and-procedures/cochlear-implant-process-what-to-expect"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.wmchealth.org/find-a-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/for-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/for-providers/disease-prevention",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/graduate-medical-education/advanced-heart-failure-and-transplant-cardiology-fellowship-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/graduate-medical-education/pharmacy-residency-program",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/after-a-heart-transplant-this-tv-chef-has-a-new-life-recipe",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/beyond-mammograms-what-dense-breast-tissue-means-for-your-screening-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/beyond-the-ozempic-buzz-how-glp-1s-actually-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/epilepsy-safety-tips-for-patients-and-families",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/finding-a-doctor-who-finally-listened-one-patients-endometriosis-story",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/getting-back-on-her-feet-after-acl-surgery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/halloween-safety-costumes-street-safety-and-more",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/how-stress-affects-womens-hormones-and-when-to-talk-to-your-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/summer-nutrition-tips-to-keep-you-feeling-your-best",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/water-safety-for-children-how-to-prevent-drowning-and-respond-to-an-emergency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/living-well/when-something-feels-off-what-women-should-know-about-ovarian-cancer-symptoms",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/new-providers-in-our-network",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/our-breakthroughs-and-innovations/clinical-trials/kidney-transplant-clinical-research-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/our-breakthroughs-and-innovations/clinical-trials/liver-transplant-clinical-research-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/our-breakthroughs-and-innovations/clinical-trials/transplants-clinical-research-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/patient-feedback",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/patients-and-visitors/insurance-and-billing/price-transparency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/patients-and-visitors/public-authority-reporting",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/cancer-care/bone-marrow-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/ear-nose-and-throat-ent/cochlear-implant-center",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/ear-nose-and-throat-ent/ear-surgeries-and-procedures/cochlear-implant-process-what-to-expect",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/ophthalmology/cornea-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/pediatric-services/pediatric-cardiology/project-adam-new-york-improving-response-to-youth-sudden-cardiac-arrest",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/pediatric-services/pediatric-hematology-oncology/pediatric-stem-cell-transplantation-cellular-gene-therapy",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/pediatric-services/pediatric-liver-transplant-and-hepatobiliary-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/pharmacy-specialty-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/specialty-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/transplant-center",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/transplant-center/heart-transplant-surgery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/transplant-center/kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/transplant-center/liver-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/service-line/womens-health/family-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/specialty-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/specialty-pharmacy/gastroenterology",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/specialty-pharmacy/hematology",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/specialty-pharmacy/infectious-diseases",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/specialty-pharmacy/oncology",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wmchealth.org/specialty-pharmacy/rheumatology",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

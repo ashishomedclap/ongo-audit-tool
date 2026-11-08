@@ -1,0 +1,60 @@
+{
+  "name": "Themedspasociety",
+  "domain": "themedspasociety.com",
+  "total_urls": 45,
+  "semaglutide_pages": [
+    "https://themedspasociety.com/navigating-advertising-restrictions-for-semaglutide/",
+    "https://themedspasociety.com/semaglutide-marketing-for-medspas/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://themedspasociety.com/7-steps-to-creating-a-marketing-plan-for-your-medspa/",
+    "https://themedspasociety.com/best-type-of-medspa-membership/",
+    "https://themedspasociety.com/how-to-plan-a-12-days-of-christmas-medspa-promotion/",
+    "https://themedspasociety.com/how-to-price-botox/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://themedspasociety.com/10-plastic-surgery-conferences-throughout-the-united-states/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://themedspasociety.com/7-steps-to-creating-a-marketing-plan-for-your-medspa/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://themedspasociety.com/best-type-of-medspa-membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://themedspasociety.com/how-to-plan-a-12-days-of-christmas-medspa-promotion/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://themedspasociety.com/how-to-price-botox/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://themedspasociety.com/navigating-advertising-restrictions-for-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://themedspasociety.com/semaglutide-marketing-for-medspas/",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

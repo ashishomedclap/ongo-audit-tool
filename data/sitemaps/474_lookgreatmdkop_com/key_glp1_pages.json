@@ -1,0 +1,24 @@
+{
+  "name": "Lookgreatmdkop",
+  "domain": "lookgreatmdkop.com",
+  "total_urls": 17,
+  "semaglutide_pages": [
+    "https://www.lookgreatmdkop.com/services/semaglutide-injections-curb-program-by-dr-gs"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.lookgreatmdkop.com/services/physician-supervised-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.lookgreatmdkop.com/services/semaglutide-injections-curb-program-by-dr-gs",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

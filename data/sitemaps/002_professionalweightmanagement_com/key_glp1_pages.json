@@ -1,0 +1,90 @@
+{
+  "name": "Professional Weight Management",
+  "domain": "professionalweightmanagement.com",
+  "total_urls": 219,
+  "semaglutide_pages": [
+    "https://www.professionalweightmanagement.com/specialsnews/category/Ozempic",
+    "https://www.professionalweightmanagement.com/specialsnews/ozempic",
+    "https://www.professionalweightmanagement.com/specialsnews/tag/Ozempic",
+    "https://www.professionalweightmanagement.com/specialsnews/tag/ozempic"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.professionalweightmanagement.com/specialsnews/resolution-planning",
+    "https://www.professionalweightmanagement.com/specialsnews/vacation-proof-your-weight-loss-plan"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.professionalweightmanagement.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/specialsnews/category/FAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/specialsnews/category/Ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/specialsnews/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/specialsnews/resolution-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/specialsnews/tag/Ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/specialsnews/tag/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/specialsnews/tag/solo+hiking+safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/specialsnews/vacation-proof-your-weight-loss-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.professionalweightmanagement.com/terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

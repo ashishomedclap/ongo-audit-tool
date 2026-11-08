@@ -1,0 +1,140 @@
+{
+  "name": "Goodbackcare",
+  "domain": "goodbackcare.com",
+  "total_urls": 184,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://goodbackcare.com/chiropractor-wilmington-nc-plantar-fasciitis/",
+    "https://goodbackcare.com/fitness-club-membership-in-the-us-what-the-numbers-tell-us/",
+    "https://goodbackcare.com/how-coffee-affects-your-health/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://goodbackcare.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/about-us/arian-kelly/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/about-us/david-doyal/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/about-us/frank-leray/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/about-us/gene-raby/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/about-us/larry-linett/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/about-us/maurice-horton/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/about-us/shay-cook/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/about-us/william-mead/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/chiropractor-wilmington-nc-plantar-fasciitis/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/fitness-club-membership-in-the-us-what-the-numbers-tell-us/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/how-coffee-affects-your-health/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/leland-nc-chiropractor-antibiotics/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/our-locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/our-locations/leland/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/our-locations/market-street/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/our-locations/monkey-junction/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/our-locations/north-wilmington/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/our-locations/shallotte/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/our-locations/south-wilmington/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://goodbackcare.com/whats-occupational-health-safety-can-chiropractor-help/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

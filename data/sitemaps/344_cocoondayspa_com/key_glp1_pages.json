@@ -1,0 +1,36 @@
+{
+  "name": "Cocoondayspa",
+  "domain": "cocoondayspa.com",
+  "total_urls": 37,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://cocoondayspa.com/memberships/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://cocoondayspa.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://cocoondayspa.com/memberships/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://cocoondayspa.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://cocoondayspa.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

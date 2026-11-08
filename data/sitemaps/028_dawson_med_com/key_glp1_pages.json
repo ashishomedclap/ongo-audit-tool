@@ -1,0 +1,46 @@
+{
+  "name": "Dawson Med",
+  "domain": "dawson-med.com",
+  "total_urls": 65,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.dawson-med.com/content/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.dawson-med.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.dawson-med.com/our-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.dawson-med.com/our-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.dawson-med.com/post/workers-compensation-doctor-near-me-in-wilmington-nc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.dawson-med.com/providers",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

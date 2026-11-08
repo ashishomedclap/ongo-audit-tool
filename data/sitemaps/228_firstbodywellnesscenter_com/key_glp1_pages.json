@@ -1,0 +1,43 @@
+{
+  "name": "Firstbodywellnesscenter",
+  "domain": "firstbodywellnesscenter.com",
+  "total_urls": 78,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://firstbodywellnesscenter.com/payment-plans/",
+    "https://firstbodywellnesscenter.com/vip-memberships/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://firstbodywellnesscenter.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://firstbodywellnesscenter.com/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://firstbodywellnesscenter.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://firstbodywellnesscenter.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://firstbodywellnesscenter.com/vip-memberships/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Poshmedicalspa",
+  "domain": "poshmedicalspa.com",
+  "total_urls": 49,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://poshmedicalspa.com/everything-you-need-to-know-about-dermaplaning/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://poshmedicalspa.com/everything-you-need-to-know-about-dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://poshmedicalspa.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://poshmedicalspa.com/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

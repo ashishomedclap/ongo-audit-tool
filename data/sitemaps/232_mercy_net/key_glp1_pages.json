@@ -1,0 +1,138 @@
+{
+  "name": "Mercy",
+  "domain": "mercy.net",
+  "total_urls": 283,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.mercy.net/forms/online-cost-estimator/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.mercy.net/about/gov-relations/shahira-stafford/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/about/history/south-texas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/forms/online-cost-estimator/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/career/cpe-programs/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/pharmacy-residency-joplin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/pharmacy-residency-nwa/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/pharmacy-residency-oklahoma-city/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/pharmacy-residency-program-springfield/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/pharmacy-residency-program-springfield/application-process/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/pharmacy-residency-program-springfield/in-the-news/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/pharmacy-residency-springfield-ambulatory-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/pharmacy-residency-springfield-critical-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/healthcare-education/pharmacy/southeast-pgy-1-pharmacy-residency-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/patients-visitors/advance-directives/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/patients-visitors/billing/340B-faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/patients-visitors/billing/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/patients-visitors/medicaid-redetermination/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/patients-visitors/medical-marijuana-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/patients-visitors/mymercy/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.mercy.net/patients-visitors/quality-safety/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

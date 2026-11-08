@@ -1,0 +1,13 @@
+{
+  "name": "Linkedin",
+  "domain": "linkedin.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://linkedin.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://linkedin.com/pricing"
+  ],
+  "all_categorized": []
+}

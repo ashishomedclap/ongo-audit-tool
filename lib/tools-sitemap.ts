@@ -61,7 +61,7 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     badge: 'Offline Cloner',
     badgeColor: '#059669',
     badgeBg: '#dcfce7',
-    keyMetrics: '43 Saved Pages • 1-Click Offline',
+    keyMetrics: '56 Saved Pages • 1-Click Offline',
     keywords: ['scraper', 'clean', 'offline', 'html', 'css', 'js', 'vanilla', 'accordion', 'clone', 'crawler']
   },
 
@@ -139,17 +139,17 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     categoryIcon: 'GitCompare',
     path: '/competitor-gap',
     useCase: 'Discover topic vacuums where 70+ competitors rank but Ongo is missing; generate 1-click writer briefs.',
-    description: 'Cross-references 33,108 competitor URLs against Ongo\'s 56 live pages to output an instant Content Roadmap.',
+    description: 'Cross-references 512,334 competitor URLs against Ongo\'s 56 live pages to output an instant Content Roadmap.',
     valueProp: 'Reveals topic vacuums where 70+ competitors rank; generates 1-click writer briefs with H1s and meta tags.',
-    howToUse: 'Filter the 33,108 competitor URL database by Priority (P0 Critical, P1 High) or Silo Category. Click any topic vacuum to auto-generate a complete writer brief with target H1s, keyword variations, and meta descriptions.',
+    howToUse: 'Filter the 512,334 competitor URL database by Priority (P0 Critical, P1 High) or Silo Category. Click any topic vacuum to auto-generate a complete writer brief with target H1s, keyword variations, and meta descriptions.',
     whyToUse: 'Directly drives organic traffic growth by identifying high-volume search topics (like GLP-1 dosage charts, insurance coverage, protein intake, side effects, and compounding legality) where competitors dominate but Ongo has zero content.',
     recommendation: 'KEEP (Core Asset)',
     recommendationReason: 'Highest organic traffic ROI in the entire suite. Turns raw competitor data directly into actionable content publishing briefs.',
-    badge: '33,108 URLs Wired',
+    badge: '512,334 URLs Wired',
     badgeColor: '#c2410c',
     badgeBg: '#fee2e2',
     keyMetrics: 'P0 Gaps • Writer Briefs',
-    keywords: ['competitor gap', 'gap', 'content roadmap', 'roadmap', '33108', 'writer briefs', 'vacuums']
+    keywords: ['competitor gap', 'gap', 'content roadmap', 'roadmap', '512334', 'writer briefs', 'vacuums']
   },
 
   // ==========================================
@@ -385,12 +385,12 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
   },
 
   // ==========================================
-  // RANK #11: 100-COMPETITOR CENSUS & DIRECTORY
+  // RANK #11: 618-COMPETITOR CENSUS & DIRECTORY
   // ==========================================
   {
     id: 'competitors',
-    name: '100-Competitor Census & Directory',
-    shortName: '100 Competitors',
+    name: '618-Competitor Census & Directory',
+    shortName: '618 Competitors',
     rank: 11,
     rankTier: 'Tier 2: High Value Strategy',
     level: 1,
@@ -399,17 +399,17 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     categoryLabel: 'Level 1: Foundation & Baseline',
     categoryIcon: 'Users',
     path: '/competitors',
-    useCase: 'Analyze the complete market census of 100 telehealth clinics offering compounded GLP-1s.',
-    description: 'Full competitive census of 100 telehealth brands in the compounded GLP-1 weight loss market.',
+    useCase: 'Analyze the complete market census of 618 telehealth clinics offering compounded GLP-1s.',
+    description: 'Full competitive census of 618 telehealth brands in the compounded GLP-1 weight loss market.',
     valueProp: 'Rank, domain, URLs indexed, Semaglutide vs Tirzepatide focus, and primary sitemaps.',
-    howToUse: 'Search, sort, or filter the census of 100 telehealth competitors by Semaglutide vs Tirzepatide offerings, estimated visit volume, domain authority, or technical stack.',
+    howToUse: 'Search, sort, or filter the census of 618 telehealth competitors by Semaglutide vs Tirzepatide offerings, estimated visit volume, domain authority, or technical stack.',
     whyToUse: 'Gives Ongo leadership macro visibility into who the market leaders are, how big they are, and what clinical treatments they provide.',
     recommendation: 'KEEP (High Value)',
     recommendationReason: 'Fundamental competitive benchmark for the telehealth GLP-1 industry.',
-    badge: '100 Brands',
+    badge: '618 Brands',
     badgeColor: '#7c3aed',
     badgeBg: '#ede9fe',
-    keyMetrics: '100 Competitors',
+    keyMetrics: '618 Competitors',
     keywords: ['competitors', 'directory', 'census', 'brands', 'domains', 'ranking']
   },
 
@@ -458,7 +458,7 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     categoryIcon: 'Stethoscope',
     path: '/doctor-eeat',
     useCase: 'Audit physician credentials, NPI registrations, state medical licenses, and clinical author bylines.',
-    description: 'Dedicated clinical authority auditor evaluating medical directors, MD/DO board certifications, and doctor-reviewed author bylines across 100 competitors.',
+    description: 'Dedicated clinical authority auditor evaluating medical directors, MD/DO board certifications, and doctor-reviewed author bylines across 618 competitors.',
     valueProp: 'NPI registry verification, MD vs NP supervision comparison, and clinical reviewer attribution.',
     howToUse: 'Filter by Doctor-Led supervision, view Ongo\'s 5 Board-Certified Physicians (Okonkwo, Kramer, Patel, Miller, Krasne), and export medical director credentials to CSV.',
     whyToUse: 'Google evaluates healthcare websites under strict YMYL standards. Dedicated physician oversight and verified doctor bylines protect against medical core ranking penalties.',
@@ -518,7 +518,7 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     useCase: 'Audit 503A/503B pharmacy sourcing, USP <797> sterile standards, and cold-pack shipping policies.',
     description: 'Audits compounding pharmacy partners, sterile cleanroom compliance, temperature-controlled shipping, and flat-rate pricing transparency.',
     valueProp: '503A compounding verification, cold packaging shipping standards, and refund guarantee benchmarks.',
-    howToUse: 'Inspect pharmacy sourcing, 503A sterile compounding disclosures, and temperature-controlled shipping policies across 100 competitors.',
+    howToUse: 'Inspect pharmacy sourcing, 503A sterile compounding disclosures, and temperature-controlled shipping policies across 618 competitors.',
     whyToUse: 'Sterility and legitimate 503A sourcing are essential to patient safety and conversion confidence in compounded GLP-1 medications.',
     recommendation: 'KEEP (High Value)',
     recommendationReason: 'Enforces compounding legitimacy and patient safety guarantees.',
@@ -573,17 +573,17 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     categoryLabel: 'Level 1: Foundation & Baseline',
     categoryIcon: 'BarChart2',
     path: '/',
-    useCase: 'Assess high-level Ongo telemetry and macro competitive landscape across 100 brands.',
-    description: 'Executive benchmarking dashboard tracking Ongo against 100 telehealth competitors.',
-    valueProp: 'Monitors 35,420 URLs, active HTTP pings, and macro content distribution.',
-    howToUse: 'Check high-level macro counters: 35,420 total competitor URLs, active sitemap pings, and Ongo live page footprint.',
+    useCase: 'Assess high-level Ongo telemetry and macro competitive landscape across 618 brands.',
+    description: 'Executive benchmarking dashboard tracking Ongo against 618 telehealth competitors.',
+    valueProp: 'Monitors 512,334 URLs, active HTTP pings, and macro content distribution.',
+    howToUse: 'Check high-level macro counters: 512,334 total competitor URLs, active sitemap pings, and Ongo live page footprint.',
     whyToUse: 'Serves as the central homepage and executive summary for the entire suite.',
     recommendation: 'KEEP (High Value)',
     recommendationReason: 'Homepage and executive navigation portal.',
     badge: 'Executive',
     badgeColor: '#1b4332',
     badgeBg: '#d8f3dc',
-    keyMetrics: '100 Brands • 35k URLs',
+    keyMetrics: '618 Brands • 512k URLs',
     keywords: ['overview', 'dashboard', 'executive', 'summary', 'ping', 'stats', 'macro']
   },
 
@@ -689,17 +689,17 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     categoryLabel: 'Level 1: Foundation & Baseline',
     categoryIcon: 'Globe',
     path: '/sitemaps',
-    useCase: 'Inspect XML sitemap hierarchies, indexation health, and URL distribution across 74 clinics.',
-    description: 'Inspect XML sitemap structures across 74 accessible competitor telehealth domains.',
+    useCase: 'Inspect XML sitemap hierarchies, indexation health, and URL distribution across 383 active clinic feeds.',
+    description: 'Inspect XML sitemap structures across 383 accessible competitor telehealth domains.',
     valueProp: 'Drill down into individual XML files, total URLs, and GLP-1 page counts.',
-    howToUse: 'Inspect raw XML sitemap files, hierarchies, and indexation status across 74 competitor domains.',
+    howToUse: 'Inspect raw XML sitemap files, hierarchies, and indexation status across 618 competitor domains (383 active feeds).',
     whyToUse: 'Useful for developers verifying raw XML ingestion, but offers limited value to marketing/business users.',
     recommendation: 'CONSIDER REMOVING',
-    recommendationReason: 'Prime candidate for removal or hiding from main navigation: all 33k URLs extracted from these sitemaps are already powering Tool #3 (Content Roadmap).',
-    badge: '74 Sitemaps',
+    recommendationReason: 'Prime candidate for removal or hiding from main navigation: all 512k URLs extracted from these sitemaps are already powering Tool #3 (Content Roadmap).',
+    badge: '383 Sitemaps',
     badgeColor: '#0284c7',
     badgeBg: '#e0f2fe',
-    keyMetrics: '74 Active Sitemaps',
+    keyMetrics: '383 Active Sitemaps',
     keywords: ['sitemaps', 'xml', 'competitors', 'urls', 'hierarchy', 'status']
   },
 
@@ -875,6 +875,35 @@ export const TOOLS_DIRECTORY: ToolDefinition[] = [
     badgeBg: '#d1fae5',
     keyMetrics: 'HTTP Status • Noindex Audit • Clean Markdown',
     keywords: ['content extractor', 'indexability', 'robots.txt', 'noindex', 'canonical', 'http status', 'boilerplate stripper', 'reader mode']
+  },
+
+  // ==========================================
+  // RANK #30: SEO DATA VAULT
+  // ==========================================
+  {
+    id: 'seo-vault',
+    name: 'SEO Data Vault — Keyword Positions, Backlinks & Competitors',
+    shortName: 'SEO Data Vault',
+    rank: 30,
+    rankTier: 'Tier 1: Essential Core',
+    level: 1,
+    levelLabel: 'Level 1 · Foundation',
+    category: 'level-1',
+    categoryLabel: 'Level 1: Foundation & Baseline',
+    categoryIcon: 'Database',
+    path: '/seo-vault',
+    useCase: 'Live searchable reference database of all SEMrush SEO exports — keyword rankings, backlink profile, and organic competitor intelligence.',
+    description: 'Persistent SEO database storing 531 organic keyword rankings, 7,888 backlinks, and 526 competitor domains from SEMrush exports. Full-text search, sort, filter, pagination, and one-click upload to refresh with new exports.',
+    valueProp: 'Never lose track of your SEO data. Auto-detects file type (keywords/backlinks/competitors), supports replace or merge import modes, and recalculates all KPI metrics on every upload.',
+    howToUse: 'Browse or search any of the 3 datasets using the tab switcher. Use filters (min authority score, dofollow/nofollow) to drill down. Click "Update Database" to upload a fresh .xlsx or .csv export from SEMrush.',
+    whyToUse: 'Provides a permanent, searchable SEO data reference so you always know your current rankings, link profile, and competitor landscape without re-importing raw spreadsheets.',
+    recommendation: 'KEEP (Core Asset)',
+    recommendationReason: 'Central SEO data repository enabling quick lookup of rankings, backlinks, and competitors with one-click upload refresh.',
+    badge: 'SEMrush Import',
+    badgeColor: '#3b82f6',
+    badgeBg: '#eff6ff',
+    keyMetrics: '531 Keywords • 7,888 Backlinks • 526 Competitors',
+    keywords: ['seo', 'keywords', 'backlinks', 'competitors', 'semrush', 'rankings', 'link profile', 'database', 'vault', 'import']
   }
 ];
 
@@ -894,7 +923,7 @@ export const TOOL_CATEGORIES: ToolCategory[] = [
     level: 2,
     name: 'Level 2: SEO Research & Content Engine',
     useCase: 'Discover high-converting search intent, keyword opportunity gaps, and competitive moats.',
-    shortDescription: '33k competitor gap roadmap, Google Suggest PAA harvester, keywords matrix, and moats',
+    shortDescription: '512k competitor gap roadmap, Google Suggest PAA harvester, keywords matrix, and moats',
     icon: 'Sparkles',
     accentColor: '#d97706',
     tools: TOOLS_DIRECTORY.filter(t => t.category === 'level-2')

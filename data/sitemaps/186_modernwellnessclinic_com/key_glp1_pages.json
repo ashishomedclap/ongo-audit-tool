@@ -1,0 +1,75 @@
+{
+  "name": "Modernwellnessclinic",
+  "domain": "modernwellnessclinic.com",
+  "total_urls": 135,
+  "semaglutide_pages": [
+    "https://www.modernwellnessclinic.com/post/how-does-semaglutide-work",
+    "https://www.modernwellnessclinic.com/post/semaglutide-vs-tirzepatide-which-is-better-for-weight-loss",
+    "https://www.modernwellnessclinic.com/services/semaglutide-las-vegas"
+  ],
+  "tirzepatide_pages": [
+    "https://www.modernwellnessclinic.com/post/semaglutide-vs-tirzepatide-which-is-better-for-weight-loss",
+    "https://www.modernwellnessclinic.com/post/tirzepatide-las-vegas",
+    "https://www.modernwellnessclinic.com/product/tirzepatide-program"
+  ],
+  "pricing_pages": [
+    "https://www.modernwellnessclinic.com/affordable-employee-health-plans-for-small-businesses"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.modernwellnessclinic.com/affordable-employee-health-plans-for-small-businesses",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.modernwellnessclinic.com/our-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.modernwellnessclinic.com/post/benefits-of-bio-identical-hormone-replacement-therapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.modernwellnessclinic.com/post/how-does-semaglutide-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.modernwellnessclinic.com/post/semaglutide-vs-tirzepatide-which-is-better-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.modernwellnessclinic.com/post/tirzepatide-las-vegas",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.modernwellnessclinic.com/product/tirzepatide-program",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.modernwellnessclinic.com/services/bio-identical-hormone-replacement-las-vegas",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.modernwellnessclinic.com/services/semaglutide-las-vegas",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

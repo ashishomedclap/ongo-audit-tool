@@ -1,0 +1,276 @@
+{
+  "name": "Jmhsmn",
+  "domain": "jmhsmn.org",
+  "total_urls": 760,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://jmhsmn.org/coffee-conversations/",
+    "https://jmhsmn.org/feeding-frenzy/",
+    "https://jmhsmn.org/feel-the-energy/",
+    "https://jmhsmn.org/have-a-plan/",
+    "https://jmhsmn.org/mdh-begins-short-term-covid-19-vaccination-distribution-plan/",
+    "https://jmhsmn.org/planning-for-the-future/",
+    "https://jmhsmn.org/price-estimate-form/",
+    "https://jmhsmn.org/price-transparency/",
+    "https://jmhsmn.org/renae-durfee-fnp-bc-trains-future-doctorate-of-nursing-practice-dnp/",
+    "https://jmhsmn.org/renae-durfee-fnp-joins-johnson-memorial-health-services/",
+    "https://jmhsmn.org/services/care-center/relocation-plan/",
+    "https://jmhsmn.org/tag/icd-implants/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://jmhsmn.org/3-tips-for-backpack-safety-from-jmhs-pt-department/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/antibiotics-do-i-need-them/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/big-news-upcoming-events-articles-by-staff-march-healthline/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/celebrating-those-that-save-lives-doctors-day/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/coffee-conversations/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/cookie-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/covid-19-faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/feeding-frenzy/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/feel-the-energy/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/have-a-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/help-fund-critical-safety-systems/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/jmhs-care-center-staff-trained-to-use-ceiling-lifts/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/jmhs-foundation-cancel/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/jmhs-hosts-advanced-emergency-training-for-rural-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/jmhs-outreach-physicians-dr-uke-and-dr-tansek-retire/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/jmhs-staff-attend-alice-training/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/johnson-memorial-health-services-identifies-a-staff-member-with-a-positive-case-of-covid-19/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/johnson-memorial-health-services-receives-mnsharp-certification-for-exemplary-safety-standards/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/johnson-memorial-health-services-staff-has-hands-on-training-session-with-north-memorial-air-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/mdh-begins-short-term-covid-19-vaccination-distribution-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/medical-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/medical-staff/amanda-paradis-aprn-cnp/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/medical-staff/carla-lee-fnp-bc/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/medical-staff/dr-ayaz-virji-obesity-medicine-family-medicine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/medical-staff/julie-olson-fnp-pa-c/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/medical-staff/larry-grong-do/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/medical-staff/outreach-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/patientbillinginfo/billing-faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/patientbillinginfo/notice-of-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/planning-for-the-future/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/price-estimate-form/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/price-transparency/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/privacy-policy-2/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/renae-durfee-fnp-bc-trains-future-doctorate-of-nursing-practice-dnp/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/renae-durfee-fnp-joins-johnson-memorial-health-services/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/services/care-center/relocation-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/tag/icd-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/tag/outreach-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/tag/staff-training/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://jmhsmn.org/winter-driving-safety/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

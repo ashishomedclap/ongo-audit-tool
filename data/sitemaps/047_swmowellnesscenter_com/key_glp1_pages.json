@@ -1,0 +1,40 @@
+{
+  "name": "Swmowellnesscenter",
+  "domain": "swmowellnesscenter.com",
+  "total_urls": 58,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.swmowellnesscenter.com/our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.swmowellnesscenter.com/post/physician-reimbursement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.swmowellnesscenter.com/post/pre-authorization-for-trial-medications",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.swmowellnesscenter.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.swmowellnesscenter.com/terms-of-service",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

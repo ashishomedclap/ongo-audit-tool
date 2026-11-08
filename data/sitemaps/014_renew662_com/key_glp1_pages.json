@@ -1,0 +1,95 @@
+{
+  "name": "Renew662",
+  "domain": "renew662.com",
+  "total_urls": 71,
+  "semaglutide_pages": [
+    "https://renew662.com/blog/f/the-real-difference-between-semaglutide-and-tirzepatide"
+  ],
+  "tirzepatide_pages": [
+    "https://renew662.com/blog/f/the-real-difference-between-semaglutide-and-tirzepatide",
+    "https://renew662.com/blog/f/whats-so-great-about-zepbound"
+  ],
+  "pricing_pages": [
+    "https://renew662.com/blog/f/insurance-self-pay-membership-models-whats-the-difference",
+    "https://renew662.com/blog/f/the-hidden-costs-of-insurance-credentialing-why-cash-pay-wins",
+    "https://renew662.com/blog/f/why-many-feel-off-even-with-normal-labs",
+    "https://renew662.com/blog/f/youre-not-crazy-why-you-feel-off-despite-normal-labs",
+    "https://renew662.com/pricing-%26-insurance"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://renew662.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://renew662.com/blog/f/insurance-self-pay-membership-models-whats-the-difference",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://renew662.com/blog/f/the-hidden-costs-of-insurance-credentialing-why-cash-pay-wins",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://renew662.com/blog/f/the-real-difference-between-semaglutide-and-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://renew662.com/blog/f/top-3-reasons-men-avoid-the-doctor---and-why-that-needs-to-change",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://renew662.com/blog/f/what-is-bioidentical-hormone-replacement-therapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://renew662.com/blog/f/whats-so-great-about-zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://renew662.com/blog/f/why-many-feel-off-even-with-normal-labs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://renew662.com/blog/f/youre-not-crazy-why-you-feel-off-despite-normal-labs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://renew662.com/pricing-%26-insurance",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://renew662.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://renew662.com/terms-%26-conditions",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

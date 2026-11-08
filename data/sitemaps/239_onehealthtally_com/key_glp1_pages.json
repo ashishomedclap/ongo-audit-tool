@@ -1,0 +1,25 @@
+{
+  "name": "Onehealthtally",
+  "domain": "onehealthtally.com",
+  "total_urls": 14,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://onehealthtally.com/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://onehealthtally.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://onehealthtally.com/pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    }
+  ]
+}

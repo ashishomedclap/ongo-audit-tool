@@ -1,3 +1,4 @@
+import { Metadata } from 'next';
 import { 
   getCompetitorsSummary, 
   getArchitectureAnalysis, 
@@ -8,6 +9,11 @@ import {
   getOngoLivePages 
 } from '@/lib/data';
 import AuditDashboard from '@/components/AuditDashboard';
+
+export const metadata: Metadata = {
+  title: '618 Competitor Sitemaps & Live Connectivity | Ongo Intelligence Suite',
+  description: 'Explore live XML sitemaps, status codes, and URL hierarchies across 618 US telehealth and weight loss competitors.',
+};
 
 export default function SitemapsRoute() {
   const competitors = getCompetitorsSummary();

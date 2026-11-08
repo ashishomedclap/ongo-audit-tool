@@ -1,0 +1,18 @@
+{
+  "name": "Balancedmedspa",
+  "domain": "balancedmedspa.com",
+  "total_urls": 10,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://balancedmedspa.com/membership/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://balancedmedspa.com/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

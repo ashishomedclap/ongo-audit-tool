@@ -1,0 +1,30 @@
+{
+  "name": "Docswellness",
+  "domain": "docswellness.com",
+  "total_urls": 15,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.docswellness.com/payment-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.docswellness.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.docswellness.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.docswellness.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

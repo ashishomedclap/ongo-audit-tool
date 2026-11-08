@@ -1,0 +1,40 @@
+{
+  "name": "Gaflweightloss",
+  "domain": "gaflweightloss.com",
+  "total_urls": 19,
+  "semaglutide_pages": [
+    "https://gaflweightloss.com/weight-loss/semaglutide-injections/"
+  ],
+  "tirzepatide_pages": [
+    "https://gaflweightloss.com/weight-loss/tirzepatide-injections/"
+  ],
+  "pricing_pages": [
+    "https://gaflweightloss.com/aesthetics/dermaplaning/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://gaflweightloss.com/aesthetics/biotin-injections/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://gaflweightloss.com/aesthetics/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gaflweightloss.com/weight-loss/semaglutide-injections/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://gaflweightloss.com/weight-loss/tirzepatide-injections/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

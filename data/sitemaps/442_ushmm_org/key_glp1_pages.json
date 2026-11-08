@@ -1,0 +1,13 @@
+{
+  "name": "Ushmm",
+  "domain": "ushmm.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://ushmm.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://ushmm.org/pricing"
+  ],
+  "all_categorized": []
+}

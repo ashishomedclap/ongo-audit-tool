@@ -1,0 +1,13 @@
+{
+  "name": "Polskieradio.pl",
+  "domain": "polskieradio.pl",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://polskieradio.pl/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://polskieradio.pl/pricing"
+  ],
+  "all_categorized": []
+}

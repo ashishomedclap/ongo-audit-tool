@@ -1,0 +1,13 @@
+{
+  "name": "Partain MD Metabolic Clinic",
+  "domain": "partainmd.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://partainmd.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://partainmd.com/pricing"
+  ],
+  "all_categorized": []
+}

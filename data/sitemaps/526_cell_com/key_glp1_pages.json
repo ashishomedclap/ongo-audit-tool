@@ -1,0 +1,13 @@
+{
+  "name": "Cell",
+  "domain": "cell.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://cell.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://cell.com/pricing"
+  ],
+  "all_categorized": []
+}

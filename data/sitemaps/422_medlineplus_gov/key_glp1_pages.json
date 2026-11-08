@@ -1,0 +1,930 @@
+{
+  "name": "Medlineplus.gov",
+  "domain": "medlineplus.gov",
+  "total_urls": 25508,
+  "semaglutide_pages": [
+    "https://medlineplus.gov/emphysema.html",
+    "https://medlineplus.gov/spanish/emphysema.html"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://medlineplus.gov/bonemarrowtransplantation.html",
+    "https://medlineplus.gov/breastfeeding.html",
+    "https://medlineplus.gov/cochlearimplants.html",
+    "https://medlineplus.gov/dasheatingplan.html",
+    "https://medlineplus.gov/genetics/condition/corticosteroid-binding-globulin-deficiency",
+    "https://medlineplus.gov/genetics/condition/corticosterone-methyloxidase-deficiency",
+    "https://medlineplus.gov/genetics/condition/costeff-syndrome",
+    "https://medlineplus.gov/genetics/condition/costello-syndrome",
+    "https://medlineplus.gov/genetics/condition/palmoplantar-keratoderma-with-deafness",
+    "https://medlineplus.gov/genetics/condition/spondylocostal-dysostosis",
+    "https://medlineplus.gov/genetics/understanding/testing/costresults",
+    "https://medlineplus.gov/hearttransplantation.html",
+    "https://medlineplus.gov/isletcelltransplantation.html",
+    "https://medlineplus.gov/kidneytransplantation.html",
+    "https://medlineplus.gov/languages/breastfeeding.html"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://medlineplus.gov/about/general/genetics/expertreviewersfaq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/about/general/genetics/supportgroupfaq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/antibioticresistance.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/antibiotics.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/biodefenseandbioterrorism.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/biopsy.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/bonemarrowtransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/breastfeeding.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/childsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/choosingadoctororhealthcareservice.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/cochlearimplants.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/dasheatingplan.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/dislocations.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/drugsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/emphysema.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/audiodescription.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/citation.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/connect.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/copyrightfaq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/criteria.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/difference.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/disease.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/doctors.html",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/easytoread.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/framing.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/linkingfaq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/mobile.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/mobilevideo.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/news.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/plugins.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/rss.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/spelling.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/stats.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/updateschedule.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/faq/what.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/firesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/foodsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/biotin-thiamine-responsive-basal-ganglia-disease",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/biotinidase-deficiency",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/corticosteroid-binding-globulin-deficiency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/corticosterone-methyloxidase-deficiency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/costeff-syndrome",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/costello-syndrome",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/palmoplantar-keratoderma-with-deafness",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/spondylocostal-dysostosis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/condition/tetrahydrobiopterin-deficiency",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/understanding/testing/costresults",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/understanding/testing/insurancecoverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/understanding/therapy/safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/hearttransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/isletcelltransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/kidneytransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/lab-tests/antibiotic-sensitivity-test",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/lab-tests/breast-biopsy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/lab-tests/sentinel-lymph-node-biopsy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/lab-tests/skin-biopsy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/biodefenseandbioterrorism.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/biopsy.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/breastfeeding.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/childsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/choosingadoctororhealthcareservice.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/dislocations.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/drugsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/foodsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/medicaldevicesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/motorvehiclesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/pacemakersandimplantabledefibrillators.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/patientsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/safety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/sportssafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/languages/talkingwithyourdoctor.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/livertransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/lungtransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/medicaldevicesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/medlineplus-connect/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/medlineplus-videos/antibiotics-vs-bacteria-fighting-the-resistance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/motorvehiclesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/occupationalhealthforhealthcareproviders.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/organtransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/pacemakersandimplantabledefibrillators.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/pancreastransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/patientsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/safety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/safetyissues.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/antibioticresistance.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/antibiotics.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/biodefenseandbioterrorism.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/biopsy.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/bonemarrowtransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/breastfeeding.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/childsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/choosingadoctororhealthcareservice.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/cochlearimplants.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/dasheatingplan.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/dislocations.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/drugsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/emphysema.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/audiodescription.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/citation.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/copyrightfaq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/criteria.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/difference.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/disease.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/easytoread.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/framing.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/linkingfaq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/mobile.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/mobilevideo.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/news.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/nospanishtopic.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/plugins.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/rss.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/stats.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/updateschedule.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/faq/what.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/firesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/foodsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/genetica/entender/pruebas/costoresultados",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/cambiosestructurales",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/hearttransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/isletcelltransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/kidneytransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/livertransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/lungtransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/medicaldevicesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/motorvehiclesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/occupationalhealthforhealthcareproviders.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/organtransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/pacemakersandimplantabledefibrillators.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/pancreastransplantation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/patientsafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/biopsia-de-ganglio-centinela",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/biopsia-de-piel",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/biopsia-de-seno",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sensibilidad-a-los-antibioticos",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/safety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/safetyissues.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/sportssafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/talkingwithyourdoctor.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/transplantationanddonation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/vaccinesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/videos-de-medlineplus/antibioticos-versus-bacterias-combatiendo-la-resistencia",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/spanish/watersafetyrecreational.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/sportssafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/talkingwithyourdoctor.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/transplantationanddonation.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/vaccinesafety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medlineplus.gov/watersafetyrecreational.html",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

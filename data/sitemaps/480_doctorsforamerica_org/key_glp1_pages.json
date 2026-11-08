@@ -1,0 +1,13 @@
+{
+  "name": "Doctorsforamerica",
+  "domain": "doctorsforamerica.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://doctorsforamerica.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://doctorsforamerica.org/pricing"
+  ],
+  "all_categorized": []
+}

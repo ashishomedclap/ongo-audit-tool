@@ -1,0 +1,78 @@
+{
+  "name": "Bayareaaesthetics",
+  "domain": "bayareaaesthetics.net",
+  "total_urls": 209,
+  "semaglutide_pages": [
+    "https://www.bayareaaesthetics.net/wellness/tirzepatide-semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.bayareaaesthetics.net/wellness/tirzepatide-semaglutide"
+  ],
+  "pricing_pages": [
+    "https://www.bayareaaesthetics.net/dermaplaning",
+    "https://www.bayareaaesthetics.net/payment-plans"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.bayareaaesthetics.net/dermaplaning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/payment-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/post/beep-beep-the-evolus-bus-tour-is-coming-back-to-texas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/post/giddy-up-the-evolus-bus-tour-is-coming-back-to-texas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/product-page/obagi-nu-cil-biostim-hair-scalp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/shipping-returns",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/store-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.bayareaaesthetics.net/wellness/tirzepatide-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

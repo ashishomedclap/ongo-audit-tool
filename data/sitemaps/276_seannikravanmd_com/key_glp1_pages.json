@@ -1,0 +1,52 @@
+{
+  "name": "Seannikravanmd",
+  "domain": "seannikravanmd.com",
+  "total_urls": 102,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.seannikravanmd.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.seannikravanmd.com/our-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.seannikravanmd.com/post/how-fast-are-you-really-aging-the-difference-between-biological-age-and-chronological-age",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.seannikravanmd.com/post/im-nervous-about-my-thyroid-nodule-biopsy-what-can-i-expect",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.seannikravanmd.com/post/what-to-expect-from-a-thyroid-nodule-biopsy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.seannikravanmd.com/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.seannikravanmd.com/service/thyroid-nodule-biopsy",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

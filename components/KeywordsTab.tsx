@@ -295,47 +295,6 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       
-      {/* Page Guide Header */}
-      <ContextCue
-        level={2}
-        toolNumber={8}
-        useCase="Explore 54,841 prioritized keywords with difficulty, volume, and patient intent ratings."
-        badge="Keyword Explorer"
-        title="54,000+ Keyword Intelligence & Opportunity Radar"
-        about="This page is a live Keyword Explorer powered by real organic keyword datasets extracted from 11 top telehealth weight loss competitors (GoodRx, Ro, WeightWatchers, Hims, Noom, PlushCare, Join Mochi, LifeMD, Lemonaid Health, Join Fridays, and Brello Health). It indexes 54,841 keywords with verified monthly search volume, keyword difficulty (KD), Google rankings, search intent, and weighted opportunity scores to pinpoint high-ROI patient acquisition targets for Ongo Weight Loss."
-        whatYouCanDo={[
-          {
-            action: "Filter by 11 Telehealth Competitors",
-            description: "Segment keywords by GoodRx (16.7k), Ro (9.5k), WeightWatchers (8.5k), Noom (5.6k), PlushCare (4.8k), Hims (4.5k), Mochi, and more."
-          },
-          {
-            action: "Target by Search Intent",
-            description: "Filter by Commercial (ready to buy), Transactional (telehealth checkout), Informational (symptom & dosing), or Navigational."
-          },
-          {
-            action: "Find Low-Competition Keywords (KD ≤ 25/40)",
-            description: "Filter by Maximum KD to discover low-hanging fruit where Ongo can quickly outrank competitors on Google."
-          },
-          {
-            action: "Filter by Minimum Monthly Search Volume",
-            description: "Isolate high-impact search queries with 500+, 1,000+, 10,000+, or 50,000+ monthly searches."
-          },
-          {
-            action: "1-Click Strategy Presets",
-            description: "Click shortcut pills (GLP-1 Quick Wins, Semaglutide, Tirzepatide, Commercial Intent, Dosing & Side Effects) for instant filtering."
-          },
-          {
-            action: "Export to CSV & Copy Keywords",
-            description: "Click 'Export Filtered CSV' to download complete research data, or copy individual keywords and ranking landing page URLs."
-          },
-          {
-            action: "Switch to URL Crawler Mode",
-            description: "Toggle to 'Competitor URL Crawler' to inspect the raw 35,420 XML sitemap URL slugs across all 100 clinics."
-          }
-        ]}
-        tip="Sort by 'Opportunity Score' (descending) with KD ≤ 35 to surface the absolute best commercial keywords Ongo should target first."
-      />
-
       {/* Sleek Minimalist Tool Header */}
       <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
@@ -747,8 +706,7 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
                 <label style={{ display: 'block', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '5px' }}>
                   Competitor Brand ({competitorOptions.length})
                 </label>
-                <select
-                  value={selectedCompetitor}
+                <select aria-label="Filter keywords by competitor dataset" value={selectedCompetitor}
                   onChange={(e) => {
                     setSelectedCompetitor(e.target.value);
                     setPage(1);
@@ -772,8 +730,7 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
                 <label style={{ display: 'block', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '5px' }}>
                   Search Intent
                 </label>
-                <select
-                  value={selectedIntent}
+                <select aria-label="Filter keywords by search intent" value={selectedIntent}
                   onChange={(e) => {
                     setSelectedIntent(e.target.value);
                     setPage(1);
@@ -795,6 +752,7 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
                   Max Difficulty (KD)
                 </label>
                 <select
+                  aria-label="Filter keywords by maximum difficulty"
                   value={maxKd === null ? '' : maxKd}
                   onChange={(e) => {
                     const val = e.target.value ? parseInt(e.target.value, 10) : null;
@@ -818,6 +776,7 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
                   Min Search Volume
                 </label>
                 <select
+                  aria-label="Filter keywords by minimum search volume"
                   value={minVolume === null ? '' : minVolume}
                   onChange={(e) => {
                     const val = e.target.value ? parseInt(e.target.value, 10) : null;
@@ -1256,7 +1215,7 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
       )}
 
       {/* ========================================================================= */}
-      {/* MODE 2: COMPETITOR URL PATH CRAWLER (35,420 SITEMAP URLS)                 */}
+      {/* MODE 2: COMPETITOR URL PATH CRAWLER (512,334 SITEMAP URLS)                */}
       {/* ========================================================================= */}
       {activeMode === 'sitemap' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
@@ -1266,13 +1225,13 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
             <div style={{ marginBottom: '16px' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
                 <span className="badge-minimal badge-minimal-neutral">Raw XML Sitemap Index</span>
-                <span className="badge-minimal badge-minimal-coral">35,420 URLs Indexed</span>
+                <span className="badge-minimal badge-minimal-coral">512,334 URLs Indexed</span>
               </div>
               <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
                 Competitor URL Path & Slug Scanner
               </h2>
               <p style={{ fontSize: '0.825rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
-                Scan 35,000+ crawled sitemap paths across 100 competitors to inspect clinical URL structures and slug taxonomies
+                Scan 512,000+ crawled sitemap paths across 618 competitors to inspect clinical URL structures and slug taxonomies
               </p>
             </div>
 
@@ -1296,7 +1255,7 @@ export default function KeywordsTab({ competitors, onInspectCompetitor }: Keywor
                 />
               </div>
               <button type="submit" className="btn-minimal-primary" disabled={sitemapLoading} style={{ minWidth: '140px' }}>
-                {sitemapLoading ? 'Scanning...' : 'Scan 35k URLs'}
+                {sitemapLoading ? 'Scanning...' : 'Scan 512k URLs'}
               </button>
             </form>
 

@@ -1,0 +1,28 @@
+{
+  "name": "Endocrinologyga",
+  "domain": "endocrinologyga.com",
+  "total_urls": 19,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://endocrinologyga.com/about-the-physician/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://endocrinologyga.com/medical-weight-loss-in-atlanta/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://endocrinologyga.com/medical-weight-loss-in-georgia/",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

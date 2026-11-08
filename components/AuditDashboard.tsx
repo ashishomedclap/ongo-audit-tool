@@ -32,6 +32,7 @@ import GeoReadinessTab from './GeoReadinessTab';
 import ClinicalTrialsTab from './ClinicalTrialsTab';
 import ReadabilityAuditTab from './ReadabilityAuditTab';
 import ContentExtractorTab from './ContentExtractorTab';
+import SeoVaultTab from './SeoVaultTab';
 import CompetitorModal from './CompetitorModal';
 import { CompetitorSummary, MasterUrlItem, OngoMetaItem, CompetitorComplianceItem, OngoLivePagesData } from '@/lib/data';
 import { BooksIndexData } from '@/lib/books-data';
@@ -67,7 +68,8 @@ export const TAB_TO_URL: Record<TabType, string> = {
   'geo-readiness': '/geo-readiness',
   'clinical-trials': '/clinical-trials',
   'readability-audit': '/readability-audit',
-  'content-extractor': '/content-extractor'
+  'content-extractor': '/content-extractor',
+  'seo-vault': '/seo-vault'
 };
 
 export const URL_TO_TAB: Record<string, TabType> = {
@@ -100,7 +102,8 @@ export const URL_TO_TAB: Record<string, TabType> = {
   '/geo-readiness': 'geo-readiness',
   '/clinical-trials': 'clinical-trials',
   '/readability-audit': 'readability-audit',
-  '/content-extractor': 'content-extractor'
+  '/content-extractor': 'content-extractor',
+  '/seo-vault': 'seo-vault'
 };
 
 interface AuditDashboardProps {
@@ -254,10 +257,10 @@ export default function AuditDashboard({
       {/* Main Content Area */}
       <main ref={mainRef} id="tool-content-mount" style={{
         flex: 1,
-        maxWidth: '1440px',
+        maxWidth: '1560px',
         width: '100%',
         margin: '0 auto',
-        padding: '32px 24px'
+        padding: '20px 20px 60px 20px'
       }}>
         {activeTab === 'books' && (
           <BooksLibraryTab 
@@ -413,6 +416,10 @@ export default function AuditDashboard({
         {activeTab === 'content-extractor' && (
           <ContentExtractorTab />
         )}
+
+        {activeTab === 'seo-vault' && (
+          <SeoVaultTab />
+        )}
       </main>
 
       {/* Competitor Detail Inspector Modal */}
@@ -421,181 +428,79 @@ export default function AuditDashboard({
         onClose={() => setInspectFolder(null)}
       />
 
-      {/* Ongo Weight Loss Executive Glassneumorphic Footer */}
-      <footer className="glass-card" style={{
-        margin: '48px 24px 24px 24px',
-        padding: '32px 36px',
-        borderRadius: '24px',
-        border: '1px solid var(--border-subtle)',
-        backgroundColor: 'var(--bg-surface)'
+      {/* Ultra-Clean Modern SaaS Tool Footer */}
+      <footer style={{
+        marginTop: 'auto',
+        borderTop: '1px solid var(--border-subtle)',
+        backgroundColor: 'var(--bg-surface)',
+        padding: '12px 24px',
+        fontSize: '0.76rem',
+        color: 'var(--text-tertiary)',
+        transition: 'all 0.15s ease'
       }}>
         <div style={{
-          maxWidth: '1440px',
+          maxWidth: '1600px',
           margin: '0 auto',
           display: 'flex',
-          flexDirection: 'column',
-          gap: '24px'
+          flexWrap: 'wrap',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          gap: '12px'
         }}>
-          {/* Top Row: Brand & Telemetry Badges */}
-          <div style={{
-            display: 'flex',
-            flexWrap: 'wrap',
-            justifyContent: 'space-between',
-            alignItems: 'center',
-            gap: '16px',
-            borderBottom: '1px solid var(--border-subtle)',
-            paddingBottom: '20px'
-          }}>
-            <div>
-              <div style={{ fontWeight: 800, fontSize: '1rem', color: 'var(--color-primary-dark)', marginBottom: '4px', letterSpacing: '-0.01em' }}>
-                Ongo Intelligence & Medical Architecture Suite &bull; Doctor-Led Telehealth Care
-              </div>
-              <div style={{ fontSize: '0.82rem', color: 'var(--text-tertiary)', maxWidth: '720px', lineHeight: 1.5 }}>
-                Doctor-supervised virtual GLP-1 compounding weight loss program. HIPAA-compliant telehealth care across all 50 U.S. states with cold-chain medication delivery from PCAB/503A accredited compounding pharmacies.
-              </div>
-            </div>
-
-            {/* Live System Badges */}
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-              <span className="glass-pill" style={{
-                display: 'inline-flex',
-                alignItems: 'center',
-                gap: '6px',
-                padding: '4px 10px',
-                fontSize: '11px',
-                fontWeight: 700,
-                color: '#166534',
-                background: 'rgba(34, 197, 94, 0.12)',
-                border: '1px solid rgba(34, 197, 94, 0.25)',
-                borderRadius: '9999px'
-              }}>
-                <span style={{ width: '7px', height: '7px', borderRadius: '50%', backgroundColor: '#22c55e', display: 'inline-block' }} />
-                29 Intelligence Tools
-              </span>
-              <span className="glass-pill" style={{
-                padding: '4px 10px',
-                fontSize: '11px',
-                fontWeight: 700,
-                color: 'var(--text-secondary)',
-                background: 'var(--bg-input)',
-                border: '1px solid var(--border-subtle)',
-                borderRadius: '9999px'
-              }}>
-                56 Live Ongo Pages
-              </span>
-              <span className="glass-pill" style={{
-                padding: '4px 10px',
-                fontSize: '11px',
-                fontWeight: 700,
-                color: 'var(--text-secondary)',
-                background: 'var(--bg-input)',
-                border: '1px solid var(--border-subtle)',
-                borderRadius: '9999px'
-              }}>
-                100 Competitors Indexed
-              </span>
-            </div>
+          {/* Left: Product & Status */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+            <span style={{ fontWeight: 700, color: 'var(--text-primary)' }}>Ongo Intelligence Suite</span>
+            <span>&bull;</span>
+            <span style={{ display: 'inline-flex', alignItems: 'center', gap: '5px' }}>
+              <span style={{ width: '6px', height: '6px', borderRadius: '50%', backgroundColor: '#10b981', display: 'inline-block' }} />
+              {initialCompetitors.length} Telehealth Competitors
+            </span>
+            <span>&bull;</span>
+            <span>{totalUrls.toLocaleString()} Crawled URLs</span>
           </div>
 
-          {/* Bottom Row: Fast Links & Scroll Top */}
-          <div style={{
-            display: 'flex',
-            flexWrap: 'wrap',
-            justifyContent: 'space-between',
-            alignItems: 'center',
-            gap: '16px',
-            fontSize: '0.8rem'
-          }}>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', alignItems: 'center' }}>
-              <button
-                onClick={() => handleSelectTab('suite-sitemap')}
-                style={{
-                  background: 'none',
-                  border: 'none',
-                  color: 'var(--color-primary-dark)',
-                  fontWeight: 700,
-                  cursor: 'pointer',
-                  padding: 0,
-                  fontSize: '0.8rem'
-                }}
-              >
-                Tools Sitemap Directory (21) ↗
-              </button>
-              <button
-                onClick={() => handleSelectTab('industry-radar')}
-                style={{
-                  background: 'none',
-                  border: 'none',
-                  color: 'var(--color-primary-dark)',
-                  fontWeight: 700,
-                  cursor: 'pointer',
-                  padding: 0,
-                  fontSize: '0.8rem'
-                }}
-              >
-                Industry Radar ↗
-              </button>
-              <a 
-                href="https://ongoweightloss.com/" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                style={{ color: 'var(--color-primary-dark)', fontWeight: 600, textDecoration: 'none' }}
-              >
-                Live Homepage ↗
-              </a>
-              <a 
-                href="https://ongoweightloss.com/how-it-works/" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
-              >
-                How It Works
-              </a>
-              <a 
-                href="https://ongoweightloss.com/pricing/" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
-              >
-                Pricing
-              </a>
-              <a 
-                href="https://ongoweightloss.com/medical-team/" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}
-              >
-                Medical Team
-              </a>
-              <a 
-                href="https://ongoweightloss.com/weightloss-onboard/" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                style={{ color: 'var(--color-accent)', fontWeight: 700, textDecoration: 'none' }}
-              >
-                See If I'm Eligible ↗
-              </a>
-            </div>
+          {/* Center: Ongo Medical Telehealth Benchmark */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px', fontSize: '0.74rem' }}>
+            <span>50-State Telehealth</span>
+            <span>&bull;</span>
+            <span>5 Board-Certified US MDs</span>
+            <span>&bull;</span>
+            <span>Flat $179 Semaglutide · $249 Tirzepatide</span>
+          </div>
 
+          {/* Right: Quick Actions */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '14px' }}>
+            <button
+              onClick={() => handleSelectTab('suite-sitemap')}
+              style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.75rem', fontWeight: 600, padding: 0 }}
+            >
+              All Tools (21)
+            </button>
+            <a 
+              href="https://ongoweightloss.com/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ color: 'var(--text-secondary)', textDecoration: 'none', fontWeight: 600 }}
+            >
+              Live Site ↗
+            </a>
             <button
               onClick={() => scrollToTopInstant()}
               style={{
-                background: 'var(--bg-input)',
-                border: '1px solid var(--border-subtle)',
-                color: 'var(--text-primary)',
-                padding: '6px 14px',
-                borderRadius: '8px',
-                fontSize: '11px',
-                fontWeight: 700,
-                cursor: 'pointer',
-                display: 'flex',
+                display: 'inline-flex',
                 alignItems: 'center',
-                gap: '6px'
+                gap: '3px',
+                background: 'var(--bg-surface-alt)',
+                border: '1px solid var(--border-subtle)',
+                color: 'var(--text-secondary)',
+                cursor: 'pointer',
+                padding: '3px 9px',
+                borderRadius: '6px',
+                fontSize: '0.72rem',
+                fontWeight: 600
               }}
-              title="Return to top of page"
             >
-              <span>↑</span>
-              <span>Back to Top</span>
+              Top ↑
             </button>
           </div>
         </div>

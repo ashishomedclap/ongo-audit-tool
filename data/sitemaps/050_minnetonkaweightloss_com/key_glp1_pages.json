@@ -1,0 +1,89 @@
+{
+  "name": "Minnetonkaweightloss",
+  "domain": "minnetonkaweightloss.com",
+  "total_urls": 123,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.minnetonkaweightloss.com/about/payment-plans/",
+    "https://www.minnetonkaweightloss.com/lose-inches-fast-chirothin-and-minnesotas-smartest-fat-loss-plan/",
+    "https://www.minnetonkaweightloss.com/shape-slim-and-shine-red-light-therapy-and-weight-loss-packages-in-mn/",
+    "https://www.minnetonkaweightloss.com/why-personalized-weight-loss-plans-work-better-than-fad-diets/",
+    "https://www.minnetonkaweightloss.com/why-personalized-weight-loss-plans-work-better-than-generic-diets/",
+    "https://www.minnetonkaweightloss.com/why-you-feel-tired-bloated-and-cant-lose-weight/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.minnetonkaweightloss.com/about/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/author/digital-guider/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/author/mwladmin/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/lose-inches-fast-chirothin-and-minnesotas-smartest-fat-loss-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/privacypolicy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/red-light-infrared-sauna-therapy-a-powerful-combo-for-weight-loss-in-minnetonka/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/shape-slim-and-shine-red-light-therapy-and-weight-loss-packages-in-mn/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/termsofservice/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/the-rise-of-red-light-weight-loss-in-mn-is-it-right-for-you/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/why-personalized-weight-loss-plans-work-better-than-fad-diets/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/why-personalized-weight-loss-plans-work-better-than-generic-diets/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.minnetonkaweightloss.com/why-you-feel-tired-bloated-and-cant-lose-weight/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

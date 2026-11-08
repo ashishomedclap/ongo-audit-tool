@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://www.uwhealth.org/sitemap-general.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-condition.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-event.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-module-form.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-modal.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-location.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-news.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-patient-story.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-search.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-service.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-provider.xml</loc></sitemap
+  ><sitemap><loc>https://www.uwhealth.org/sitemap-treatment.xml</loc></sitemap>
+</sitemapindex>

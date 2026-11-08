@@ -1,0 +1,915 @@
+{
+  "name": "Novomedlink",
+  "domain": "novomedlink.com",
+  "total_urls": 499,
+  "semaglutide_pages": [
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/brand/mash/wegovy/dosing-administration/wegovy-mash-hcp-dosing-guide.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/diabetes/products/resources/library/documents/ozempic-dispensing-guide.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/diabetes/products/resources/library/documents/ozempic-dosing-brochure.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/documents/wegovy-frequently-used-icd10-codes.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/documents/wegovy-letter-to-employer-for-prior-authorizations.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-exceptions-denials-appeals-guide.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-letter-of-medical-necessity.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-prior-authorization-guide.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-prior-authorization-quick-reference-guide.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-sample-letter-of-appeal.pdf",
+    "https://www.novomedlink.com/diabetes/products/treatments/ozempic.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/ozempic/about/frequently-asked-questions.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/ozempic/about/how-ozempic-works.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/ozempic/ckd-outcomes.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/ozempic/cv-outcomes/pen.html"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/diabetes/patient/disease/library/documents/meal-planning-and-carb-counting-spanish.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/patient-support/disease/documents/My-Weight-Management-Plan.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/patient-support/disease/documents/planning-healthy-meals.pdf",
+    "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/patient-support/disease/documents/sticking-with-your-weight-management-plan.pdf",
+    "https://www.novomedlink.com/diabetes/products/treatments/fiasp/cost-and-coverage.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/novolog/cost-and-coverage.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/novologmix70-30/cost-coverage.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/ozempic/resources/cost-and-coverage/pen.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/ozempic/resources/cost-and-coverage/pill.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/rybelsus/cost-coverage.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/tresiba/cost-and-coverage.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/victoza/cost-coverage.html",
+    "https://www.novomedlink.com/diabetes/products/treatments/xultophy10036/cost-coverage.html",
+    "https://www.novomedlink.com/growth-related-disorders/products/treatments/norditropin/cost-coverage/patient-savings.html",
+    "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/cost-savings/formulary-coverage.html"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/bleeding-disorders/patient-support/product/library/novosevenrt/documents/novosevenrt-gt-doctor-discussion-guide.pdf",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/brand/mash/wegovy/dosing-administration/wegovy-mash-hcp-dosing-guide.pdf",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/diabetes/patient/disease/library/documents/meal-planning-and-carb-counting-spanish.pdf",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/diabetes/patient/disease/library/documents/talking-with-your-doctor-questions-for-every-stage-US25PAT00028.pdf",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/diabetes/products/resources/library/documents/ozempic-dispensing-guide.pdf",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/diabetes/products/resources/library/documents/ozempic-dosing-brochure.pdf",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/diabetes/products/resources/library/documents/rybelsus-pharmacy-reference-sheet.pdf",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/growth/patient/product/library/sogroya/documents/sogroya-doctor-discussion-guide.pdf",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/patient-support/disease/documents/My-Weight-Management-Plan.pdf",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/patient-support/disease/documents/hcp-to-employer-coverage-letter.pdf",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/patient-support/disease/documents/planning-healthy-meals.pdf",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/patient-support/disease/documents/sticking-with-your-weight-management-plan.pdf",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/documents/wegovy-frequently-used-icd10-codes.pdf",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/documents/wegovy-letter-to-employer-for-prior-authorizations.pdf",
+      "categories": [
+        "Semaglutide",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-exceptions-denials-appeals-guide.pdf",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-letter-of-medical-necessity.pdf",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-prior-authorization-guide.pdf",
+      "categories": [
+        "Semaglutide",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-prior-authorization-quick-reference-guide.pdf",
+      "categories": [
+        "Semaglutide",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/content/dam/novonordisk/novomedlink/new/obesity/product-information/resources/library/wegovy/resource-documents/wegovy-sample-letter-of-appeal.pdf",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/patient-support/savings-coverage/affordability-resources.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/patient-support/savings-coverage/icd-10-codes-for-diabetes.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/patient-support/savings-coverage/insurance-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/patient-support/savings-coverage/savings-cards.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/fiasp/cost-and-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/fiasp/efficacy-and-safety/adult-efficacy-and-safety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/fiasp/efficacy-and-safety/pediatric-efficacy-and-safety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/novolog/cost-and-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/novologmix70-30/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/about/frequently-asked-questions.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/about/how-ozempic-works.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/ckd-outcomes.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/cv-outcomes/pen.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/cv-outcomes/pill.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/dosing-administration/administration/pen.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/dosing-administration/administration/pill.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/dosing-administration/dosing/pen.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/dosing-administration/dosing/pill.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/dosing-administration/prescribing/pen.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/dosing-administration/prescribing/pill.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/efficacy-safety/ozempic-pen-a1c-and-weight.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/efficacy-safety/ozempic-pill-a1c-and-weight.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/efficacy-safety/safety-profile.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/efficacy-safety/special-populations.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/resources/cost-and-coverage/pen.html",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/resources/cost-and-coverage/pill.html",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/resources/for-pharmacists/pen.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/resources/for-pharmacists/pill.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/resources/hcp-resources.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/ozempic/resources/patient-resources.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/rybelsus/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/rybelsus/efficacy-safety/A1C-and-weight-data.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/rybelsus/efficacy-safety/cardiovascular-outcomes-trial.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/rybelsus/efficacy-safety/safety-data.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/rybelsus/efficacy-safety/vs-januvia.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/rybelsus/efficacy-safety/vs-jardiance.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/tresiba/cost-and-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/tresiba/efficacy-safety/type-1.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/tresiba/efficacy-safety/type-2.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/tresiba/safety-trials-and-hypoglycemia/DEVOTE-MACE-severe-hypoglycemia.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/tresiba/safety-trials-and-hypoglycemia/hypoglycemia-facts.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/tresiba/safety-trials-and-hypoglycemia/switch-2-study.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/victoza/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/diabetes/products/treatments/xultophy10036/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/norditropin/cost-coverage/patient-savings.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/norditropin/efficacy-safety/answer-program.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/norditropin/efficacy-safety/growth-hormone-deficiency.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/norditropin/efficacy-safety/other-growth-related-disorders.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/norditropin/efficacy-safety/overview.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/cost-savings/formulary-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/cost-savings/patient-support.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/efficacy-safety/adult-ghd.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/efficacy-safety/igf-1-response.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/efficacy-safety/other-ped-efficacy-safety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/efficacy-safety/other-ped-igf-1-response.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/efficacy-safety/pediatric-ghd.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/growth-related-disorders/products/treatments/sogroya/resources/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/mash/patient-support/savings-coverage/icd-10-codes.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/mash/products/treatments/wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/mash/products/treatments/wegovy/cost-coverage.html",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/mash/products/treatments/wegovy/dosing-administration.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/mash/products/treatments/wegovy/efficacy-safety.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/mash/products/treatments/wegovy/mash-overview.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/multiple-indications/wegovy-gateway.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/patient-support/savings-coverage/icd-10-codes-for-obesity.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/patient-support/savings-coverage/savings-card.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/cost-coverage/3-steps-to-access.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/efficacy-safety/additional-weight-loss.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/efficacy-safety/common-adverse-events.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/efficacy-safety/gastrointestinal-side-effects.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/efficacy-safety/liraglutide.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/efficacy-safety/maintaining-significant-weight-loss.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/efficacy-safety/secondary-efficacy-end-points.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/efficacy-safety/significant-weight-loss.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/saxenda/resources/faqs.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/about-wegovy/how-wegovy-works.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/about-wegovy/legacy-of-wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/cost-coverage/initiating-wegovy-pa.html",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/cost-coverage/patient-savings.html",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/cost-coverage/understanding-wegovy-access.html",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/dosing-administration/dosing.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/dosing-administration/prescribing.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/dosing-administration/the-wegovy-pen-pill.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/efficacy-safety/adolescent-indication.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/efficacy-safety/chronic-weight-management.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/efficacy-safety/reduce-mace-risk.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/efficacy-safety/safety-profile.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/resources/compounded-semaglutide-information.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/resources/for-employers-payers.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/resources/for-hcps.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/resources/for-pharmacists.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/resources/frequently-asked-questions.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/resources/the-health-impact-of-obesity-and-overweight.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/obesity/products/treatments/wegovy/resources/wegotogether.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/alhemo/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/alhemo/efficacy-safety/btbs.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/alhemo/efficacy-safety/prophylaxis.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/alhemo/efficacy-safety/safety-profile.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/alhemo/efficacy-safety/surgeries.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/esperoct/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/esperoct/efficacy-safety/on-demand.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/esperoct/efficacy-safety/prophylaxis.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/esperoct/efficacy-safety/safety-profile.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/novoeight/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/novoeight/efficacy-safety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/novosevenrt/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/novosevenrt/efficacy-safety/acquired-hemophilia.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/novosevenrt/efficacy-safety/breakthrough-bleeds.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/novosevenrt/efficacy-safety/congenital-fvii-deficiency.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/novosevenrt/efficacy-safety/congenital-hemophilia-with-inhibitors.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/novosevenrt/efficacy-safety/glanzmanns-thrombasthenia.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/rebinyn/cost-coverage.html",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/rebinyn/efficacy-safety/on-demand.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/rebinyn/efficacy-safety/perioperative.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/rebinyn/efficacy-safety/prophylaxis.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/rebinyn/efficacy-safety/safety-profile.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-bleeding-disorders/products/treatments/tretten/efficacy-safety.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novomedlink.com/rare-renal-disorders/products/treatments/rivfloza/efficacy-safety.html",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

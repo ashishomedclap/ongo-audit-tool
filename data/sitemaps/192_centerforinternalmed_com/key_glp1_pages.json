@@ -1,0 +1,28 @@
+{
+  "name": "Centerforinternalmed",
+  "domain": "centerforinternalmed.com",
+  "total_urls": 50,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.centerforinternalmed.com/blog/bio-identical-hormone-replacement-therapy-bhrt-pellets",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.centerforinternalmed.com/blog/doctors-clinic-30-program-for-sustained-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.centerforinternalmed.com/blog/probiotic-qa",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

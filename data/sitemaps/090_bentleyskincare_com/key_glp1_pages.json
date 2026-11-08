@@ -1,0 +1,113 @@
+{
+  "name": "Bentleyskincare",
+  "domain": "bentleyskincare.com",
+  "total_urls": 162,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.bentleyskincare.com/blog/combine-dermaplaning-and-a-facial-peel-for-even-more-amazing-results/",
+    "https://www.bentleyskincare.com/blog/gently-exfoliate-dermaplaning/",
+    "https://www.bentleyskincare.com/blog/look-feel-best-chemical-peels/",
+    "https://www.bentleyskincare.com/blog/tag/dermaplaning/",
+    "https://www.bentleyskincare.com/hair-transplant-kansas-city-mo/",
+    "https://www.bentleyskincare.com/hair-transplant-st-louis-mo/",
+    "https://www.bentleyskincare.com/hair-transplants-in-bentonville-ar/",
+    "https://www.bentleyskincare.com/payment-plans/",
+    "https://www.bentleyskincare.com/surgical-services/facial-implants/",
+    "https://www.bentleyskincare.com/wellness-services/hair-transplant/",
+    "https://www.bentleyskincare.com/wellness-services/hair-transplant/beard-hair-transplant/",
+    "https://www.bentleyskincare.com/wellness-services/hair-transplant/eyebrow-hair-transplant/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.bentleyskincare.com/blog/combine-dermaplaning-and-a-facial-peel-for-even-more-amazing-results/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/blog/gently-exfoliate-dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/blog/look-feel-best-chemical-peels/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/blog/tag/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/faq/cancellation-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/hair-transplant-kansas-city-mo/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/hair-transplant-st-louis-mo/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/hair-transplants-in-bentonville-ar/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/surgical-services/facial-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/wellness-services/hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/wellness-services/hair-transplant/beard-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bentleyskincare.com/wellness-services/hair-transplant/eyebrow-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

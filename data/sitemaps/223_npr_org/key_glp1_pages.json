@@ -1,0 +1,13 @@
+{
+  "name": "Npr",
+  "domain": "npr.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://npr.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://npr.org/pricing"
+  ],
+  "all_categorized": []
+}

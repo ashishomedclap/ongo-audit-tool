@@ -1,0 +1,88 @@
+{
+  "name": "Zaremedicalsf",
+  "domain": "zaremedicalsf.com",
+  "total_urls": 51,
+  "semaglutide_pages": [
+    "https://zaremedicalsf.com/treatments/semaglutide-in-san-francisco/"
+  ],
+  "tirzepatide_pages": [
+    "https://zaremedicalsf.com/treatments/tirzepatide-in-san-francisco/"
+  ],
+  "pricing_pages": [
+    "https://zaremedicalsf.com/memberships/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://zaremedicalsf.com/contact-our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/memberships/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/naturopathic-doctor-in-san-francisco/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/treatments/fertility-doctor-in-san-francisco/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/treatments/hcg-weight-loss-in-san-francisco/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/treatments/hormone-weight-loss-in-san-francisco/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/treatments/medical-weight-loss-in-san-francisco/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/treatments/semaglutide-in-san-francisco/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/treatments/thyroid-doctor-in-san-francisco/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://zaremedicalsf.com/treatments/tirzepatide-in-san-francisco/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

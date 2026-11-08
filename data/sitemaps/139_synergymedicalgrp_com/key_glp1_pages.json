@@ -1,0 +1,46 @@
+{
+  "name": "Synergymedicalgrp",
+  "domain": "synergymedicalgrp.com",
+  "total_urls": 46,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://synergymedicalgrp.com/blog/a-doctor-led-approach-to-weight-management-in-gainesville/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://synergymedicalgrp.com/blog/primary-care-doctor-gainesville/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://synergymedicalgrp.com/blog/walk-in-clinic-gainesville-or-your-own-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://synergymedicalgrp.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://synergymedicalgrp.com/services/primary-care-physician/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://synergymedicalgrp.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

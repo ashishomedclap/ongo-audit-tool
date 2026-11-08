@@ -1,0 +1,13 @@
+{
+  "name": "Menshealth",
+  "domain": "menshealth.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://menshealth.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://menshealth.com/pricing"
+  ],
+  "all_categorized": []
+}

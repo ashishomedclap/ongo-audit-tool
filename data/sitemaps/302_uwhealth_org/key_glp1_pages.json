@@ -1,0 +1,634 @@
+{
+  "name": "Uwhealth",
+  "domain": "uwhealth.org",
+  "total_urls": 402,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.uwhealth.org/about-us/advance-care-planning",
+    "https://www.uwhealth.org/about-us/alan-kaplan",
+    "https://www.uwhealth.org/ad/ap-kidney-transplant",
+    "https://www.uwhealth.org/ad/ap-pancreas-transplant",
+    "https://www.uwhealth.org/ad/ap-pediatric-liver-transplant",
+    "https://www.uwhealth.org/ad/ap-renal-autotransplant",
+    "https://www.uwhealth.org/ad/pediatric-kidney-transplant",
+    "https://www.uwhealth.org/ad/transplant-care-veterans",
+    "https://www.uwhealth.org/billing-insurance/cms-price-transparency",
+    "https://www.uwhealth.org/es/about-us/advance-care-planning",
+    "https://www.uwhealth.org/es/about-us/alan-kaplan",
+    "https://www.uwhealth.org/es/ad/ap-kidney-transplant",
+    "https://www.uwhealth.org/es/ad/ap-pancreas-transplant",
+    "https://www.uwhealth.org/es/ad/ap-pediatric-liver-transplant",
+    "https://www.uwhealth.org/es/ad/ap-renal-autotransplant"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.uwhealth.org/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/about-cybersecurity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/accessibility",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/advance-care-planning",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/alan-kaplan",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/business-integrity-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/clinician-titles",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/health-healing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/investing-innovation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/medical-staff-administration",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/partners-in-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/patient-and-visitor-faq",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/patient-family-advisors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/patient-rights-responsibilities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/patient-visitor-guidelines",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/professional-interactions-health-care-industry",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/quality-safety",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/travis-andersen",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/university-health-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/uw-health-corporate-governance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/uw-health-executive-leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/uw-health-northern-illinois",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/uw-health-northern-illinois-executive-leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/about-us/vendors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/ad/ap-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/ad/ap-pancreas-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/ad/ap-pediatric-liver-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/ad/ap-renal-autotransplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/ad/nil-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/ad/nil-specialty-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/ad/pediatric-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/ad/transplant-care-veterans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/beaver-dam-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/billing-insurance/cms-price-transparency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/child-safety-advocacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/about-cybersecurity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/accessibility",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/advance-care-planning",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/alan-kaplan",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/business-integrity-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/clinician-titles",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/health-healing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/investing-innovation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/medical-staff-administration",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/partners-in-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/patient-and-visitor-faq",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/patient-family-advisors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/patient-rights-responsibilities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/patient-visitor-guidelines",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/professional-interactions-health-care-industry",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/quality-safety",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/travis-andersen",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/university-health-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/uw-health-corporate-governance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/uw-health-executive-leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/uw-health-northern-illinois",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/uw-health-northern-illinois-executive-leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/about-us/vendors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/ad/ap-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/ad/ap-pancreas-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/ad/ap-pediatric-liver-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/ad/ap-renal-autotransplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/ad/nil-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/ad/nil-specialty-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/ad/pediatric-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/ad/transplant-care-veterans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/beaver-dam-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/billing-insurance/cms-price-transparency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/child-safety-advocacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/hipaa-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/patient-tools/app-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/patient-tools/nexus-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/pharmacy-services",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/pulse-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/quality-safety/afch-quality-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/safety-center",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/transplant-60th-anniversary",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/transplant-update",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/uw-health-outreach-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/es/workforward/workforce-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/hipaa-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/patient-tools/app-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/patient-tools/nexus-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/pharmacy-services",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/pulse-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/quality-safety/afch-quality-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/safety-center",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/transplant-60th-anniversary",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/transplant-update",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/uw-health-outreach-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.uwhealth.org/workforward/workforce-policy",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -128,15 +128,7 @@ export default function RedditSentimentTab() {
         </div>
       </div>
 
-      <ContextCue
-        level={2}
-        toolNumber={7}
-        useCase="Harvest real-world patient complaints from Reddit to identify competitor service breakdowns and turn them into high-converting Ongo content hooks."
-        badge="Patient Voice"
-        title="Unfiltered Patient Feedback &amp; Moat Harvester"
-        about="Patients on Reddit openly discuss late deliveries, room-temperature vials, hidden fees, and unresponsive telehealth doctors. Ongo uses this intelligence to build trust where rivals fail."
-      />
-
+      
       {/* 4 Metric Summary Cards */}
       <div style={{
         display: 'grid',

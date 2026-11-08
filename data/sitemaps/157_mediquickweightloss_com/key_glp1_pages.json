@@ -1,0 +1,19 @@
+{
+  "name": "Mediquickweightloss",
+  "domain": "mediquickweightloss.com",
+  "total_urls": 10,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.mediquickweightloss.com/laser-hair-removal-pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.mediquickweightloss.com/laser-hair-removal-pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    }
+  ]
+}

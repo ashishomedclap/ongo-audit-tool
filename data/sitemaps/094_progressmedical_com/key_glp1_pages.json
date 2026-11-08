@@ -1,0 +1,22 @@
+{
+  "name": "Progressmedical",
+  "domain": "progressmedical.com",
+  "total_urls": 15,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://progressmedical.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://progressmedical.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

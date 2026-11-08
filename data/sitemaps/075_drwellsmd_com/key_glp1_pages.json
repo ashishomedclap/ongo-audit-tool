@@ -1,0 +1,140 @@
+{
+  "name": "Drwellsmd",
+  "domain": "drwellsmd.com",
+  "total_urls": 210,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.drwellsmd.com/membership-and-direct-primary-care.html",
+    "https://www.drwellsmd.com/membership-application.html",
+    "https://www.drwellsmd.com/membership-options-and-cost.html",
+    "https://www.drwellsmd.com/membership-programs--cost.html",
+    "https://www.drwellsmd.com/new-patient--membership-cost.html",
+    "https://www.drwellsmd.com/store/c1/membership-and-direct-primary-care.html",
+    "https://www.drwellsmd.com/store/c12/membership-and-direct-primary-care.html",
+    "https://www.drwellsmd.com/store/c3/membership-and-direct-primary-care.html",
+    "https://www.drwellsmd.com/store/p20/membership-and-direct-primary-care.html",
+    "https://www.drwellsmd.com/store/p23/Protimax_High_Protein_Anytime_Chocolate_Drink_Case_Price_4-6packs​_(24_individual_drinks).html",
+    "https://www.drwellsmd.com/store/p73/Protimax_High_Protein_Anytime_Vanilla_Drink_Case_price_4-6_packs_(24_individual_drinks).html",
+    "https://www.drwellsmd.com/store/p91/High_Protein_Remix_Toffee_Pretzel_Peanut_Bar.html",
+    "https://www.drwellsmd.com/store/p91/High_Protein_Salted_Toffee_Pretzel_Bar.html",
+    "https://www.drwellsmd.com/store/p91/High_Protein_Toffee_Pretzel_Peanut_Bar.html",
+    "https://www.drwellsmd.com/store/p91/Proti_VLC_High_Protein_Salted_Toffee_Pretzel_Bar.html"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.drwellsmd.com/faq-regarding-weight-loss-medications.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/meet-our-staff.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/membership-and-direct-primary-care.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/membership-application.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/membership-options-and-cost.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/membership-programs--cost.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/new-patient--membership-cost.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/c1/membership-and-direct-primary-care.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/c12/membership-and-direct-primary-care.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/c3/membership-and-direct-primary-care.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/p20/membership-and-direct-primary-care.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/p23/Protimax_High_Protein_Anytime_Chocolate_Drink_Case_Price_4-6packs​_(24_individual_drinks).html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/p73/Protimax_High_Protein_Anytime_Vanilla_Drink_Case_price_4-6_packs_(24_individual_drinks).html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/p91/High_Protein_Remix_Toffee_Pretzel_Peanut_Bar.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/p91/High_Protein_Salted_Toffee_Pretzel_Bar.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/p91/High_Protein_Toffee_Pretzel_Peanut_Bar.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/store/p91/Proti_VLC_High_Protein_Salted_Toffee_Pretzel_Bar.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drwellsmd.com/using-flex-spending-accounts-fsa-medical-savings-accounts-msa-and-cafeteria-plans.html",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

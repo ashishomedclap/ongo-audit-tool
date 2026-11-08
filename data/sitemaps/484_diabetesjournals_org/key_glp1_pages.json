@@ -1,0 +1,13 @@
+{
+  "name": "Diabetesjournals",
+  "domain": "diabetesjournals.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://diabetesjournals.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://diabetesjournals.org/pricing"
+  ],
+  "all_categorized": []
+}

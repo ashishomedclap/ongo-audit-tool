@@ -1,0 +1,963 @@
+{
+  "name": "Mounjarovswegovy",
+  "domain": "mounjarovswegovy.com",
+  "total_urls": 131,
+  "semaglutide_pages": [
+    "https://www.mounjarovswegovy.com",
+    "https://www.mounjarovswegovy.com/about",
+    "https://www.mounjarovswegovy.com/affiliate-disclosure",
+    "https://www.mounjarovswegovy.com/clinics",
+    "https://www.mounjarovswegovy.com/clinics/bmimd",
+    "https://www.mounjarovswegovy.com/clinics/brightmeds",
+    "https://www.mounjarovswegovy.com/clinics/calibrate",
+    "https://www.mounjarovswegovy.com/clinics/careglp",
+    "https://www.mounjarovswegovy.com/clinics/delilah",
+    "https://www.mounjarovswegovy.com/clinics/eden-health",
+    "https://www.mounjarovswegovy.com/clinics/elevate-health",
+    "https://www.mounjarovswegovy.com/clinics/embody",
+    "https://www.mounjarovswegovy.com/clinics/emed",
+    "https://www.mounjarovswegovy.com/clinics/form-health",
+    "https://www.mounjarovswegovy.com/clinics/found"
+  ],
+  "tirzepatide_pages": [
+    "https://www.mounjarovswegovy.com",
+    "https://www.mounjarovswegovy.com/about",
+    "https://www.mounjarovswegovy.com/affiliate-disclosure",
+    "https://www.mounjarovswegovy.com/clinics",
+    "https://www.mounjarovswegovy.com/clinics/bmimd",
+    "https://www.mounjarovswegovy.com/clinics/brightmeds",
+    "https://www.mounjarovswegovy.com/clinics/calibrate",
+    "https://www.mounjarovswegovy.com/clinics/careglp",
+    "https://www.mounjarovswegovy.com/clinics/delilah",
+    "https://www.mounjarovswegovy.com/clinics/eden-health",
+    "https://www.mounjarovswegovy.com/clinics/elevate-health",
+    "https://www.mounjarovswegovy.com/clinics/embody",
+    "https://www.mounjarovswegovy.com/clinics/emed",
+    "https://www.mounjarovswegovy.com/clinics/form-health",
+    "https://www.mounjarovswegovy.com/clinics/found"
+  ],
+  "pricing_pages": [
+    "https://www.mounjarovswegovy.com/learn/cost-and-insurance"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.mounjarovswegovy.com",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/about",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/affiliate-disclosure",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/bmimd",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/brightmeds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/calibrate",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/careglp",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/delilah",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/eden-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/elevate-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/embody",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/emed",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/form-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/found",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/fridays-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/gobymeds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/goodrx-care",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/heally",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/henry-meds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/hims-hers",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/hone-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/ivyrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/lemonaid-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/lifemd",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/maximus",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/medvi",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/mochi-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/mystart-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/noom-med",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/online-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/petermd",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/plexusdx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/plushcare",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/pomegranate-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/remedy-meds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/ro-roman",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/sequence",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/sesame-care",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/shed",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/shedrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/skinnyrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/sprout-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/strut-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/trimrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/walgreens-weight",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/weightwatchers",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/willow",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/yucca-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/clinics/zealthy",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/eden-health-vs-mochi-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/eden-health-vs-shedrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/hims-hers-vs-ro-roman",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/hims-hers-vs-sesame-care",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/mochi-health-vs-found",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/noom-med-vs-mochi-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/plushcare-vs-hims-hers",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/ro-roman-vs-found",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/ro-roman-vs-noom-med",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/ro-roman-vs-weightwatchers",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/compare/tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/contact",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/disclaimer",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/best-glp1-telehealth-2026",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/best-glp1-with-insurance",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/cheapest-glp1-2026",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/compounded-semaglutide-safe",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/compounded-semaglutide-safe-2026",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/cost-and-insurance",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/glp1-without-insurance-2026",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/mounjaro-for-weight-loss-without-diabetes",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/mounjaro-vs-wegovy",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/mounjaro-weight-loss-results",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/ozempic-vs-wegovy-2026",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/side-effects",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/tirzepatide-vs-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/wegovy-pill-vs-injection",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/wegovy-vs-zepbound-2026",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/learn/what-is-glp-1",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/privacy",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/quiz",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/bmimd",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/brightmeds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/calibrate",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/careglp",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/delilah",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/eden-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/elevate-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/embody",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/emed",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/form-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/found",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/fridays-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/gobymeds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/goodrx-care",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/heally",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/henry-meds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/hims-hers",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/hone-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/ivyrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/lemonaid-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/lifemd",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/maximus",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/medvi",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/mochi-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/mystart-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/noom-med",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/online-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/petermd",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/plexusdx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/plushcare",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/pomegranate-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/remedy-meds",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/ro-roman",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/sequence",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/sesame-care",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/shed",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/shedrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/skinnyrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/sprout-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/strut-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/trimrx",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/walgreens-weight",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/weightwatchers",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/willow",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/yucca-health",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/reviews/zealthy",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.mounjarovswegovy.com/terms",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "Policy"
+      ]
+    }
+  ]
+}

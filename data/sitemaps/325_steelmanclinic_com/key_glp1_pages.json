@@ -1,0 +1,28 @@
+{
+  "name": "Steelmanclinic",
+  "domain": "steelmanclinic.com",
+  "total_urls": 78,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.steelmanclinic.com/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.steelmanclinic.com/our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.steelmanclinic.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

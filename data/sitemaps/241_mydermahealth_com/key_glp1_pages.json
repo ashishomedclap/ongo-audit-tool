@@ -1,0 +1,37 @@
+{
+  "name": "Mydermahealth",
+  "domain": "mydermahealth.com",
+  "total_urls": 242,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mydermahealth.com/services/hair-reduction/dermaplaning/",
+    "https://mydermahealth.com/services/wrinkles/crows-feet/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://mydermahealth.com/about/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mydermahealth.com/laser-hair-removal-faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mydermahealth.com/services/hair-reduction/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mydermahealth.com/services/wrinkles/crows-feet/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

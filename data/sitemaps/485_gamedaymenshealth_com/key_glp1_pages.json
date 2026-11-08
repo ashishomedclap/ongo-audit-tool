@@ -1,0 +1,372 @@
+{
+  "name": "Gamedaymenshealth",
+  "domain": "gamedaymenshealth.com",
+  "total_urls": 4122,
+  "semaglutide_pages": [
+    "https://gamedaymenshealth.com/service/weight-loss/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://gamedaymenshealth.com/service/weight-loss/tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://gamedaymenshealth.com/menifee-ca/anti-aging-clinic",
+    "https://gamedaymenshealth.com/menifee-ca/erectile-dysfunction-clinic",
+    "https://gamedaymenshealth.com/menifee-ca/peptide-therapies-vitamin-injections",
+    "https://gamedaymenshealth.com/menifee-ca/services",
+    "https://gamedaymenshealth.com/menifee-ca/sports-injury-clinic",
+    "https://gamedaymenshealth.com/menifee-ca/trt-clinic",
+    "https://gamedaymenshealth.com/menifee-ca/weight-loss-clinic",
+    "https://gamedaymenshealth.com/plano/anti-aging-clinic",
+    "https://gamedaymenshealth.com/plano/erectile-dysfunction-clinic",
+    "https://gamedaymenshealth.com/plano/hair-loss-clinic",
+    "https://gamedaymenshealth.com/plano/peptide-therapies-vitamin-injections",
+    "https://gamedaymenshealth.com/plano/services",
+    "https://gamedaymenshealth.com/plano/sports-injury-clinic",
+    "https://gamedaymenshealth.com/plano/trt-clinic",
+    "https://gamedaymenshealth.com/plano/weight-loss-clinic"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://gamedaymenshealth.com/menifee-ca/anti-aging-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/menifee-ca/erectile-dysfunction-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/menifee-ca/peptide-therapies-vitamin-injections",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/menifee-ca/services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/menifee-ca/sports-injury-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/menifee-ca/trt-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/menifee-ca/weight-loss-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/new-york-city/anti-aging-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/new-york-city/erectile-dysfunction-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/new-york-city/hair-loss-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/new-york-city/peptide-therapies-vitamin-injections",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/new-york-city/services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/new-york-city/sports-injury-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/new-york-city/trt-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/new-york-city/weight-loss-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/plano/anti-aging-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/plano/erectile-dysfunction-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/plano/hair-loss-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/plano/peptide-therapies-vitamin-injections",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/plano/services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/plano/sports-injury-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/plano/trt-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/plano/weight-loss-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/service/weight-loss/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/service/weight-loss/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southflorida/anti-aging-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southflorida/erectile-dysfunction-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southflorida/hair-loss-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southflorida/peptide-therapies-vitamin-injections",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southflorida/services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southflorida/sports-injury-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southflorida/trt-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southflorida/weight-loss-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southwest-florida-fl/anti-aging-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southwest-florida-fl/erectile-dysfunction-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southwest-florida-fl/hair-loss-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southwest-florida-fl/peptide-therapies-vitamin-injections",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southwest-florida-fl/services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southwest-florida-fl/sports-injury-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southwest-florida-fl/trt-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/southwest-florida-fl/weight-loss-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/tennessee-tn/anti-aging-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/tennessee-tn/erectile-dysfunction-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/tennessee-tn/hair-loss-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/tennessee-tn/peptide-therapies-vitamin-injections",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/tennessee-tn/services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/tennessee-tn/sports-injury-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/tennessee-tn/trt-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/tennessee-tn/weight-loss-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/upland/anti-aging-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/upland/erectile-dysfunction-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/upland/hair-loss-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/upland/peptide-therapies-vitamin-injections",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/upland/services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/upland/sports-injury-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/upland/trt-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://gamedaymenshealth.com/upland/weight-loss-clinic",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

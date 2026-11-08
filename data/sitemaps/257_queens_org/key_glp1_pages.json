@@ -1,0 +1,2824 @@
+{
+  "name": "Queens",
+  "domain": "queens.org",
+  "total_urls": 1440,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.queens.org/ask-a-specialist-on-khon2-advanced-care-planning/",
+    "https://www.queens.org/ask-a-specialist-on-the-khon2-news-mitral-valve-with-dr-ben-plank/",
+    "https://www.queens.org/ask-a-specialist-on-the-khon2-news-planning-for-your-health-care-future-with-dr-michael-tom/",
+    "https://www.queens.org/ask-a-specialist-watchman-implant-with-dr-benjamin-plank/",
+    "https://www.queens.org/costs-for-hawaiis-homeless-continue-even-after-they-die/",
+    "https://www.queens.org/facility-pricing-for-covid-19-lab-testing/",
+    "https://www.queens.org/give/ways-to-give/planned-giving/",
+    "https://www.queens.org/island-musician-whose-hospital-duet-went-viral-making-big-strides-after-transplant/",
+    "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/",
+    "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/adult-kidney-transplant-program/",
+    "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/contact/",
+    "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/liver-transplant-program/",
+    "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/living-kidney-donation/",
+    "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/organ-donation/",
+    "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/patient-support/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.queens.org/a-grades-for-patient-safety-in-spring-2018-leapfrog-hospital-safety-rankings/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/about/quality-and-patient-safety-qhs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/anthony-fazio-nhch-pharmacy-services-manager-receives-award-of-excellence/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-helmet-safety-with-tj-donayri/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-kupuna-thanksgiving-safety-with-dr-shari-kogan/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-on-khon2-advanced-care-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-on-khon2-falling-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-on-khon2-patient-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-on-khon2-polypharmacy-in-the-elderly-the-dangers-of-taking-many-medications/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-on-the-khon2-news-mitral-valve-with-dr-ben-plank/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-on-the-khon2-news-planning-for-your-health-care-future-with-dr-michael-tom/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-toy-safety-with-dr-jenny-liu/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-watchman-implant-with-dr-benjamin-plank/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/ask-a-specialist-water-safety-with-dr-matthew-mitschele/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/careers/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/careers/pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/careers/pharmacy/residency-program/pgy-1-pharmacy-residency-application/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/careers/pharmacy/residency-program/pgy-1-pharmacy-residency-recruitment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/careers/physician-careers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/costs-for-hawaiis-homeless-continue-even-after-they-die/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/dr-david-singh-cardiac-electrophysiologist-talks-about-injury-suffered-by-buffalo-bills-safety-damar-hamlin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/dr-james-yess-qmc-post-covid-recovery-care-clinic-physician-appears-on-spotlight-hawaii-on-the-star-advertiser/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/eagle-scout-project-helps-hospital-visitors-and-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/facility-pricing-for-covid-19-lab-testing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/find-a-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/accountable-care-organization/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/apply-for-privileges/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/careers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/continuing-medical-education/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/epic-and-queens-connect/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/liaisons/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/profile/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/qumg/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/referrals/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/telemedicine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/for-healthcare-professionals/physicians/transfer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/fourth-of-july-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/give/ways-to-give/planned-giving/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/hmsa-offers-eutf-retirees-access-to-queens-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/island-musician-whose-hospital-duet-went-viral-making-big-strides-after-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/affiliates/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/affiliates/careresource-hawaii/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/affiliates/diagnostic-laboratory-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/about/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/events-classes/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/news/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/our-doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/advance-directive/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/code-of-conduct-at-molokai-general-hospital/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/patient-navigation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/patient-relations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/patient-responsibility/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/patient-rights-responsibility/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/patient-rights/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/preparing-to-leave-the-hospital-at-molokai-general-hospital-2/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/preparing-to-leave-the-hospital/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/request-for-records/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/visitor-information/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/patients-visitors/your-health-care-team/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/dietary-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/emergency-department/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/laboratory/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/outpatient-clinic/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/outpatient-clinic/patient-navigation-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/paul-g-stevens/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/radiology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/radiology/ct-scans/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/radiology/dexa-bone-density-scans/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/radiology/mammograms/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/radiology/ultrasound/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/radiology/x-ray/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/womens-health-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/womens-health-center/gynecology-preventive-health-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/womens-health-center/maternity-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/molokai/services/wound-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/about/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/classes-events/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/news/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/our-doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/after-you-are-discharged/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/for-friends-family/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/for-your-safety-security/",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/going-home/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/holistic-care-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/patient-rights-responsibilities/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/patient-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/request-for-records/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/tell-us-about-your-experience/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/patients-visitors/your-health-care-team/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/diabetes-wellness-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/emergency-department/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/food-nutrition/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/food-nutrition/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/food-nutrition/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/general-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/heart-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/holistic-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/imaging/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/imaging/breast-health-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/imaging/imaging-services__trashed/contact-us-imaging-services-at-queens-north-hawaii-community-hospital/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/kohala-home/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/medical-surgical-unit/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/orthopedic-clinic/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/pre-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/primary-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/rehabilitation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/surgical-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/womens-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/north-hawaii/services/wound-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/about-the-queens-medical-center-west-oahu/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/classes-events/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/news/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/our-doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/patients-visitors/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/patients-visitors/advance-directive/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/patients-visitors/parking-directions/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/patients-visitors/patient-relations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/patients-visitors/patient-services-amenities/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/patients-visitors/request-for-records/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/patients-visitors/visitor-information/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/cardiology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/cardiology/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/cardiology/for-physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/cardiology/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/continuing-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/critical-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/critical-care/mammography-at-the-queens-medical-center-west-oahu/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/diabetes-management-and-education-center-at-the-queens-medical-center-west-oahu/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/ear-nose-throat/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/emergency-department/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/facility-dog-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/food-nutrition/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/food-nutrition/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/food-nutrition/patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/food-nutrition/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/gastroenterology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/gastroenterology/doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/general-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/hospitalists/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/becoming-a-patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/ct-scans/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/diagnostic-x-ray/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/mammography/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/mri/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/nuclear-medicine/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/resources-for-physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/imaging/ultrasound/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/infusion-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/orthopedic-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/outpatient-rehabilitation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/pain-spine-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/pathology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/pharmacy/",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/pre-surgery-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/pulmonary-clinic/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/rehabilitation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/respiratory-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/surgical-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/total-joint-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/womens-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/wound-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/events-classes/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/news/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/our-doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/advanced-directive/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/concierge-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/home-community-health-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/parking-and-directions/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/patient-family-advisory-council/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/patient-relations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/patient-rights-responsibilities/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/patient-services-amenities/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/preparing-to-leave-the-hospital/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/request-for-records/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/visitor-information/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/your-health-care-team/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/anger-management/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/behavioral-health-psychiatry/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/community-transition-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/contact-us/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/counseling-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/day-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/dialectical-behavior-therapy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/dual-diagnosis/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/family-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/life-enrichment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/patient/counseling-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/patient/day-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/patient/family-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/patient/kekela/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/youth-intensive-outpatient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/behavioral-health/youth-partial-hospitalization/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/comprehensive-genetics-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/critical-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/dental-clinic/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/dental-clinic/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/dental-clinic/patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/dental-clinic/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/diabetes/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/ear-nose-throat/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/emergency/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/facility-dogs/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/food-nutrition/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/food-nutrition/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/food-nutrition/patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/food-nutrition/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/gastroenterology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/geriatric/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/hale-pulama-mau/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/adult-congenital-heart-disease/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/become-a-patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/cardiac-catheterizations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/cardiac-rehabilitation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/echocardiograms/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/electrocardiology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/electrophysiology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/for-physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/transcatheter-mitral-valve-repair/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/treadmill-stress-test/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/heart-care/vascular-ultrasounds/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/hemodialysis/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/hospitalists/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/angiography/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/become-a-patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/computed-tomography-ct/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/dexa-bone-density-scan/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/for-physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/mammography-old/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/mri/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/nuclear-medicine/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/ultrasound/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/x-ray/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/infusion-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/liver-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/maternity/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/maternity/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/maternity/patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/maternity/physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/maternity/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/maternity/services/additional-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/obgyn-ala-moana/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/orthopedic-institute/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/orthopedic-institute/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/orthopedic-institute/pain-spine-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pain-palliative-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pain-spine-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pathology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pharmacy/",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pre-surgery-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pulmonary-critical-care/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pulmonary-critical-care/interstitial-lung-disease-ild-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pulmonary-critical-care/physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pulmonary-critical-care/pulmonary-hypertension-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pulmonary-critical-care/qumg-pulmonary-nodule-clinic/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pulmonary-critical-care/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/pulmonary-critical-care/sleep-medicine-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/queen-emma-clinics/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/queen-emma-clinics/become-a-patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/queen-emma-clinics/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/queen-emma-clinics/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/becoming-a-patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/inpatient-rehabilitation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/occupational-therapy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/outpatient-rehabilitation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/physical-therapy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/resources-for-physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/rehabilitation/speech-language-pathology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/respiratory-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/sleep-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/social-work/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/surgical-services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/adult-kidney-transplant-program/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/contact/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/liver-transplant-program/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/living-kidney-donation/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/organ-donation/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/patient-support/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/transplant-center/providers/",
+      "categories": [
+        "Pricing",
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/urology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/urology/brachytherapy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/urology/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/urology/extracorporeal-shockwave-lithotripsy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/urology/kidney-stone-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/urology/percutaneous-nephrolithotomy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/urology/transurethral-resection/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/urology/ureteroscopy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/womens-health-center/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/womens-health-center/breast-cervical-cancer/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/womens-health-center/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/womens-health-center/obstetric-ultrasound/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/womens-health-center/patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/womens-health-center/physical-therapy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/womens-health-center/physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/womens-health-center/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/qmc/services/wound-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/wahiawa/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/hospitals/wahiawa/contact-us/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/empower-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/empower-health/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/empower-health/forms/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/empower-health/meet-the-team/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/empower-health/queens-smoking-cessation-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/empower-health/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queen-emma-clinics/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/becoming-a-patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/hale-pawaa/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/haleiwa/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/hawaii-kai/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/hilo/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/honolulu/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/kahala/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/kapolei/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/kona/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/maui-obgyn-office/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/mililani/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/locations/primary-care/queens-north-hawaii-primary-care-clinic/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/medical-team-deploys-to-hawaii-to-support-frontline-caregivers-at-the-queens-health-systems/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/midweek-doctor-in-the-house-sports-medicine-for-kid-athletes/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/national-alliance-on-mental-illness-hawaii-partners-with-the-queens-medical-center-to-donate-care-packages-to-frontline-health-care-workers/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/newsweek-names-the-queens-medical-center-one-of-the-best-hospitals-in-the-united-states/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/nhch-food-safety-tips-for-thanksgiving/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/nhch-offers-fourth-of-july-safety-tips/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/north-hawaii-community-hospital-welcomes-new-primary-care-physician/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/pricing-transparency/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/providers-at-honolulu-qhcc/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qha-names-elise-crownshield-director-of-neuroscience-services-qmc-shannon-jaquess-director-system-safety-engineer-and-quality-improvement-qhs-debbie-wood-director-of-centralized-scheduling-and/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qhs-joins-health-care-organizations-across-the-country-in-requiring-covid-19-vaccination-for-all-physicians-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qhs-names-beryl-muniz-vp-patient-care-irene-pu%ca%bbuohau-director-of-labor-and-employee-relations-tamara-pappas-director-of-queens-clinically-integrated-physician-network/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qhs-names-darryn-dunbar-director-of-critical-care-services-qmc-west-o%ca%bbahu-james-gomes-director-of-facilities-design-planning-colette-masunaga-director-of-exte/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qhs-names-desiree-hamilton-director-of-surgical-services-qmc-west-jennifer-beals-director-of-physician-professional-development-and-wellness-qhs-lauren-bendiner-director-of-corporate-governance-q/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qhs-names-jennifer-moran-director-of-neuroscience-services-qmc-lauren-bendiner-director-of-physician-contracts-and-compensation-corporate-counsel-christine-griffin-director-of-nursing-practice-and/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qhs-names-natasha-parekh-md-chief-medical-officer-for-mssp-aco-byron-izuka-md-medical-director-of-pediatric-orthopedics-at-qmc-west-o%ca%bbahu-michael-holmberg-director-of-security-and-safety-s/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-change-to-hospital-visitor-policy-2/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-changes-to-visitor-policy-2/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-changes-to-visitor-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-earns-top-safety-grade/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-halloween-safety-tips-2026/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-is-hiring-physician-practice-assistants-signing-bonuses-available/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-offers-fourth-of-july-safety-tips-2/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-offers-fourth-of-july-safety-tips/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-offers-halloween-safety-tips-2022/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-offers-halloween-safety-tips-2024/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-offers-vaccine-to-community-healthcare-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-reinstates-no-visitor-policy/",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-thanksgiving-food-safety-tips/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/qnhch-visitor-policy-changes/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/queens-celebrates-its-300th-organ-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/queens-heart-welcomes-dr-benjamin-plank-interventional-cardiologist/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/queens-honors-outstanding-physicians-of-2019-daniel-cheng-m-d-and-kazuma-nakagawa-m-d/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/queens-north-hawaii-community-hospital-earns-2023-leapfrog-top-hospital-award-for-outstanding-quality-and-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/queens-transplant-center-hawaii-island-sisters-ku%ca%bbulei-pali-forth-and-ku%ca%bbuipo-pali-forth-life-saving-kidney-donation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/queens-transplant-center-with-dr-linda-wong-on-hawaii-public-radio/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/behavioral-health/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/behavioral-health/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/for-physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/north-hawaii/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/north-hawaii/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/north-hawaii/for-physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/north-hawaii/treatments/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc-west-oahu/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc-west-oahu/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc-west-oahu/for-physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc-west-oahu/treatments/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc/about-your-stay/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc/becoming-patient/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc/biomarkers-in-cancer-care/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cancer-care/locations/hospitals/qmc/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cardiology/find-a-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/cardiology/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/dental-clinic/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/interventional-radiology/for-physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/neuroscience/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/neuroscience/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/neuroscience/locations/qmc-west-oahu/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/neuroscience/locations/qmc/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/neuroscience/neurointerventional-surgery/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/neuroscience/neurosurgery/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/orthopedic/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/orthopedic/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/orthopedic/orthopedic-faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/pediatrics/pediatric-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/primary-care-services/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/primary-care-services/primary-care-doctors-new/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/transplant-center/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/virtual-care/telehealth-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/virtual-care/virtual-care-faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/virtual-care/virtual-urgent-care/virtual-urgent-care-faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/weight-management/find-a-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/weight-management/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/weight-management/locations/molokai/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/weight-management/locations/qmc/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/services/womens-health/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/speaking-of-health-lecture-series-planning-for-your-health-care-future-with-dr-michael-tom/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/summer-2020-celebrate-with-a-plan-campaign-kick-off/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/summer-sun-safety-protecting-your-skin-with-dr-aaron-fong/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-system-marks-10-years-of-providing-organ-transplantation-services-for-the-people-of-hawaii/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-system-welcomes-11-providers-to-its-clinically-integrated-network-of-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-systems-announces-plans-to-build-new-hospital-in-kailua-kona/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-systems-ceo-art-ushijima-announces-retirement-plans-health-care-leader-to-retire-in-january-2020/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-systems-names-zach-harris-administrator-of-ambulatory-services-primary-care-and-colleen-isa-director-of-system-strategic-workforce-planning-talent-acquisition/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-systems-opens-full-service-pharmacy-located-at-queens-west-oahu/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-systems-reports-92-of-staff-fully-vaccinated-against-covid-19-as-new-policy-takes-effect/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-systems-takes-significant-steps-to-support-staff-during-covid-crisis/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-health-systems-west-hawaii-region-and-alii-health-center-announce-landmark-agreement-to-increase-physician-workforce-in-west-hawaii/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-honors-its-outstanding-physicians-for-2020-ryon-nakasone-m-d-and-malia-ramirez-m-d/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-manamana-punchbowl-and-the-queens-medical-center-west-oahu-receive-national-recognition-for-hospital-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-manamana-punchbowl-the-queens-medical-center-west-oahu-receive-national-recognition-for-hospital-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-performs-historic-lvad-implantation-in-hawai%ca%bbi/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-punchbowl-and-the-queens-medical-center-west-oahu-receive-national-recognition-for-hospital-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-punchbowl-the-queens-medical-center-west-oahu-receive-national-recognition-for-hospital-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-punchbowl-the-queens-medical-center-west-oahu-to-implement-no-visitor-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-returns-to-no-visitor-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/the-queens-medical-center-west-o%ca%bbahu-and-queens-north-hawaii-community-hospital-earn-a-hospital-safety-grades-from-the-leapfrog-group/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/u-s-government-deploys-medical-team-to-honolulu-to-support-the-queens-medical-centers-covid-19-front-line/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/urgent-care-hawaii/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/urgent-care-hawaii/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/urgent-care-hawaii/locations/kahala/meet-the-team-at-urgent-care-kahala/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/urgent-care-hawaii/locations/queens-island/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/visotor-policy-expands-at-qnhch/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/watersafety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.queens.org/your-health-with-queens-hawai%ca%bbis-only-level-1-trauma-center-and-helmet-safety-tips-with-tj-donayri/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

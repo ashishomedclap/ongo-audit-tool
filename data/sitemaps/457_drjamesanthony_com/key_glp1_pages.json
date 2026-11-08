@@ -1,0 +1,52 @@
+{
+  "name": "Drjamesanthony",
+  "domain": "drjamesanthony.com",
+  "total_urls": 488,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [
+    "https://www.drjamesanthony.com/nonsurgical/zepbound-weight-loss-program/"
+  ],
+  "pricing_pages": [
+    "https://www.drjamesanthony.com/blog/beyond-the-implant-a-comprehensive-guide-to-your-breast-surgery-options/",
+    "https://www.drjamesanthony.com/blog/breast-augmentation-vs-implants-understanding-the-key-differences/",
+    "https://www.drjamesanthony.com/blog/will-breast-augmentation-affect-breastfeeding/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.drjamesanthony.com/about/our-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drjamesanthony.com/blog/beyond-the-implant-a-comprehensive-guide-to-your-breast-surgery-options/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drjamesanthony.com/blog/breast-augmentation-vs-implants-understanding-the-key-differences/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drjamesanthony.com/blog/will-breast-augmentation-affect-breastfeeding/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drjamesanthony.com/nonsurgical/zepbound-weight-loss-program/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.drjamesanthony.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

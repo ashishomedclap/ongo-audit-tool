@@ -1,0 +1,13 @@
+{
+  "name": "Nih.gov",
+  "domain": "nih.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://nih.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://nih.gov/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,473 @@
+{
+  "name": "Brightmedicalwellness",
+  "domain": "brightmedicalwellness.com",
+  "total_urls": 231,
+  "semaglutide_pages": [
+    "https://brightmedicalwellness.com/b12-with-semaglutide/",
+    "https://brightmedicalwellness.com/compounded-semaglutide-safety/",
+    "https://brightmedicalwellness.com/diet-on-semaglutide/",
+    "https://brightmedicalwellness.com/fiber-on-semaglutide/",
+    "https://brightmedicalwellness.com/how-to-minimize-muscle-loss-on-semaglutide/",
+    "https://brightmedicalwellness.com/navigating-semaglutide-and-tirzepatide-smarter-obesity-treatment-with-bright-medical-wellness/",
+    "https://brightmedicalwellness.com/oral-semaglutide-weight-loss/",
+    "https://brightmedicalwellness.com/ozempic-and-alcohol/",
+    "https://brightmedicalwellness.com/ozempic-constipation/",
+    "https://brightmedicalwellness.com/ozempic-diarrhea/",
+    "https://brightmedicalwellness.com/ozempic-face/",
+    "https://brightmedicalwellness.com/ozempic-nausea/",
+    "https://brightmedicalwellness.com/ozempic-storage/",
+    "https://brightmedicalwellness.com/semaglutide-and-fertility/",
+    "https://brightmedicalwellness.com/semaglutide-and-metformin/"
+  ],
+  "tirzepatide_pages": [
+    "https://brightmedicalwellness.com/blood-sugar-benefits-of-tirzepatide/",
+    "https://brightmedicalwellness.com/mounjaro-for-weight-loss/",
+    "https://brightmedicalwellness.com/navigating-semaglutide-and-tirzepatide-smarter-obesity-treatment-with-bright-medical-wellness/",
+    "https://brightmedicalwellness.com/switch-ozempic-to-mounjaro/",
+    "https://brightmedicalwellness.com/tirzepatide-birth-control/",
+    "https://brightmedicalwellness.com/tirzepatide-dosing-schedule/",
+    "https://brightmedicalwellness.com/tirzepatide-edina-mn/",
+    "https://brightmedicalwellness.com/tirzepatide-injection-sites/",
+    "https://brightmedicalwellness.com/tirzepatide-nausea-relief/",
+    "https://brightmedicalwellness.com/tirzepatide-side-effects/",
+    "https://brightmedicalwellness.com/tirzepatide-timing/",
+    "https://brightmedicalwellness.com/tirzepatide-vs-semaglutide-what-the-latest-science-says-about-weight-loss-results/",
+    "https://brightmedicalwellness.com/zepbound-sleep-apnea/"
+  ],
+  "pricing_pages": [
+    "https://brightmedicalwellness.com/build-a-longevity-focused-weight-loss-plan-that-lasts/",
+    "https://brightmedicalwellness.com/glp-1-out-of-pocket-cost-explained/",
+    "https://brightmedicalwellness.com/glp-1-program-cost/",
+    "https://brightmedicalwellness.com/glp-1-weight-loss-cost/",
+    "https://brightmedicalwellness.com/glp1-exit-plan-patient-profiles/",
+    "https://brightmedicalwellness.com/glp1-glider-step-down-maintenance-dose-cost/",
+    "https://brightmedicalwellness.com/glp1-marathoner-cost-of-staying-the-course/",
+    "https://brightmedicalwellness.com/glp1-sprinter-stopping-at-goal-cost/",
+    "https://brightmedicalwellness.com/semaglutide-breastfeeding-safety/",
+    "https://brightmedicalwellness.com/the-ozempic-personality-why-you-might-feel-flat-on-glp-1s-and-how-to-reclaim-your-joy/",
+    "https://brightmedicalwellness.com/what-is-a-personalized-weight-loss-plan/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://brightmedicalwellness.com/b12-with-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/biohacking-sleep-apnea-treatment-options/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/blood-sugar-benefits-of-tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/build-a-longevity-focused-weight-loss-plan-that-lasts/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/compounded-semaglutide-safety/",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/diet-on-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/emergeweight-com-alternatives-4-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/fiber-on-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp-1-anti-cancer-research-what-clinicians-need-to-know/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp-1-cardiovascular-optimization-for-biohackers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp-1-out-of-pocket-cost-explained/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp-1-program-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp-1-weight-loss-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp1-exit-plan-patient-profiles/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp1-glider-step-down-maintenance-dose-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp1-marathoner-cost-of-staying-the-course/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/glp1-sprinter-stopping-at-goal-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/how-to-minimize-muscle-loss-on-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/mitigate-glp-1-side-effects-with-biohacking/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/mnbariatrics-com-alternatives-3-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/mounjaro-for-weight-loss/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/navigating-semaglutide-and-tirzepatide-smarter-obesity-treatment-with-bright-medical-wellness/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/oral-semaglutide-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/ozempic-and-alcohol/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/ozempic-constipation/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/ozempic-diarrhea/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/ozempic-face/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/ozempic-nausea/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/ozempic-storage/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/patient-portal-faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/questions-to-ask-your-weight-loss-doctor-2026-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/role-of-biomarkers-in-weight-program/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-and-fertility/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-and-metformin/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-breastfeeding-safety/",
+      "categories": [
+        "Semaglutide",
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-dosing-schedule/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-edina-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-fatty-liver/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-plateau/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-side-effects-how-to-manage-them-and-stay-on-track/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-side-effects/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-thyroid-cancer-risk/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/semaglutide-with-cgm/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/services/biotin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/shipping-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/switch-ozempic-to-mounjaro/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tapering-off-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/terms-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/the-ozempic-personality-why-you-might-feel-flat-on-glp-1s-and-how-to-reclaim-your-joy/",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tirzepatide-birth-control/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tirzepatide-dosing-schedule/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tirzepatide-edina-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tirzepatide-injection-sites/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tirzepatide-nausea-relief/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tirzepatide-side-effects/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tirzepatide-timing/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/tirzepatide-vs-semaglutide-what-the-latest-science-says-about-weight-loss-results/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/travel-with-ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/wegovy-availability-minnesota/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/wegovy-bmi-requirements/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/what-is-a-personalized-weight-loss-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/what-is-dementia-prevention-biohacking/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/what-is-semaglutide-uses-benefits-and-risks/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/what-labs-do-i-need-for-medical-weight-loss-the-definitive-biomarker-checklist-2/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/what-labs-do-i-need-for-medical-weight-loss-the-definitive-biomarker-checklist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/why-a-weight-loss-doctor-is-the-game-changer-you-actually-need-not-just-a-prescription/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://brightmedicalwellness.com/zepbound-sleep-apnea/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

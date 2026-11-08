@@ -1,0 +1,37 @@
+{
+  "name": "Townofmorristown",
+  "domain": "townofmorristown.org",
+  "total_urls": 866,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.townofmorristown.org/planning",
+    "https://www.townofmorristown.org/planningboard"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.townofmorristown.org/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.townofmorristown.org/planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.townofmorristown.org/planningboard",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.townofmorristown.org/publicsafety",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

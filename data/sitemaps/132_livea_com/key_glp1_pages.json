@@ -1,0 +1,13 @@
+{
+  "name": "Livea",
+  "domain": "livea.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://livea.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://livea.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wikidata",
+  "domain": "wikidata.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://wikidata.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://wikidata.org/pricing"
+  ],
+  "all_categorized": []
+}

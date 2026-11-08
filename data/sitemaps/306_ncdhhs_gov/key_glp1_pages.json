@@ -1,0 +1,1815 @@
+{
+  "name": "Ncdhhs.gov",
+  "domain": "ncdhhs.gov",
+  "total_urls": 2127,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2014-2015-cost-report-aups",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2016-2017-cost-report-aups",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2016-2017-cost-report-chart-account",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2018-2019-cost-report-aups",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2020-2021-cost-report-aups",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2022-2023-cost-reporting-aups",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2024-2025-cost-reporting-aups",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities/arpa-about",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities/arpa-contact",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities/arpa-contracts",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities/arpa-vendor-resources",
+    "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-projects-portal-arpa-contracting-opportunities/arpa-contact/american-rescue-plan-act-contracting-opportunities-feedback-form",
+    "https://www.ncdhhs.gov/about/data-dashboards-action-planswhite-papers",
+    "https://www.ncdhhs.gov/about/data-dashboards-action-planswhite-papers/nc-early-childhood-action-plan-data-dashboards"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2014-2015-cost-report-aups",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2016-2017-cost-report-aups",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2016-2017-cost-report-chart-account",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2018-2019-cost-report-aups",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2020-2021-cost-report-aups",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2022-2023-cost-reporting-aups",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-controller/adult-care-facilities/2024-2025-cost-reporting-aups",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities/arpa-about",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities/arpa-contact",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities/arpa-contracts",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-arpa-projects-portal-arpa-contracting-opportunities/arpa-vendor-resources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/administrative-offices/office-procurement-contracts-and-grants/ncdhhs-american-rescue-plan-act-projects-portal-arpa-contracting-opportunities/arpa-contact/american-rescue-plan-act-contracting-opportunities-feedback-form",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/data-dashboards-action-planswhite-papers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/data-dashboards-action-planswhite-papers/nc-early-childhood-action-plan-data-dashboards",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/backhome-program/service-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/early-childhood/early-childhood-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/early-childhood/early-childhood-action-plan-county-data-reports",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/early-childhood/early-childhood-action-plan/early-childhood-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/home-and-community-based-services-final-rule/hcbs-plan-submission",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/inclusion-works/information-care-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/inclusion-works/strategic-plan-inclusion-works",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/north-carolina-advisory-council-cannabis/council-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/north-carolina-advisory-council-cannabis/council-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/overdose-epidemic/north-carolinas-opioid-and-substance-use-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/overdose-epidemic/north-carolinas-opioid-and-substance-use-action-plan/nc-payers-council",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/overdose-epidemic/north-carolinas-opioid-and-substance-use-action-plan/north-carolina-opioid-research-agenda",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/overdose-epidemic/opioid-information-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/overdose-epidemic/opioid-information-providers/north-carolinas-dental-opioid-action-plan",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/overdose-epidemic/opioid-news/dhhs-secretary-mandy-cohen-seeks-help-clinicians-solve-opioid-crisis-north-carolina",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/public-participation-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/department-initiatives/suicide-prevention-resources/resources-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/priority-goals/health-portfolio/nc-strategic-housing-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/strategic-goals/health-equity-portfolio/health-equity-portfolio-common-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/strategic-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/about/strategic-plan/health-portfolio/ncdhhs-experiential-learning-and-opportunity-internship-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/assistance/disaster-preparation-and-recovery/disaster-recovery-health-and-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/assistance/disaster-preparation-and-recovery/disaster-recovery-health-and-safety/recuperacion-ante-desastres",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/aging-and-adult-services/county-funding-authorizations/fy-22-funding-authorizations-county",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/aging/monitoring/consumer-contributions-policy-and-procedures",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/aging/state-aging-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/aging/state-aging-plan/documents-about-finding-and-maintaining-housing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/breastfeeding-promotion-and-support",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/breastfeeding-promotion-and-support/nc-breastfeeding-friendly-child-care-designation-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/breastfeeding-promotion-and-support/nc-maternity-center-breastfeeding-friendly-designation-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/child-and-adult-care-food-program-cacfp/cacfp-policy-memos",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/child-and-adult-care-food-program-cacfp/school-food-authority-risk-afterschool-meals-sfa-aram",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/sms-privacy-policy-and-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff/crossroads",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff/farmers-market-nutrition-program-fmnp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff/nutrition-and-health-education-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff/outreach",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff/wic-conferences-and-trainings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff/wic-conferences-and-trainings/wic-breastfeeding-curriculum",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff/wic-local-agency-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/staff/wic-local-agency-resources/nc-wic-agreement-addenda-data",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/vendors/nc-wic-authorized-product-list-apl",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/food-and-nutrition-services-food-stamps/more-job-nc-program/information-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/infant-feeding-resources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/north-carolina-infant-toddler-program-nc-itp/nc-itp-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/north-carolina-infant-toddler-program-nc-itp/nc-itp-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/north-carolina-infant-toddler-program-nc-itp/nc-itp-staff/forms-and-publications",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/transforming-child-welfare-and-family-well-being-together-coordinated-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/child-behavioral-health/new-service-planning-and-design",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/early-hearing-detection-and-intervention-services/primary-care-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/employment-and-independence-people-disabilities/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/employment-and-independence-people-disabilities/about-us/casework-and-service-delivery-policies",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/employment-and-independence-people-disabilities/casework-and-service-delivery-policies/independent-living-rehabilitation-casework-and-service-delivery-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/employment-and-independence-people-disabilities/casework-and-service-delivery-policies/vocational-rehabilitation-program-casework-and-service-delivery-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/employment-and-independence-people-disabilities/councils/state-rehabilitation-council-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/employment-and-independence-people-disabilities/north-carolina-assistive-technology-program/ncatp-staff-and-centers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/mental-health-developmental-disabilities-and-substance-use-services/certified-peer-support-specialists/information-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/mental-health-developmental-disabilities-and-substance-use-services/councils-and-committees/person-centered-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/mental-health-developmental-disabilities-and-substance-use-services/dmhddsus-strategic-plan-2024-2029",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/mental-health-developmental-disabilities-and-substance-use-services/dmhddsus-strategic-plan-2024-2029/measures",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/mental-health-developmental-disabilities-and-substance-use-services/down-syndrome/down-syndrome-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/mental-health-developmental-disabilities-and-substance-use-services/grants/mental-health-block-grant/mental-health-block-grant-planning-and-advisory-council-meeting-minutes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/office-economic-opportunity/community-services-block-grant-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/office-rural-health/office-rural-health-programs/rural-health-information-technology-and-telehealth-program/north-carolina-ehr-funding-program-behavioral-healthidd-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/office-rural-health/office-rural-health-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/office-rural-health/staff-directory/office-rural-health-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-blind/services-blind-district-offices/asheville-district-office-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-blind/services-blind-district-offices/charlotte-district-office-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-blind/services-blind-district-offices/fayetteville-district-office-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-blind/services-blind-district-offices/greenville-district-office-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-blind/services-blind-district-offices/raleigh-district-office-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-blind/services-blind-district-offices/wilmington-district-office-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-blind/services-blind-district-offices/winston-salem-district-office-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-deaf-and-hard-hearing-dsdhh/emergency-preparedness/public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-deaf-and-hard-hearing-dsdhh/new-medicaid-requirements-may-affect-your-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/services-deaf-and-hard-hearing-dsdhh/telehealth-guidance-and-resources/guidance-healthcare-providers-patients-are-deaf-hard-hearing-or-deafblind",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-support-services/glossary-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-support-services/public-invited-comment-proposed-john-h-chafee-foster-care-program-plan-2020-2024",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-welfare-services/citizen-review-panels/citizen-review-panel-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-welfare-services/substance-affected-infants-information-and-resources/infant-plan-safe-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-welfare-services/substance-affected-infants-information-and-resources/infant-plan-safe-care/additional-resources-infant-plan-safe-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-welfare-services/substance-affected-infants-information-and-resources/infant-plan-safe-care/child-welfare",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-welfare-services/substance-affected-infants-information-and-resources/infant-plan-safe-care/place-delivery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-welfare-services/substance-affected-infants-information-and-resources/infant-plan-safe-care/prenatal-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/child-welfare-services/substance-affected-infants-information-and-resources/infant-plan-safe-care/substance-use-disorder-treatment",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2015-16-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2016-17-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2017-18-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2018-19-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2019-20-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2020-2021-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2021-2022-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2024-2025-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2025-2026-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/2026-2027-budget-estimates-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/county-budget-estimates-2022-2023",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/budget-estimates/county-budget-estimates-2023-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/dss-budget-estimates",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2012-2013-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2013-2014-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2014-2015-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2015-2016-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2016-2017-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2017-2018-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2018-2019-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2019-2020-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2020-2021-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/budget-information/information-county-departments-social-services/2021-2022-combined-signature-sheet-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/county-director-letters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/county-director-letters/dss-dear-county-director-archive",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/directors-and-fiscal-meeting",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/hurricane-helene-information-local-social-services-agencies",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/local-support-staff-schedules/child-support-services-continuous-quality-improvement-specialists",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/local-support-staff-schedules/economic-and-family-services-program-representatives",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/local-support-staff-schedules/food-and-nutrition-services-and-energy-programs-representatives",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/local-support-staff-schedules/regional-child-welfare-specialist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/monitoring",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/monitoring/compliance-supplements-and-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/other-programs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/other-programs/interpreter-services-deaf-deaf-blind-and-hard-hearing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/other-programs/keys-summary-standards",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/other-programs/lifeline-and-link-programs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/other-programs/ncdhhs-alerts",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/other-resource-tools",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/other-resource-tools/child-welfare-supervisors-tool-kit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/policy-office-hours",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/regional-support-staff-assignments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/regional-support-staff-assignments/food-and-nutrition-services-quality-control-unit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/regional-support-staff-assignments/local-business-liaisons",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/county-staff-information/training",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/energy-assistance/low-income-energy-assistance/public-notice-liheap-block-grant-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/public-notices/child-and-family-services-performance-improvement-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/social-services/publications/temporary-assistance-needy-families-state-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/state-operated-healthcare-facilities/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/divisions/state-operated-healthcare-facilities/price-transparency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/07/13/ncdhhs-expands-covid-19-vaccination-data-include-federal-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/07/14/77-staff-state-operated-healthcare-facilities-are-vaccinated",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/07/19/nc-medicaid-health-plans-join-nccare360-improve-delivery-coordinated-medical-and-non-medical-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/07/26/ncdhhs-announces-medicaid-managed-care-regional-behavioral-health-idd-tailored-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/08/04/ncdhhs-adds-county-level-covid-19-vaccination-data-federal-providers-dashboard",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/09/14/riddle-center-cancels-2021-holiday-parade-continues-holiday-display-tradition",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/10/11/nearly-all-staff-state-operated-healthcare-facilities-fully-vaccinated",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/10/23/update-ncdhhs-releases-draft-olmstead-plan-extends-public-comment-through-nov-8",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/11/01/new-data-dashboard-tracks-trends-violent-deaths-north-carolina-aid-safety-and-prevention-efforts",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/11/03/pfizer-biontech-covid-19-vaccine-now-available-children-ages-5-11",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/11/15/ncdhhs-announces-updated-launch-behavioral-health-idd-tailored-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2021/12/01/applications-low-income-energy-assistance-program-help-heating-costs-start-today",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/01/06/north-carolinians-encouraged-apply-online-help-energy-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/01/12/ncdhhs-outlines-priorities-strengthen-states-system-community-based-services-and-supports-people",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/01/19/ncdhhs-host-livestream-fireside-chat-and-tele-town-hall-covid-19-vaccines-boosters-safety-during",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/01/20/ncdhhs-launches-new-plan-advance-employment-individuals-intellectualdevelopmental-disabilities",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/01/21/people-vaccinated-federal-pharmacy-program-providers-can-now-access-their-covid-19-vaccine",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/01/28/global-supply-shortages-and-shipping-delays-affect-food-and-nutrition-services-recertification-forms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/02/01/federal-staffing-supports-arrive-atrium-health-pineville-25-counties-receive-federal-ambulance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/02/01/ncdhhs-host-livestream-cafecito-and-tele-town-hall-covid-19-vaccines-boosters-safety-during-surge",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/03/17/ncdhhs-releases-plan-data-dashboard-updates-next-phase-covid-19-response",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/03/23/new-action-plan-aims-helping-children-complex-behavioral-needs-who-come-care-child-welfare",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/03/31/postpartum-coverage-extended-12-months-nc-medicaid-beneficiaries-beginning-april-1",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/05/24/take-simple-steps-practice-water-safety-and-protect-against-drowning-and-stay-healthy-health",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/07/12/ncdhhs-launches-raise-nc-highlight-value-states-early-care-and-learning-network",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/07/14/ncdhhs-releases-response-plan-2022-monkeypox-outbreak",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/07/21/novavax-covid-19-vaccine-authorized-and-recommended-adults-18-and-older",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/08/30/ncdhhs-doubles-down-commitment-health-equity-through-new-state-health-improvement-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/09/16/north-carolina-releases-state-action-plan-address-suicide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/09/29/ncdhhs-delays-medicaid-managed-care-tailored-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/09/29/ncdhhs-urges-safety-practices-and-after-remnants-hurricane-ian",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/11/17/state-health-officials-address-public-health-strategies-increase-community-and-family-safety-firearm",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/11/28/updated-nc-dental-opioid-action-plan-includes-strategies-help-dentists-prevent-misuse-opioids",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/12/06/applications-help-low-income-households-heating-costs-now-available",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2022/12/14/north-carolina-impacted-texas-oyster-recall-illnesses-reported",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/02/01/north-carolina-awarded-federal-preschool-development-grant-boost-states-family-child-care-home",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/02/27/ncdhhs-delays-implementation-nc-medicaid-managed-care-behavioral-health-and-idd-tailored-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/03/28/new-north-carolina-school-behavioral-health-action-plan-aims-address-youth-health-crisis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/04/28/new-state-action-plan-aims-meet-food-and-nutrition-needs-north-carolina-children-and-families",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/07/11/launch-behavioral-health-and-intellectualdevelopmental-disabilities-tailored-plans-delayed",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/08/04/new-comprehensive-resource-available-support-breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/09/08/september-national-food-safety-education-month",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/09/20/ncdhhs-secretary-kody-h-kinsley-get-fall-covid-19-vaccine-and-flu-vaccine-cvs-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/10/25/state-health-improvement-plan-updated-addressing-social-drivers-health-medicaid-expansion-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2023/12/15/north-carolina-joins-southeastern-states-partnership-combat-surge-congenital-syphilis-infections",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/02/08/request-proposal-application-period-opens-children-and-family-specialty-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/02/15/ncdhhs-releases-draft-olmstead-plan-public-comment-open-through-march-7",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/02/22/ncdhhs-launches-community-partner-engagement-plan-secretarial-directive-improve-health-outcomes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/03/05/new-sun-bucks-food-program-feed-children-over-summer",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/03/28/statement-state-child-welfare-staff-exits-nash-county-returns-control-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/04/03/2024-25-olmstead-plan-improve-choice-community-based-services-people-disabilities",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/04/09/early-childhood-action-plan-updated-address-urgent-issues-impacting-children",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/04/10/july-1-launch-behavioral-health-and-intellectualdevelopmental-disabilities-tailored-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/05/20/ncdhhs-shares-safety-practices-healthy-summer-ahead-memorial-day-weekend",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/06/04/governor-cooper-announces-sun-bucks-program-feed-one-million-north-carolina-school-children-summer",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/06/26/ncdhhs-launches-comprehensive-workforce-plan-address-direct-support-professional-shortage",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/06/27/nc-medicaid-launches-behavioral-health-and-intellectualdevelopmental-disabilities-tailored-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/07/02/ncdhhs-releases-statement-state-health-director-dr-elizabeth-cuervo-tilson-expanding-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/07/11/ncdhhs-encourages-recreational-water-safety-summer",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/08/15/ncdhhs-announces-nc-medicaid-managed-care-children-and-families-specialty-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/08/23/ncdhhs-launches-strategic-housing-plan-expand-support-people-disabilities",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/09/16/ncdhhs-encourages-north-carolinians-make-plan-and-get-vaccinated-against-flu-covid-19",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/09/24/all-ages-all-stages-nc-roadmap-aging-and-living-well-plan-kickoff-event",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/10/10/ncdhhs-urges-well-and-septic-safety-following-hurricane-helene",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/10/11/restaurants-impacted-hurricane-helene-can-apply-operate-under-emergency-operations-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/10/15/ncdhhs-urges-safety-measures-heating-homes-western-nc-temperatures-drop",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/10/25/ncdhhs-livestream-fireside-chat-and-tele-town-hall-nc-medicaid-more-people-health-coverage-options",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/10/29/hotels-and-motels-impacted-hurricane-helene-can-apply-operate-under-emergency-operations-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/11/20/ncdhhs-and-ecu-celebrate-partnership-and-launch-gambling-research-and-policy-initiative",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/11/25/low-income-energy-assistance-program-begins-accepting-applications-dec-2-help-heating-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/11/26/celebrate-safely-follow-food-safety-guidelines-ensure-healthy-holiday-gathering",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2024/12/09/ncdhhs-introduces-toolkit-states-take-action-medical-debt",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/01/07/disaster-energy-assistance-available-25-counties-impacted-hurricane-helene-help-heating-costs-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/01/09/expanding-access-lowering-costs-and-investing-what-works-improve-health-all-north-carolinians",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/04/22/mpox-found-wastewater-north-carolina-ncdhhs-urges-public-and-providers-be-alert",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/05/16/ncdhhs-expands-student-loan-repayment-rural-health-care-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/05/23/ncdhhs-emphasizes-summer-safety-practices-temperatures-rise-across-north-carolina",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/05/30/ncdhhs-host-session-advancing-olmstead-plan-june-9-i2i-spring-2025-conference-secretary-sangvai-also",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/06/11/north-carolina-suicide-prevention-action-plan-posted-public-comment",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/07/18/ncdhhs-releases-black-youth-suicide-action-plan-tackle-rising-number-suicides-among-black-youth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/08/06/ncdhhs-secretary-dev-sangvai-releases-statement-ncga-spending-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/09/30/ncdhhs-releases-state-suicide-prevention-action-plan-suicide-awareness-month-comes-close",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/11/08/ncdhhs-pauses-full-snap-payments-after-court-decision-remains-ready-process-benefits-when-authorized",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/11/18/ncdhhs-urges-north-carolinians-be-antibiotic-aware-prevent-antibiotic-resistance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/11/19/ncdhhs-releases-2025-2030-action-plan-reduce-cancer-burden-north-carolinians",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2025/12/01/north-carolina-launches-children-and-families-specialty-health-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2026/06/02/healthy-opportunities-pilots-lead-healthier-outcomes-and-reduce-nc-medicaid-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2026/07/22/new-plan-aims-improve-access-services-and-support-systems-people-traumatic-brain-injury-north",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2026/07/29/ncdhhs-announces-ncrhtp-advisory-committee-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2026/09/16/state-child-welfare-staff-exits-bertie-county-returns-control-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/news/press-releases/2026/10/01/ncdhhs-announces-updated-strategic-plan-and-department-priorities",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/health-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/health-care/community-rehabilitation-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/health-care/healthnet",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/health-care/jim-bernstein-community-health-leadership-fellowship-opportunity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/health-care/long-term-care-ombudsman-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/health-care/planning-budget-and-systems-support",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/health-care/rural-health-information-technology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/health-care/rural-health-operations-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/licensure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/licensure/facility-licensure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/licensure/facility-licensure/child-development-and-early-education",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/licensure/facility-licensure/social-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/licensure/facility-ratings-and-stats",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/licensure/professional-licensure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/lme-mco-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/dwi-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/nc-incident-response-improvement-system",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/nctracks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/nctracks/nctracks-fy-2027-documents",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/state-funded-service-definitions/proposed-state-funded-service-definition-policies",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-info/health-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-info/mental-health-development-disabilities-and-substance-abuse-services/cdw-online-consumer-data-warehouse",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-info/mental-health-development-disabilities-and-substance-abuse-services/doj-settlement-transitions-community-living",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-info/mental-health-development-disabilities-and-substance-abuse-services/look-behind-quality-assurance-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-info/mental-health-development-disabilities-and-substance-abuse-services/nctracks/nctracks-fy-2023-documents",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-info/mental-health-development-disabilities-and-substance-abuse-services/printable-interview-forms",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/child-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-abuse-services/early-periodic-screening-diagnostic-and-treatment-medicaid-services-children",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/dwi-providers/dwi-forms-and-clinical-records",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/idd-systems-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/idd-systems-services/statewide-transition-plan-toolkit",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/nc-incident-response-improvement-system-iris/incident-response-improvement-system-iris-forms",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/nc-incident-response-improvement-system-iris/iris-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/nctracks/nctracks-fy-2024-documents",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/nctracks/nctracks-fy-2025-documents",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/payment-verification-form-sa-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/plans-correction",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-and-substance-use-services/state-funded-service-definitions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/alcohol-drug-education-training-school",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/dual-diagnosis-screening-educational-tools",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/dwi-providers/dwi-statutes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/dwi-providers/dwi-statutes-and-rules",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/first-level-commitment-examiner-certification",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/nc-snap-nc-support-needs-assessment-profile",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/nctracks/nctracks-fy-2026-documents",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/pharmacology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdhhs.gov/providers/provider-information/mental-health-development-disabilities-substance-use-services-and-traumatic-brain-injuries/problem-gambling",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

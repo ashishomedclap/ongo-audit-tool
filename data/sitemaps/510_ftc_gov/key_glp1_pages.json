@@ -1,0 +1,13 @@
+{
+  "name": "Ftc.gov",
+  "domain": "ftc.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://ftc.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://ftc.gov/pricing"
+  ],
+  "all_categorized": []
+}

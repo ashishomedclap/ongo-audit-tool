@@ -92,35 +92,6 @@ export default function BooksLibraryTab({ initialIndex, initialSlug, onBookChang
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-      {/* Context Cue */}
-      <ContextCue
-        level={1}
-        toolNumber={2}
-        badge="7 Books (PDF)"
-        title="7 Onboarding Books Digital Library"
-        useCase="Study the exact onboarding playbooks covering clinical GLP-1 compounding laws, Next.js technical SEO, off-page PR, and analytics before executing site audits."
-        about="This digital library embeds all 7 official onboarding books (2,924 pages, 518,620 words) written for the Ongo Weight Loss team. It renders the original updated PDF volumes directly inside your browser with full table-of-contents navigation, search (Ctrl+F), page zoom, bookmarks, and one-click downloads."
-        whatYouCanDo={[
-          {
-            action: "Switch Books via Dropdown Menu",
-            description: "Use the dedicated volume dropdown menu to switch books instantly while updating the browser URL to /books/[slug]."
-          },
-          {
-            action: "Read Full PDF Volumes",
-            description: "Read books 1 through 7 with browser-native zooming, multi-page layout, thumbnail panel, and text selection."
-          },
-          {
-            action: "Toggle Reader vs Grid View",
-            description: "Switch between the focused distraction-free PDF viewer and the multi-volume visual catalog."
-          },
-          {
-            action: "Download Original PDFs",
-            description: "Download any of the 7 updated PDF volumes for offline study or local clinical reference."
-          }
-        ]}
-        tip="Use your browser's native search (Ctrl+F / Cmd+F) inside the embedded PDF viewer to search any clinical phrase, pharmacy statute, or Next.js code snippet across 2,924 pages."
-      />
-
       {/* Sleek Minimalist Tool Header */}
       <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '14px' }}>
@@ -488,8 +459,7 @@ export default function BooksLibraryTab({ initialIndex, initialSlug, onBookChang
               {/* Quick Select Dropdown inside Reader Toolbar */}
               <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                 <span style={{ fontSize: '11px', color: '#64748b', fontWeight: 600 }}>Switch:</span>
-                <select
-                  value={selectedBook.slug}
+                <select aria-label="Select onboarding book volume" value={selectedBook.slug}
                   onChange={(e) => {
                     const match = books.find(b => b.slug === e.target.value);
                     if (match) handleSelectBook(match);

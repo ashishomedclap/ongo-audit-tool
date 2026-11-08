@@ -1,0 +1,30 @@
+{
+  "name": "Inspirewellnessclinic",
+  "domain": "inspirewellnessclinic.com",
+  "total_urls": 19,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://inspirewellnessclinic.com/membership/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://inspirewellnessclinic.com/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://inspirewellnessclinic.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://inspirewellnessclinic.com/termsandconditions/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

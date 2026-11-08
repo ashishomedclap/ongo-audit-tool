@@ -1,0 +1,3362 @@
+{
+  "name": "WeightWatchers Clinic",
+  "domain": "weightwatchers.com",
+  "total_urls": 3143,
+  "semaglutide_pages": [
+    "https://www.weightwatchers.com/uk/weight-loss-medication/wegovy",
+    "https://www.weightwatchers.com/uk/weight-loss-medication/wegovy-pill",
+    "https://www.weightwatchers.com/us/blog/book-club-ozempic-revolution",
+    "https://www.weightwatchers.com/us/blog/can-you-skip-a-week-of-wegovy",
+    "https://www.weightwatchers.com/us/blog/does-ozempic-need-to-be-refrigerated",
+    "https://www.weightwatchers.com/us/blog/does-wegovy-need-to-be-refrigerated",
+    "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
+    "https://www.weightwatchers.com/us/blog/how-long-does-wegovy-stay-in-your-system",
+    "https://www.weightwatchers.com/us/blog/how-long-does-wegovy-take-work",
+    "https://www.weightwatchers.com/us/blog/how-to-inject-ozempic",
+    "https://www.weightwatchers.com/us/blog/how-to-inject-wegovy",
+    "https://www.weightwatchers.com/us/blog/metformin-vs-ozempic",
+    "https://www.weightwatchers.com/us/blog/mounjaro-vs-ozempic",
+    "https://www.weightwatchers.com/us/blog/natural-ozempic",
+    "https://www.weightwatchers.com/us/blog/over-the-counter-ozempic"
+  ],
+  "tirzepatide_pages": [
+    "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
+    "https://www.weightwatchers.com/us/blog/how-to-inject-mounjaro",
+    "https://www.weightwatchers.com/us/blog/how-to-inject-zepbound",
+    "https://www.weightwatchers.com/us/blog/mounjaro-cost",
+    "https://www.weightwatchers.com/us/blog/mounjaro-dosage",
+    "https://www.weightwatchers.com/us/blog/mounjaro-shortage",
+    "https://www.weightwatchers.com/us/blog/mounjaro-side-effects",
+    "https://www.weightwatchers.com/us/blog/mounjaro-vs-ozempic",
+    "https://www.weightwatchers.com/us/blog/ozempic-pill-vs-mounjaro",
+    "https://www.weightwatchers.com/us/blog/saxenda-wegovy-zepbound",
+    "https://www.weightwatchers.com/us/blog/tirzepatide-sleep-apnea",
+    "https://www.weightwatchers.com/us/blog/trulicity-vs-mounjaro",
+    "https://www.weightwatchers.com/us/blog/wegovy-and-mounjaro",
+    "https://www.weightwatchers.com/us/blog/wegovy-and-mounjaro-qa",
+    "https://www.weightwatchers.com/us/blog/wegovy-vs-mounjaro"
+  ],
+  "pricing_pages": [
+    "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-dairy-free",
+    "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-gluten-free",
+    "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-pescatarian",
+    "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-vegan",
+    "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-vegetarian",
+    "https://www.weightwatchers.com/uk/carbon-reduction-plan-2026",
+    "https://www.weightwatchers.com/uk/help-hub-faqs/account-billing/memberships",
+    "https://www.weightwatchers.com/uk/membership-agreement",
+    "https://www.weightwatchers.com/uk/noom-vs-ww-compare-weight-loss-plans",
+    "https://www.weightwatchers.com/uk/plans",
+    "https://www.weightwatchers.com/uk/plans-ht-55off",
+    "https://www.weightwatchers.com/uk/plans-ht-60off",
+    "https://www.weightwatchers.com/uk/plans-ht-750",
+    "https://www.weightwatchers.com/uk/plans-mobile",
+    "https://www.weightwatchers.com/uk/plans-tiktok"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-dairy-free",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-gluten-free",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-pescatarian",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-vegan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/5-day-weight-loss-meal-plan-sample-vegetarian",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/cancellation",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/carbon-reduction-plan-2026",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/cookie-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/customer-information-cancellation",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/account-billing",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/account-billing/billing",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/account-billing/memberships",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/account-billing/your-details",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/connect",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/connect/connect-basics",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/connect/connect-groups",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/connect/connect-guidelines",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/northern-ireland",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/our-programme",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/our-programme/food",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/our-programme/mindset-activity-sleep",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/our-programme/programme-basics",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/our-programme/referrals-diabetic-members",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/our-programme/wellnesswins",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/our-programme/workshops",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/help-hub-faqs/technical-help",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/how-to-cancel",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/ie-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/invite-friend-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/membership-agreement",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/menopause/pdp-safety/estradiol-tablets-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/noom-vs-ww-compare-weight-loss-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/plans-ht-55off",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/plans-ht-60off",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/plans-ht-750",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/plans-mobile",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/plans-tiktok",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/pregnancy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/satisfaction-guarantee",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/weight-loss-medication/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/uk/weight-loss-medication/wegovy-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/apple-health-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/30-day-plank-challenge",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/5-day-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/6-week-biking-cycling-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/7-questions-every-man-should-ask-his-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/7-steps-start-fitness-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/8-week-walk-to-run-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/FAQs-carbs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/Iced-coffee-and-tea-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/adeena-sussman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/aileen-lindenthal",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ali-finney",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ali-mcgowan",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alice-lesch-kelly",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alice-oglethorpe",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alicia-trivison",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alie-martell-mallon",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alisa-hrustic",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alisha-mckinney",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alison-feller",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/allison-holladay",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ally-marks",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alyson-penn",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alyssa-ashley",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/alyssa-shaffer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/amanda-genge",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/amanda-may-dundas",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/amy-gorin",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/amy-schlinger",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/anita-sado",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ann-gault",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/anna-davies",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/anne-fritz",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ariel-scotti",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ashley-mateo",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ayren-jackson-cannady",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/bailey-swilley",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/barbara-brody",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/bari-lieberman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/beth-janes-okeefe",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/beverly-willett",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/bob-cooper",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/brianna-graham",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/brigid-washington",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/bruce-weinstein",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/caitlin-carlson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/camille-noe",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/carey-rossi",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/cari-wira-dineen",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/carol-lynn-krol",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/carol-prager",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/caroline-sandry",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/cassie-shortsleeve",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/cat-perry",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/charlotte-hilton-andersen",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/cheryl-kramer-kaye",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/cheryl-s-grant",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/chris-knight",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/christa-sgobba",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/christina-orlovsky-page",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/christina-wilkins",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/colleen-de-bellefonds",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/colleen-travers",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/cristina-flores",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/dana-leigh-smith",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/daniel-hodge",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/danielle-braff",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/danielle-dondiego",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/danielle-schlass-saliman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/danielledimeglio",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/david-gould",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/dawn-gay",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/deanna-pai",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/debbie-koenig",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/denise-schipani",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/diana-kelly-levey",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/dory-zayas",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/duane-swierczynski",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/elana-verbin-bizer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/eliza-savage",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/elizabeth-brownfield",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/elizabeth-millard",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/elizabeth-narins",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/emily-abbate",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/erin-quinlan",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/estelle-sobel",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/fiorella-valdesolo",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/fiza-pirani",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/gail-oconnor",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/geraldine-vincent",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ginger-vieira",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/grace-young",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/heather-boerner",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/heather-gowen-walsh",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/heather-mayer-irvine",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/heeseung-kim",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/hilary-weissman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/hina-surani",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/holly-pevzner",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jaclyn-london",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jamie-schneider",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/janelle-randazza",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jeanine-detz",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jeannie-ralston",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jeffery-lindenmuth",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jenna-autuori-dedic",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jennifer-krazit",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jennifer-picht",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jennifer-s-lazarus",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jennifer-tzeses",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jessica-cassity",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jessica-digiacinto",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jessica-migala",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/jill-herzig",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/joanne-van-zuidam",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/joe-mcgurk",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/joe-wuebben",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/judy-koutsky",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/julia-turshen",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/julia-wexler",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/julie-hartigan",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/juliet-glass",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/juno-demelo",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/justin-kompf",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kaleisha-fetters",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/karen-ansel",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/karen-asp",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/karen-j-bannan",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/karla-walsh",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kate-elizabeth-queram",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kate-heddings",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kate-kelly",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kate-lawler",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/katerina-gkionis",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/katerina-savvides",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/katherine-schreiber",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kathleen-ferraro",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kathryn-anne-stewart",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/katti-gray",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kelly-james-enger",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kim-daly-farrell",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kim-yawitz",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kimberly-holland",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kip-mcdaniel",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/korin-miller",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/krista-bennett-demaio",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kristen-domonell",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kristen-fischer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/kristen-putch",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lambeth-hochwald",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lara-rosenbaum",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/laura-tedesco",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/laurel-leicht",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lauren-del-turco",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/laurie-lethert-kocanda",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/leanna-carpenter",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lee-anna-jackson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lesley-porcelli",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/leslie-fink",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/leslie-goldman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/leslie-pepper",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lillian-yang",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/linda-danh-do-rdn-mches-clec",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/linda-melone",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/linda-rodgers",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lindsey-emery",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lisa-chernick",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lisa-freedman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lisa-marie-basile",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lisa-milbrand",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lisa-schweitzer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/liz-brous",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/liz-krieger",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/liz-menz-figenshu",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/liz-zack",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/loreal-thompson-payton",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lorraine-glennon",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lorraine-martindale",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lou-schuler",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/lucy-shanker",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/maddie-dawson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/mallory-creveling",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/mandy-rich",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/marcy-lovitch",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/maressa-brown",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/maria-masters",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/marisa-iallonardo",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/marisa-meltzer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/marissa-deangelis",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/mark-scarbrough",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/marty-munson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/mary-elizabeth-hurn",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/marygrace-taylor",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/matt-vatour",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/matthew-poplin",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/matthew-sloan",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/megan-gressor",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/megan-mcmorris",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/meghan-rabbitt",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/meirav-devash",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/melanie-basel",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/melanie-mannarino",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/melissa-chessher",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/melissa-daly",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/melissa-roberson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/melissa-sperl",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/meredith-phares",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/michele-shapiro",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/michele-stanten",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/michelle-basta-speers",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/michelle-goodman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/michelle-olson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/michelle-vongphakdy",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/mike-carlson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/mindy-fox",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/nancy-rones",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/natalie-ermann-russell",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/natalie-nodecker",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/nichole-aksamit",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/nick-divito",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/nicole-saporita",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/nicole-yorio-jurick",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/patrice-grell-yursik",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/pauline-frommer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/rachael-schultz",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/rachel-morris",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/rachel-sturtz",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/rachelle-bergstein",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/renae-wilson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/renee-bacher",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/reyna-gobel",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/richard-laliberte",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/rita-colorito",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/rita-shushy-setrakian-ms-rdn",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/rob-story",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/ronni-freedman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/s-kirk-walsh",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sally-bevan",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sally-hammond",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/samantha-belluccia",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sandi-kahn-shelton",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sarah-abston",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sarah-elizabeth-richards",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sarah-mahoney",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sarah-munn",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sarah-z-wexler",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/scott-a-rosenberg",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sharon-liao",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/shaun-chavis",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sherry-rujikarn",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sheryl-kraft",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/sophie-wale",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/spencer-nadolsky",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/stacey-colino",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/stephanie-anderson-witmer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/stephanie-eckelkamp",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/stephanie-emma-pfeffer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/stephanie-osfield",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/susan-brown",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/susan-spungen",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/tara-comonte",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/tara-santora",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/teresa-tobat",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/terry-grieco-kenny",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/theresa-dimasi",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/theresa-orourke",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/toni-gerber-hope",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/valerie-reiss",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/vanessa-geneva-ahern",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/vicki-salemi",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/victoria-clayton",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/virginia-willis",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/weight-watchers",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/wendy-giman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/authors/william-r-sukala",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/best-plant-based-protein-sources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/blog-je-microbioom-tijdens-de-menopauze",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/book-club-ozempic-revolution",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/can-you-skip-a-week-of-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/category/fitness/basics/planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/category/fitness/basics/plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/category/food/strategies/meal-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/category/weight-loss/program/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/choosing-planning-goals",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/coffee-myths",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/coffee-tracking-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/coronavirus-food-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/covid-19-body-weight-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/covid-19-holiday-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/covid-19-picnic-safety-tips",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/does-ozempic-need-to-be-refrigerated",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/does-wegovy-need-to-be-refrigerated",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/editorial-process",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/eggplant-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/favorite-non-dairy-coffee-creamer",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/feel-more-supported-your-journey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/food-safety-FAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/glp-1-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/healthy-shopping-costco",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/high-protein-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-georgia-lost-117-pounds",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-long-does-wegovy-stay-in-your-system",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-long-does-wegovy-take-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-make-exercise-feel-good",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-eat-more-protein-without-feeling-too-full-with-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-feel-full",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-handle-your-feelings",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-inject-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-inject-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-inject-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-inject-zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-make-an-exercise-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-to-switch-plan-colors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/how-weight-affects-your-feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/hungover-how-eat-feel-better",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/je-microbioom-tijdens-de-menopauze",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/keto-diet-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/med-spa-glp1-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/metformin-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/monthly-workout-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/mounjaro-cost",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/mounjaro-dosage",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/mounjaro-shortage",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/mounjaro-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/mounjaro-vs-ozempic",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/natural-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/over-the-counter-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-alternatives",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-constipation-fiber",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-cost",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-dosage",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-foods-to-avoid",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-pill-dosage",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-pill-vs-mounjaro",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-shortage",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ozempic-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/pcos-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/planning-family-fitness",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/plant-based-diet-protein",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/plant-based-eating",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/purple-5-day-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ready-setcycle-game-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/reviewers/val-silfee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/rybelsus-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/rybelsus-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/sample-meal-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/saxenda-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/saxenda-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/saxenda-vs-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/saxenda-wegovy-zepbound",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/science-center-review-cost-effectiveness",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/smartpoints-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/supplement-bioavailability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/themacrobarista-x-ww-coffee-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/three-speed-dinners-eggplant-excellence",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/tirzepatide-sleep-apnea",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/trulicity-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/trulicity-vs-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/trulicity-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/understanding-insurance-related-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/valerie-silfee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/visiting-the-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/walking-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ways-to-feel-happy",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-menu-plant-based-proteins",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-bean-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-big-batch-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-big-batch-soups",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-instant-pot-dinner-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-pizza-dinner-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-pumpkin-squash-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-sheet-pan-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-simple-fall-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-spicy-meals",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/weekly-dinner-plan-veggie-packed-recipes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-and-mounjaro",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-and-mounjaro-qa",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-cost",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-dosage",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-fatty-liver-mash",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-foods-to-avoid",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-ingredients",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-pill-vs-injection",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-shortage",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-vs-mounjaro",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/wegovy-vs-phentermine",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-a-compounding-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-ozempic-face",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-ozempic-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-the-diet-to-follow-while-taking-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-the-keto-diet-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-is-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/what-ozempic-butt",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/ww-membership-features",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-and-ozempic",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-cost",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-dosage",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-foods-to-avoid",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-for-weight-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-shortage",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-vs-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/blog/zepbound-vs-wegovy",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/cancellation",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/diabetes-tailored-plan-connected-experience",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/employers/costco",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/employers/floridahealth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/employers/ohiohealth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/employers/ohiohealthcancercare",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/employers/zimmerbiomet",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/franchise-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/invite-friend-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/menopause/pdp-safety/estradiol-cream-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/menopause/pdp-safety/estradiol-tablets-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/menopause/pdp-safety/estradiol-transdermal-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/menopause/pdp-safety/progesterone-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/participating-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/participating-locations-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/participating-locations-3",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/participating-locations-4",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/participating-locations-menopause",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/participating-locations-uwin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-abbott",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v1",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v10",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v2",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v3",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v4",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v5",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v6",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v7",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v8",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-ht-v9",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-mobile",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-nift",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-offers-aband",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-offers-bday",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-offers-nurture1",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-offers-nurture2",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-offers-ppw",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-offers/crm/opt/dm",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-offers/main-workshops/crm/opt/dm",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans-tiktok",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans/main-workshops",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans/main-workshops-crm-rc-2025-workshop-member",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans/pvolve",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans/registered-dietitian",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/plans/uwin",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/pregnancypolicy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/privacy/policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/bupropion",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/foundayo",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/metformin",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/mounjaro",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/naltrexone",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/ozempic",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/ozempic-pill",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/rybelsus",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/saxenda",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/trulicity",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/victoza",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/wegovy",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/wegovy-pill",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/safety-info/zepbound",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/bill-of-rights",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/centerwell-authorization",
+      "categories": [
+        "Author",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/centerwell-patient-consent",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/health-notice",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/membership",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/sms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/telehealth-informed-consent",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/web",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/termsandconditions/ww-clinic",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/update-diabetes-tailored-plan-weightwatchers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/cost-estimator",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/cost-estimator-v2",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/ozempic-pill-shopping",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/ozempic-shopping",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/wegovy-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/wegovy-pill-shopping",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/wegovy-pill-tiktok",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/wegovy-shopping",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/zepbound-pen",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/zepbound-shopping",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.weightwatchers.com/us/weight-loss-medication/zepbound-vial",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

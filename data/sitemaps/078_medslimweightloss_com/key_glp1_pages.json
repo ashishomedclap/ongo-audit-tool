@@ -1,0 +1,61 @@
+{
+  "name": "Medslimweightloss",
+  "domain": "medslimweightloss.com",
+  "total_urls": 76,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://medslimweightloss.com/meal-plans/",
+    "https://medslimweightloss.com/product/hcg-23-30-day-weight-loss-plan/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://medslimweightloss.com/about-us-2/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medslimweightloss.com/author/admin/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://medslimweightloss.com/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medslimweightloss.com/meal-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medslimweightloss.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medslimweightloss.com/product/bi-prozyme-a-superior-therapeutic-probiotic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medslimweightloss.com/product/hcg-23-30-day-weight-loss-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medslimweightloss.com/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

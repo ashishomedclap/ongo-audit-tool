@@ -1,0 +1,5262 @@
+[
+  {
+    "id": "cp-1",
+    "domain": "evolutionhwc.com",
+    "relevance": 0.18,
+    "commonKeywords": 8,
+    "organicKeywords": 127,
+    "organicTraffic": 343,
+    "organicCost": 1883,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-2",
+    "domain": "professionalweightmanagement.com",
+    "relevance": 0.18,
+    "commonKeywords": 8,
+    "organicKeywords": 73,
+    "organicTraffic": 40,
+    "organicCost": 98,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-3",
+    "domain": "wilmingtonweightloss.com",
+    "relevance": 0.16,
+    "commonKeywords": 7,
+    "organicKeywords": 1242,
+    "organicTraffic": 381,
+    "organicCost": 1937,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-4",
+    "domain": "georgiaadvancedhealthcare.com",
+    "relevance": 0.15,
+    "commonKeywords": 5,
+    "organicKeywords": 123,
+    "organicTraffic": 46,
+    "organicCost": 59,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-5",
+    "domain": "summithealthmo.com",
+    "relevance": 0.15,
+    "commonKeywords": 7,
+    "organicKeywords": 217,
+    "organicTraffic": 318,
+    "organicCost": 977,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-6",
+    "domain": "dwlclinic.com",
+    "relevance": 0.13,
+    "commonKeywords": 6,
+    "organicKeywords": 108,
+    "organicTraffic": 35,
+    "organicCost": 345,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-7",
+    "domain": "bridgemillfamilyhealthcare.com",
+    "relevance": 0.13,
+    "commonKeywords": 4,
+    "organicKeywords": 105,
+    "organicTraffic": 130,
+    "organicCost": 958,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-8",
+    "domain": "georgiamtc.com",
+    "relevance": 0.11,
+    "commonKeywords": 4,
+    "organicKeywords": 508,
+    "organicTraffic": 286,
+    "organicCost": 1065,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-9",
+    "domain": "revivalmedicalweightlossclinic.com",
+    "relevance": 0.09,
+    "commonKeywords": 4,
+    "organicKeywords": 15,
+    "organicTraffic": 7,
+    "organicCost": 32,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-10",
+    "domain": "magnoliawellnessclinics.com",
+    "relevance": 0.09,
+    "commonKeywords": 4,
+    "organicKeywords": 100,
+    "organicTraffic": 202,
+    "organicCost": 752,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-11",
+    "domain": "paradigmclinicokc.com",
+    "relevance": 0.09,
+    "commonKeywords": 4,
+    "organicKeywords": 33,
+    "organicTraffic": 76,
+    "organicCost": 5,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-12",
+    "domain": "lotuscenterofhealth.com",
+    "relevance": 0.08,
+    "commonKeywords": 5,
+    "organicKeywords": 179,
+    "organicTraffic": 602,
+    "organicCost": 649,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-13",
+    "domain": "hartleyhealthandwellness.org",
+    "relevance": 0.08,
+    "commonKeywords": 4,
+    "organicKeywords": 132,
+    "organicTraffic": 405,
+    "organicCost": 256,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-14",
+    "domain": "renew662.com",
+    "relevance": 0.08,
+    "commonKeywords": 3,
+    "organicKeywords": 47,
+    "organicTraffic": 52,
+    "organicCost": 335,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-15",
+    "domain": "drcollados.com",
+    "relevance": 0.08,
+    "commonKeywords": 6,
+    "organicKeywords": 115,
+    "organicTraffic": 2240,
+    "organicCost": 10874,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-16",
+    "domain": "shaywellness.com",
+    "relevance": 0.07,
+    "commonKeywords": 3,
+    "organicKeywords": 42,
+    "organicTraffic": 56,
+    "organicCost": 423,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-17",
+    "domain": "minnesotaweightlossclinic.com",
+    "relevance": 0.07,
+    "commonKeywords": 3,
+    "organicKeywords": 32,
+    "organicTraffic": 198,
+    "organicCost": 1447,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-18",
+    "domain": "mnfatloss.com",
+    "relevance": 0.07,
+    "commonKeywords": 3,
+    "organicKeywords": 41,
+    "organicTraffic": 519,
+    "organicCost": 2888,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-19",
+    "domain": "cfwtn.com",
+    "relevance": 0.05,
+    "commonKeywords": 2,
+    "organicKeywords": 203,
+    "organicTraffic": 160,
+    "organicCost": 1025,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-20",
+    "domain": "professionalweightloss.com",
+    "relevance": 0.05,
+    "commonKeywords": 2,
+    "organicKeywords": 185,
+    "organicTraffic": 500,
+    "organicCost": 3192,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-21",
+    "domain": "advancedweight.com",
+    "relevance": 0.05,
+    "commonKeywords": 2,
+    "organicKeywords": 53,
+    "organicTraffic": 143,
+    "organicCost": 1326,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-22",
+    "domain": "crmcweightloss.com",
+    "relevance": 0.04,
+    "commonKeywords": 2,
+    "organicKeywords": 12,
+    "organicTraffic": 1,
+    "organicCost": 5,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-23",
+    "domain": "deltagastro.net",
+    "relevance": 0.04,
+    "commonKeywords": 3,
+    "organicKeywords": 205,
+    "organicTraffic": 648,
+    "organicCost": 383,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-24",
+    "domain": "mpweightloss.com",
+    "relevance": 0.04,
+    "commonKeywords": 1,
+    "organicKeywords": 37,
+    "organicTraffic": 22,
+    "organicCost": 18,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-25",
+    "domain": "partainmd.com",
+    "relevance": 0.04,
+    "commonKeywords": 2,
+    "organicKeywords": 90,
+    "organicTraffic": 166,
+    "organicCost": 52,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-26",
+    "domain": "womenshealthcentertn.com",
+    "relevance": 0.04,
+    "commonKeywords": 2,
+    "organicKeywords": 145,
+    "organicTraffic": 168,
+    "organicCost": 177,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-27",
+    "domain": "unitedhandshwc.com",
+    "relevance": 0.04,
+    "commonKeywords": 2,
+    "organicKeywords": 90,
+    "organicTraffic": 155,
+    "organicCost": 339,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-28",
+    "domain": "dawson-med.com",
+    "relevance": 0.04,
+    "commonKeywords": 5,
+    "organicKeywords": 450,
+    "organicTraffic": 1657,
+    "organicCost": 2509,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-29",
+    "domain": "417healthwellness.com",
+    "relevance": 0.04,
+    "commonKeywords": 5,
+    "organicKeywords": 283,
+    "organicTraffic": 1149,
+    "organicCost": 3081,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-30",
+    "domain": "mobesity.org",
+    "relevance": 0.04,
+    "commonKeywords": 4,
+    "organicKeywords": 22,
+    "organicTraffic": 2,
+    "organicCost": 13,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-31",
+    "domain": "poshmedicalspa.com",
+    "relevance": 0.03,
+    "commonKeywords": 2,
+    "organicKeywords": 391,
+    "organicTraffic": 679,
+    "organicCost": 141,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-32",
+    "domain": "rejuvenateweightloss.com",
+    "relevance": 0.03,
+    "commonKeywords": 1,
+    "organicKeywords": 6,
+    "organicTraffic": 41,
+    "organicCost": 241,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-33",
+    "domain": "msintegrative.com",
+    "relevance": 0.03,
+    "commonKeywords": 2,
+    "organicKeywords": 113,
+    "organicTraffic": 177,
+    "organicCost": 35,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-34",
+    "domain": "saltaestheticsbar.com",
+    "relevance": 0.03,
+    "commonKeywords": 5,
+    "organicKeywords": 606,
+    "organicTraffic": 1122,
+    "organicCost": 3423,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-35",
+    "domain": "keithmed.com",
+    "relevance": 0.03,
+    "commonKeywords": 3,
+    "organicKeywords": 101,
+    "organicTraffic": 244,
+    "organicCost": 348,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-36",
+    "domain": "slimweightlossclinic.com",
+    "relevance": 0.03,
+    "commonKeywords": 5,
+    "organicKeywords": 3158,
+    "organicTraffic": 493,
+    "organicCost": 3726,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-37",
+    "domain": "biosymmetrywilmington.com",
+    "relevance": 0.03,
+    "commonKeywords": 3,
+    "organicKeywords": 500,
+    "organicTraffic": 1340,
+    "organicCost": 9325,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-38",
+    "domain": "amwl.org",
+    "relevance": 0.03,
+    "commonKeywords": 1,
+    "organicKeywords": 20,
+    "organicTraffic": 23,
+    "organicCost": 101,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-39",
+    "domain": "bhattiweightlosscenter.com",
+    "relevance": 0.03,
+    "commonKeywords": 3,
+    "organicKeywords": 212,
+    "organicTraffic": 183,
+    "organicCost": 460,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-40",
+    "domain": "eweightlossmd.com",
+    "relevance": 0.03,
+    "commonKeywords": 2,
+    "organicKeywords": 354,
+    "organicTraffic": 589,
+    "organicCost": 3864,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-41",
+    "domain": "maysmedicalwellness.com",
+    "relevance": 0.03,
+    "commonKeywords": 2,
+    "organicKeywords": 68,
+    "organicTraffic": 611,
+    "organicCost": 80,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-42",
+    "domain": "drjacobsclinic.com",
+    "relevance": 0.03,
+    "commonKeywords": 2,
+    "organicKeywords": 64,
+    "organicTraffic": 332,
+    "organicCost": 608,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-43",
+    "domain": "womenblossom.com",
+    "relevance": 0.03,
+    "commonKeywords": 3,
+    "organicKeywords": 324,
+    "organicTraffic": 698,
+    "organicCost": 1296,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-44",
+    "domain": "professionalweightlosscenter.com",
+    "relevance": 0.03,
+    "commonKeywords": 1,
+    "organicKeywords": 46,
+    "organicTraffic": 1,
+    "organicCost": 7,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-45",
+    "domain": "moorewellnesssolutions.com",
+    "relevance": 0.03,
+    "commonKeywords": 1,
+    "organicKeywords": 63,
+    "organicTraffic": 43,
+    "organicCost": 36,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-46",
+    "domain": "deltaphoenix.org",
+    "relevance": 0.03,
+    "commonKeywords": 3,
+    "organicKeywords": 266,
+    "organicTraffic": 506,
+    "organicCost": 525,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-47",
+    "domain": "swmowellnesscenter.com",
+    "relevance": 0.03,
+    "commonKeywords": 2,
+    "organicKeywords": 882,
+    "organicTraffic": 169,
+    "organicCost": 408,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-48",
+    "domain": "moorefamilycareok.com",
+    "relevance": 0.03,
+    "commonKeywords": 2,
+    "organicKeywords": 130,
+    "organicTraffic": 179,
+    "organicCost": 352,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-49",
+    "domain": "midwestmetabolicweightloss.com",
+    "relevance": 0.03,
+    "commonKeywords": 1,
+    "organicKeywords": 22,
+    "organicTraffic": 10,
+    "organicCost": 50,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-50",
+    "domain": "minnetonkaweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 154,
+    "organicTraffic": 62,
+    "organicCost": 270,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-51",
+    "domain": "synergyhealthpc.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 40,
+    "organicTraffic": 99,
+    "organicCost": 516,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-52",
+    "domain": "cherokeecustomrx.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 113,
+    "organicTraffic": 1263,
+    "organicCost": 146,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-53",
+    "domain": "elitebodycontouringsouthaven.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 24,
+    "organicTraffic": 149,
+    "organicCost": 106,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-54",
+    "domain": "417spinenorth.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 70,
+    "organicTraffic": 94,
+    "organicCost": 13,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-55",
+    "domain": "moorefamilypharmacy.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 87,
+    "organicTraffic": 299,
+    "organicCost": 161,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-56",
+    "domain": "startwithreal.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 1046,
+    "organicTraffic": 1377,
+    "organicCost": 6396,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-57",
+    "domain": "bluewatersurgical.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 49,
+    "organicTraffic": 178,
+    "organicCost": 125,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-58",
+    "domain": "kailxlabs.co",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 63,
+    "organicTraffic": 143,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-59",
+    "domain": "mybodysite.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 345,
+    "organicTraffic": 519,
+    "organicCost": 2371,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-60",
+    "domain": "pausemedical.org",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 997,
+    "organicTraffic": 49,
+    "organicCost": 66,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-61",
+    "domain": "rapidmedical.co",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 62,
+    "organicTraffic": 104,
+    "organicCost": 653,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-62",
+    "domain": "weightlossfor.us",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 83,
+    "organicTraffic": 260,
+    "organicCost": 1134,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-63",
+    "domain": "medspabloom.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 158,
+    "organicTraffic": 38,
+    "organicCost": 18,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-64",
+    "domain": "bayarearegenerative.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 177,
+    "organicTraffic": 7,
+    "organicCost": 13,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-65",
+    "domain": "healthsolutionsweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 303,
+    "organicTraffic": 219,
+    "organicCost": 1988,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-66",
+    "domain": "aspirehealth.care",
+    "relevance": 0.02,
+    "commonKeywords": 7,
+    "organicKeywords": 2040,
+    "organicTraffic": 938,
+    "organicCost": 4388,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-67",
+    "domain": "sklepyplusik.pl",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 20,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-68",
+    "domain": "goodbackcare.com",
+    "relevance": 0.02,
+    "commonKeywords": 6,
+    "organicKeywords": 604,
+    "organicTraffic": 2673,
+    "organicCost": 679,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-69",
+    "domain": "delawareweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 210,
+    "organicTraffic": 687,
+    "organicCost": 3138,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-70",
+    "domain": "coastlinewellnessnc.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 140,
+    "organicTraffic": 232,
+    "organicCost": 20,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-71",
+    "domain": "northgeorgiaaesthetics.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 514,
+    "organicTraffic": 171,
+    "organicCost": 809,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-72",
+    "domain": "weight-loss-clinics-in-southaven-mississippi.pages.dev",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 6,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-73",
+    "domain": "healthogenics.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 558,
+    "organicTraffic": 1071,
+    "organicCost": 7949,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-74",
+    "domain": "resolveweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 103,
+    "organicTraffic": 8,
+    "organicCost": 18,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-75",
+    "domain": "drwellsmd.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 40,
+    "organicTraffic": 18,
+    "organicCost": 104,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-76",
+    "domain": "inspirewellnessclinic.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 99,
+    "organicTraffic": 84,
+    "organicCost": 92,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-77",
+    "domain": "coastalivtherapy.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 118,
+    "organicTraffic": 47,
+    "organicCost": 69,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-78",
+    "domain": "medslimweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 100,
+    "organicTraffic": 287,
+    "organicCost": 2411,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-79",
+    "domain": "glweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 50,
+    "organicTraffic": 33,
+    "organicCost": 290,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-80",
+    "domain": "elitememphis.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 604,
+    "organicTraffic": 265,
+    "organicCost": 1356,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-81",
+    "domain": "beachmedicalaesthetics.com",
+    "relevance": 0.02,
+    "commonKeywords": 5,
+    "organicKeywords": 811,
+    "organicTraffic": 1314,
+    "organicCost": 2646,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-82",
+    "domain": "integrativehealthcarespringfieldmo.com",
+    "relevance": 0.02,
+    "commonKeywords": 6,
+    "organicKeywords": 1514,
+    "organicTraffic": 4377,
+    "organicCost": 3963,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-83",
+    "domain": "seacoastchiropractic.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 106,
+    "organicTraffic": 431,
+    "organicCost": 928,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-84",
+    "domain": "semaglutidecolorado.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 20,
+    "organicTraffic": 12,
+    "organicCost": 199,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-85",
+    "domain": "bariatricinnovationsatl.com",
+    "relevance": 0.02,
+    "commonKeywords": 4,
+    "organicKeywords": 485,
+    "organicTraffic": 658,
+    "organicCost": 1058,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-86",
+    "domain": "amazingweightlossandwellness.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 17,
+    "organicTraffic": 27,
+    "organicCost": 137,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-87",
+    "domain": "desotofamilycareclinic.com",
+    "relevance": 0.02,
+    "commonKeywords": 3,
+    "organicKeywords": 1139,
+    "organicTraffic": 1141,
+    "organicCost": 2040,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-88",
+    "domain": "nj-weightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 121,
+    "organicTraffic": 11,
+    "organicCost": 34,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-89",
+    "domain": "sanfranciscomobileiv.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 426,
+    "organicTraffic": 73,
+    "organicCost": 275,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-90",
+    "domain": "bentleyskincare.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 719,
+    "organicTraffic": 152,
+    "organicCost": 49,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-91",
+    "domain": "fatandcelluliteremove.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 47,
+    "organicTraffic": 561,
+    "organicCost": 2102,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-92",
+    "domain": "getwellinternalmedicine.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 30,
+    "organicTraffic": 5,
+    "organicCost": 2,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-93",
+    "domain": "prestigemedicalgroup.org",
+    "relevance": 0.02,
+    "commonKeywords": 5,
+    "organicKeywords": 2058,
+    "organicTraffic": 7885,
+    "organicCost": 13292,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-94",
+    "domain": "progressmedical.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 132,
+    "organicTraffic": 177,
+    "organicCost": 25,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-95",
+    "domain": "drronaldmoore.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 10,
+    "organicTraffic": 19,
+    "organicCost": 23,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-96",
+    "domain": "95projects.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 331,
+    "organicTraffic": 48,
+    "organicCost": 16,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-97",
+    "domain": "semaglutideglpone.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 468,
+    "organicTraffic": 1,
+    "organicCost": 28,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-98",
+    "domain": "synergyweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 5,
+    "organicTraffic": 40,
+    "organicCost": 354,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-99",
+    "domain": "citrusridgemarketing.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 224,
+    "organicTraffic": 136,
+    "organicCost": 32,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-100",
+    "domain": "mdwls.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 619,
+    "organicTraffic": 144,
+    "organicCost": 1470,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-101",
+    "domain": "webmasterscorp.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 42,
+    "organicTraffic": 12,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-102",
+    "domain": "bestlifeaesthetics.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 16,
+    "organicTraffic": 3,
+    "organicCost": 14,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-103",
+    "domain": "inspirechangeclinic.org",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 62,
+    "organicTraffic": 262,
+    "organicCost": 1238,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-104",
+    "domain": "bayareaaesthetics.net",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 395,
+    "organicTraffic": 670,
+    "organicCost": 2853,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-105",
+    "domain": "aestheticmedstudio.com",
+    "relevance": 0.02,
+    "commonKeywords": 6,
+    "organicKeywords": 1552,
+    "organicTraffic": 2192,
+    "organicCost": 4561,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-106",
+    "domain": "coffeeregionalbariatrics.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 30,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-107",
+    "domain": "excelsishealth.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 156,
+    "organicTraffic": 449,
+    "organicCost": 2228,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-108",
+    "domain": "joinminimal.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 1442,
+    "organicTraffic": 57,
+    "organicCost": 449,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-109",
+    "domain": "arizona-mall.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 255,
+    "organicTraffic": 8,
+    "organicCost": 7,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-110",
+    "domain": "tomweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 893,
+    "organicTraffic": 695,
+    "organicCost": 2885,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-111",
+    "domain": "stlmedweightloss.com",
+    "relevance": 0.02,
+    "commonKeywords": 3,
+    "organicKeywords": 402,
+    "organicTraffic": 489,
+    "organicCost": 2810,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-112",
+    "domain": "alliancefamilycare.com",
+    "relevance": 0.02,
+    "commonKeywords": 2,
+    "organicKeywords": 133,
+    "organicTraffic": 743,
+    "organicCost": 593,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-113",
+    "domain": "indepth-health.com",
+    "relevance": 0.02,
+    "commonKeywords": 1,
+    "organicKeywords": 40,
+    "organicTraffic": 121,
+    "organicCost": 9,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-114",
+    "domain": "synergyprimaryclinic.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 112,
+    "organicTraffic": 378,
+    "organicCost": 834,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-115",
+    "domain": "lakmedspa.com",
+    "relevance": 0.01,
+    "commonKeywords": 3,
+    "organicKeywords": 1147,
+    "organicTraffic": 1188,
+    "organicCost": 2794,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-116",
+    "domain": "primecarenyc.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 205,
+    "organicTraffic": 375,
+    "organicCost": 1017,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-117",
+    "domain": "lexhealthweightloss.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 384,
+    "organicTraffic": 145,
+    "organicCost": 904,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-118",
+    "domain": "infinitymedspaga.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 255,
+    "organicTraffic": 294,
+    "organicCost": 538,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-119",
+    "domain": "askglo.ai",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 146,
+    "organicTraffic": 59,
+    "organicCost": 232,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-120",
+    "domain": "oasiswomens.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 595,
+    "organicTraffic": 1150,
+    "organicCost": 2778,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-121",
+    "domain": "carolinaweightlosscenter.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 247,
+    "organicTraffic": 249,
+    "organicCost": 1469,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-122",
+    "domain": "zaremedicalsf.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 185,
+    "organicTraffic": 150,
+    "organicCost": 20,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-123",
+    "domain": "appearancesweightloss.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 57,
+    "organicTraffic": 249,
+    "organicCost": 1381,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-124",
+    "domain": "iclinicatl.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 277,
+    "organicTraffic": 193,
+    "organicCost": 430,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-125",
+    "domain": "brightmedicalwellness.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 812,
+    "organicTraffic": 1170,
+    "organicCost": 9955,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-126",
+    "domain": "medspamarketingguys.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 139,
+    "organicTraffic": 56,
+    "organicCost": 348,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-127",
+    "domain": "holisticseo.co",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 226,
+    "organicTraffic": 242,
+    "organicCost": 36,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-128",
+    "domain": "unveilaesthetics.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 95,
+    "organicTraffic": 100,
+    "organicCost": 226,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-129",
+    "domain": "nxtgenbodies.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 239,
+    "organicTraffic": 219,
+    "organicCost": 2355,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-130",
+    "domain": "glp1-us.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 2840,
+    "organicTraffic": 462,
+    "organicCost": 3819,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-131",
+    "domain": "advancedmedicalwlc.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 581,
+    "organicTraffic": 399,
+    "organicCost": 759,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-132",
+    "domain": "livea.com",
+    "relevance": 0.01,
+    "commonKeywords": 3,
+    "organicKeywords": 1626,
+    "organicTraffic": 4537,
+    "organicCost": 22008,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-133",
+    "domain": "fibroidandpelvicwellness.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 534,
+    "organicTraffic": 1095,
+    "organicCost": 3073,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-134",
+    "domain": "vvitarx.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 177,
+    "organicTraffic": 508,
+    "organicCost": 4884,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-135",
+    "domain": "baileyveinandskincare.com",
+    "relevance": 0.01,
+    "commonKeywords": 5,
+    "organicKeywords": 1385,
+    "organicTraffic": 1441,
+    "organicCost": 2127,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-136",
+    "domain": "amwl.co",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 94,
+    "organicTraffic": 513,
+    "organicCost": 4411,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-137",
+    "domain": "synergywellnessandweightloss.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 330,
+    "organicTraffic": 212,
+    "organicCost": 331,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-138",
+    "domain": "docswellness.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 148,
+    "organicTraffic": 74,
+    "organicCost": 677,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-139",
+    "domain": "synergymedicalgrp.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 293,
+    "organicTraffic": 1238,
+    "organicCost": 2346,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-140",
+    "domain": "the-healthywoman.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 1312,
+    "organicTraffic": 5880,
+    "organicCost": 13949,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-141",
+    "domain": "glofusionhealth.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 838,
+    "organicTraffic": 858,
+    "organicCost": 994,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-142",
+    "domain": "dietokc.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 204,
+    "organicTraffic": 41,
+    "organicCost": 355,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-143",
+    "domain": "evoyouthful.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 158,
+    "organicTraffic": 15,
+    "organicCost": 16,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-144",
+    "domain": "balancedmedspa.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 98,
+    "organicTraffic": 253,
+    "organicCost": 257,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-145",
+    "domain": "wellnessclinicmarketing.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 275,
+    "organicTraffic": 168,
+    "organicCost": 1752,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-146",
+    "domain": "beautyandthebeachilm.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 133,
+    "organicTraffic": 203,
+    "organicCost": 69,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-147",
+    "domain": "nova-academy.org",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 713,
+    "organicTraffic": 1004,
+    "organicCost": 2696,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-148",
+    "domain": "thinkbullish.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 555,
+    "organicTraffic": 363,
+    "organicCost": 1130,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-149",
+    "domain": "skyn417.com",
+    "relevance": 0.01,
+    "commonKeywords": 4,
+    "organicKeywords": 17,
+    "organicTraffic": 4,
+    "organicCost": 26,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-150",
+    "domain": "mnbariatrics.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 328,
+    "organicTraffic": 441,
+    "organicCost": 767,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-151",
+    "domain": "radianthealthsf.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 1241,
+    "organicTraffic": 1680,
+    "organicCost": 880,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-152",
+    "domain": "endocrinologyga.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 226,
+    "organicTraffic": 293,
+    "organicCost": 145,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-153",
+    "domain": "anewyouwoman.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 225,
+    "organicTraffic": 80,
+    "organicCost": 9,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-154",
+    "domain": "mindnbodymd.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 147,
+    "organicTraffic": 634,
+    "organicCost": 1908,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-155",
+    "domain": "aestheticsolutionsny.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 744,
+    "organicTraffic": 927,
+    "organicCost": 2607,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-156",
+    "domain": "vitalwellnesstexas.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 519,
+    "organicTraffic": 1607,
+    "organicCost": 13405,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-157",
+    "domain": "mediquickweightloss.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 59,
+    "organicTraffic": 55,
+    "organicCost": 393,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-158",
+    "domain": "nubospa.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 1089,
+    "organicTraffic": 1503,
+    "organicCost": 3271,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-159",
+    "domain": "nutrihealthweightloss.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 750,
+    "organicTraffic": 1922,
+    "organicCost": 10565,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-160",
+    "domain": "earthangelwellness.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 112,
+    "organicTraffic": 963,
+    "organicCost": 6220,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-161",
+    "domain": "laserclearskin.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 240,
+    "organicTraffic": 113,
+    "organicCost": 436,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-162",
+    "domain": "precisionhealthandweightloss.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 408,
+    "organicTraffic": 64,
+    "organicCost": 391,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-163",
+    "domain": "pcw.health",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 811,
+    "organicTraffic": 1150,
+    "organicCost": 2504,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-164",
+    "domain": "urbanradiancemedspa.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 735,
+    "organicTraffic": 329,
+    "organicCost": 156,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-165",
+    "domain": "womenshealthclinicga.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 206,
+    "organicTraffic": 246,
+    "organicCost": 588,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-166",
+    "domain": "conqraesthetics.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 193,
+    "organicTraffic": 268,
+    "organicCost": 362,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-167",
+    "domain": "minnesotaregenerative.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 364,
+    "organicTraffic": 636,
+    "organicCost": 1006,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-168",
+    "domain": "vitalismetabolic.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 730,
+    "organicTraffic": 972,
+    "organicCost": 1199,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-169",
+    "domain": "metromedicalassociates.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 259,
+    "organicTraffic": 1626,
+    "organicCost": 988,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-170",
+    "domain": "gaflweightloss.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 76,
+    "organicTraffic": 260,
+    "organicCost": 2815,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-171",
+    "domain": "medspamarketpro.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 128,
+    "organicTraffic": 194,
+    "organicCost": 173,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-172",
+    "domain": "mediplandiet.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 226,
+    "organicTraffic": 4083,
+    "organicCost": 22119,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-173",
+    "domain": "semaglutide-online.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 188,
+    "organicTraffic": 7458,
+    "organicCost": 106516,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-174",
+    "domain": "glowweightloss.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 123,
+    "organicTraffic": 54,
+    "organicCost": 113,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-175",
+    "domain": "getmoorecare.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 454,
+    "organicTraffic": 443,
+    "organicCost": 1624,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-176",
+    "domain": "capefearphysicalmedicine.com",
+    "relevance": 0.01,
+    "commonKeywords": 2,
+    "organicKeywords": 1072,
+    "organicTraffic": 1498,
+    "organicCost": 1899,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-177",
+    "domain": "bmioftexas.com",
+    "relevance": 0.01,
+    "commonKeywords": 1,
+    "organicKeywords": 899,
+    "organicTraffic": 3997,
+    "organicCost": 9141,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-178",
+    "domain": "tapinto.net",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 136783,
+    "organicTraffic": 119876,
+    "organicCost": 50086,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-179",
+    "domain": "oregon.gov",
+    "relevance": 0,
+    "commonKeywords": 4,
+    "organicKeywords": 3484992,
+    "organicTraffic": 3533401,
+    "organicCost": 5704510,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-180",
+    "domain": "psychologytoday.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2655030,
+    "organicTraffic": 4004659,
+    "organicCost": 7990462,
+    "adwordsKeywords": 31
+  },
+  {
+    "id": "cp-181",
+    "domain": "mapquest.com",
+    "relevance": 0,
+    "commonKeywords": 8,
+    "organicKeywords": 92613073,
+    "organicTraffic": 42556599,
+    "organicCost": 32772792,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-182",
+    "domain": "allyrx.net",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1279,
+    "organicTraffic": 783,
+    "organicCost": 7155,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-183",
+    "domain": "medvidi.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 40760,
+    "organicTraffic": 99062,
+    "organicCost": 369145,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-184",
+    "domain": "israelpharm.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 17019,
+    "organicTraffic": 19725,
+    "organicCost": 61077,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-185",
+    "domain": "bestmdny.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3904,
+    "organicTraffic": 17427,
+    "organicCost": 13185,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-186",
+    "domain": "modernwellnessclinic.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1789,
+    "organicTraffic": 2994,
+    "organicCost": 12068,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-187",
+    "domain": "utahmedicalweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 418,
+    "organicTraffic": 275,
+    "organicCost": 408,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-188",
+    "domain": "lilly.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 243620,
+    "organicTraffic": 1388123,
+    "organicCost": 8890511,
+    "adwordsKeywords": 5004
+  },
+  {
+    "id": "cp-189",
+    "domain": "getwellclinic.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 770,
+    "organicTraffic": 2977,
+    "organicCost": 16983,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-190",
+    "domain": "northmemorial.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 23673,
+    "organicTraffic": 137855,
+    "organicCost": 226165,
+    "adwordsKeywords": 4
+  },
+  {
+    "id": "cp-191",
+    "domain": "healthpartners.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 534775,
+    "organicTraffic": 1934286,
+    "organicCost": 2124158,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-192",
+    "domain": "centerforinternalmed.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 744,
+    "organicTraffic": 1205,
+    "organicCost": 845,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-193",
+    "domain": "rapamycin.news",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 11025,
+    "organicTraffic": 12967,
+    "organicCost": 18043,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-194",
+    "domain": "sfcosmeticsurgery.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 6450,
+    "organicTraffic": 14557,
+    "organicCost": 42736,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-195",
+    "domain": "honehealth.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 51934,
+    "organicTraffic": 130270,
+    "organicCost": 473769,
+    "adwordsKeywords": 54
+  },
+  {
+    "id": "cp-196",
+    "domain": "centracare.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 41966,
+    "organicTraffic": 166279,
+    "organicCost": 118643,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-197",
+    "domain": "raleighweightlosscenter.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 509,
+    "organicTraffic": 1649,
+    "organicCost": 11965,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-198",
+    "domain": "mypeptidematch.com",
+    "relevance": 0,
+    "commonKeywords": 6,
+    "organicKeywords": 43922,
+    "organicTraffic": 30103,
+    "organicCost": 50741,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-199",
+    "domain": "faynutrition.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 34868,
+    "organicTraffic": 68987,
+    "organicCost": 256385,
+    "adwordsKeywords": 7
+  },
+  {
+    "id": "cp-200",
+    "domain": "curvecompliance.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 493,
+    "organicTraffic": 391,
+    "organicCost": 934,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-201",
+    "domain": "drtsbeck.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1202,
+    "organicTraffic": 1493,
+    "organicCost": 2499,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-202",
+    "domain": "g-l-weight-loss.pages.dev",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-203",
+    "domain": "myalloy.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 22343,
+    "organicTraffic": 62901,
+    "organicCost": 413546,
+    "adwordsKeywords": 6
+  },
+  {
+    "id": "cp-204",
+    "domain": "liwli.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2128,
+    "organicTraffic": 4035,
+    "organicCost": 18382,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-205",
+    "domain": "nyp.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 624769,
+    "organicTraffic": 1763070,
+    "organicCost": 3083780,
+    "adwordsKeywords": 5
+  },
+  {
+    "id": "cp-206",
+    "domain": "qsymia.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3049,
+    "organicTraffic": 17716,
+    "organicCost": 53575,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-207",
+    "domain": "northside.com",
+    "relevance": 0,
+    "commonKeywords": 5,
+    "organicKeywords": 148398,
+    "organicTraffic": 430438,
+    "organicCost": 514441,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-208",
+    "domain": "ama-assn.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 567011,
+    "organicTraffic": 1403068,
+    "organicCost": 2169142,
+    "adwordsKeywords": 100
+  },
+  {
+    "id": "cp-209",
+    "domain": "irs.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 8176466,
+    "organicTraffic": 25424135,
+    "organicCost": 59523751,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-210",
+    "domain": "mycommunitymd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 4749,
+    "organicTraffic": 2039,
+    "organicCost": 2982,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-211",
+    "domain": "reddit.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 219635147,
+    "organicTraffic": 945464563,
+    "organicCost": 834207588,
+    "adwordsKeywords": 253
+  },
+  {
+    "id": "cp-212",
+    "domain": "golo.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5068,
+    "organicTraffic": 15147,
+    "organicCost": 31716,
+    "adwordsKeywords": 7
+  },
+  {
+    "id": "cp-213",
+    "domain": "myminutemed.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 4191,
+    "organicTraffic": 2108,
+    "organicCost": 6188,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-214",
+    "domain": "stanford.edu",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3196003,
+    "organicTraffic": 5970201,
+    "organicCost": 9174546,
+    "adwordsKeywords": 7
+  },
+  {
+    "id": "cp-215",
+    "domain": "bariatricsmd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1388,
+    "organicTraffic": 4472,
+    "organicCost": 4374,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-216",
+    "domain": "mo.work",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 4179,
+    "organicTraffic": 1042,
+    "organicCost": 1358,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-217",
+    "domain": "myallurewellness.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 829,
+    "organicTraffic": 4503,
+    "organicCost": 14245,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-218",
+    "domain": "womansworld.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 265982,
+    "organicTraffic": 250225,
+    "organicCost": 79368,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-219",
+    "domain": "glomedspa.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1196,
+    "organicTraffic": 5909,
+    "organicCost": 16509,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-220",
+    "domain": "aspireneworleans.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 285,
+    "organicTraffic": 272,
+    "organicCost": 2793,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-221",
+    "domain": "austinregionalclinic.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 58403,
+    "organicTraffic": 271400,
+    "organicCost": 241549,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-222",
+    "domain": "ncdot.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 431212,
+    "organicTraffic": 1854057,
+    "organicCost": 1348520,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-223",
+    "domain": "npr.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3261338,
+    "organicTraffic": 13815030,
+    "organicCost": 14047084,
+    "adwordsKeywords": 37
+  },
+  {
+    "id": "cp-224",
+    "domain": "drugbank.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 313928,
+    "organicTraffic": 1023914,
+    "organicCost": 1746423,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-225",
+    "domain": "glp1clinics.org",
+    "relevance": 0,
+    "commonKeywords": 5,
+    "organicKeywords": 8328,
+    "organicTraffic": 3475,
+    "organicCost": 25496,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-226",
+    "domain": "walgreens.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 4187413,
+    "organicTraffic": 38129571,
+    "organicCost": 17845668,
+    "adwordsKeywords": 280
+  },
+  {
+    "id": "cp-227",
+    "domain": "withpower.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 151327,
+    "organicTraffic": 245846,
+    "organicCost": 179430,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-228",
+    "domain": "firstbodywellnesscenter.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 646,
+    "organicTraffic": 1080,
+    "organicCost": 2538,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-229",
+    "domain": "prohealthmemphis.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 4759,
+    "organicTraffic": 6036,
+    "organicCost": 16143,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-230",
+    "domain": "va.gov",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 5178394,
+    "organicTraffic": 8556507,
+    "organicCost": 15756738,
+    "adwordsKeywords": 6
+  },
+  {
+    "id": "cp-231",
+    "domain": "yelp.com",
+    "relevance": 0,
+    "commonKeywords": 44,
+    "organicKeywords": 149008994,
+    "organicTraffic": 227347661,
+    "organicCost": 268265676,
+    "adwordsKeywords": 10
+  },
+  {
+    "id": "cp-232",
+    "domain": "mercy.net",
+    "relevance": 0,
+    "commonKeywords": 11,
+    "organicKeywords": 233420,
+    "organicTraffic": 1209421,
+    "organicCost": 2366527,
+    "adwordsKeywords": 15
+  },
+  {
+    "id": "cp-233",
+    "domain": "canadapharmacy.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 27916,
+    "organicTraffic": 37640,
+    "organicCost": 74384,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-234",
+    "domain": "joslin.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 26546,
+    "organicTraffic": 77948,
+    "organicCost": 49555,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-235",
+    "domain": "wmchealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 36509,
+    "organicTraffic": 179395,
+    "organicCost": 363649,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-236",
+    "domain": "tiktok.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 154762427,
+    "organicTraffic": 209668112,
+    "organicCost": 172039620,
+    "adwordsKeywords": 2968
+  },
+  {
+    "id": "cp-237",
+    "domain": "synergyhealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 7540,
+    "organicTraffic": 8879,
+    "organicCost": 20790,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-238",
+    "domain": "serotonincenters.com",
+    "relevance": 0,
+    "commonKeywords": 6,
+    "organicKeywords": 4971,
+    "organicTraffic": 14060,
+    "organicCost": 22870,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-239",
+    "domain": "onehealthtally.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 96,
+    "organicTraffic": 136,
+    "organicCost": 74,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-240",
+    "domain": "buzzrx.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 409815,
+    "organicTraffic": 520933,
+    "organicCost": 467489,
+    "adwordsKeywords": 3
+  },
+  {
+    "id": "cp-241",
+    "domain": "mydermahealth.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2047,
+    "organicTraffic": 3296,
+    "organicCost": 8456,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-242",
+    "domain": "synergywellnesscenter.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5093,
+    "organicTraffic": 6824,
+    "organicCost": 15749,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-243",
+    "domain": "femmemedandspa.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 782,
+    "organicTraffic": 905,
+    "organicCost": 2224,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-244",
+    "domain": "wikidata.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1036757,
+    "organicTraffic": 1357673,
+    "organicCost": 236442,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-245",
+    "domain": "montefioreeinsteinadvancedcare.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 4545,
+    "organicTraffic": 3080,
+    "organicCost": 8933,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-246",
+    "domain": "dukehealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 211810,
+    "organicTraffic": 685875,
+    "organicCost": 777474,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-247",
+    "domain": "townofmorristown.org",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 6930,
+    "organicTraffic": 18675,
+    "organicCost": 9847,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-248",
+    "domain": "dosecompare.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5052,
+    "organicTraffic": 523,
+    "organicCost": 3584,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-249",
+    "domain": "vitalhealthmedicalcare.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1227,
+    "organicTraffic": 1171,
+    "organicCost": 13000,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-250",
+    "domain": "womenswellnessms.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 3250,
+    "organicTraffic": 2085,
+    "organicCost": 3945,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-251",
+    "domain": "goglo.co",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-252",
+    "domain": "sohohealthny.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 343,
+    "organicTraffic": 2819,
+    "organicCost": 12385,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-253",
+    "domain": "mayo.edu",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 333766,
+    "organicTraffic": 479735,
+    "organicCost": 1354709,
+    "adwordsKeywords": 33
+  },
+  {
+    "id": "cp-254",
+    "domain": "uom.lk",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2477,
+    "organicTraffic": 1759,
+    "organicCost": 697,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-255",
+    "domain": "drvisor.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 11855,
+    "organicTraffic": 1096,
+    "organicCost": 2679,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-256",
+    "domain": "trimrx.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 119590,
+    "organicTraffic": 81320,
+    "organicCost": 866620,
+    "adwordsKeywords": 66
+  },
+  {
+    "id": "cp-257",
+    "domain": "queens.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 53867,
+    "organicTraffic": 172680,
+    "organicCost": 147641,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-258",
+    "domain": "goodrx.com",
+    "relevance": 0,
+    "commonKeywords": 6,
+    "organicKeywords": 4569635,
+    "organicTraffic": 17335471,
+    "organicCost": 26003842,
+    "adwordsKeywords": 531
+  },
+  {
+    "id": "cp-259",
+    "domain": "fastpacehealth.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 61910,
+    "organicTraffic": 289840,
+    "organicCost": 253601,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-260",
+    "domain": "shinemedstudios.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 569,
+    "organicTraffic": 2006,
+    "organicCost": 14142,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-261",
+    "domain": "uakron.edu",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 107249,
+    "organicTraffic": 164154,
+    "organicCost": 340882,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-262",
+    "domain": "absolutehealthcareofga.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 711,
+    "organicTraffic": 535,
+    "organicCost": 2179,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-263",
+    "domain": "rapidweightlosscenters.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 747,
+    "organicTraffic": 451,
+    "organicCost": 1916,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-264",
+    "domain": "healthgrades.com",
+    "relevance": 0,
+    "commonKeywords": 8,
+    "organicKeywords": 9387402,
+    "organicTraffic": 4084464,
+    "organicCost": 4965458,
+    "adwordsKeywords": 6
+  },
+  {
+    "id": "cp-265",
+    "domain": "springer.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1662812,
+    "organicTraffic": 2096256,
+    "organicCost": 2270142,
+    "adwordsKeywords": 97
+  },
+  {
+    "id": "cp-266",
+    "domain": "nyc.gov",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 3689998,
+    "organicTraffic": 9522495,
+    "organicCost": 13687521,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-267",
+    "domain": "bamdgroup.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 497,
+    "organicTraffic": 691,
+    "organicCost": 1323,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-268",
+    "domain": "drcova.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 652,
+    "organicTraffic": 657,
+    "organicCost": 1288,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-269",
+    "domain": "weighlessmd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 672,
+    "organicTraffic": 1100,
+    "organicCost": 2010,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-270",
+    "domain": "mayoclinic.org",
+    "relevance": 0,
+    "commonKeywords": 4,
+    "organicKeywords": 10858150,
+    "organicTraffic": 71335179,
+    "organicCost": 71038955,
+    "adwordsKeywords": 136
+  },
+  {
+    "id": "cp-271",
+    "domain": "ascension.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 556880,
+    "organicTraffic": 1770426,
+    "organicCost": 4109377,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-272",
+    "domain": "primehealthmd.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 3868,
+    "organicTraffic": 3623,
+    "organicCost": 20172,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-273",
+    "domain": "brellohealth.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5231,
+    "organicTraffic": 67759,
+    "organicCost": 437383,
+    "adwordsKeywords": 131
+  },
+  {
+    "id": "cp-274",
+    "domain": "integrishealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 96946,
+    "organicTraffic": 292476,
+    "organicCost": 273618,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-275",
+    "domain": "trivalleyplasticsurgery.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5936,
+    "organicTraffic": 3152,
+    "organicCost": 8204,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-276",
+    "domain": "seannikravanmd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1288,
+    "organicTraffic": 6667,
+    "organicCost": 9446,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-277",
+    "domain": "trustpilot.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3470861,
+    "organicTraffic": 16615115,
+    "organicCost": 44474731,
+    "adwordsKeywords": 4
+  },
+  {
+    "id": "cp-278",
+    "domain": "scalewatchersrx.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 369,
+    "organicTraffic": 443,
+    "organicCost": 1261,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-279",
+    "domain": "colorado.gov",
+    "relevance": 0,
+    "commonKeywords": 4,
+    "organicKeywords": 5418278,
+    "organicTraffic": 5961634,
+    "organicCost": 11510440,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-280",
+    "domain": "familymedicalcenters.net",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1131,
+    "organicTraffic": 1977,
+    "organicCost": 10719,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-281",
+    "domain": "nychealthandhospitals.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 133512,
+    "organicTraffic": 560752,
+    "organicCost": 1800456,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-282",
+    "domain": "polskieradio.pl",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 72704,
+    "organicTraffic": 44350,
+    "organicCost": 193904,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-283",
+    "domain": "carondelet.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 38222,
+    "organicTraffic": 148457,
+    "organicCost": 175534,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-284",
+    "domain": "lcmchealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 67416,
+    "organicTraffic": 214902,
+    "organicCost": 193626,
+    "adwordsKeywords": 3
+  },
+  {
+    "id": "cp-285",
+    "domain": "nghs.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 70206,
+    "organicTraffic": 193904,
+    "organicCost": 235929,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-286",
+    "domain": "health.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1710310,
+    "organicTraffic": 2021610,
+    "organicCost": 1044159,
+    "adwordsKeywords": 42
+  },
+  {
+    "id": "cp-287",
+    "domain": "scoredoc.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 6567,
+    "organicTraffic": 711,
+    "organicCost": 1150,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-288",
+    "domain": "policylab.us",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 19399,
+    "organicTraffic": 61182,
+    "organicCost": 493012,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-289",
+    "domain": "mo.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2964573,
+    "organicTraffic": 3972040,
+    "organicCost": 5906125,
+    "adwordsKeywords": 15
+  },
+  {
+    "id": "cp-290",
+    "domain": "okpharmacyrgv.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 4826,
+    "organicTraffic": 13603,
+    "organicCost": 30541,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-291",
+    "domain": "solutionsweightloss.net",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 346,
+    "organicTraffic": 741,
+    "organicCost": 3934,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-292",
+    "domain": "thegraiviercenter.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1147,
+    "organicTraffic": 2264,
+    "organicCost": 8602,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-293",
+    "domain": "drlissa.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2469,
+    "organicTraffic": 3958,
+    "organicCost": 11425,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-294",
+    "domain": "alhobgyn.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3915,
+    "organicTraffic": 10539,
+    "organicCost": 11683,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-295",
+    "domain": "familycaremurphy.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3804,
+    "organicTraffic": 7910,
+    "organicCost": 14588,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-296",
+    "domain": "moore-weight-loss-clinic.pages.dev",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-297",
+    "domain": "norcalsurgery.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 3753,
+    "organicTraffic": 2553,
+    "organicCost": 7469,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-298",
+    "domain": "facebook.com",
+    "relevance": 0,
+    "commonKeywords": 35,
+    "organicKeywords": 830292959,
+    "organicTraffic": 1395263153,
+    "organicCost": 1236592518,
+    "adwordsKeywords": 1676
+  },
+  {
+    "id": "cp-299",
+    "domain": "mytrimmd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2577,
+    "organicTraffic": 1910,
+    "organicCost": 7070,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-300",
+    "domain": "ongocare.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 9,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-301",
+    "domain": "ncrec.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 59921,
+    "organicTraffic": 45378,
+    "organicCost": 155108,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-302",
+    "domain": "uwhealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 264436,
+    "organicTraffic": 625811,
+    "organicCost": 957810,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-303",
+    "domain": "getclearbeauty.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 21124,
+    "organicTraffic": 896,
+    "organicCost": 1689,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-304",
+    "domain": "huffingtonpost.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 70677,
+    "organicTraffic": 9500,
+    "organicCost": 6126,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-305",
+    "domain": "fda.gov",
+    "relevance": 0,
+    "commonKeywords": 4,
+    "organicKeywords": 6663071,
+    "organicTraffic": 8348846,
+    "organicCost": 16133121,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-306",
+    "domain": "ncdhhs.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 1191207,
+    "organicTraffic": 970353,
+    "organicCost": 1714082,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-307",
+    "domain": "menshealth.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1136032,
+    "organicTraffic": 2074193,
+    "organicCost": 1095165,
+    "adwordsKeywords": 101
+  },
+  {
+    "id": "cp-308",
+    "domain": "carecredit.com",
+    "relevance": 0,
+    "commonKeywords": 4,
+    "organicKeywords": 782572,
+    "organicTraffic": 2294242,
+    "organicCost": 5592898,
+    "adwordsKeywords": 4
+  },
+  {
+    "id": "cp-309",
+    "domain": "wheree.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 13459962,
+    "organicTraffic": 2987931,
+    "organicCost": 1802644,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-310",
+    "domain": "weather.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 5104964,
+    "organicTraffic": 38182189,
+    "organicCost": 15327728,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-311",
+    "domain": "britannica.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 16702659,
+    "organicTraffic": 62658600,
+    "organicCost": 48572798,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-312",
+    "domain": "birdeye.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 4836646,
+    "organicTraffic": 1204015,
+    "organicCost": 2714739,
+    "adwordsKeywords": 29
+  },
+  {
+    "id": "cp-313",
+    "domain": "hayesvalleymed.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 4008,
+    "organicTraffic": 9331,
+    "organicCost": 18989,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-314",
+    "domain": "ncdps.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 79077,
+    "organicTraffic": 74526,
+    "organicCost": 226917,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-315",
+    "domain": "orionpeptide.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1541,
+    "organicTraffic": 2972,
+    "organicCost": 5327,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-316",
+    "domain": "novocare.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 55541,
+    "organicTraffic": 203251,
+    "organicCost": 1659617,
+    "adwordsKeywords": 60
+  },
+  {
+    "id": "cp-317",
+    "domain": "healthline.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 12186372,
+    "organicTraffic": 25962535,
+    "organicCost": 14230778,
+    "adwordsKeywords": 3
+  },
+  {
+    "id": "cp-318",
+    "domain": "mediweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 7,
+    "organicKeywords": 15052,
+    "organicTraffic": 61383,
+    "organicCost": 397730,
+    "adwordsKeywords": 6
+  },
+  {
+    "id": "cp-319",
+    "domain": "healthstartn.org",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 4421,
+    "organicTraffic": 13318,
+    "organicCost": 22661,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-320",
+    "domain": "reviveatlmd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1133,
+    "organicTraffic": 2088,
+    "organicCost": 3856,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-321",
+    "domain": "golo.dev",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 48,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-322",
+    "domain": "optimantra.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 13422,
+    "organicTraffic": 38949,
+    "organicCost": 147652,
+    "adwordsKeywords": 90
+  },
+  {
+    "id": "cp-323",
+    "domain": "elitemedicineohio.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 616,
+    "organicTraffic": 494,
+    "organicCost": 2765,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-324",
+    "domain": "instagram.com",
+    "relevance": 0,
+    "commonKeywords": 12,
+    "organicKeywords": 419272247,
+    "organicTraffic": 876660117,
+    "organicCost": 642903377,
+    "adwordsKeywords": 9
+  },
+  {
+    "id": "cp-325",
+    "domain": "steelmanclinic.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 237,
+    "organicTraffic": 659,
+    "organicCost": 6588,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-326",
+    "domain": "trt-haber.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3185,
+    "organicTraffic": 103,
+    "organicCost": 226,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-327",
+    "domain": "nextdoor.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 4552856,
+    "organicTraffic": 3907492,
+    "organicCost": 4967964,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-328",
+    "domain": "visitnj.org",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 188350,
+    "organicTraffic": 680161,
+    "organicCost": 495937,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-329",
+    "domain": "usda.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 9078238,
+    "organicTraffic": 8818462,
+    "organicCost": 7690515,
+    "adwordsKeywords": 6
+  },
+  {
+    "id": "cp-330",
+    "domain": "nih.gov",
+    "relevance": 0,
+    "commonKeywords": 8,
+    "organicKeywords": 61437086,
+    "organicTraffic": 86524068,
+    "organicCost": 99904796,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-331",
+    "domain": "sesamecare.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 104490,
+    "organicTraffic": 155180,
+    "organicCost": 470286,
+    "adwordsKeywords": 27
+  },
+  {
+    "id": "cp-332",
+    "domain": "wiley.com",
+    "relevance": 0,
+    "commonKeywords": 5,
+    "organicKeywords": 1641403,
+    "organicTraffic": 1566345,
+    "organicCost": 1667514,
+    "adwordsKeywords": 89
+  },
+  {
+    "id": "cp-333",
+    "domain": "ky.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2909322,
+    "organicTraffic": 3233439,
+    "organicCost": 3788986,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-334",
+    "domain": "quora.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 61285429,
+    "organicTraffic": 78591493,
+    "organicCost": 68253644,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-335",
+    "domain": "nashvilleweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 545,
+    "organicTraffic": 1727,
+    "organicCost": 16393,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-336",
+    "domain": "phentermineclinics.net",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 5952,
+    "organicTraffic": 942,
+    "organicCost": 3151,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-337",
+    "domain": "epa.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 6858209,
+    "organicTraffic": 3267181,
+    "organicCost": 6541271,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-338",
+    "domain": "harperclinicutah.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2449,
+    "organicTraffic": 13682,
+    "organicCost": 6915,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-339",
+    "domain": "themedspasociety.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 378,
+    "organicTraffic": 499,
+    "organicCost": 7673,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-340",
+    "domain": "medscape.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1334948,
+    "organicTraffic": 5076644,
+    "organicCost": 5999940,
+    "adwordsKeywords": 24
+  },
+  {
+    "id": "cp-341",
+    "domain": "upmc.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 893017,
+    "organicTraffic": 2197103,
+    "organicCost": 2342479,
+    "adwordsKeywords": 59
+  },
+  {
+    "id": "cp-342",
+    "domain": "impacthealthclinics.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 463,
+    "organicTraffic": 162,
+    "organicCost": 468,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-343",
+    "domain": "mounjarovswegovy.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 545,
+    "organicTraffic": 26,
+    "organicCost": 292,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-344",
+    "domain": "cocoondayspa.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2497,
+    "organicTraffic": 9312,
+    "organicCost": 9558,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-345",
+    "domain": "chicagolandweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 487,
+    "organicTraffic": 1065,
+    "organicCost": 4440,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-346",
+    "domain": "geneva-med.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1194,
+    "organicTraffic": 920,
+    "organicCost": 1761,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-347",
+    "domain": "everlywell.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 180413,
+    "organicTraffic": 485576,
+    "organicCost": 478125,
+    "adwordsKeywords": 564
+  },
+  {
+    "id": "cp-348",
+    "domain": "nobhillaesthetics.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1339,
+    "organicTraffic": 6071,
+    "organicCost": 22907,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-349",
+    "domain": "ny.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 12105521,
+    "organicTraffic": 17979790,
+    "organicCost": 24281878,
+    "adwordsKeywords": 13
+  },
+  {
+    "id": "cp-350",
+    "domain": "insurancebusinessmag.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 68286,
+    "organicTraffic": 68058,
+    "organicCost": 368746,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-351",
+    "domain": "physlim.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 413,
+    "organicTraffic": 748,
+    "organicCost": 3897,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-352",
+    "domain": "greenreliefmd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 11555,
+    "organicTraffic": 11818,
+    "organicCost": 20294,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-353",
+    "domain": "morristownvt.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 2457,
+    "organicTraffic": 2075,
+    "organicCost": 640,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-354",
+    "domain": "bubolomedical.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2092,
+    "organicTraffic": 1362,
+    "organicCost": 4756,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-355",
+    "domain": "intermountainhealthcare.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 235796,
+    "organicTraffic": 992944,
+    "organicCost": 1962953,
+    "adwordsKeywords": 10
+  },
+  {
+    "id": "cp-356",
+    "domain": "drbryantmedical.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 235,
+    "organicTraffic": 317,
+    "organicCost": 200,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-357",
+    "domain": "familypracticecenterpc.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 10990,
+    "organicTraffic": 21099,
+    "organicCost": 35855,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-358",
+    "domain": "bariatricjournal.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2612,
+    "organicTraffic": 407,
+    "organicCost": 1328,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-359",
+    "domain": "njbariatriccenter.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3508,
+    "organicTraffic": 5482,
+    "organicCost": 6410,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-360",
+    "domain": "wisconsindot.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 415982,
+    "organicTraffic": 764364,
+    "organicCost": 649182,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-361",
+    "domain": "deseret.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 353722,
+    "organicTraffic": 415423,
+    "organicCost": 318773,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-362",
+    "domain": "alphamedicalclinic.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 404,
+    "organicTraffic": 1338,
+    "organicCost": 2740,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-363",
+    "domain": "formblends.com",
+    "relevance": 0,
+    "commonKeywords": 5,
+    "organicKeywords": 105597,
+    "organicTraffic": 15298,
+    "organicCost": 35420,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-364",
+    "domain": "grandhealthpartners.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2013,
+    "organicTraffic": 5341,
+    "organicCost": 15874,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-365",
+    "domain": "doctors-weight-loss-clinic-moore-oklahoma.pages.dev",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 6,
+    "organicTraffic": 0,
+    "organicCost": 0,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-366",
+    "domain": "mayoclinichealthsystem.org",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 510513,
+    "organicTraffic": 1203018,
+    "organicCost": 901261,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-367",
+    "domain": "justanswer.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 17220449,
+    "organicTraffic": 10415810,
+    "organicCost": 9875457,
+    "adwordsKeywords": 125
+  },
+  {
+    "id": "cp-368",
+    "domain": "sagapixel.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2667,
+    "organicTraffic": 3145,
+    "organicCost": 17101,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-369",
+    "domain": "barbend.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 149825,
+    "organicTraffic": 142868,
+    "organicCost": 114610,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-370",
+    "domain": "pacificheightsplasticsurgery.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5029,
+    "organicTraffic": 3026,
+    "organicCost": 6441,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-371",
+    "domain": "science.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 993588,
+    "organicTraffic": 780904,
+    "organicCost": 734573,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-372",
+    "domain": "chronosbhw.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1795,
+    "organicTraffic": 4256,
+    "organicCost": 11270,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-373",
+    "domain": "thrivecolorado.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1028,
+    "organicTraffic": 1265,
+    "organicCost": 4203,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-374",
+    "domain": "plexusdx.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 122680,
+    "organicTraffic": 26921,
+    "organicCost": 119251,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-375",
+    "domain": "ssmhealth.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 199517,
+    "organicTraffic": 680827,
+    "organicCost": 1372826,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-376",
+    "domain": "1mg.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 315936,
+    "organicTraffic": 443350,
+    "organicCost": 573921,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-377",
+    "domain": "webmd.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 11700316,
+    "organicTraffic": 18668071,
+    "organicCost": 14897632,
+    "adwordsKeywords": 55
+  },
+  {
+    "id": "cp-378",
+    "domain": "joinmochi.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 18514,
+    "organicTraffic": 163286,
+    "organicCost": 1471013,
+    "adwordsKeywords": 15
+  },
+  {
+    "id": "cp-379",
+    "domain": "ouhealth.com",
+    "relevance": 0,
+    "commonKeywords": 4,
+    "organicKeywords": 75221,
+    "organicTraffic": 226385,
+    "organicCost": 355294,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-380",
+    "domain": "weightmaps.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3869,
+    "organicTraffic": 1030,
+    "organicCost": 3542,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-381",
+    "domain": "suwaneedoctor.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1296,
+    "organicTraffic": 686,
+    "organicCost": 954,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-382",
+    "domain": "skinnyrx.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 9532,
+    "organicTraffic": 15002,
+    "organicCost": 133057,
+    "adwordsKeywords": 94
+  },
+  {
+    "id": "cp-383",
+    "domain": "longstreetclinic.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 12080,
+    "organicTraffic": 31474,
+    "organicCost": 53227,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-384",
+    "domain": "atlantabariatrics.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1366,
+    "organicTraffic": 3395,
+    "organicCost": 7485,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-385",
+    "domain": "mountsinai.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 431185,
+    "organicTraffic": 1754136,
+    "organicCost": 4372557,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-386",
+    "domain": "nyulangone.org",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 591770,
+    "organicTraffic": 1649795,
+    "organicCost": 2436464,
+    "adwordsKeywords": 61
+  },
+  {
+    "id": "cp-387",
+    "domain": "jmhsmn.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 406,
+    "organicTraffic": 1776,
+    "organicCost": 866,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-388",
+    "domain": "piedmont.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 210665,
+    "organicTraffic": 839722,
+    "organicCost": 1273121,
+    "adwordsKeywords": 3
+  },
+  {
+    "id": "cp-389",
+    "domain": "flushinghospital.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 25744,
+    "organicTraffic": 59863,
+    "organicCost": 75523,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-390",
+    "domain": "cvs.com",
+    "relevance": 0,
+    "commonKeywords": 8,
+    "organicKeywords": 5066643,
+    "organicTraffic": 38720674,
+    "organicCost": 11221118,
+    "adwordsKeywords": 506
+  },
+  {
+    "id": "cp-391",
+    "domain": "yellowpages.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 20745744,
+    "organicTraffic": 6308387,
+    "organicCost": 6658605,
+    "adwordsKeywords": 35
+  },
+  {
+    "id": "cp-392",
+    "domain": "morriscountynj.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 54959,
+    "organicTraffic": 48291,
+    "organicCost": 38582,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-393",
+    "domain": "ihealthunifiedcare.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 11058,
+    "organicTraffic": 1805,
+    "organicCost": 865,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-394",
+    "domain": "blueskymd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 6993,
+    "organicTraffic": 15590,
+    "organicCost": 133055,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-395",
+    "domain": "nc.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 2385572,
+    "organicTraffic": 2206967,
+    "organicCost": 3564024,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-396",
+    "domain": "stanfordhealthcare.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 430319,
+    "organicTraffic": 956740,
+    "organicCost": 1292737,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-397",
+    "domain": "coxhealth.com",
+    "relevance": 0,
+    "commonKeywords": 6,
+    "organicKeywords": 111200,
+    "organicTraffic": 215001,
+    "organicCost": 207729,
+    "adwordsKeywords": 3
+  },
+  {
+    "id": "cp-398",
+    "domain": "northsidefamilymed.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 435,
+    "organicTraffic": 433,
+    "organicCost": 208,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-399",
+    "domain": "wellstar.org",
+    "relevance": 0,
+    "commonKeywords": 6,
+    "organicKeywords": 122074,
+    "organicTraffic": 594784,
+    "organicCost": 898315,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-400",
+    "domain": "medstudio.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3816,
+    "organicTraffic": 1841,
+    "organicCost": 1481,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-401",
+    "domain": "ncsbe.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 377519,
+    "organicTraffic": 240720,
+    "organicCost": 151295,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-402",
+    "domain": "wikipedia.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 155738118,
+    "organicTraffic": 1315089965,
+    "organicCost": 1281852655,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-403",
+    "domain": "medcitynews.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 18207,
+    "organicTraffic": 10449,
+    "organicCost": 15785,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-404",
+    "domain": "rapidcarellc.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 688,
+    "organicTraffic": 517,
+    "organicCost": 627,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-405",
+    "domain": "tlcsurgery.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 4471,
+    "organicTraffic": 16584,
+    "organicCost": 14448,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-406",
+    "domain": "thegipractice.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1230,
+    "organicTraffic": 373,
+    "organicCost": 355,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-407",
+    "domain": "coramedregen.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 792,
+    "organicTraffic": 4092,
+    "organicCost": 7722,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-408",
+    "domain": "atriumhealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 241115,
+    "organicTraffic": 1036027,
+    "organicCost": 1641906,
+    "adwordsKeywords": 18
+  },
+  {
+    "id": "cp-409",
+    "domain": "texascenterforsurgery.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2164,
+    "organicTraffic": 12533,
+    "organicCost": 38012,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-410",
+    "domain": "clevelandclinic.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 10769527,
+    "organicTraffic": 89116029,
+    "organicCost": 83891265,
+    "adwordsKeywords": 92
+  },
+  {
+    "id": "cp-411",
+    "domain": "targetpatientsmd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1030,
+    "organicTraffic": 653,
+    "organicCost": 8294,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-412",
+    "domain": "nuvivaweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2809,
+    "organicTraffic": 14330,
+    "organicCost": 67472,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-413",
+    "domain": "knownwell.co",
+    "relevance": 0,
+    "commonKeywords": 5,
+    "organicKeywords": 17946,
+    "organicTraffic": 37515,
+    "organicCost": 191115,
+    "adwordsKeywords": 3
+  },
+  {
+    "id": "cp-414",
+    "domain": "skool.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 51626,
+    "organicTraffic": 258473,
+    "organicCost": 872502,
+    "adwordsKeywords": 22
+  },
+  {
+    "id": "cp-415",
+    "domain": "cdc.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 9961024,
+    "organicTraffic": 22659532,
+    "organicCost": 24559138,
+    "adwordsKeywords": 8
+  },
+  {
+    "id": "cp-416",
+    "domain": "bbb.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 9503561,
+    "organicTraffic": 5862533,
+    "organicCost": 22144725,
+    "adwordsKeywords": 1084
+  },
+  {
+    "id": "cp-417",
+    "domain": "normanregional.com",
+    "relevance": 0,
+    "commonKeywords": 6,
+    "organicKeywords": 18992,
+    "organicTraffic": 70622,
+    "organicCost": 96312,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-418",
+    "domain": "georgiaaesthetics.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 392,
+    "organicTraffic": 672,
+    "organicCost": 1087,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-419",
+    "domain": "modernloss.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 21894,
+    "organicTraffic": 6168,
+    "organicCost": 3365,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-420",
+    "domain": "bluetreehealthtx.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2400,
+    "organicTraffic": 2380,
+    "organicCost": 9057,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-421",
+    "domain": "austinthyroid.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 751,
+    "organicTraffic": 3930,
+    "organicCost": 12389,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-422",
+    "domain": "medlineplus.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5030037,
+    "organicTraffic": 19907021,
+    "organicCost": 22466776,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-423",
+    "domain": "selfishlyaesthetics.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 596,
+    "organicTraffic": 1812,
+    "organicCost": 5219,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-424",
+    "domain": "rpbmedical.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2636,
+    "organicTraffic": 4176,
+    "organicCost": 9887,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-425",
+    "domain": "apple.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 50244388,
+    "organicTraffic": 155347524,
+    "organicCost": 163023715,
+    "adwordsKeywords": 7050
+  },
+  {
+    "id": "cp-426",
+    "domain": "cardiomenderweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1213,
+    "organicTraffic": 752,
+    "organicCost": 2738,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-427",
+    "domain": "ncwildlife.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 155979,
+    "organicTraffic": 243116,
+    "organicCost": 114845,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-428",
+    "domain": "premierwomenshealthmn.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 14549,
+    "organicTraffic": 48374,
+    "organicCost": 56902,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-429",
+    "domain": "nytimes.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 21854841,
+    "organicTraffic": 75987912,
+    "organicCost": 88980527,
+    "adwordsKeywords": 297
+  },
+  {
+    "id": "cp-430",
+    "domain": "jumpstartmd.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5207,
+    "organicTraffic": 31202,
+    "organicCost": 62990,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-431",
+    "domain": "germantownaesthetics.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 883,
+    "organicTraffic": 729,
+    "organicCost": 1970,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-432",
+    "domain": "weightlossmdcherrycreek.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 831,
+    "organicTraffic": 5639,
+    "organicCost": 46831,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-433",
+    "domain": "nevermorelane.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2483,
+    "organicTraffic": 628,
+    "organicCost": 230,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-434",
+    "domain": "klinic.com",
+    "relevance": 0,
+    "commonKeywords": 34,
+    "organicKeywords": 87402,
+    "organicTraffic": 51902,
+    "organicCost": 224268,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-435",
+    "domain": "helloklarity.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 59203,
+    "organicTraffic": 46328,
+    "organicCost": 207116,
+    "adwordsKeywords": 5
+  },
+  {
+    "id": "cp-436",
+    "domain": "practo.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1958733,
+    "organicTraffic": 716815,
+    "organicCost": 627618,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-437",
+    "domain": "doctorsdietamerica.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 1503,
+    "organicTraffic": 5967,
+    "organicCost": 42955,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-438",
+    "domain": "gorilladoctors.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5279,
+    "organicTraffic": 556,
+    "organicCost": 816,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-439",
+    "domain": "onemedical.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 101807,
+    "organicTraffic": 264585,
+    "organicCost": 677142,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-440",
+    "domain": "innerbalance.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 10075,
+    "organicTraffic": 16098,
+    "organicCost": 75686,
+    "adwordsKeywords": 48
+  },
+  {
+    "id": "cp-441",
+    "domain": "yevoweightlosshighlandsranch.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 235,
+    "organicTraffic": 5253,
+    "organicCost": 72441,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-442",
+    "domain": "ushmm.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 418164,
+    "organicTraffic": 1612489,
+    "organicCost": 1042317,
+    "adwordsKeywords": 7
+  },
+  {
+    "id": "cp-443",
+    "domain": "conciergemdla.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 26696,
+    "organicTraffic": 19573,
+    "organicCost": 59905,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-444",
+    "domain": "allinahealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 215236,
+    "organicTraffic": 851584,
+    "organicCost": 2263292,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-445",
+    "domain": "drugs.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5222736,
+    "organicTraffic": 10636739,
+    "organicCost": 16717713,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-446",
+    "domain": "diabetes.org.uk",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 87129,
+    "organicTraffic": 132627,
+    "organicCost": 157486,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-447",
+    "domain": "health.ucsd.edu",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 94543,
+    "organicTraffic": 186986,
+    "organicCost": 372415,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-448",
+    "domain": "newsnationnow.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 719286,
+    "organicTraffic": 1195478,
+    "organicCost": 1667321,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-449",
+    "domain": "mhealthfairview.org",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 115756,
+    "organicTraffic": 298249,
+    "organicCost": 573709,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-450",
+    "domain": "houstonweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 2785,
+    "organicTraffic": 11469,
+    "organicCost": 72861,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-451",
+    "domain": "www.nhs.uk",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3894597,
+    "organicTraffic": 10414863,
+    "organicCost": 9053869,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-452",
+    "domain": "businessinsider.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 4240067,
+    "organicTraffic": 7517430,
+    "organicCost": 6672431,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-453",
+    "domain": "obesityaction.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 18184,
+    "organicTraffic": 43332,
+    "organicCost": 72294,
+    "adwordsKeywords": 51
+  },
+  {
+    "id": "cp-454",
+    "domain": "uchealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 348581,
+    "organicTraffic": 2403306,
+    "organicCost": 5208964,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-455",
+    "domain": "weightingoldwellness.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 300,
+    "organicTraffic": 926,
+    "organicCost": 2950,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-456",
+    "domain": "sfstandard.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 83794,
+    "organicTraffic": 165359,
+    "organicCost": 61825,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-457",
+    "domain": "drjamesanthony.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1109,
+    "organicTraffic": 1416,
+    "organicCost": 4703,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-458",
+    "domain": "lemonaidhealth.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 35399,
+    "organicTraffic": 84823,
+    "organicCost": 370296,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-459",
+    "domain": "forbes.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 5728376,
+    "organicTraffic": 16577317,
+    "organicCost": 31382675,
+    "adwordsKeywords": 354
+  },
+  {
+    "id": "cp-460",
+    "domain": "accskin.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1639,
+    "organicTraffic": 1455,
+    "organicCost": 4041,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-461",
+    "domain": "scrmc.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 9066,
+    "organicTraffic": 20853,
+    "organicCost": 27792,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-462",
+    "domain": "synergyhealth360.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2496,
+    "organicTraffic": 3631,
+    "organicCost": 5610,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-463",
+    "domain": "novanthealth.org",
+    "relevance": 0,
+    "commonKeywords": 7,
+    "organicKeywords": 315132,
+    "organicTraffic": 870590,
+    "organicCost": 1867955,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-464",
+    "domain": "skinspire.agency",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 586,
+    "organicTraffic": 246,
+    "organicCost": 350,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-465",
+    "domain": "massgeneralbrigham.org",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 828108,
+    "organicTraffic": 2226896,
+    "organicCost": 3194906,
+    "adwordsKeywords": 13
+  },
+  {
+    "id": "cp-466",
+    "domain": "distribb.io",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1794,
+    "organicTraffic": 1966,
+    "organicCost": 11751,
+    "adwordsKeywords": 23
+  },
+  {
+    "id": "cp-467",
+    "domain": "walmart.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 40872401,
+    "organicTraffic": 160053992,
+    "organicCost": 61269381,
+    "adwordsKeywords": 3471
+  },
+  {
+    "id": "cp-468",
+    "domain": "linkedin.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 51803955,
+    "organicTraffic": 106461813,
+    "organicCost": 165539836,
+    "adwordsKeywords": 350
+  },
+  {
+    "id": "cp-469",
+    "domain": "progressweight.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 270,
+    "organicTraffic": 1861,
+    "organicCost": 4337,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-470",
+    "domain": "parkermedical.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1269,
+    "organicTraffic": 647,
+    "organicCost": 2431,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-471",
+    "domain": "muhealth.org",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 116640,
+    "organicTraffic": 215175,
+    "organicCost": 243665,
+    "adwordsKeywords": 3
+  },
+  {
+    "id": "cp-472",
+    "domain": "joinmidi.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 73490,
+    "organicTraffic": 557938,
+    "organicCost": 1910833,
+    "adwordsKeywords": 85
+  },
+  {
+    "id": "cp-473",
+    "domain": "driphydration.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 45914,
+    "organicTraffic": 61625,
+    "organicCost": 221678,
+    "adwordsKeywords": 39
+  },
+  {
+    "id": "cp-474",
+    "domain": "lookgreatmdkop.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 193,
+    "organicTraffic": 184,
+    "organicCost": 161,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-475",
+    "domain": "ncagr.gov",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 227943,
+    "organicTraffic": 224230,
+    "organicCost": 197397,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-476",
+    "domain": "doctorswithoutborders.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 39779,
+    "organicTraffic": 52904,
+    "organicCost": 276096,
+    "adwordsKeywords": 37
+  },
+  {
+    "id": "cp-477",
+    "domain": "compoundreview.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1844,
+    "organicTraffic": 4147,
+    "organicCost": 20639,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-478",
+    "domain": "openpr.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 115504,
+    "organicTraffic": 330857,
+    "organicCost": 421178,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-479",
+    "domain": "baldwingyn.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 956,
+    "organicTraffic": 1063,
+    "organicCost": 1097,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-480",
+    "domain": "doctorsforamerica.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 734,
+    "organicTraffic": 426,
+    "organicCost": 3595,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-481",
+    "domain": "medloungesanramon.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 552,
+    "organicTraffic": 461,
+    "organicCost": 1724,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-482",
+    "domain": "genesislifestylemedicine.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 17371,
+    "organicTraffic": 11498,
+    "organicCost": 46509,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-483",
+    "domain": "yespress.io",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 19879,
+    "organicTraffic": 17251,
+    "organicCost": 34940,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-484",
+    "domain": "diabetesjournals.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 106517,
+    "organicTraffic": 100306,
+    "organicCost": 152481,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-485",
+    "domain": "gamedaymenshealth.com",
+    "relevance": 0,
+    "commonKeywords": 7,
+    "organicKeywords": 74904,
+    "organicTraffic": 217543,
+    "organicCost": 861471,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-486",
+    "domain": "windermeremedical.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 13630,
+    "organicTraffic": 49999,
+    "organicCost": 48687,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-487",
+    "domain": "amazon.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 115630921,
+    "organicTraffic": 433464315,
+    "organicCost": 390568686,
+    "adwordsKeywords": 10326
+  },
+  {
+    "id": "cp-488",
+    "domain": "primary-healthpartners.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2190,
+    "organicTraffic": 5915,
+    "organicCost": 10377,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-489",
+    "domain": "usnews.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 10998506,
+    "organicTraffic": 20109782,
+    "organicCost": 69122454,
+    "adwordsKeywords": 7
+  },
+  {
+    "id": "cp-490",
+    "domain": "elevateatl.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 861,
+    "organicTraffic": 434,
+    "organicCost": 1672,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-491",
+    "domain": "telemedsforme.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 906,
+    "organicTraffic": 127,
+    "organicCost": 1102,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-492",
+    "domain": "unfccc.int",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 497527,
+    "organicTraffic": 80964,
+    "organicCost": 177635,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-493",
+    "domain": "wakemed.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 88361,
+    "organicTraffic": 306815,
+    "organicCost": 185780,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-494",
+    "domain": "417mag.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 30666,
+    "organicTraffic": 48332,
+    "organicCost": 24977,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-495",
+    "domain": "google.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 56080282,
+    "organicTraffic": 458257586,
+    "organicCost": 1091729698,
+    "adwordsKeywords": 7667
+  },
+  {
+    "id": "cp-496",
+    "domain": "stonevillenc.org",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 194105,
+    "organicTraffic": 120820,
+    "organicCost": 221605,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-497",
+    "domain": "businesswire.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 494749,
+    "organicTraffic": 782346,
+    "organicCost": 1447300,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-498",
+    "domain": "batashmedical.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 7050,
+    "organicTraffic": 3745,
+    "organicCost": 6291,
+    "adwordsKeywords": 3
+  },
+  {
+    "id": "cp-499",
+    "domain": "atlantamedicalinstitute.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 1440,
+    "organicTraffic": 3383,
+    "organicCost": 11352,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-500",
+    "domain": "atlantichealth.org",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 183463,
+    "organicTraffic": 662516,
+    "organicCost": 1267459,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-501",
+    "domain": "wheelermedspa.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 628,
+    "organicTraffic": 615,
+    "organicCost": 1890,
+    "adwordsKeywords": 1
+  },
+  {
+    "id": "cp-502",
+    "domain": "adventhealth.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 464405,
+    "organicTraffic": 2066233,
+    "organicCost": 4303512,
+    "adwordsKeywords": 93
+  },
+  {
+    "id": "cp-503",
+    "domain": "uclahealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 697181,
+    "organicTraffic": 2340650,
+    "organicCost": 2822083,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-504",
+    "domain": "unep.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1245095,
+    "organicTraffic": 150880,
+    "organicCost": 199501,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-505",
+    "domain": "optionsmedicalweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3970,
+    "organicTraffic": 10143,
+    "organicCost": 67438,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-506",
+    "domain": "weightwatchers.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 238968,
+    "organicTraffic": 1976536,
+    "organicCost": 6446680,
+    "adwordsKeywords": 166
+  },
+  {
+    "id": "cp-507",
+    "domain": "vermont.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 2138539,
+    "organicTraffic": 682124,
+    "organicCost": 822151,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-508",
+    "domain": "superbcompanies.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 18753,
+    "organicTraffic": 3134,
+    "organicCost": 10367,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-509",
+    "domain": "merriam-webster.com",
+    "relevance": 0,
+    "commonKeywords": 3,
+    "organicKeywords": 15310092,
+    "organicTraffic": 137923392,
+    "organicCost": 124023900,
+    "adwordsKeywords": 91
+  },
+  {
+    "id": "cp-510",
+    "domain": "ftc.gov",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3437157,
+    "organicTraffic": 1653582,
+    "organicCost": 4349051,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-511",
+    "domain": "61five.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 2078,
+    "organicTraffic": 5789,
+    "organicCost": 22851,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-512",
+    "domain": "emetabolic.com",
+    "relevance": 0,
+    "commonKeywords": 8,
+    "organicKeywords": 14683,
+    "organicTraffic": 18000,
+    "organicCost": 46915,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-513",
+    "domain": "zocdoc.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 958641,
+    "organicTraffic": 1610103,
+    "organicCost": 4122426,
+    "adwordsKeywords": 24
+  },
+  {
+    "id": "cp-514",
+    "domain": "pwlc.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 591,
+    "organicTraffic": 656,
+    "organicCost": 4345,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-515",
+    "domain": "doctorsweightlosscenterofcary.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 538,
+    "organicTraffic": 773,
+    "organicCost": 5364,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-516",
+    "domain": "premierweightloss.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1215,
+    "organicTraffic": 4361,
+    "organicCost": 34624,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-517",
+    "domain": "mayoclinicproceedings.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 54762,
+    "organicTraffic": 135462,
+    "organicCost": 205875,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-518",
+    "domain": "youtube.com",
+    "relevance": 0,
+    "commonKeywords": 18,
+    "organicKeywords": 1990127862,
+    "organicTraffic": 3216324521,
+    "organicCost": 2208311135,
+    "adwordsKeywords": 637
+  },
+  {
+    "id": "cp-519",
+    "domain": "wegovy.com",
+    "relevance": 0,
+    "commonKeywords": 2,
+    "organicKeywords": 39424,
+    "organicTraffic": 371769,
+    "organicCost": 4525882,
+    "adwordsKeywords": 808
+  },
+  {
+    "id": "cp-520",
+    "domain": "litemedicalclinic.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1322,
+    "organicTraffic": 709,
+    "organicCost": 3366,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-521",
+    "domain": "swancenteratlanta.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 5613,
+    "organicTraffic": 7694,
+    "organicCost": 12851,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-522",
+    "domain": "formulawellness.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 3292,
+    "organicTraffic": 5980,
+    "organicCost": 13001,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-523",
+    "domain": "phentermineclinic.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 1653,
+    "organicTraffic": 2841,
+    "organicCost": 16899,
+    "adwordsKeywords": 0
+  },
+  {
+    "id": "cp-524",
+    "domain": "novomedlink.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 34543,
+    "organicTraffic": 83275,
+    "organicCost": 432155,
+    "adwordsKeywords": 281
+  },
+  {
+    "id": "cp-525",
+    "domain": "phelpshealth.org",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 15308,
+    "organicTraffic": 37827,
+    "organicCost": 26452,
+    "adwordsKeywords": 2
+  },
+  {
+    "id": "cp-526",
+    "domain": "cell.com",
+    "relevance": 0,
+    "commonKeywords": 1,
+    "organicKeywords": 362009,
+    "organicTraffic": 337353,
+    "organicCost": 548277,
+    "adwordsKeywords": 0
+  }
+]

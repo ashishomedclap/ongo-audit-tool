@@ -1,0 +1,884 @@
+{
+  "name": "Litemedicalclinic",
+  "domain": "litemedicalclinic.com",
+  "total_urls": 513,
+  "semaglutide_pages": [
+    "https://litemedicalclinic.com/comparing-semaglutide-and-tirzepatide-for-weight-loss-a-rochester-m-d-s-view/",
+    "https://litemedicalclinic.com/compounded-semaglutide-north-metro/",
+    "https://litemedicalclinic.com/how-can-i-avoid-ozempic-face-%f0%9f%92%89/",
+    "https://litemedicalclinic.com/how-long-does-it-take-for-semaglutide-to-work/",
+    "https://litemedicalclinic.com/ozempic-face-muscle-mass-glp1-eden-prairie/",
+    "https://litemedicalclinic.com/semaglutide-and-exercise/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-apple-valley-mn/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-blaine-mn/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-brooklyn-center-mn/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-brooklyn-park-mn/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-burnsville-mn/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-chanhassen-mn/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-coon-rapids-mn/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-cottage-grove-mn/",
+    "https://litemedicalclinic.com/semaglutide-treatment-in-duluth-mn/"
+  ],
+  "tirzepatide_pages": [
+    "https://litemedicalclinic.com/comparing-semaglutide-and-tirzepatide-for-weight-loss-a-rochester-m-d-s-view/",
+    "https://litemedicalclinic.com/compounded-tirzepatide-chanhassen/",
+    "https://litemedicalclinic.com/compounded-tirzepatide-edina/",
+    "https://litemedicalclinic.com/how-long-does-it-take-for-tirzepatide-to-work/",
+    "https://litemedicalclinic.com/how-tirzepatide-may-help-manage-pcos-and-weight-gain/",
+    "https://litemedicalclinic.com/is-compounded-tirzepatide-safe-a-physicians-guide-to-quality-and-purity-for-bloomington-patients/",
+    "https://litemedicalclinic.com/semaglutide-vs-tirzepatide-choosing-whats-right-for-you/",
+    "https://litemedicalclinic.com/the-real-cost-of-tirzepatide-in-blaine-why-cash-pay-plans-save-you-money-and-stress/",
+    "https://litemedicalclinic.com/tired-on-tirzepatide-woodbury/",
+    "https://litemedicalclinic.com/tirzepatide-treatment-in-apple-valley-mn/",
+    "https://litemedicalclinic.com/tirzepatide-treatment-in-blaine-mn/",
+    "https://litemedicalclinic.com/tirzepatide-treatment-in-brooklyn-center-mn/",
+    "https://litemedicalclinic.com/tirzepatide-treatment-in-brooklyn-park-mn/",
+    "https://litemedicalclinic.com/tirzepatide-treatment-in-burnsville-mn/",
+    "https://litemedicalclinic.com/tirzepatide-treatment-in-chanhassen-mn/"
+  ],
+  "pricing_pages": [
+    "https://litemedicalclinic.com/budgeting-for-mens-health-understanding-monthly-trt-costs-in-chanhassen/",
+    "https://litemedicalclinic.com/the-cost-of-hrt-in-rochester-mn/",
+    "https://litemedicalclinic.com/the-cost-of-trt-in-minneapolis-cash-pay-pricing-and-what-it-includes/",
+    "https://litemedicalclinic.com/the-real-cost-of-tirzepatide-in-blaine-why-cash-pay-plans-save-you-money-and-stress/",
+    "https://litemedicalclinic.com/thyroid-labs-normal-feel-terrible-rochester/",
+    "https://litemedicalclinic.com/treating-hormone-imbalance-without-high-cost-insurance-hurdles-in-rochester/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://litemedicalclinic.com/bioidentical-vs-synthetic-hormones/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/biotin-injections/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/budgeting-for-mens-health-understanding-monthly-trt-costs-in-chanhassen/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/comparing-semaglutide-and-tirzepatide-for-weight-loss-a-rochester-m-d-s-view/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/compounded-semaglutide-north-metro/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/compounded-tirzepatide-chanhassen/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/compounded-tirzepatide-edina/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/how-can-i-avoid-ozempic-face-%f0%9f%92%89/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/how-long-does-it-take-for-semaglutide-to-work/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/how-long-does-it-take-for-tirzepatide-to-work/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/how-tirzepatide-may-help-manage-pcos-and-weight-gain/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/hrt-safety-monitoring/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/hrt-safety-update-edina/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/is-compounded-tirzepatide-safe-a-physicians-guide-to-quality-and-purity-for-bloomington-patients/",
+      "categories": [
+        "Tirzepatide",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/is-trt-safe-long-term-maple-grove-physician-fears/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-apple-valley-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-auburn-ca/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-blaine-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-brooklyn-center-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-brooklyn-park-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-burnsville-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-chanhassen-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-coon-rapids-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-cottage-grove-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-duluth-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-eden-prairie-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-edina-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-inver-grove-heights-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-lakeville-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-mankato-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-maple-grove-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-maplewood-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-minneapolis-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-minnetonka-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-plymouth-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-prior-lake-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-richfield-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-rochester-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-roseville-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-saint-cloud-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-saint-louis-park-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-saint-paul-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-savage-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-shoreview-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-stillwater-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/medical-weight-loss-in-woodbury-mn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/not-all-compounds-are-created-equal-how-physicians-ensure-glp-1-safety-for-rochester-patients/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/our-locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/ozempic-face-muscle-mass-glp1-eden-prairie/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/physician-led-weight-loss-rochester/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-and-exercise/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-apple-valley-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-blaine-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-brooklyn-center-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-brooklyn-park-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-burnsville-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-chanhassen-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-coon-rapids-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-cottage-grove-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-duluth-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-eden-prairie-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-edina-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-inver-grove-heights-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-lakeville-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-mankato-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-maple-grove-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-maplewood-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-minneapolis-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-minnetonka-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-plymouth-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-prior-lake-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-richfield-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-rochester-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-roseville-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-saint-cloud-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-saint-louis-park-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-saint-paul-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-savage-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-shoreview-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-stillwater-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-treatment-in-woodbury-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-vs-diet-why-medical-supervision-matters-for-lasting-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide-vs-tirzepatide-choosing-whats-right-for-you/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/starting-semaglutide-what-blaine-and-north-metro-patients-should-know/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/testosterone-therapy-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/the-cost-of-hrt-in-rochester-mn/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/the-cost-of-trt-in-minneapolis-cash-pay-pricing-and-what-it-includes/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/the-real-cost-of-tirzepatide-in-blaine-why-cash-pay-plans-save-you-money-and-stress/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/thyroid-labs-normal-feel-terrible-rochester/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tired-on-tirzepatide-woodbury/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-apple-valley-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-blaine-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-brooklyn-center-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-brooklyn-park-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-burnsville-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-chanhassen-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-coon-rapids-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-cottage-grove-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-duluth-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-eden-prairie-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-edina-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-inver-grove-heights-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-lakeville-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-mankato-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-maple-grove-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-maplewood-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-minneapolis-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-minnetonka-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-plymouth-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-prior-lake-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-richfield-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-rochester-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-roseville-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-saint-cloud-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-saint-louis-park-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-saint-paul-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-savage-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-shoreview-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-stillwater-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-treatment-in-woodbury-mn/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide-vs-semaglutide-which-weight-loss-injection-is-right-for-you/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/treating-hormone-imbalance-without-high-cost-insurance-hurdles-in-rochester/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/trt-long-term-safety-st-paul/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/trt-monitoring-labs-safety-and-long-term-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/trt-saint-paul-who-benefits-physician-assessment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/weaning-off-tirzepatide-plymouth-5/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/weaning-off-tirzepatide-plymouth/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/weight-loss-in-minnesota-unique-considerations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/weight-loss-stops-on-semaglutide-edina/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/what-to-eat-on-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/why-bioidentical-testosterone-matters/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/why-functional-medicine-and-gi-map-testing-can-be-crucial-for-lasting-weight-loss-in-minnesota/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/why-physician-led-hrt-is-different/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://litemedicalclinic.com/womens-testosterone-safety/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

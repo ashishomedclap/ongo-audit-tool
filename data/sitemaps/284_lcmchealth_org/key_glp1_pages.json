@@ -1,0 +1,13 @@
+{
+  "name": "Lcmchealth",
+  "domain": "lcmchealth.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://lcmchealth.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://lcmchealth.org/pricing"
+  ],
+  "all_categorized": []
+}

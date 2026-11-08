@@ -1,0 +1,24 @@
+{
+  "name": "Mindnbodymd",
+  "domain": "mindnbodymd.com",
+  "total_urls": 19,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mindnbodymd.com/fees-insurance-forms/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://mindnbodymd.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mindnbodymd.com/fees-insurance-forms/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

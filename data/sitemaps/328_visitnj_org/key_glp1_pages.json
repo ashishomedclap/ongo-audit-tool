@@ -1,0 +1,377 @@
+{
+  "name": "Visitnj",
+  "domain": "visitnj.org",
+  "total_urls": 10343,
+  "semaglutide_pages": [
+    "https://visitnj.org/gethsemane-cemetery",
+    "https://visitnj.org/rosemary-inn"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://visitnj.org/article/best-coffee-shops",
+    "https://visitnj.org/article/coffee-shop-lovers-roundup",
+    "https://visitnj.org/barretts-plantation-house",
+    "https://visitnj.org/caprice-motel",
+    "https://visitnj.org/cowabunga-coffee-roasters",
+    "https://visitnj.org/cowabunga-coffee-roasters-0",
+    "https://visitnj.org/cowabunga-coffee-roasters-1",
+    "https://visitnj.org/dimeo-farms-blueberry-plants-nursery",
+    "https://visitnj.org/edelman-planetarium",
+    "https://visitnj.org/esplanade-suites",
+    "https://visitnj.org/holiday-family-feel-good-trail",
+    "https://visitnj.org/itinerary/new-year-new-jersey-travel-plan",
+    "https://visitnj.org/jim-mary-lee-morris-canal-museum-plane-9-west",
+    "https://visitnj.org/longo-planetarium-county-college-morris",
+    "https://visitnj.org/meetings/plan-a-meeting"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://visitnj.org/article/best-coffee-shops",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/article/coffee-shop-lovers-roundup",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/article/estates-and-historic-homes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/article/united-states-golf-association-museum",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/atlantic-county-utilities-authority-acua",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/barretts-plantation-house",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/caprice-motel",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/cowabunga-coffee-roasters",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/cowabunga-coffee-roasters-0",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/cowabunga-coffee-roasters-1",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/dimeo-farms-blueberry-plants-nursery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/edelman-planetarium",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/esplanade-suites",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/faqs-database-need-help",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/gethsemane-cemetery",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/greater-wildwoods-tourism-improvement-development-authority",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/holiday-family-feel-good-trail",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/itinerary/new-year-new-jersey-travel-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/jim-mary-lee-morris-canal-museum-plane-9-west",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/longo-planetarium-county-college-morris",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/marketing-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/meetings/plan-a-meeting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/new-york-new-jersey-trail-conference",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-airports/path-port-authority-trans-hudson",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-airports/septa-southeastern-pennsylvania-transportation-authority",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-attractions/biplane-rides-over-new-jersey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-attractions/somerset-patriots-new-york-yankees-double",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-campgrounds-rv-parks/plantation-campground",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-farms-orchards/woodfield-christmas-tree-plantation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-galleries/m-christina-geis-gallery-georgian-court-university",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-historic-sites-memorials/dr-william-robinson-plantation-museum",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-historic-sites-memorials/stafford-township-heritage-park",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-museums/dreyfuss-planetarium",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-museums/planetarium-raritan-valley-community-college",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj-museums/robert-j-novins-planetarium-ocean-county-college",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj/staffordville/attractions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj/staffordville/attractions/amusement-water-parks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj/staffordville/attractions/family-fun",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj/staffordville/dining-entertainment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/nj/staffordville/dining-entertainment/restaurants",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/ohio",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/plan-your-trip",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/planetarium-new-jersey-state-museum",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/press/abc-news-good-morning-america-series-50-states-50-weeks-america-beautiful-celebrates-heart",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/press/explore-new-jerseys-famous-estates-and-historic-homes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/press/jersey-shore-store-celebrates-new-york-city-grand-opening",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/press/lights-camera-new-jersey-garden-state-launches-film-trails-explore-real-locations-behind",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/press/new-jersey-department-agriculture-and-new-jersey-department-states-division-travel-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/press/new-jerseys-2020-tourism-data-reflects-resiliency-states-food-beverage-and-lodging-sectors",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/price4limo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/road-trip-new-jersey-journey-states-8-scenic-byways-fall",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/rosemary-inn",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/sister-mary-grace-burns-arboretum-georgian-court-university",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/somerset-patriots-new-york-yankees-double",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/stafford-township-arts-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/submission-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/video/plan-your-winter-adventure-nj",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://visitnj.org/weequahic-park-sports-authority-conservancy",
+      "categories": [
+        "Author"
+      ]
+    }
+  ]
+}

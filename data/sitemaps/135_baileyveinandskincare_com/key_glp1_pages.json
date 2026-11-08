@@ -1,0 +1,44 @@
+{
+  "name": "Baileyveinandskincare",
+  "domain": "baileyveinandskincare.com",
+  "total_urls": 83,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://baileyveinandskincare.com/cosmetic-surgery/breast/implant-revision/",
+    "https://baileyveinandskincare.com/cosmetic-surgery/breast/lift-with-implants/",
+    "https://baileyveinandskincare.com/cosmetic-surgery/face/implants/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://baileyveinandskincare.com/cosmetic-surgery/breast/implant-revision/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://baileyveinandskincare.com/cosmetic-surgery/breast/lift-with-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://baileyveinandskincare.com/cosmetic-surgery/face/implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://baileyveinandskincare.com/medspa/sexual-health/bioidentical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://baileyveinandskincare.com/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

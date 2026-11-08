@@ -1,0 +1,13 @@
+{
+  "name": "Joslin",
+  "domain": "joslin.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://joslin.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://joslin.org/pricing"
+  ],
+  "all_categorized": []
+}

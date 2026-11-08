@@ -1,0 +1,86 @@
+{
+  "name": "Medspamarketpro",
+  "domain": "medspamarketpro.com",
+  "total_urls": 140,
+  "semaglutide_pages": [
+    "https://medspamarketpro.com/semaglutide-weight-loss-marketing-ideas/",
+    "https://medspamarketpro.com/semaglutide-weight-loss-marketing/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://medspamarketpro.com/dermaplaning-marketing-ideas/",
+    "https://medspamarketpro.com/dermaplaning-marketing/",
+    "https://medspamarketpro.com/med-spa-business-plan/",
+    "https://medspamarketpro.com/med-spa-free-treatment-cost/",
+    "https://medspamarketpro.com/medspa-cost-per-lead-cost-per-booking/",
+    "https://medspamarketpro.com/medspa-marketing-cost/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://medspamarketpro.com/author/lorea-lastiri/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/dermaplaning-marketing-ideas/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/dermaplaning-marketing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/doctorlogic-reviews/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/med-spa-business-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/med-spa-free-treatment-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/medspa-cost-per-lead-cost-per-booking/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/medspa-marketing-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/semaglutide-weight-loss-marketing-ideas/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medspamarketpro.com/semaglutide-weight-loss-marketing/",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

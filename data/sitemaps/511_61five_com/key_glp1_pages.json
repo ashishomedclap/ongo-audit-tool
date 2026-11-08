@@ -1,0 +1,13 @@
+{
+  "name": "61five",
+  "domain": "61five.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://61five.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://61five.com/pricing"
+  ],
+  "all_categorized": []
+}

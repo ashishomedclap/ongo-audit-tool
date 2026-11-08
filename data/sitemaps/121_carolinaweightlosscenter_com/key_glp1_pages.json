@@ -1,0 +1,32 @@
+{
+  "name": "Carolinaweightlosscenter",
+  "domain": "carolinaweightlosscenter.com",
+  "total_urls": 32,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://carolinaweightlosscenter.com/nutrition-and-meal-plan/",
+    "https://carolinaweightlosscenter.com/pricing/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://carolinaweightlosscenter.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://carolinaweightlosscenter.com/nutrition-and-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://carolinaweightlosscenter.com/pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    }
+  ]
+}

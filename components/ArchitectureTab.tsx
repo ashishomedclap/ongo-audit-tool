@@ -47,7 +47,7 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
     });
   };
 
-  const totalAnalyzed = Object.values(architectureOverview).reduce((a, b) => a + b, 0) || 35420;
+  const totalAnalyzed = Object.values(architectureOverview).reduce((a, b) => a + b, 0) || 512334;
 
   const filteredUrls = masterUrls.filter(item => {
     const matchesSearch = 
@@ -66,38 +66,6 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-      <ContextCue
-        level={3}
-        toolNumber={11}
-        useCase="Execute the 217-page silo roadmap spanning Treatment, Condition, Comparison, and Clinical silos."
-        badge="Strategic Architecture"
-        title="Content Silo Breakdown & Ongo 217-Page Roadmap"
-        about="This page maps the macro content architecture of 35,420 competitor URLs across 6 clinical silos and presents Ongo Weight Loss's comprehensive 217-Page Organic Expansion Roadmap. It provides a prioritized, actionable blueprint to scale Ongo from its current 11 live pages to 228 authoritative URLs."
-        whatYouCanDo={[
-          {
-            action: "Track Execution with Local Persistence",
-            description: "Click the status badge on any of the 217 pages to cycle between 'Todo' → 'In Progress' → 'Done'. Your progress saves automatically in browser localStorage."
-          },
-          {
-            action: "Filter by Priority Tiers (P0, P1, P2)",
-            description: "Filter to 'P0: Mission Critical' (immediate commercial revenue funnels), 'P1: High Impact' (state hubs and dosage comparisons), or 'P2: Scale & Dominance' (long-tail guides)."
-          },
-          {
-            action: "Browse by Content Silo",
-            description: "Filter pages across Core Treatments, Pricing & Transparency, Clinical Authority (E-E-A-T), State Telehealth Landing Pages, or Patient Education."
-          },
-          {
-            action: "Inspect Slugs & Search Intent",
-            description: "Review recommended URL slugs, target keywords, monthly search volume estimates, and patient intent for all 217 blueprint pages."
-          },
-          {
-            action: "View Competitor Silo Allocations",
-            description: "Benchmark how the 100 competitors allocate content (26% blogs, 9% treatments, 5% education, 1.8% pricing) to optimize Ongo's publishing cadence."
-          }
-        ]}
-        tip="Filter by 'P0' to focus exclusively on high-priority commercial funnels needed to capture immediate Google search traffic."
-      />
-
       {/* Sleek Minimalist Tool Header */}
       <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
@@ -130,7 +98,7 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
               Content Silos &amp; 217-Page Expansion Roadmap
             </h1>
             <p style={{ fontSize: '0.78rem', color: '#94a3b8', margin: '2px 0 0 0' }}>
-              6 topic silos · 35,420 competitor URLs analyzed · Interactive localStorage checklist
+              6 topic silos · 512,334 competitor URLs analyzed across 618 competitors · Interactive localStorage checklist
             </p>
           </div>
         </div>
@@ -232,10 +200,10 @@ export default function ArchitectureTab({ architectureOverview, masterUrls }: Ar
       {/* Category Architecture Distribution Bento Grid */}
       <div className="bento-card" style={{ padding: '24px', border: '1px solid var(--border-medium)' }}>
         <h2 style={{ fontSize: '1.05rem', fontWeight: 700, color: 'var(--color-primary-dark)', marginBottom: '4px' }}>
-          Competitor Content Silo Distribution (35,420 URLs)
+          Competitor Content Silo Distribution (512,334 URLs)
         </h2>
         <p style={{ fontSize: '0.78rem', color: 'var(--text-secondary)', marginBottom: '18px' }}>
-          Proportional volume of pages published across 100 compounded GLP-1 providers
+          Proportional volume of pages published across 618 compounded GLP-1 providers
         </p>
 
         <div style={{

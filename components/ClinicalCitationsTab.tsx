@@ -81,14 +81,7 @@ export default function ClinicalCitationsTab() {
   return (
     <div style={{ maxWidth: '1440px', margin: '0 auto', padding: '0 8px' }}>
       {/* Context Cue Banner */}
-      <ContextCue
-        title="US PubMed & NLM Clinical Citation Generator"
-        level={2}
-        toolNumber={23}
-        badge="National Library of Medicine (NLM)"
-        useCase="Provides 1-click clinical citations from 36M+ peer-reviewed US medical publications (NEJM, JAMA, Lancet) to substantiate telehealth weight loss claims and satisfy Google YMYL E-E-A-T standards."
-      />
-
+      
       {/* Top Header Metrics */}
       <div style={{
         display: 'grid',

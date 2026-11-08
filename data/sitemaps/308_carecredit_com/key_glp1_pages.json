@@ -1,0 +1,5405 @@
+{
+  "name": "Carecredit",
+  "domain": "carecredit.com",
+  "total_urls": 1927,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.carecredit.com/behavioral-health/costs/",
+    "https://www.carecredit.com/chiropractic/costs/",
+    "https://www.carecredit.com/cosmetic/costs/",
+    "https://www.carecredit.com/dentistry/costs/",
+    "https://www.carecredit.com/dermatology/costs/",
+    "https://www.carecredit.com/durable-medical-equipment/costs/",
+    "https://www.carecredit.com/hearing/costs/",
+    "https://www.carecredit.com/hospital-medical-billing/costs/",
+    "https://www.carecredit.com/lasik/costs/",
+    "https://www.carecredit.com/pharmacy-and-prescriptions/costs/",
+    "https://www.carecredit.com/pressrelease/carecredit-integrated-with-planet-dds-denticon/",
+    "https://www.carecredit.com/pressrelease/healthcare-leaders-chose-papaya-as-startup-with-most-innovative-solution-for-bending-the-cost-curve/",
+    "https://www.carecredit.com/pressrelease/lifetime-cost-of-horse-ownership-study/",
+    "https://www.carecredit.com/pressrelease/planet-dds-carecredit-partnership/",
+    "https://www.carecredit.com/pressrelease/synchrony-lifetime-healthcare-costs-study/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.carecredit.com/YourTerms/April2019.pdf",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/behavioral-health/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/chiropractic/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/cosmetic/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/dentistry/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/dermatology/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/doctor-locator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/doctor-locator/results/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/doctor-locator/results/Dental/General-Dentist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/durable-medical-equipment/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/hearing/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/hospital-medical-billing/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/lasik/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/pharmacy-and-prescriptions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/pharmacy-and-prescriptions/costs/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/pressrelease/carecredit-integrated-with-planet-dds-denticon/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/pressrelease/cwh-advisors-patientpay-research/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/pressrelease/healthcare-leaders-chose-papaya-as-startup-with-most-innovative-solution-for-bending-the-cost-curve/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/pressrelease/lifetime-cost-of-horse-ownership-study/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/pressrelease/planet-dds-carecredit-partnership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/pressrelease/synchrony-lifetime-healthcare-costs-study/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/animal-healthcare/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/chiropractic/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/contact-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/cosmetic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/cosmetic/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/custom-link/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/delivering-great-patient-experience/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/dentist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/dentists-essential-financing-checklist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/digital-end-of-year-kit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/front-office-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/help-capture-more-potential-production/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/help-minimize-failed-appointments/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/improve-case-acceptance-with-confidence/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/independent-practice-success-brush-above/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/long-term-practice-growth-strategies/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/potential-production-in-charts/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/practice-growth-journey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/practices-path-to-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/teams-essential-financing-checklist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental-practice-growth/uncollected-production-on-books/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dental/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dermatology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/dermatology/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/equine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/faq/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/fertility/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/funeral/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/get-carecredit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/health-systems-healthcare-specialties/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/health-systems/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/healthcare-wellness/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/hearing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/hearing/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/how-it-works/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insight/creative-ways-increase-patient-volume-veterinary/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insight/creative-ways-increase-patient-volume/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insight/how-plastic-surgery-practices-improve-patient-satisfaction/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insight/tms-therapy-client-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/4-easy-ways-to-help-you-convert-more-surgeries/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/adding-revenue-streams-to-your-dental-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/address-cost-concerns-during-fee-discussion/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/addressing-cost-concerns-dermatology-patient-financing/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/addressing-cost-concerns-with-carecredit/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/addressing-patient-financial-experience/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/aesthetic-client-financing-made-simple/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/aesthetics-industry-client-retention/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/aesthetics-industry-financing-for-cosmetic-procedures-minimally-invasive/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ai-vision-technology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/answer-to-ar-can-be-easy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/appealing-patients-seeking-cosmetic-dentistry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/apply-pay-contactless-equine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/apply-pay-contactless-way/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/art-setting-boundaries-keeping-them/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/audiology-financing-helps-support-hearing-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/audiology-marketing-ideas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/audiology-marketing-toolkit-patient-engagement/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/back-to-school-optical-care-financing-kid-focus/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/balance-passion-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/beauty-of-established-trust/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/benefits-of-patient-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/benefits-offering-veterinary-financing-solutions/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/benefits-third-party-financing-health-wellness/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/best-practices-financing-dental-treatment-planning/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/best-practices-for-talking-about-carecredit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/billing-collections/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/billing-for-telehealth-best-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/blueprint-OMS-integration-carecredit-quickscreen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/boost-your-skills/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/build-healthy-relationships-with-horse-owners/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/building-dry-eye-center-of-excellence/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/burnout-in-healthcare-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/buy-now-pay-later-healthcare-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/canine-checklist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-faqs-cosmetic-med-spa/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-faqs-providers-audiology/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-faqs-providers-chiropractic/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-faqs-providers-dental/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-faqs-providers-dermatology/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-faqs-providers-optometry-ophthalmology/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-faqs-providers-veterinary/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-faqs-providers/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-health-and-wellness-credit-card-benefits/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-integration-cofi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-pets-best-bonded-pair/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-petsbest-better-together/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-playbook-simplify-cost-conversation/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-prequalification-cosmetic-aesthetic-med-spa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-provider-locator-profile-tips/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-quick-start-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/carecredit-resource-checklist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/career-communication-guide-equine-technicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/caring-healthy-cost-conversations/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/category/billing-collections/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/category/patient-client-experience/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/category/patient-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/category/practice-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/change-veterinary-practice-workflow-episode-1/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/chiro-care-toolkit-digitalad/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/chiro-care-toolkit-email/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/chiro-care-toolkit-social/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/chiropractic-billing-and-financial-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/chiropractic-financing-solution-reimbursement-gaps/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/chiropractic-financing-supports-practice-wellness/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/chiropractic-solutions-can-help-patient-wellness/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/communicate-financial-responsibilities-patients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/communicating-benefits-pet-insurance/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/communication-curbside-client-experience-episode-2/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/compassionomics-with-dr-stephen-trzeciak/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/confident-cost-conversations-health-wellness/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/consumer-insights-building-loyalty/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/contactless-way-apply-pay-curbside/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/contactless-way-apply-pay/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/content/articles/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/content/guides/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/content/podcasts/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/content/research/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/content/tools-templates/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/content/videos/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/cosmetic-business-fall-holiday-trends/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/cosmetic-financing-solutions-for-out-of-pocket-costs/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/cosmetic-industry-engaging-perimenopausal-women/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/cost-factors-into-decision-making-dermatology-patients/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/cost-payment-worksheet/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/cost-to-care-conversation-guide/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/costs-critical-in-patient-journey-leverage-carecredit/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/create-seamless-dental-payment-experience/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/creating-efficiencies-from-digital-processes/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/creating-financial-landing-page/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/creating-strong-professional-network/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/creating-strong-professional-referral-network/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/credit-card-processing-fees-health-wellness/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/curbside-care-best-practices-for-veterinarians-dos-donts/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/curbside-care-made-vet-practice-stronger/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/curbside-guide-clients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/curbside-guide-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/decoding-pet-owner-path-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/deferred-interest-promotional-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-billing-tips-streamline-your-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-care-innovation-helps-patients-get-treatment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-educational-podcast/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-end-of-year-benefits/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-hiring-recruiting-the-friends-you-dont-know/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-implant-financing-improve-case-acceptance/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-industry-trends/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-lifetime-of-care-study/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-networking/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-patient-communication-dos-donts/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-patient-financing-helps-support-oral-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-patient-retention-strategies/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-practice-financial-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-practice-kpis/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-practice-software-patient-financing-integrations/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-recall-appointment-scheduling-best-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-social-media-best-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-staff-appreciation-ideas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-staff-recruiting/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dental-team-engagement/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dermatologist-marketing-social-media-calendar/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/dermatologist-marketing-strategies-patient-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/digital-banners-year-end/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/digital-estimator-financing-options/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/digital-marketing-best-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/digital-point-of-sale-financing-opening-access-vision-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/display-digital-resources-opthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/display-digital-resources-optometry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ease-administrative-burdens-billing-inserts/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/easy-to-use-practice-management-software/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/effective-cost-conversation/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/effective-cost-conversations/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/effective-patient-relationship-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/effective-veterinary-client-communication/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/email-copy-banners-ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/embracing-spectrum-of-care-veterinary-medicine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/employee-burnout-in-healthcare/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/engage-educate-empower-enable-patients-clients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/engaging-older-cosmetic-care-clientele/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/enhance-practice-efficiency-with-carecredit-for-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/equine-business-financial-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/equine-carecredit-your-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/equine-financial-discussions/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/equine-vet-technician-mentorship/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/equine-veterinary-guide-managing-client-expectations/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/equine-veterinary-medicine-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/evolution-curbside-care-veterinary-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/exploring-ways-to-increase-practice-revenue/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/eye-surgery-financing-cost-conversations-with-carecredit/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/eyewear-options-worksheet/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/feline-checklist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/field-tested-strategy-equine-vet-receivables/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financial-care-conversations/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financial-care-supports-care-for-horses/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financial-care-supports-care-for-pets/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financial-care-veterinary-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financial-page-toolkit-ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financing-discussions-dental-front-office-training/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financing-large-dental-treatments/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financing-partner-delivers-more/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financing-solutions-support-parasite-prevention/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financing-solutions-when-clients-have-credit-cards/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/financing-specialty-vision-care-helping-patients-move-forward/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/five-myths-about-carecredit-credit-card-equine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/flexible-financing-carecredit-fit-workflows-equine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/flexible-financing-carecredit-fit-workflows/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/flexible-financing-help-patients-manage-healthcare-costs/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/flexible-payment-options-cosmetic-aesthetic-med-spa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/flexible-payment-options-for-your-patients-audiology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/flexible-payment-options-to-your-patients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/google-business-profile-optimization-healthcare/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/grow-your-ophthalmic-practice-future-of-vision-correction/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/guide-discussing-feline-care-vet-client-communication/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/guide-to-health-wellness-practice-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/happy-patients-full-schedule-easy-days/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/harm-offering-discounts-equine-vet-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hate-talking-money-not-alone/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/health-and-wellness-patient-financing-helps-support-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/health-systems-may-improve-patient-collections-strategies/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/health-wellness-marketing-strategies/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-budget-worksheet/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-financing-carecredit-credit-card-carecredit-pay-later/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-industry-trends-2026-provider-insights/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-internet-marketing-website-tips/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-line-of-credit-vs-pay-over-time-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-path-to-purchase-consumer-research/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-path-to-purchase-optometry-optical/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-path-to-purchase-vision-treatment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthcare-path-to-purchase/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/healthy-path-older-pets/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-and-vision-technology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-device-trends/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-health-awareness-events-promote-each-year/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-health-care-patient-education/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-health-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-health-loss-prevention-infographic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-health-loss-prevention-study/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-health-loss-prevention-video/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hearing-loss-myths-how-audiologists-debunk-them/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/help-minimize-failed-appointments/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/help-patients-clients-get-summer-ready-cosmetic-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/help-patients-navigate-annual-deductible-reset/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/help-patients-prepare-appointment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/help-your-practice-see-more-success-with-resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/helping-clients-prepare-veterinary-specialty-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/helping-patients-clients-carecredit-application-process/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/holiday-optometry-practice-tips/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/hospitality-in-healthcare/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-ambulatory-equine-vets-decrease-accounts-receivable/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-cost-impacts-patient-and-provider-journey/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-credit-works-webinar/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-equine-vets-improve-payment-collection/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-help-clients-financially-prepare-equine-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-mental-health-financing-can-boost-access-treatment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-providers-support-families-back-to-school-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-to-discuss-fees-and-financing/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-to-offer-carecredit-again-provider-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-to-talk-financing-options-with-patients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-to-use-data-to-help-improve-practice-performance/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/how-your-patients-can-use-carecredit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/importance-of-cash-flow-in-private-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/improve-client-experience-aesthetics-industry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/improve-client-financial-journey-cosmetic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/improve-patient-financial-journey-audiology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/improve-patient-financial-journey-dental/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/improve-patient-financial-journey-optometry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/improve-patient-financial-journey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/improving-pet-client-experience/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/increasing-referrals-obvious-not-so-obvious-sources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/chiropractic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/cosmetic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/day-spa-and-salon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/dental/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/dermatology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/equine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/health-wellness/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/hearing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/home-medical-equipment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/med-spa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/optometry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/orthopedic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/pet-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/industry/weight-loss/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/innovate-practice-increase-access-care-patient-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/insights-veterinary-specialty-care-study/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/integrated-payment-solution-supports-patients-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/journey-to-better-hearing-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/journey-to-better-vision/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/keeping-up-with-modern-patient-experience/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/key-trends-healthcare-payments-to-watch/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/lead-clients-lifetime-of-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/leveraging-technology-to-strengthen-practices-patient-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/lifetime-of-healthcare-costs/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/lifetime-veterinary-care-pet-health-every-stage/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/limiting-beliefs-barriers-entry-affect-patient-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/maintaining-culture-practice-positivity-episode-4/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/make-it-easier-patients-manage-dental-care-costs/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/manage-dentist-burnout/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/mapping-patient-journey-maximize-engagement/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/mastering-initial-patient-contact-pre-appointment-conversation/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/maximizing-technology-team-client-success-episode-3/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/med-spa-financial-management-tips-payments/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/med-spa-social-media-calendar/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/medicare-cuts-ophthalmology-patient-financing-options/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/mgd-treatment-options-worksheet/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/myths-about-carecredit-busted/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/navigate-cost-concerns-different-kinds-equine-vet-clients/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/navigating-the-new-healthcare-economy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/new-cardholder-offer-unboxing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/nextech-integration-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/nextech-practice-plus-integration-carecredit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/nonsurgical-cosmetic-procedures-for-plastic-surgery-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/office-manager-appreciation-ideas-insights/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/office-manager-appreciation-month/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/one-approval-patient-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ophthalmic-industry-purchasing-strategies-for-better-patient-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ophthalmic-provider-survey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ophthalmic-trends-report/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ophthalmology-patient-financing-bridge-gap-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ophthalmology-trends-insights-for-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optical-financing-101-insurance/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optical-financing-101-multiple-pairs/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optical-financing-101-point-of-sale-marketing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optical-financing-101-specialty/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optical-financing-101/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optimize-ophthalmology-patient-journey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optimize-patient-payment-experience-improve-patient-loyalty/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optimize-revenue-cycle-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optimizing-cash-flow-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optimizing-orthopedic-billing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optometry-industry-patient-awareness-education/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optometry-industry-trends/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optometry-practices-compete-online-retail-solutions/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/optometry-trends-report/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/orthopedic-billing-best-practices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/orthopedic-patient-journey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/path-to-care-cosmetic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/path-to-care-medical-aesthetic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-engagement-aesthetic-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financial-communication-cost-roundtable/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financial-communication-tips-scripts/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financial-communication/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financial-conversations-tips-scripts-ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financial-conversations-tips-scripts-optometry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financial-experience-coronavirus/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financial-experience-pandemic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financial-experience/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-can-help-reduce-no-shows-and-cancellations/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-empower-women-access-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-for-neuropsychological-testing-and-behavioral-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-for-surgical-weight-loss-procedures/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-for-weight-management-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-help-meet-business-goals/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-options-for-healthcare-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-options-in-house-vs-third-party/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-financing-solutions-differentiate-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-journey-vision-care-engage/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-journey-vision-care-explore/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-journey-vision-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-loyalty-consumer-research-insights/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-payment-solutions-prequalification-audiology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-payment-solutions-prequalification-dental/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-payment-solutions-prequalification-optometry-ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-payment-solutions-prequalification-veterinary/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-payment-solutions-prequalification/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-payments-digital-first-approach/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-recall-tools-resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-referral-program-practice-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/patient-responsibility-overview/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/pet-health-paradox-reducing-cost-driven-veterinary-delays/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/pet-insurance-basics/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/pet-insurance-market-trends-vets-need-to-know/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/pet-lifetime-of-care-study-2025/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/pet-lifetime-of-care-study/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/plastic-surgery-financing-AI-tools-for-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/plastic-surgery-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/point-of-sale-financing-patient-payments/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/practice-management-software-integration/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/practice-performance-calculators-optical-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/practice-success-story-face-n-body/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/presenting-value-vs-cost/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/preventing-burnout/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/processing-transaction/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/promote-hearing-device-acceptance-audiology-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/promote-winter-cosmetic-procedures/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/proven-strategies-to-help-attract-new-patients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/quick-tips-for-cost-conversations/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/reduce-dental-patient-no-shows-cancellations/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/refractive-surgery-beyond-lasik-rle-icl-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/resources-available-credit-report/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/responding-to-i-need-to-think-about-it/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/responses-to-discount-requests-without-discounting/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/rethinking-financial-conversation-patient/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/rethinking-financial-conversation/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/revenue-cycle-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/revenue-streams-to-fuel-practice-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/running-business-side-private-orthopedic-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/script-example-discuss-patient-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/seasonal-skincare-dermatologist-marketing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/seasonal-trends-pet-care-patient-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/set-goals-busy-equine-vet-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/sharing-practice-financial-information-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/six-myths-about-the-carecredit-credit-card/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/skin-health-financing-cosmetic-procedures/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/smarter-vet-billing-improve-vet-invoice-process/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/social-media-calendar-audiology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/social-media-calendar-cosmetic-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/social-media-calendar-ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/social-media-calendar-optometry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/social-media-posts-promotion/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/social-media-tips-ideas-cosmetic-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/speak-pet-owner-enhances-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/speak-pet-owner-healthier-pets/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/spectrum-solutions-veterinary-cost-concerns/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-get-more-dental-patients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-improve-medical-billing-process/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-improve-patient-retention/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-master-dental-revenue-cycle-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-practice-thrive-handling-financial-conversations-like-pro/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-practice-thrive-increase-patient-referrals-reviews/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-practice-thrive-invest-in-coaching/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-practice-thrive-leverage-reengagement-campaigns/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-practice-thrive-optimize-patient-journey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/strategies-practice-thrive/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/support-dental-case-acceptance-patient-financing-options/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/support-patients-dental-anxiety-about-cost-care/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/supporting-dermatology-patients-approach-to-payments/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/talk-effective-client-communication/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/testimonials-practice-growth-patient-choices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/third-party-financing-optometry-ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-choosing-third-party-financing-company-audiology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-choosing-third-party-financing-company-dental/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-choosing-third-party-financing-company-veterinary/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-choosing-third-party-financing-company/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-compassionate-patient-communication-audiology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-for-engaging-younger-patients-hearing-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-increasing-referrals/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-navigate-audiology-billing-challenges/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tips-scripts-veterinary-cost-conversations/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/tools-resource-checklist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/top-financial-terms-health-and-wellness-providers/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/top-three-kpis-for-patient-conversions-practice-recovery-and-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/top-vet-association-memberships-for-your-practice/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/trusted-client-patient-financing-partner-carecredit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/trusted-patient-financing-beyond-approval-rates/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/understanding-healthcare-billing-process/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/understanding-personality-types-insights-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/understanding-trends-to-help-your-practice-succeed/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/using-tech-ai-to-drive-practice-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/vet-clinic-software-integrations/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/vet-financing-pet-owner-financial-journey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/veterinary-burnout-tech-integration-can-help/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/veterinary-clinic-future/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/veterinary-financing-helps-support-pet-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/veterinary-practice-management-tips/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/vision-care-industry-study/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/vision-patient-financing-helps-support-eye-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/vision-surgery-patient-financing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ways-get-found-online-health-wellness-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ways-improve-revenue-cycle-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ways-improve-your-dental-invoices/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ways-overcome-chiropractic-billing-challenges/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/ways-providers-adapt-healthcare-consumerism/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/we-accept-care-credit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/we-love-ya/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/web-banners-website/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/webinar-healthcare-journey-across-generations/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/webinar-tools-financial-discussions-orthopedic-patients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/weight-loss-bundle-kit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/weight-loss-client-communication-skills/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/weight-loss-cost-conversations/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/weight-loss-marketing-kit-cosmetic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/weight-loss-telehealth-trends-contactless-payment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/what-makes-horse-owners-pulse-race/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/what-makes-pet-owners-pulse-race/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/why-carecredit-optometry-optical/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/why-offer-carecredit-flexible-financing-solutions/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/working-dental-insurance-companies-tips-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/insights/your-financing-toolkit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/love-to-hear-it/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/add-carecredit-marketing-assets-to-website/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/add-carecredit-to-website/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/brand-guidelines/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/build-your-own-webpage/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/custom-link/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/email-marketing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/embedding-your-financing-page/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/in-office-marketing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/logos-card-art/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/marketing-compliance/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/marketing-videos/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/promotional-module/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/social-media/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/marketing-toolkit/website-marketing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/med-spa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/med-spa/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/ophthalmology/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/optometry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/optometry/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/adit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/airpay/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/avimark/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/bank-of-america/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/blueprint/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/chirohd/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/clarus/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/clover/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/cofi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/cornerstone/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/counselear/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/covetrus-pulse/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/curve-dental/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/dental-intelligence/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/denticon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/dentrix/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/digitail/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/eaglesoft/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/ezyvet/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/impromed/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/intravet/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/meevo/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/navetor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/neo/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/nextech/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/open-dental/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/patientnow/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/petdesk/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/promptly/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/revenuewell/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/revspring/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/sabrina/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/salucro/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/solutionreach/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/sycle/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/symplast/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/directory/weave/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/partnerships/epic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/pay-later/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/payment-calculator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/performance-calculators/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/performance-calculators/cosmetic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/performance-calculators/hearing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/performance-calculators/med-spa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/performance-calculators/ophthalmology/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/prequalify/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/accelerate-practice-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/add-carecredit-financing-page-to-your-website/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/ai-prompts-to-try-today/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/build-momentum-for-a-lifetime/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/build-momentum-one-moment-at-a-time/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/carecredit-trust-built-over-40-years/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/case-acceptance-questions/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/chiropractic-patient-financing-options/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/easy-financing-solution-patients-already-have/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/easy-financing-solution-patients-may-already-have/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/empower-pet-owners-to-take-action-in-the-moment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/every-qr-scan-can-help-drive-momentum/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/help-more-patients-say-yes/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/improve-case-acceptance-with-confidence/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/increase-case-acceptance-workflow/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/keep-momentum-in-play/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/let-qr-codes-do-the-talking/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/make-your-day-easier-in-2-minutes/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/patient-hesitation-ai-prompt/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/payment-calculator-path-forward-to-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/practice-growth-checklist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/practice-path-to-growth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/practice-success-story-face-n-body/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/respond-to-discount-requests-without-lowering-prices/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/respond-to-i-need-to-think-about-it/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/save-time-focus-on-care-grow-your-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/see-momentum-in-action/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/start-your-day-off-right/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/take-5-to-gain-more-momentum/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/three-keys-to-unlocking-case-acceptance/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/top-4-best-practices-for-talking-about-carecredit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/top-ways-to-promote-carecredit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/turn-financial-confidence-into-superpower/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/turn-first-hello-into-a-great-client-relationship/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/use-carecredit-integration-to-drive-momentum/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/using-technology-and-ai-to-improve-practice-efficiency/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/resources/why-providers-trust-carecredit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/support/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/support/pay-later/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/support/support-article-template/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/sweeps/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/terms-and-conditions-integrations-conversation-giveaway/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/terms-and-conditions-tech-talk-virtual-event-giveaway/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/testimonials/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/testimonials/videos/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/toolkit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/toolkits/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/providers/tools/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/rewardsterms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/vetmed/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/weightloss/costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/feed/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/dental-insurance-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/donut-hole-coverage-gap-medicare/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/explanation-of-benefits/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/five-ways-to-save-on-healthcare-costs-with-a-high-deductible-health-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/funeral-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/health-insurance-for-seniors-comparing-insurance-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/how-much-cost-have-baby/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/how-to-pay-prescription-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/plan-for-healthcare-spending/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/procedure-cost-calculator/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/financial-health/understanding-credit-card-terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/3-on-6-dental-implant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/acl-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/acne-treatment-cost-and-dermatology-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/alarplasty-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/all-on-4-dental-implants-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/ambulance-ride-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/anchor-breast-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/areola-reduction-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/at-home-hospital-bed-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/auditory-brainstem-hearing-implant-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/awake-lip-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/baby-botox-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/back-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/bbl-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/beard-transplant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/behind-the-ear-bte-hearing-aids-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/bifocal-contact-lens-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/birthmark-removal-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/blepharoplasty-cost-eyelid-surgery-cost-blepharoplasty-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/body-wrap-treatment-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/bone-anchored-hearing-aid-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/bone-density-scan-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/bone-grafting-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/botox-cost-and-botox-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/breast-augmentation-cost-and-breast-augmentation-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/breast-cancer-treatment-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/breast-implant-revision-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/breast-implant-size-shape-texture/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/breast-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/breast-reduction-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/brow-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/bunion-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/butt-implants-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/calf-implant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/carboxytherapy-price-procedure/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/caring-for-dental-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/cataract-surgery-cost-cataract-surgery-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/cheek-implant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/cheek-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/cheekbone-reduction-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/chemical-peel-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/childrens-hearing-aids-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/chin-implant-surgery/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/chiropractic-adjustment-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/closed-rhinoplasty-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/colonoscopy-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/coming-to-terms-with-vision-terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/common-dental-emergency-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/contact-lens-types-and-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/cool-sculpting-cost-and-coolsculpting-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/corneal-transplant-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/corner-lip-lift-procedure-cost-guide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/costs-of-pregnancy/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/cpap-machine-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/crescent-breast-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-braces-cost-dental-braces-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-cleaning-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-crown-cost-dental-crown-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-implant-benefits/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-implants-cost-dental-implants-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-implants-vs-bridges/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-probiotics/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-tooth-fillings-cost-dental-fillings-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-veneers-cost-dental-veneers-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dental-x-ray-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/denture-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/diabetic-retinopathy-treatment-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/dimple-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/donut-breast-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/drainless-tummy-tuck-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/ear-pinning-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/ear-wax-removal-cost-and-ear-wax-removal-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/endoscopic-facelift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/endosteal-dental-implants-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/explant-surgery/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/extended-tummy-tuck-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/eye-exam-cost-eye-exam-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/eyebrow-transplant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/eyelash-extension-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/eyelash-implant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/facelift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/facetite-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/facials-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/fat-transfer-breast-augmentation-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/fat-transfer-lip-augmentation-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/full-body-scan-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/gastric-bypass-cost-and-weight-loss-surgery-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/gastric-sleeve-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/gastroenterology-visit-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/glasses-cost-eyeglasses-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/glaucoma-surgery-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/gum-graft-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hair-transplant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hand-rejuvenation-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hands-free-crutch-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hearing-aids-cost-and-hearing-aids-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hearing-aids-vs-cochlear-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hearing-test-cost-and-hearing-test-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hernia-repair-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hip-replacement-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/home-sleep-monitor-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/how-much-does-ct-scan-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/how-to-cancel-credit-card/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/hydrotherapy-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/in-the-ear-ite-hearing-aids-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/invisalign-cost-invisalign-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/ivf-pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/jaw-implant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/jaw-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/keloid-removal-cost-procedure-guide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/knee-replacement-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/kybella-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lap-band-cost-and-lap-band-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/laser-hair-removal-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/laser-lipo-pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lasik-eye-surgery-cost-lasik-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lasik-faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lens-replacement-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/light-adjustable-lens-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lip-augmentation-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lip-blushing-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lip-fillers-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lip-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lip-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lip-reduction-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lipedema-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lipiflow-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lipo-360-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/liposculpture-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/liquid-facelift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/liquid-rhinoplasty-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lollipop-breast-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/lower-body-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/massage-therapy-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/medical-x-ray-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/microdermabrasion-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/microneedling-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/mini-dental-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/minimally-invasive-veneers-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/motorized-wheelchair-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/mri-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/multifocal-contact-lens-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/myringotomy-cost-and-myringotomy-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/nebulizer-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/neck-lift-cost-and-neck-lift-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/nose-job-cost-rhinoplasty-cost-nose-job-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/nose-reduction-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/open-rhinoplasty-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/ortho-k-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/otoplasty-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/panniculectomy-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/permanent-makeup-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/pet-scan-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/portable-oxygen-concentrator-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/positive-airway-pressure-therapy-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/prp-injection-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/ptosis-surgery-cost-and-procedure-guide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/punctal-plug-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/reconstructive-rhinoplasty-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/reverse-bbl-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/reverse-tummy-tuck-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/saline-vs-silicone-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/same-day-dental-implant-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/scaling-and-root-planing-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/scarless-arm-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/scarless-non-invasive-breast-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/scleral-contact-lens-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/single-tooth-implant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/skinvive-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/sleep-apnea-surgery-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/sleep-study-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/slim-band-surgery-costs-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/smart-lipo-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/smas-facelift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/smile-makeover-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/spider-vein-treatment-cost-and-sclerotherapy-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/stapedectomy-cost-and-stapedectomy-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/sun-safety-tips/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/tattoo-removal-cost-and-tattoo-removal-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/teeth-contouring-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/teeth-whitening-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/the-foot-body-connection-how-your-feet-affect-your-whole-body/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/thermage-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/thigh-lift-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/tinnitus-retraining-therapy-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/tip-plasty-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/tip-revision-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/tms-therapy-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/tooth-extraction-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/tuberous-breast-correction-cost-procedure-guide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/tummy-tuck-cost-and-tummy-tuck-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/types-of-ICL-surgery-and-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/types-of-dental-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/ultrasound-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/umbilicoplasty-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/understanding-cochlear-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/using-care-credit-pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/vaser-liposuction-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/wavelight-plus-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/waxing-prices-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/weight-loss-medication-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/weight-loss-program-average-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/health-wellness/zygomatic-dental-implants-procedure-guide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/biggest-cost-cat-owners/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/cat-and-dog-chemotherapy-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/cat-and-dog-intestinal-blockage-surgery-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/cat-and-dog-teeth-cleaning-cost-and-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/cat-euthanasia-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/cat-kitten-vaccination-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/cherry-eye-surgery-cost-and-cherry-eye-surgery-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/cost-to-own-horse/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/costs-of-owning-a-cat/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/costs-of-owning-a-dog/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-acl-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-broken-leg-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-c-section-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-cataract-surgery-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-euthanasia-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-grooming-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-hip-dysplasia-surgery-cost-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-leg-amputation-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-mri-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-puppy-vaccine-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-spay-neuter-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-tooth-extraction-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/dog-ultrasound-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/emergency-vet-visit-cost-and-veterinary-financing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/halloween-pet-safety-toxic-foods-dogs-guide/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/lipoma-removal-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/outdoor-dog-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/pet-boarding-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/pet-microchipping-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/probiotics-for-dogs/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/rabbit-neuter-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/pet-care/x-ray-cost-for-dogs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/audiology-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/cosmetic-procedure-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/cosmetic-transplants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/dental-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/dental-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/dermatology-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/lab-and-diagnostics-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/medical-equipment-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/pet-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/pet-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/pharmacy-costs/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/retirement-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/spa-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.carecredit.com/well-u/tag/vision-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

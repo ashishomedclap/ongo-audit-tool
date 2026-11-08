@@ -165,14 +165,7 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
         </div>
       </div>
 
-      <ContextCue
-        level={2}
-        toolNumber={5}
-        useCase="Audit any draft article or live page against competitor pages, verify on-page SEO essentials, and diagnose search intent."
-        title="Content Matching & Head-to-Head Engine"
-        about="Google evaluates content under rigorous E-E-A-T guidelines. This tool audits your text for 8 critical ranking factors (keyword density, bullets, headings, word count, internal links, meta tags, and 503A disclaimers) and benchmarks your copy directly against market leaders like Mochi, Ro, Henry Meds, and OrderlyMeds."
-      />
-
+      
       {/* Custom URL Scanner Bar */}
       <CustomUrlScanBar
         toolName="Content Matcher"
@@ -203,6 +196,7 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
             Step 1: Choose Your Page (From Ongo Live 56 Pages):
           </label>
           <select
+            aria-label="Select Ongo live page to compare"
             value={selectedOngoPageUrl}
             onChange={(e) => handleSelectOngoPage(e.target.value)}
             style={{
@@ -249,6 +243,7 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
           </div>
 
           <select
+            aria-label="Select competitor to compare against"
             value={selectedCompetitorId}
             onChange={(e) => setSelectedCompetitorId(e.target.value)}
             style={{
@@ -344,6 +339,7 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
               </label>
               <input
                 type="text"
+                aria-label="Target page title"
                 value={targetTitle}
                 onChange={(e) => setTargetTitle(e.target.value)}
                 style={{
@@ -368,6 +364,7 @@ export default function ContentMatcherTab({ livePages = [] }: ContentMatcherTabP
               </label>
               <input
                 type="text"
+                aria-label="Target page meta description"
                 value={targetDesc}
                 onChange={(e) => setTargetDesc(e.target.value)}
                 style={{

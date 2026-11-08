@@ -1,0 +1,62 @@
+{
+  "name": "Pcw",
+  "domain": "pcw.health",
+  "total_urls": 154,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://pcw.health/dermaplaning-facial-rejuvenation/",
+    "https://pcw.health/payment-plans/",
+    "https://pcw.health/regenerative-medicine-for-plantar-fasciitis/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://pcw.health/bioidentical-hormone-therapy-menopause/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://pcw.health/bioidentical-hormones-for-adrenal-fatigue/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://pcw.health/bioidentical-hormones-women/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://pcw.health/dermaplaning-facial-rejuvenation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://pcw.health/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://pcw.health/health-and-wellness-services/bioidentical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://pcw.health/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://pcw.health/regenerative-medicine-for-plantar-fasciitis/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Merriam Webster",
+  "domain": "merriam-webster.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://merriam-webster.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://merriam-webster.com/pricing"
+  ],
+  "all_categorized": []
+}

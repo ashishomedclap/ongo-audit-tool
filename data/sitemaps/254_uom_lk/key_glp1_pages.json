@@ -1,0 +1,13 @@
+{
+  "name": "Uom.lk",
+  "domain": "uom.lk",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://uom.lk/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://uom.lk/pricing"
+  ],
+  "all_categorized": []
+}

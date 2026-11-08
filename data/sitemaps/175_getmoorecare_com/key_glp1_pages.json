@@ -1,0 +1,79 @@
+{
+  "name": "Getmoorecare",
+  "domain": "getmoorecare.com",
+  "total_urls": 367,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.getmoorecare.com/5-signs-your-back-pain-needs-a-different-treatment-plan-in-san-antonio/",
+    "https://www.getmoorecare.com/average-cost-of-chiropractic-adjustment-in-2026/",
+    "https://www.getmoorecare.com/building-a-back-pain-treatment-plan-with-your-physician/",
+    "https://www.getmoorecare.com/chiropractic-treatment-cost-san-antonio/",
+    "https://www.getmoorecare.com/how-to-build-a-back-pain-relief-plan-after-a-sports-injury-in-san-antonio/",
+    "https://www.getmoorecare.com/how-to-identify-symptoms-of-neuropathy-in-feet/",
+    "https://www.getmoorecare.com/understanding-the-costs-of-chiropractic-care-in-san-antonio/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.getmoorecare.com/5-signs-your-back-pain-needs-a-different-treatment-plan-in-san-antonio/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/average-cost-of-chiropractic-adjustment-in-2026/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/building-a-back-pain-treatment-plan-with-your-physician/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/chiropractic-treatment-cost-san-antonio/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/how-to-build-a-back-pain-relief-plan-after-a-sports-injury-in-san-antonio/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/how-to-communicate-about-your-back-pain-with-your-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/how-to-identify-symptoms-of-neuropathy-in-feet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/meet-the-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.getmoorecare.com/understanding-the-costs-of-chiropractic-care-in-san-antonio/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

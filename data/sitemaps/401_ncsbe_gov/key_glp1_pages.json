@@ -1,0 +1,224 @@
+{
+  "name": "Ncsbe.gov",
+  "domain": "ncsbe.gov",
+  "total_urls": 1021,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.ncsbe.gov/candidates/filing-candidacy/filing-fees",
+    "https://www.ncsbe.gov/candidates/petitions/petitions-lieu-filing-fee",
+    "https://www.ncsbe.gov/comment-countys-non-unanimous-one-stop-early-voting-plans-2021",
+    "https://www.ncsbe.gov/comment-countys-non-unanimous-one-stop-early-voting-plans-2021/2021-non-unanimous-one-stop-early-voting-plans",
+    "https://www.ncsbe.gov/comment-your-countys-non-unanimous-one-stop-early-voting-plans-2022-statewide-primary",
+    "https://www.ncsbe.gov/comment-your-countys-one-stop-early-voting-plan-2022-general-election",
+    "https://www.ncsbe.gov/nc-chief-justice-recount-costs-survey",
+    "https://www.ncsbe.gov/news/press-releases/2019/08/13/damon-circosta-unanimously-selected-chair-state-board",
+    "https://www.ncsbe.gov/news/press-releases/2020/05/07/significant-safeguards-planned-republican-second-primary-11th-congressional-district",
+    "https://www.ncsbe.gov/news/press-releases/2022/03/07/state-board-adopts-early-voting-plans-7-counties-certifies-hart-voting-system",
+    "https://www.ncsbe.gov/news/press-releases/2024/09/30/election-officials-plan-voting-post-helene",
+    "https://www.ncsbe.gov/news/press-releases/2024/10/11/buncombe-county-board-elections-approves-modified-early-voting-plan",
+    "https://www.ncsbe.gov/news/press-releases/2025/06/24/state-board-unanimously-approves-plan-collect-missing-identification-numbers-certain-voters",
+    "https://www.ncsbe.gov/news/press-releases/2026/09/14/public-comment-period-open-proposed-rules-regarding-exempt-sales-plans",
+    "https://www.ncsbe.gov/public-comment-portal-2026-non-unanimous-early-voting-plans"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.ncsbe.gov/campaign-finance-draft-examination-policy-comment-form",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/candidates/filing-candidacy/filing-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/candidates/petitions/petitions-lieu-filing-fee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/candidates/terms-office",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/comment-countys-non-unanimous-one-stop-early-voting-plans-2021",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/comment-countys-non-unanimous-one-stop-early-voting-plans-2021/2021-non-unanimous-one-stop-early-voting-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/comment-your-countys-non-unanimous-one-stop-early-voting-plans-2022-statewide-primary",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/comment-your-countys-one-stop-early-voting-plan-2022-general-election",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/faq-letters-voters-about-unvalidated-id-numbers",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/nc-chief-justice-recount-costs-survey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2014/10/01/fourth-circuit-reinstates-same-day-registration-and-out-precinct",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2017/09/22/dhs-official-north-carolina-not-among-21-states-targeted-russians",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2018/10/15/media-advisory-guidance-coverage-polling-places",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2019/03/07/state-board-staff-randomly-select-candidate-order-ballots-3rd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2019/08/13/damon-circosta-unanimously-selected-chair-state-board",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2020/05/07/significant-safeguards-planned-republican-second-primary-11th-congressional-district",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2022/01/11/canceled-emergency-board-meeting-january-12-2022",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2022/03/07/state-board-adopts-early-voting-plans-7-counties-certifies-hart-voting-system",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2022/04/10/canceled-board-meeting-april-11-2022",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2023/01/31/state-board-seeks-comments-draft-campaign-finance-settlement-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2024/09/30/election-officials-plan-voting-post-helene",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2024/10/11/buncombe-county-board-elections-approves-modified-early-voting-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2025/06/24/state-board-unanimously-approves-plan-collect-missing-identification-numbers-certain-voters",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/news/press-releases/2026/09/14/public-comment-period-open-proposed-rules-regarding-exempt-sales-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/public-comment-portal-2026-non-unanimous-early-voting-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/public-comment-portal-2026-rulemaking-exempt-sales-plan-rule",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/registering/faq-voter-registration",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/registering/updating-registration/cancel-registration",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/voting/help-voters-disabilities/north-carolina-state-board-elections-accessibility-policy-alternative-formats",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

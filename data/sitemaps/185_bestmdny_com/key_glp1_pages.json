@@ -1,0 +1,36 @@
+{
+  "name": "Bestmdny",
+  "domain": "bestmdny.com",
+  "total_urls": 50,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.bestmdny.com/does-coffee-raise-blood-pressure/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.bestmdny.com/does-coffee-raise-blood-pressure/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bestmdny.com/office-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.bestmdny.com/primary-care-doctor-vs-urgent-care-making-the-right-choice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.bestmdny.com/terms-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

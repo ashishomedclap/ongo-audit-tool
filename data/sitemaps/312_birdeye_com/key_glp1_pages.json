@@ -1,0 +1,351 @@
+{
+  "name": "Birdeye",
+  "domain": "birdeye.com",
+  "total_urls": 2116,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://birdeye.com/glossary/cpc-cost-per-click/",
+    "https://birdeye.com/glossary/newsfeed/",
+    "https://birdeye.com/integration/collegeplannerpro/",
+    "https://birdeye.com/integration/planetddsdenticon/",
+    "https://birdeye.com/press/birdeye-launches-next-generation-customer-surveys-to-turn-customer-feedback-into-customer-driven-marketing/",
+    "https://birdeye.com/pricing/",
+    "https://birdeye.com/resources/case-studies/innovative-implant-and-oral-surgery/",
+    "https://birdeye.com/resources/guides/a-360-degree-approach-to-customer-feedback/",
+    "https://birdeye.com/resources/podcast/the-agency-approach-to-feedback-search-and-social/",
+    "https://birdeye.com/resources/webinars/a-360-degree-approach-to-gaining-competitive-advantage-using-customer-feedback/",
+    "https://birdeye.com/resources/webinars/business-is-back-your-reopening-communication-plan/",
+    "https://birdeye.com/resources/webinars/reviews-to-revenue-using-feedback-to-grow-your-business/",
+    "https://birdeye.com/updates/birdeye-introduces-mass-texting-reports-to-help-businesses-plan-campaigns-better/",
+    "https://birdeye.com/updates/close-the-loop-on-customer-feedback-with-survey-response-agent/",
+    "https://birdeye.com/updates/introducing-the-social-ai-posts-planner/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://birdeye.com/acceptable-use-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/ai-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/birdeye-view-most-loved-small-business-customer-awardee-providers-for-healthy-living/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/cancellation-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/generative-ai-policy/brand-ai-guardrails/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/glossary/cpc-cost-per-click/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/glossary/link-in-bio/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/glossary/newsfeed/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/integration/ascendpharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/integration/collegeplannerpro/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/integration/physician/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/integration/planetddsdenticon/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/integration/shippingeasy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/press/birdeye-launches-next-generation-customer-surveys-to-turn-customer-feedback-into-customer-driven-marketing/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/press/for-multi-location-brands-20-of-their-locations-are-invisible-in-ai-search/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/press/valley-veterinary-care-partners-with-birdeye-social-to-revolutionize-social-media-management-across-24-locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/refer-a-business/terms-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/case-studies/cornerstone-staffing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/case-studies/innovative-implant-and-oral-surgery/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/case-studies/medlink-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/case-studies/south-georgia-dental/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/case-studies/texas-wood-supply/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/guides/a-360-degree-approach-to-customer-feedback/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/guides/how-doctors-can-get-more-online-reviews-and-more-patients-too/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/guides/how-doctors-should-respond-to-negative-reviews/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/guides/the-benefits-of-online-reviews-for-home-service-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/guides/the-one-survey-how-consumers-choose-service-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/podcast/the-agency-approach-to-feedback-search-and-social/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/webinars/a-360-degree-approach-to-gaining-competitive-advantage-using-customer-feedback/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/webinars/business-is-back-your-reopening-communication-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/webinars/close-the-messaging-gap-serve-customers-on-their-own-terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/webinars/how-to-win-customer-loyalty-across-locations-in-a-zero-click-world/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/resources/webinars/reviews-to-revenue-using-feedback-to-grow-your-business/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/social-media-tools/ai-facebook-bio-generator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/social-media-tools/ai-instagram-bio-generator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/social-media-tools/ai-twitter-bio-generator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/social-media-tools/bio-generator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/social-media-tools/threads-bio-generator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/social-media-tools/tiktok-bio-generator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/terms/mass-sms-campaigns/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/terms/reseller/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/terms/rules-of-engagement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/terms/subprocessors/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/add-an-extension-to-your-team-with-birdeye-s-professional-and-managed-services/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/birdeye-introduces-mass-texting-reports-to-help-businesses-plan-campaigns-better/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/close-the-loop-on-customer-feedback-with-survey-response-agent/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/introducing-faq-page-agent-generate-relevant-faqs-from-web-content/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/introducing-the-social-ai-posts-planner/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/now-automate-your-customer-queries-using-chatbot-faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/now-manage-reputation-and-customer-experience-across-multiple-locations-on-birdeye-mobile-app/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/turn-customer-feedback-into-action-automatically/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://birdeye.com/updates/update-business-hours-in-bulk-for-all-your-locations/",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

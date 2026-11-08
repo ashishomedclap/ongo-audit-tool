@@ -1,0 +1,13 @@
+{
+  "name": "Coramedregen",
+  "domain": "coramedregen.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://coramedregen.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://coramedregen.com/pricing"
+  ],
+  "all_categorized": []
+}

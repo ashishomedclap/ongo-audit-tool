@@ -1,0 +1,30 @@
+{
+  "name": "Parkermedical",
+  "domain": "parkermedical.org",
+  "total_urls": 32,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://parkermedical.org/membership/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://parkermedical.org/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://parkermedical.org/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://parkermedical.org/terms/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

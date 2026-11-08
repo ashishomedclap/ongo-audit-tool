@@ -1,0 +1,13 @@
+{
+  "name": "Yelp",
+  "domain": "yelp.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://yelp.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://yelp.com/pricing"
+  ],
+  "all_categorized": []
+}

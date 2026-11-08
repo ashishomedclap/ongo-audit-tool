@@ -1,0 +1,115 @@
+{
+  "name": "Healthogenics",
+  "domain": "healthogenics.com",
+  "total_urls": 99,
+  "semaglutide_pages": [
+    "https://healthogenics.com/products/semaglutide-at-home-lab-test",
+    "https://healthogenics.com/products/semaglutide-microdose-program",
+    "https://healthogenics.com/products/semaglutide-quick-weight-loss-program",
+    "https://healthogenics.com/products/wegovy-pill-semaglutide-pill",
+    "https://healthogenics.com/products/wegovy-semaglutide-injection"
+  ],
+  "tirzepatide_pages": [
+    "https://healthogenics.com/products/mounjaro%C2%AE-tirzepatide-injection",
+    "https://healthogenics.com/products/tirzepatide-lab-test",
+    "https://healthogenics.com/products/tirzepatide-microdose",
+    "https://healthogenics.com/products/tirzepatide-weight-loss-rx-program",
+    "https://healthogenics.com/products/zepbound-kwikpen-tirzepatide-injection",
+    "https://healthogenics.com/products/zepbound-rx-program"
+  ],
+  "pricing_pages": [
+    "https://healthogenics.com/products/weight-loss-starter-package"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://healthogenics.com/pages/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/pages/foundayo%E2%84%A2-safety-information",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/pages/weight-loss-money-beck-guarantee",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/mounjaro%C2%AE-tirzepatide-injection",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/semaglutide-at-home-lab-test",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/semaglutide-microdose-program",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/semaglutide-quick-weight-loss-program",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/tirzepatide-lab-test",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/tirzepatide-microdose",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/tirzepatide-weight-loss-rx-program",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/wegovy-pill-semaglutide-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/wegovy-semaglutide-injection",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/weight-loss-starter-package",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/zepbound-kwikpen-tirzepatide-injection",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://healthogenics.com/products/zepbound-rx-program",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

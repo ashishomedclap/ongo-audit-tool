@@ -1,0 +1,100 @@
+{
+  "name": "Golo.dev",
+  "domain": "golo.dev",
+  "total_urls": 147,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://golo.dev/pages/immune-health-plan",
+    "https://golo.dev/pages/meal-plans",
+    "https://golo.dev/pages/meal-plans-that-work",
+    "https://golo.dev/pages/recipe-category/coffee-creamers",
+    "https://golo.dev/pages/the-golo-for-life-plan"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://golo.dev/pages/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/at-safety-message-myg1",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/ca-employee-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/doctors-recommend-golo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/golo-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/immune-health-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/meal-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/meal-plans-that-work",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/recipe-category/coffee-creamers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/sms-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://golo.dev/pages/the-golo-for-life-plan",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

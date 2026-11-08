@@ -1,0 +1,13 @@
+{
+  "name": "Facebook",
+  "domain": "facebook.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://facebook.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://facebook.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Drugs",
+  "domain": "drugs.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://drugs.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://drugs.com/pricing"
+  ],
+  "all_categorized": []
+}

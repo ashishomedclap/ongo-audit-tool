@@ -1,0 +1,49 @@
+{
+  "name": "Premierweightloss",
+  "domain": "premierweightloss.com",
+  "total_urls": 69,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.premierweightloss.com/service/membership-programs/",
+    "https://www.premierweightloss.com/what-to-eat-custom-diet-plan-weight-loss-las-vegas/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.premierweightloss.com/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.premierweightloss.com/locations.kml",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.premierweightloss.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.premierweightloss.com/service/membership-programs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.premierweightloss.com/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.premierweightloss.com/what-to-eat-custom-diet-plan-weight-loss-las-vegas/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

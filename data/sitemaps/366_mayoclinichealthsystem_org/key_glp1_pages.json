@@ -1,0 +1,13 @@
+{
+  "name": "Mayoclinichealthsystem",
+  "domain": "mayoclinichealthsystem.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://mayoclinichealthsystem.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mayoclinichealthsystem.org/pricing"
+  ],
+  "all_categorized": []
+}

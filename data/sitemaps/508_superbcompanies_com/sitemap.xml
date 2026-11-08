@@ -1,0 +1,49 @@
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-category-1.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-category-2.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-profile-1.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-profile-2.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-profile-3.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-profile-4.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-profile-5.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-profile-6.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-profile-7.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-profile-8.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-article-1.xml</loc>
+</sitemap>
+
+<sitemap>
+  <loc>https://superbcompanies.com/sitemap-page.xml</loc>
+</sitemap>
+</sitemapindex>

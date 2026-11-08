@@ -1,0 +1,92 @@
+{
+  "name": "Askglo.ai",
+  "domain": "askglo.ai",
+  "total_urls": 136,
+  "semaglutide_pages": [
+    "https://www.askglo.ai/blog/how-to-take-rybelsus-oral-semaglutide",
+    "https://www.askglo.ai/blog/oral-glp-1-pills-wegovy-foundayo",
+    "https://www.askglo.ai/blog/semaglutide-glp-1-brand-names",
+    "https://www.askglo.ai/blog/wegovy-mash-liver-disease-glp-1",
+    "https://www.askglo.ai/blog/wegovy-pill-oral-glp-1-access"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.askglo.ai/glo-kit/infographic/you-feel-guilty-for-feeling-good",
+    "https://www.askglo.ai/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.askglo.ai/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/blog/glp-1-side-effects-when-to-call-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/blog/how-to-take-rybelsus-oral-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/blog/medicare-glp-1-coverage-obesity-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/blog/oral-glp-1-pills-wegovy-foundayo",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/blog/semaglutide-glp-1-brand-names",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/blog/wegovy-mash-liver-disease-glp-1",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/blog/wegovy-pill-oral-glp-1-access",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/glo-kit/infographic/talk-to-your-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/glo-kit/infographic/you-feel-guilty-for-feeling-good",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.askglo.ai/terms-and-privacy",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

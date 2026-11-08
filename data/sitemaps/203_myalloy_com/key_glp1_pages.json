@@ -1,0 +1,654 @@
+{
+  "name": "Myalloy",
+  "domain": "myalloy.com",
+  "total_urls": 929,
+  "semaglutide_pages": [
+    "https://www.myalloy.com/blog/glp-1-pills-wegovy-vs-injections-trade-offs-and-benefits",
+    "https://www.myalloy.com/blog/how-long-does-it-take-for-semaglutide-to-work",
+    "https://www.myalloy.com/blog/protecting-your-bone-health-why-semaglutide-and-menopause-care-belong-together",
+    "https://www.myalloy.com/blog/semaglutide-alternatives-that-support-weight-loss-during-menopause",
+    "https://www.myalloy.com/blog/what-is-compounded-semaglutide-and-how-long-before-it-works",
+    "https://www.myalloy.com/knowledge-base/what-level-of-weight-loss-is-commonly-seen-with-semaglutide-and-how-might-combining-it-with-menopaus",
+    "https://www.myalloy.com/solutions/compounded-semaglutide",
+    "https://www.myalloy.com/solutions/wegovy",
+    "https://www.myalloy.com/solutions/wegovy-1",
+    "https://www.myalloy.com/solutions/wegovy-pill"
+  ],
+  "tirzepatide_pages": [
+    "https://www.myalloy.com/blog/how-long-until-tirzepatide-works",
+    "https://www.myalloy.com/blog/is-microdosing-tirzepatide-safe",
+    "https://www.myalloy.com/blog/oral-vs-injectable-tirzepatide-for-menopause-weight-loss",
+    "https://www.myalloy.com/blog/tirzepatide-vs-semglutide-what-is-the-difference",
+    "https://www.myalloy.com/solutions/compounded-tirzepatide",
+    "https://www.myalloy.com/solutions/zepbound",
+    "https://www.myalloy.com/solutions/zepbound-1",
+    "https://www.myalloy.com/solutions/zepbound-kwikpen"
+  ],
+  "pricing_pages": [
+    "https://www.myalloy.com/blog/categories/your-weight-care-plan",
+    "https://www.myalloy.com/blog/the-flash-why-do-i-feel-hungover",
+    "https://www.myalloy.com/blog/what-does-a-hot-flash-feel-like",
+    "https://www.myalloy.com/blog/what-is-a-good-menopause-diet-plan-how-many-grams-of-protein-are-needed",
+    "https://www.myalloy.com/blog/what-is-menopause-belly-why-do-i-feel-so-bloated",
+    "https://www.myalloy.com/blog/why-do-i-feel-crazy",
+    "https://www.myalloy.com/blog/why-does-it-feel-like-a-uti-when-my-tests-keep-coming-back-negative",
+    "https://www.myalloy.com/blog/why-does-my-mouth-feel-like-it-s-burning",
+    "https://www.myalloy.com/blog/why-does-my-skin-feel-like-it-s-crawling-what-is-formication",
+    "https://www.myalloy.com/blog/why-does-perimenopause-feel-like-sudden-adhd",
+    "https://www.myalloy.com/knowledge-base/how-do-corticosteroid-injections-help-in-frozen-shoulder-management",
+    "https://www.myalloy.com/knowledge-base/how-should-cost-and-insurance-shape-long-term-planning-for-weight-medications",
+    "https://www.myalloy.com/knowledge-base/in-what-situations-can-hormone-replacement-therapy-be-part-of-a-weight-management-plan",
+    "https://www.myalloy.com/knowledge-base/is-glp-1-therapy-recommended-during-breastfeeding",
+    "https://www.myalloy.com/knowledge-base/why-are-antioxidant-rich-plant-foods-considered-anti-inflammatory"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.myalloy.com/author/alloy-staff",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/alloy-staff-and-august-period-care",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/amy-hayes",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/anna-johnson-medical-writer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/anne-fulenwider",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/anne-fulenwider-and-monica-molenaar",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/barbara-brody",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/cheyenne-buckingham",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/corinne-menn-d-o",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/darwana-ratleff-todd",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/deepti-gandhi",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/dr-jessica-russell",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/dr-judith-barreiro",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/erin-flaherty",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/fiorella-valdesolo",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/hadley-mendelsohn",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/indy-lane",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/jill-waldbieser",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/kudzai-dombo",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/lauren-waterman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/liz-plosser",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/maggie-bullock",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/monica-molenaar",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/rachel-baker",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/rachel-hughes",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/randi-friedman",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/sharon-d-malone",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/sheila-r-boyle",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/sheryl-kraft",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/traci-a-kurtzer-md",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/author/vivian-manning-schaffel",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/are-hot-flashes-a-biomarker-for-future-cardiovascular-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/best-probiotics-for-women-in-perimenopause-and-menopause",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/bioidentical-hormone-replacement-therapy-insiders-guide",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/categories/your-weight-care-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/estrogen-the-powerful-longevity-biohack-hiding-in-plain-sight",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/glp-1-pills-wegovy-vs-injections-trade-offs-and-benefits",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/how-long-does-it-take-for-semaglutide-to-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/how-long-until-tirzepatide-works",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/is-microdosing-tirzepatide-safe",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/must-read-the-new-york-times-has-ignited-the-most-important-conversation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/oral-vs-injectable-tirzepatide-for-menopause-weight-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/protecting-your-bone-health-why-semaglutide-and-menopause-care-belong-together",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/semaglutide-alternatives-that-support-weight-loss-during-menopause",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/spice-up-your-life-doctor-approved-advice-for-improving-your-sexual-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/the-flash-why-do-i-feel-hungover",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/tirzepatide-vs-semglutide-what-is-the-difference",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/what-does-a-hot-flash-feel-like",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/what-is-a-good-menopause-diet-plan-how-many-grams-of-protein-are-needed",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/what-is-compounded-semaglutide-and-how-long-before-it-works",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/what-is-menopause-belly-why-do-i-feel-so-bloated",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/whats-the-best-way-to-eat-during-menopause-meet-the-doctor-who-wrote-the",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/why-do-i-feel-crazy",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/why-does-it-feel-like-a-uti-when-my-tests-keep-coming-back-negative",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/why-does-my-mouth-feel-like-it-s-burning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/why-does-my-skin-feel-like-it-s-crawling-what-is-formication",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/why-does-perimenopause-feel-like-sudden-adhd",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/blog/your-perimenopause-and-menopause-questions-answered-by-a-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/breast-cancer-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/are-fermented-foods-necessary-for-gut-health-and-how-should-they-be-combined-with-prebiotics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/are-glp-1-agonists-new-and-what-does-the-safety-record-show",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/estriol-facial-creams-efficacy-and-safety-evidence",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/how-can-clinicians-distinguish-lichen-sclerosus-from-the-genitourinary-syndrome-of-menopause-gsm-in-practice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/how-do-clinicians-individualize-the-choice-between-metformin-and-a-glp-1-for-pre-diabetes-in-menopau",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/how-do-corticosteroid-injections-help-in-frozen-shoulder-management",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/how-do-probiotics-prebiotics-and-synbiotics-differand-when-is-each-useful",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/how-do-refined-sugars-and-fructose-affect-the-midlife-microbiome-and-fat-distribution",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/how-should-cost-and-insurance-shape-long-term-planning-for-weight-medications",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/how-to-apply-for-even-coverage-and-less-product-waste",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/in-what-situations-can-hormone-replacement-therapy-be-part-of-a-weight-management-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/is-glp-1-therapy-recommended-during-breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/topical-estrogen-safety-systemic-absorption-cancer-risk",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/what-biological-changes-around-midlife-increase-the-risk-of-frozen-shoulder",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/what-is-a-practical-way-to-ensure-adequate-product-coverage-when-extending-application-beyond-the-fa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/what-level-of-weight-loss-is-commonly-seen-with-semaglutide-and-how-might-combining-it-with-menopaus",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/what-makes-full-body-strength-a-safety-issue-rather-than-just-a-fitness-goal",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/what-practical-steps-can-women-take-to-advocate-for-better-menopausal-care-when-their-clinicians-may",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/what-should-you-look-for-in-a-probiotic-supplement-if-diet-alone-is-insufficient",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/what-small-daily-habits-can-compound-to-support-the-gut-microbiome",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/whats-a-low-effort-habit-to-ensure-probiotic-intake-on-days-when-meals-werent-ideal",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/when-might-a-synbiotic-be-preferable-to-a-standalone-probiotic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/which-probiotic-approaches-are-most-relevant-for-women-in-perimenopause-and-menopause-especially-aft",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/why-are-antioxidant-rich-plant-foods-considered-anti-inflammatory",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/why-are-glp-1-medications-so-expensive-in-the-united-states-compared-to-elsewhere",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/why-do-previously-manageable-stressors-suddenly-feel-overwhelming-during-perimenopause",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/why-do-some-anti-inflammatory-diets-limit-vegetables-like-tomatoes-eggplant-mushrooms-and-certain-pe",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/knowledge-base/why-is-a-biopsy-essential-when-lichen-sclerosus-is-suspected",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/compounded-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/compounded-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/the-alloy-synbiotic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/the-alloy-synbiotic-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/wegovy-1",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/wegovy-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/zepbound-1",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/solutions/zepbound-kwikpen",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.myalloy.com/terms-of-use",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

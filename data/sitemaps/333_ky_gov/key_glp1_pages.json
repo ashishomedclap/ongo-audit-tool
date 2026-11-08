@@ -1,0 +1,13 @@
+{
+  "name": "Ky.gov",
+  "domain": "ky.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://ky.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://ky.gov/pricing"
+  ],
+  "all_categorized": []
+}

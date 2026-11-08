@@ -1,0 +1,13 @@
+{
+  "name": "Mo.gov",
+  "domain": "mo.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://mo.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mo.gov/pricing"
+  ],
+  "all_categorized": []
+}

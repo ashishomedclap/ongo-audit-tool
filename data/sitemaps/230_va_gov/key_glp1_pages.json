@@ -1,0 +1,62 @@
+{
+  "name": "Va.gov",
+  "domain": "va.gov",
+  "total_urls": 118,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.va.gov/education/submit-school-feedback/",
+    "https://www.va.gov/forms/22-0803/request-reimbursement-licensing-or-certification-test-fees/",
+    "https://www.va.gov/forms/22-0810/request-reimbursement-national-exam-fee/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.va.gov/education/disclose-information-to-third-party/authorize-disclosure-form-22-10278/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.va.gov/education/submit-school-feedback/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.va.gov/find-locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.va.gov/forms/21-0845/authorize-third-party-information-sharing/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.va.gov/forms/21-4142/authorize-release-medical-information-to-va/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.va.gov/forms/22-0803/request-reimbursement-licensing-or-certification-test-fees/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.va.gov/forms/22-0810/request-reimbursement-national-exam-fee/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.va.gov/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

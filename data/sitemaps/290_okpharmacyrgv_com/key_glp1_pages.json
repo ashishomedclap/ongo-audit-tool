@@ -1,0 +1,6433 @@
+{
+  "name": "Okpharmacyrgv",
+  "domain": "okpharmacyrgv.com",
+  "total_urls": 1059,
+  "semaglutide_pages": [
+    "https://www.okpharmacyrgv.com/product/embody-semaglutide/",
+    "https://www.okpharmacyrgv.com/product/ithrivemd-semaglutide/"
+  ],
+  "tirzepatide_pages": [
+    "https://www.okpharmacyrgv.com/product/belle-tirzepatide-injection/",
+    "https://www.okpharmacyrgv.com/product/elevated-health-glp-1-tirzepatide/",
+    "https://www.okpharmacyrgv.com/product/embody-tirzepatide/",
+    "https://www.okpharmacyrgv.com/product/gala-tirzepatide-treatment/",
+    "https://www.okpharmacyrgv.com/product/medvi-tirzepatide/",
+    "https://www.okpharmacyrgv.com/product/telos-rx-tirzepatide/",
+    "https://www.okpharmacyrgv.com/product/trava-tirzepatide/",
+    "https://www.okpharmacyrgv.com/product/vital-step-tirzepatide/",
+    "https://www.okpharmacyrgv.com/product/weightcare-tirzepatide/"
+  ],
+  "pricing_pages": [
+    "https://www.okpharmacyrgv.com/generic-plan/",
+    "https://www.okpharmacyrgv.com/product/akemi-coffee-boost-powder/",
+    "https://www.okpharmacyrgv.com/product/bryo-coffee-powder/",
+    "https://www.okpharmacyrgv.com/product/bryt-better-coffee-powder/",
+    "https://www.okpharmacyrgv.com/product/coffee-burn-supplement/",
+    "https://www.okpharmacyrgv.com/product/feelgood-glp-1/",
+    "https://www.okpharmacyrgv.com/product/feelgood-quad/",
+    "https://www.okpharmacyrgv.com/product/friday-plans-ed-treatment/",
+    "https://www.okpharmacyrgv.com/product/g-plans-glp-1/",
+    "https://www.okpharmacyrgv.com/product/g-plans-weight-loss-program/",
+    "https://www.okpharmacyrgv.com/product/leanela-slim-coffee-booster/",
+    "https://www.okpharmacyrgv.com/product/silmive-green-coffee-supplement/",
+    "https://www.okpharmacyrgv.com/product/slimqa-coffee-booster/",
+    "https://www.okpharmacyrgv.com/product/wellaray-slim-coffee-booster/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.okpharmacyrgv.com/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/about-us/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/auto-rx-refills/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/can-transfer-my-prescription/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/community-pharmacy-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/consultations/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/contact-us/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/delivery-services/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/does-carry-diabetic-supplies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/does-offer-automatic-refills/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/does-provide-medication-synchronization/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/expands-medical-supplies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/generic-plan/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/help-manage-multiple-prescriptions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/immunizations/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/insurance-accepted/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/local-prescription-delivery-support/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/medical-supplies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/modern-community-pharmacy-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/ok-pharmacy-opens-in-germany/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/personalized-pharmacist-support/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/9amhealth/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/abundrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/advanced-amino-formula-tablets/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/advanced-memory-formula-tablets/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/advanced-mitochondrial-formula-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/advanced-muscle-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/agelessrx-tadalafil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/agelessrx/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/akemi-coffee-boost-powder/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/akemi-glow-toner/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/akemi-hair-glow-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/akemi-slim-patch/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/akka-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alan-health-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/algorx-sildenafil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alkaburn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alkalean-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alkamelt-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alkaslim-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alkatide-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/all-day-slimming-tea/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alpha-drive-rx-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alpha-labs-male-enhancement-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alpha-rock/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alphaboost-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alphaerec-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alphafuel-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alphahoney-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alphasteel-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/alphasurge-male-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/altrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/amp-joint-10/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/apexforce-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/aquaburn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/arctic-blast-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/argan-glow-serum/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/arialief-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/aristos-trim-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/arsynl-rx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/arsynl-rx-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/arthrozene-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/arthryon/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/artivorin-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/aspen-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/aspen-health-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/audicyl/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/audifort-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/audileaf-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/audiquiet/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/aura-glow-lux-serum/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/azoth-nad-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/backbiome-supplement/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/balance-bloom-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/balmorex-pro-cream/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/belle-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/belle-tirzepatide-injection/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/berlin-protocol/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/betterhelp/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/betterme-rx-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/betterme-rx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/betterme-rx-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/betterme-rx-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/beyond-whoosh/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/big-eds-meds-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biltrx-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biodentex-supplement/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biogrow-rx-supplement/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bioma-probiotics-supplements/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biomeburn-supplement/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bioshield-md-supplement/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biotrust-glp-1/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biovera-bhb-burn-gummies/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biovera-blood-balance/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biovera-cbd-gummies/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/biovera-male-boost-gummies/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bladder-genix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/blinzador-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bloodpril-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/blue-haven-rx/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bluechew-gold-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bmimd-nad-injection/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bmimd-nad-nasal-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bmimd-sermorelin-injection/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bmimd-sermorelin-nasal-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bmimd/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bodi-envi-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bodybuilding-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bonafide-clairvee-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bonafide-noctera-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bonafide-relizen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bonafide-revaree-plus/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bonafide-ristela-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bonafide-serenol-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bonafide-thermella-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/boostaro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/booster-brew-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/booststeelx-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brain-memory-keeper-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brainience-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brainlive-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brainmary-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brainvex-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/braverx-ed-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/breatheasex/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/breathizen-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/breezemeds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brello-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brightmeds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brightmeds-nad-injections/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/brightmeds-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bryo-coffee-powder/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/bryt-better-coffee-powder/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/burn-evolved-2-0-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/burn-gummy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/burnblend-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/burntide-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/caliberrx-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/calibrate-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/calmora-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cardio-clear-7-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cardio-slim-tea/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cardioc2-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cardiocharge-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/care-bare-rx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/care-bare-rx-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/carebarerx-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/carebarerx-hair-growth/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cellovit-nattokinase-10800-fu-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cellucare-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cellunax-patch/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cerebrozen-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cholibrium-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/chronoboost-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cielo-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/circo2-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/citrusburn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/clarity-md-astaxanthin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/clean-eye-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/clear-gaze-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/clearcogni-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/clearvue-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cloud9-daily-restore-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/coffee-burn-supplement/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cognifort-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cognimary-supplements/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cognizil-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/coivas-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/colestzen-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/collective-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/colonbroom-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/comprex-sleeves/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/confitrol24-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/congniflo-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/consti-slim-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/copper-snap-serum/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cora-health-glp-1-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/cora-health-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/coradoc-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/core-relief-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/coreage-rx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/corevital-burn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/crystal-vision-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/curex-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/curex-nasal-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/deep-skin-restore-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/dentabiome-supplement/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/dermafix-gel/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/digestflow-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/direct-meds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/direct-meds-hrt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/direct-meds-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/direct-meds-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/directmax/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/directmeds-ed-prescription-medication/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/dr-melasmin-calcium-stick/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/dr-nore-hydropeptin-5-serum/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/dr-sheenso-lymphatic-drainage-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/drflexa-knee-brace/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/dtc-clinic-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/duravex-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/echosoothe/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/eden-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/eggagen-hair-growth-system/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/elevate-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/elevated-health-glp-1-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/elevated-health-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/elixamd-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/elixir-of-youth/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/em-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/embody-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/embody-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/embody-glutathione/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/embody-nad-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/embody-rodeo/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/embody-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/embody-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/embody-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/emed-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/endunad-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/enhance-md-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/enhance-md-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/enhanced-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/erectin-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/eregummy-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/erexafil-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/erodus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ever-joint-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/everlywell-testosterone-test-kit/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/evo-slim-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/evolv-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/exitide-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/eyevitalis/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/eznaturals-moringa-leaf-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/feelgood-glp-1/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/feelgood-quad/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fella-health-glp-1-weight-loss-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fem-excel/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/femicore-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fimavyn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/finessa-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fitrx-enclomiphene/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fitrx-hair-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fitrx-hardies-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fitrx-insomnia-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fitrx-skincare/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fitrx-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/five-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/flash-burn-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/flex-guard-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/flexi-move-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/flexigenics-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/floraspring-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/flownerves-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/flowstrong-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/flush-factor-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/flushpril-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/focusmax-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/foliaya-fungus-pen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/folisin-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/forest-green-farms-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/forest-mountain-farms-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/found-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fountain-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/free-sugar-pro-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fresh-day-meds-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/freya-meds/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/friday-plans-ed-treatment/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fridays-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fridays-meds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fungabeam-pen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/fungalclear-stick/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/futurhealth-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/g-berberine-patches/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/g-plans-glp-1/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/g-plans-weight-loss-program/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gala-health-fertility/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gala-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gala-hrt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gala-tirzepatide-treatment/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gameday-mens-health-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gameday-mens-health-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gatlan-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gelagen-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gelatide-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gen-f20-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gen-fx-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/genesis-revival-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/genf20-calcium-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/genuinepurity-nitric-heart/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/get-thin-md-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gforce-supplements/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/giant-max-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/giantmax-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gimme-care-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gl-control-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gl-defend-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glo24k-led-mask/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glo24k-neck-and-face-beauty-device/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glo24k-nova-x/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glokore-ipl-body-sculptor/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glokore-knee-massager/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gloramd-face-lift-serum/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glp-1-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glpro/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gluco-cleanse-tea/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gluco-extend-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gluco-off-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gluco-recover-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gluco6-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucoaloha-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucoberry-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucoboost-glp-1-booster-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucocore-blood-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucoflush-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucoguard-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gluconara-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucooptima-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucore-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucoregulate-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucose-burn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucose-shield-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucotide-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucotonic-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucotru-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucovault-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glucozen-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glyco-balance-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glyco-barrier-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glyco-eden-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glyco-harmony-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glyco-oliva-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glycofree-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glycomode/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glycomute-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glycopezil-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glycopulse-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glycoreset-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/glycotide-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gold-standard-wellness-blood-balance-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gold-standard-wellness-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gold-standard-wellness-male-performance-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/golden-farms-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/golden-touch-fusion-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/goodlife-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/goodrx-ed-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gruns-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gs-85-blood-sugar-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gumitide-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gut-glucose-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gut-save-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/gutglucose/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hairlux-device/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hairovesca-serum/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hard-chews-now/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hardrx-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/harmo-brain-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/harmonia-cortisol-support/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/harmonia-night-recovery-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/harper-meds-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hawaiian-harmony-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/he-she-md-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healfastrx/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/health-rx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthletic-alpharatio-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthletic-bones-01-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthletic-bpc-157-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthletic-lipids-01-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthletic-methylene-blue-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthletic-ultimate-nattokinase-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthletic-ultimate-phosphatidylserine-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthrx-blood-support-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/healthrx-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/heliosmeds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hello100-glp-1-booster/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hemavex-gluco-capsules/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/henry-meds-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/henry-meds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/henry-meds-hrt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/henry-meds-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/heromd-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/herpafend-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hersolution-gel/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hgh-boost-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/himalla-shilajit-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hinuki-lean-habit-jelly/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/holy-vigor-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hone-health-hrt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hone-health-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hone-health-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hone-health-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/honey-peak-gelatin-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/honey-vital-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/honeyboost-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/honeycept-capsules/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/honeyfil-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/honeypezil-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hormovance-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/horse-boost-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/horse-honey-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/horse-vital-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/horsefil-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/horsepeak-gelatin-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/horsewood-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hume-band-2-0/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hume-care-oral-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/hume-health-body-pod/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/humecare-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/idgie-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/igenics-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ikaria-lean-belly-juice/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/immortal-flow-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/inmeds-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/inner-balance-bodymatched/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/inner-balance-libida-tablet/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/inner-balance-oestra/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/innerwell-ketamine-therapy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/innova-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/instarx-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/iqhoney-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ironwood-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ithrivemd-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ivim-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ivy-rx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/javacept-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/javatide-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jellutide-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jelly-force-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jelly-rock-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jellyboost-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jellyfil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jellylean-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jellypeak-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jellythin-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jellytide-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/joi-blokes/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/joinem/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/joinembody-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/joint-genesis-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jointbrex-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jointrelivex/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jointvance-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jrnys-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/jyra-health-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/karylief-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/keeps-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/keeps-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kerafirm-pro-oil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/keranique-gel/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kerassentials-oil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/keto-fire-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ketonex-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ketovera-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kin-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kina-treatments/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kinessana-shoulder-massager/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kinzeno-massage-gel/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/klaronail-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/knownwell-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kollagen-intensiv-cream/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kona-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/koreana-skin-pdrn-mask/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kurea-quattro-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kurea-ready/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/kurineru-pen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lavaslim-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/leanburn-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/leanela-slim-coffee-booster/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/leanmeds/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/leanpeak-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lemonaid-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/levelsrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/liberty-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lifemd-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lifemd-hrt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lifemd-mens-health-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lifemd-mental-health-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lifemd-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lightsteps-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/linfaflow-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/linfozen-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lipo-flow-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lipo-jelly-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lipoboost-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lipofit-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lipomeltx-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/liv-body-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/livarix/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/liver-guard-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/longevity-meds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/loti-labs-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lttl-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lttl-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lulutox-detox-tea/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lumiace-cream/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lumimeds-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lumimeds-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lunavia-antifungal-pen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lungexpand-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lungora-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/luvo-health-longevity-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/luvo-health-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/luxlive-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/luxovia-bhb-burn-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/luxovia-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/luxovia-keto-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/luxovia-male-enhancement-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lymph-flow-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lymph-savior-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/lymph-tonic-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mad-glow-mad-fresh-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/magnarx-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/magnesleep-supplements/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/male-excel-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/man-apex-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/manergy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/manforcex-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mangorx-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/marobrain-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maves-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/max-flow-slim-no2-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/max-force-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/max-vitalize-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maxentra-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maximus-testosterone/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maximus-tribe-blood-flow/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maximus-tribe-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maximus-tribe-growth-hormone-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maximus-tribe-hair-growth-treatments/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maximus-tribe-oxytocin-calming-cream/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maximus-tribe-testosterone-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maxorin-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/maxtrt-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/measured-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/medgm-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/medibloom-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/medibloom-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/medvi-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/medvi-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/medvi-quad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/medvi-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/melo-slim-patches/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/melonex-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/meltdrops-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memo-genesis/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memo-matrix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memocept/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memoclear-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memodyne-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memofix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memoflow-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memohive-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memohoney/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memopezil-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memopryl-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memora-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memori-mind-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memory-vitali-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memoryfuel-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memoryon-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memotril-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memovance-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/memovolt-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/men-balance-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/menergy-meds-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/menergy-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/menosoothe-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/metabolabs-blood-balance/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/metaburn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/metaflow-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/metaglucent-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/metamorphx-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/midi-health-perimenopause/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/migraclarity/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/military-honey-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mind-recall-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mind-trex-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindhoney-60-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindhoney-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindora-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindquell-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindremember/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindsafe-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindsave-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindsilence-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mindwake/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mitopure-cellular-longevity-pro/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mochi-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mochi-health-hair-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mochi-health-longevity/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mochi-health-menopause-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mochi-health-mental-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mochi-health-skincare/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mochi-health-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mondae-glutathione/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mondae-nad-injection/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mondae-sermorelin-injection/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mondae-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/morepumps-tablets/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/moringa-actives-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/motionprimex/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/motivated-ed-meds/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/motivated-hard-plus/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mounjamelt-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/multimedrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/musely-the-eye-serum/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/myco-max-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mycosoothe-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mydrhank-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mydrhank-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mydrhank-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mydrhank-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/myoglow/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/mystart-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nagano-tonic-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nail-exodus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nailscleanpro/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nano-ease-cbd-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/naori-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nasomin-iodine-nasal-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nativepath-antarctic-krill-oil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nativepath-collagen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nativepath-coq10-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nativepath-hydrate-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/natures-boost-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neck-balance-reset/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nerve-alive-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nerve-ease/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nerve-harmony/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nerve-revive-360-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nerve-vitali-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nerve-zen-ultra/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nervecell-capsules/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nervecept-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nervegenics-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nerveharmony-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nervelin-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nervolyn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nervomax-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nervora-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nervory-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neura-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuralisse-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuriva-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuro-cinnamon-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuro-memory-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuro-mind-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuro-pulse-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuro-serge-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuro-sharp-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurodrop/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurodyne-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurogenica-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurolift-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuroprime-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurorecall-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuroretine/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurosalt-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurosilence-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurovera-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neuroxen-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/neurozen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/newera-protect/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nexburn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nextmeds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nexus-pheromones/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/noctalean-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/noom-glp-1-weight-loss-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/novi-weight-loss-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nura-peptide-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nuraderma-collagen-face-mask/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nuraslim-detox-tea/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/nurx-hrt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oak-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oakmax-tablet/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oath-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oilume-hair-removal-oil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/olivaro-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/omnisurgexl-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/omzo-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/onyclean-anti-fungal-pen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/onyguard-nail-fungus-pen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/onyx-biolabs-peptides/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/opti-core-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/optiplax-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oradentix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oradentum-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oraglowpro/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oral-defense-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/organixx-clean-sourced-collagens/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/organixx-magnesium-7-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/orivelle-fungus-pen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/oxydental-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ozoku-matcha-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/p-protect-mens-wellness-patches/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pallas-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/paratoxil-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/payarmin-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/peak-immunity-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/peakflex-knee-sleeve/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pelvic-floor-strong/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/peremis-neuro-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/perfect-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/petermd-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pharmaflex-rx-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/phemmepure-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/phytomem-one-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pineal-10x-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/piperinox-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/plexusdx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/plushcare-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/plushcare-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/plushcare-mental-health/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/potentvital-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/powerup-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/powerx-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pressure-aid-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pressurecalmx/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prevalin-adult-nasal-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/primaltrt-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prime-boost-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prime-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prime-man-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prime-man-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/primebeastxr-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/primebiome-gummies/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prociva-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/progenifix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prosolution-gel/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prosolution-pills/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prosolution-plus/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prosta-defend-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prosta-flow-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prosta-peak-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prostadine-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prostafense-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prostaliss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prostaprime-support-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prostavitalis/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/prostivo/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/protaflo-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/provacyl-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/provestra-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pspeptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pulmo-balance-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pulsetto-fit/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/puratek-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pure-cellular-detox-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pure-health-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pure-keto-burn-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/pure-life-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/purelief-natural-pain-relief-clip/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/purevantage-blood-balance-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/purevantage-keto-bhb-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/purevantage-male-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/purevive-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/qmax-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/quiet-nerves-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/quiet-tone-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/quietum-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/radiancy-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/radiant-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ragnaroak/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/reactivate-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ready-rx-mic-b12/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/readyrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/readyrx-glutathione/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/readyrx-nad-nasal/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/readyrx-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/readyrx-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/recovrknee-massager/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/red-boost-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/reduburn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/redwoodrx-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/refills-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/regenics-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rejuv-patches/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rejuvacare-footrenew/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/remote-pharmacy-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/renuviarx-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rescue-flex-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/research-labs-peptides/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/respilean-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/restilen-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/resveraburn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/retinaclear-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/retraburn-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/reviralis-complete-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/revra-pure-glyco-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rex-md-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ridgeroot-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ridgeroot-gluco-health-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ridgeroot-keto-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ridgeroot-male-performance-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rift-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rightwell-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ring-clear-supplements/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ring-quiet-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/risachi-cbn-sleep-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rnk-health-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ro-body-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ro-co-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ro-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ro-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ro-hair-loss-treatments/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ro-mane-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ro-mhl/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ro-sparks/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/roar-lions-mane-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rock-hard-formula/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rocketrx-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rodeo-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/roll-on-relief/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rugiet/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rx-pros/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rxspan-md-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/rxspan-md-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sciatic-relax/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sciatica-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sciaticyl-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sculpt-nation-burn-pm-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sculpt-nation-multi-collagen-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sculpt-nation-turmeric-black-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/selfplus-age-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/semenax-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/semenhance-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/seneca-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sermorelin-oral-tablets/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sesame-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sharpvision-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/shed-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/shedrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/silentflow-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/silhouette-md-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/silmive-green-coffee-supplement/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/simple-h/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/skinny-collagen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/skinnyrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/skinrenewpro/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/slim-melt-bhb-burn-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/slim-metrix/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/slimfitrx-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/slimqa-coffee-booster/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/slimset-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/slimsoda-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/slimtide/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/smileset/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/snagrx-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/soda-honey-boost-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/soda-steel-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodaboost-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodaburn-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodafit-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodamelt-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodapeak-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodaryn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodaslim/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodatide-pills/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sodatide-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sofon-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sonovive/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sonya-dakar-acne-solutions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sonya-dakar-anti-aging-solutions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sonya-dakar-sensitive-skin-solutions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/soothe-smart-massager/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/soul-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/south-beach-skin-lab-collagen-filler-serum/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/spartamax-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sprout-health-nad-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sprout-health-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/stallion-power-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/steadyflow-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/steel-power-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/steel-rise-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/steelpower-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/stem-cell-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/stemregen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/stratos-boost-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/strictiond-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/strong-peak-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/strut-health-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/strut-health-hair-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/strut-health-testosterone/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/strut-health-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sugar-control-keto-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sugar-drop-liquid-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sugar-harmony-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sugar-pure-balance-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sugarburn-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sugarix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sugarmute-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sugarreset/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sunlight-weight-loss-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/supergut-glp-1-daily-support-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/supergut/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sweet-relief-glycogen-support-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/sweetrestore-joint-support-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/synaptril-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/synergyrx/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/synevra-ultra-lift/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/synocell-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/syra-rx/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/system-labs-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/system-labs-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/taurus-ed-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/taurus-nad-injection/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/taurus-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/taurus-trt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/telos-rx-nad-nasal-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/telos-rx-oral-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/telos-rx-sermorelin/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/telos-rx-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/telos-rx/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/test-boost-max-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/testodren-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/testosil-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/testovate-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/testrx-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/the-gold-tea-detox-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/the-growth-code-digital-program/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/therawolf-pain-relief-balm/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/therawolf-relief-balm/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/thermo-burn-pro-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/thermo-ignite-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/thinnex-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/thrive-botanicals-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/thyrafemme-balance-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/tinizen-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/tinnitrol-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/tinnoril-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/titanprime-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/tmates-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/tonic-greens-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/total-bowel-release-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/total-brain-boost-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/total-control-24-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trava-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trforce-ed-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/triblock-7-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trimi-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trimkai-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trimlabs-bhb-trim-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trimology-weight-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trimora-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trimoryn/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trimrx-ed-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trimx-glp-1-treatment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trinity-meds-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/triple-cognigen-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/triple-green-farms-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trufull-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/trufull-nervisyl-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/try-ageless-glp/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/try-keto-acv-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/turboman-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ultra-accel-q-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/ultra-omega-burn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/urosap-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/urozen-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/uticarin-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/valiora-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vapo-mind-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vapocept-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vapofil-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vasculidon-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vasoryn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vaylen-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vexaro-male-enhancement-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/viahemp-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigor-boost-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigor-peak-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigorelle-gel/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigorprime-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigorrise-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigortrix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigorus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigrx-delay-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigrx-delay-wipes/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigrx-fertility-factor-5-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigrx-incontinix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigrx-max-volume-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigrx-nitric-oxide-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigrx-oil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vigrx-plus-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/viking-man-nad-therapy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/villora-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/virexforce-male-enhancement-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/viriflow-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/virilix-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/visiflora-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/visiocore-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vision-20/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/visionx-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/visivra-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/visual-ease-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vita-natural-blood-support-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vitabliss-keto-acv-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vital-man-ed/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vital-muscle-boost-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vital-step-glp/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vital-step-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vitalbp-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vitaliflow-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vitalislim-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vitality-now-life-pulse-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vitality-now-youthful-brain-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vitamotion-powder/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vitareset-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vittaburn-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vivalis-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vivaslim-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/viviomd-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vivogut/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/vivotonic-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/volca-burn-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/volume-pills/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/weightcare-tirzepatide/",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/weightwatchers-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellaheat-hand-warmer/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellanail-fungus-treatment-oil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellanaturals-beef-tallow-balm/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellanaturals-hair-growth-oil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellanaturals-magnesium-oil-spray/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellanaturals-moringa-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellanaturals-oregano-oil/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellaray-slim-coffee-booster/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellawhite-water-flosser/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellmedr-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wellmedr-nad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/welnax-bioclear-toenail-fungus-device/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/welnax-easeflex-knee-massager/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wgcp-addy-supplements/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/whispeara-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/willow-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/winona-hrt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wisdom-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/wisp-telehealth/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/xennad/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/yourera-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/youthful-prostate-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/yu-sleep-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/yucca-health-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/zealthy-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/zen-leaf-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/zenbody-glp-1/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/zeneara-supplement/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/zensulin-drops/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/product/zenuva-cbd-gummies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/promotes-convenient-prescription-refills/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/refill-prescription/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/resources/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/send-your-referrals/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/services/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/set-an-appointment/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/special-packaging/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/strengthens-community-healthcare/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.okpharmacyrgv.com/talk-to-our-pharmacist/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "name": "Serotonincenters",
+  "domain": "serotonincenters.com",
+  "total_urls": 699,
+  "semaglutide_pages": [
+    "https://www.serotonincenters.com/blog/am-i-a-candidate-for-semaglutide-what-to-know/",
+    "https://www.serotonincenters.com/blog/is-ozempic-for-weight-loss-covered-by-insurance/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.serotonincenters.com/blog/how-to-create-a-long-term-anti-aging-plan-with-hormones-and-aesthetics/",
+    "https://www.serotonincenters.com/blog/microneedling-for-crow-s-feet-what-you-need-to-know/",
+    "https://www.serotonincenters.com/blog/prp-hair-restoration-or-hair-transplant-which-should-you-choose/",
+    "https://www.serotonincenters.com/membership/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.serotonincenters.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/about-us/resources/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/about-us/resources/gift-cards/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/blog/am-i-a-candidate-for-semaglutide-what-to-know/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/blog/can-bioidentical-hormone-therapy-help-hair-loss/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/blog/how-to-create-a-long-term-anti-aging-plan-with-hormones-and-aesthetics/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/blog/is-ozempic-for-weight-loss-covered-by-insurance/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/blog/microneedling-for-crow-s-feet-what-you-need-to-know/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/blog/prp-hair-restoration-or-hair-transplant-which-should-you-choose/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/blog/why-are-more-doctors-recommending-trt-for-aging-men/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/charleston/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/colts-neck/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/del-mar/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/dr-phillips/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/fort-worth/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/green-hills/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/joplin/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/lake-nona/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/locations/ashburn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/mansfield/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/naperville/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/orlando-area/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/paramus/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/serotonin-nutraceuticals/sero-probiotic-lean-df/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/serotonin-nutraceuticals/sero-probiotic-max-daily-sb-df/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/springfield/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/stamford/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/windermere/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.serotonincenters.com/winter-park/hormone-restoration/bio-identical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

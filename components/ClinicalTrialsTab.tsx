@@ -60,14 +60,7 @@ export default function ClinicalTrialsTab() {
   return (
     <div style={{ maxWidth: '1440px', margin: '0 auto', padding: '0 8px' }}>
       {/* Context Cue Banner */}
-      <ContextCue
-        title="NIH ClinicalTrials.gov Next-Gen Obesity Pipeline Radar"
-        level={2}
-        toolNumber={25}
-        badge="Federal Registry REST API v2"
-        useCase="Surveys US FDA Phase 2 and 3 clinical trials for next-generation obesity molecules (Retatrutide, CagriSema, Orforglipron, MariTide) to establish early topical authority 12 months ahead of commercial release."
-      />
-
+      
       {/* Top Stat Matrix */}
       <div style={{
         display: 'grid',

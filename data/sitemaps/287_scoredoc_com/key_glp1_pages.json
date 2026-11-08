@@ -1,0 +1,13 @@
+{
+  "name": "Scoredoc",
+  "domain": "scoredoc.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://scoredoc.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://scoredoc.com/pricing"
+  ],
+  "all_categorized": []
+}

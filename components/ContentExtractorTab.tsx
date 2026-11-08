@@ -214,14 +214,7 @@ export default function ContentExtractorTab() {
   return (
     <div style={{ maxWidth: '1440px', margin: '0 auto', padding: '0 8px' }}>
       {/* Context Cue Banner */}
-      <ContextCue
-        title="Clean Content Extractor & HTTP Indexability Auditor"
-        level={1}
-        toolNumber={29}
-        badge="Boilerplate Stripper & Technical SEO"
-        useCase="Strips bloated navigation, footers, scripts, and popups to extract clean readable Markdown/Text, while diagnosing HTTP status codes, meta robots, X-Robots-Tag, and canonical indexability."
-      />
-
+      
       {/* URL Input & Sitemap Combobox */}
       <div
         className="glass-card"

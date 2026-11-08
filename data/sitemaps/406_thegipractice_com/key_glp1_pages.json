@@ -1,0 +1,40 @@
+{
+  "name": "Thegipractice",
+  "domain": "thegipractice.com",
+  "total_urls": 166,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://thegipractice.com/accessibility-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thegipractice.com/gastroenterology-faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thegipractice.com/liver-biopsy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thegipractice.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thegipractice.com/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

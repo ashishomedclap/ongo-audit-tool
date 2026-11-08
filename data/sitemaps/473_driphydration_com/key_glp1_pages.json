@@ -1,0 +1,13 @@
+{
+  "name": "Driphydration",
+  "domain": "driphydration.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://driphydration.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://driphydration.com/pricing"
+  ],
+  "all_categorized": []
+}

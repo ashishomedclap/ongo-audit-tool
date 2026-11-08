@@ -1,0 +1,50 @@
+{
+  "name": "Drlissa",
+  "domain": "drlissa.com",
+  "total_urls": 87,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://drlissa.com/breast/breast-implant-removal/",
+    "https://drlissa.com/look-and-feel-rejuvenated-after-a-chemical-peel/",
+    "https://drlissa.com/which-breast-implants-are-right-for-me/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://drlissa.com/about-the-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://drlissa.com/breast/breast-implant-removal/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drlissa.com/look-and-feel-rejuvenated-after-a-chemical-peel/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drlissa.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://drlissa.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://drlissa.com/which-breast-implants-are-right-for-me/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

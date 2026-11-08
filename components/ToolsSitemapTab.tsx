@@ -211,12 +211,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
         </div>
       </div>
 
-      <ContextCue
-        useCase="Review what each tool does in detail, how and why to use it, and its ranked business value to decide what to keep, merge, or remove."
-        title="Tools Ranking & Simplification Guide"
-        about="Tier 1 tools are essential organic traffic drivers and core engines. Tier 2 tools provide high-value strategy and E-E-A-T clinical compliance. Tier 3 tools are specialized candidates you can merge or remove to keep the suite simple."
-      />
-
+      
       {/* Tier KPI Summary Cards */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '14px' }}>
         {/* Tier 1 Card */}
@@ -265,7 +260,7 @@ export default function ToolsSitemapTab({ onSelectTab }: ToolsSitemapTabProps) {
             Ranks #6 – #11: Strategy &amp; Trust
           </h3>
           <p style={{ fontSize: '0.78rem', color: 'var(--text-secondary)', marginTop: '4px', lineHeight: 1.4 }}>
-            7 Books Library, 100-Competitor Directory, 217-Page Silo Plan, Doctors E-E-A-T, Meta Auditor, Overview.
+            7 Books Library, 618-Competitor Directory, 217-Page Silo Plan, Doctors E-E-A-T, Meta Auditor, Overview.
           </p>
         </div>
 

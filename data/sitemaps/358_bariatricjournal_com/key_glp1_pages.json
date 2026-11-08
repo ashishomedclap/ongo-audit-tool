@@ -1,0 +1,13 @@
+{
+  "name": "Bariatricjournal",
+  "domain": "bariatricjournal.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://bariatricjournal.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://bariatricjournal.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,1165 @@
+{
+  "name": "Health .ucsd.edu",
+  "domain": "health.ucsd.edu",
+  "total_urls": 1361,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://health.ucsd.edu/care/cancer/treatments/blood-and-bone-marrow-transplant/",
+    "https://health.ucsd.edu/care/cancer/treatments/blood-and-bone-marrow-transplant/what-to-expect/",
+    "https://health.ucsd.edu/care/gynecology/birth-control-and-family-planning/",
+    "https://health.ucsd.edu/care/pregnancy-birth/breastfeeding-support/",
+    "https://health.ucsd.edu/care/pregnancy-birth/breastfeeding-support/breast-pump-rental/",
+    "https://health.ucsd.edu/care/pregnancy-birth/nicu/breastfeeding-premature-baby/",
+    "https://health.ucsd.edu/care/transplant-programs/",
+    "https://health.ucsd.edu/care/transplant-programs/heart/",
+    "https://health.ucsd.edu/care/transplant-programs/kidney/",
+    "https://health.ucsd.edu/care/transplant-programs/kidney/living-donation/",
+    "https://health.ucsd.edu/care/transplant-programs/kidney/process/",
+    "https://health.ucsd.edu/care/transplant-programs/kidney/referral/",
+    "https://health.ucsd.edu/care/transplant-programs/kidney/referral/thank-you/",
+    "https://health.ucsd.edu/care/transplant-programs/liver/",
+    "https://health.ucsd.edu/care/transplant-programs/liver/living-donation/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://health.ucsd.edu/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/340b-program/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/ai-at-uc-san-diego-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/benefits/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/contact-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/contact-us/thank-you/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/east-campus/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/facts-glance/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/hillcrest-redevelopment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/jedi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/alexander-khalessi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/brendan-kremer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/carlos-bohorquez/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/catheryn-yashar/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/chad-vandenberg/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/christopher-kane/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/crystal-cene/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/diane-simeone/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/donna-beifus/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/douglas-cates/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/edward-junkins/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/jacqueline-carr/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/joshua-glandorf/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/kimberlee-eskierka/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/lesley-wilson/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/lisa-murphy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/lisa-rhodes/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/margarita-baggett/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/matthew-jenusaitis/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/michelle-ziemba/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/nick-macchione/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/parag-agnihotri/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/patsy-bouzan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/patty-maysent/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/ron-skillens/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/leadership/steve-koh/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/padres/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/quality-safety/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/quality-safety/awards-achievements/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/quality-safety/awards-achievements/us-news-rankings/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/strategy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/about-us/sustainability/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/apheresis/physician-referral/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/apheresis/physician-referral/thank-you/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/cancer/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/cancer/treatments/blood-and-bone-marrow-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/cancer/treatments/blood-and-bone-marrow-transplant/what-to-expect/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/gynecology/birth-control-and-family-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/heart-vascular/pulmonary-hypertension/cteph-physician-referral/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pharmacy-services/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pharmacy-services/infusion/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pharmacy-services/locations/",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pharmacy-services/medication-management/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pharmacy-services/specialty-pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pregnancy-birth/breastfeeding-support/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pregnancy-birth/breastfeeding-support/breast-pump-rental/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pregnancy-birth/giving-birth/low-intervention-birth/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/pregnancy-birth/nicu/breastfeeding-premature-baby/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/primary-care/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/heart/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/kidney/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/kidney/living-donation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/kidney/process/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/kidney/referral/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/kidney/referral/thank-you/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/liver/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/liver/living-donation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/liver/process/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/liver/referral/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/liver/referral/thank-you/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/lung/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/lung/patient-stories/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/lung/referral/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/lung/referral/thank-you/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/medications/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/multi-organ/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/organ-tissue-donation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/quality/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/care/transplant-programs/support/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/administrative-fellowship/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/about/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/contact/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/preceptors/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/acute-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/ambulatory-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/cardiology/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/critical-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/health-system/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/infectious-diseases/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/informatics/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/internal-medicine/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/oncology/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/psychiatry/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/programs/transplant/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/residents/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/education-training/pharmacy-residency/salary-benefits/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/medical-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/medical-staff/application/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/medical-staff/documents/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/medical-staff/privileges/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/medical-staff/staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/medical-staff/standardized-procedures/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/for-health-care-professionals/medical-staff/verify/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/behavioral-health/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/contact/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/covered-ca/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/international/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/medi-cal/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/medicare/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/open-enrollment/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/special-enrollment/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/switch-care/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/accepted-health-plans/vision/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/extended-bill-payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/insurance-billing/paying/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/locations/parking-hillcrest/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/locations/parking-la-jolla/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/features/a-physicians-quest-to-preserve-the-joy-in-medicine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/features/a-wee-nuzzle-nicu-program-focuses-on-breastfeeding-support/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/features/bone-marrow-transplant-patient-inspired-to-join-the-medical-field/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/features/breathing-freely-lung-transplant-gives-patient-second-chance/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/features/doctor-faced-with-cancer-diagnosis-honored-by-san-diego-padres/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/features/need-a-doctor-study-says-to-look-for-board-certification/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/features/off-duty-physicians-use-cpr-to-help-save-life-of-citizen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/features/primary-care-providers-the-co-captains-of-your-health-care-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-01-10-uc-san-diego-health-opens-californias-first-accredited-senior-emergency-care-unit/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-01-14-three-d-printed-implant-promotes-nerve-cell-growth-to-treat-spinal-cord-injury/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-03-12-soccer-matches-then-a-doctor-does-too/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-04-29-partnership-explores-future-treatments-using-breast-milk-and-microbiome/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-05-14-womens-gut-microbiomes-mature-earlier-than-mens/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-05-16-uc-san-diego-ninth-in-world-in-biomed-sciences/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-05-23-california-above-national-average-sexual-harassment-rates/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-08-07-uc-san-diego-heart-transplant-program-best-in-nation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2019-08-27-first-hiv-to-hiv-kidney-transplant-in-region/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-02-25-heatwave-exposure-linked-to-increased-risk-of-preterm-birth-in-california/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-03-03-presence-of-staph-bacteria-in-skin-microbiome-promote-netherton-syndrome-inflammation/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-03-12-how-brain-biology-promotes-starvation-in-patients-with-anorexia/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-04-30-uc-san-diego-health-nationally-recognized-with-a-grades-for-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-05-21-during-covid-19-telehealth-reconnects-patients-with-health-care-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-06-30-universal-gut-microbiome-derived-signature-predicts-cirrhosis/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-08-05-implanted-neural-stem-cell-grafts-show-functionality-in-spinal-cord-injuries/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-09-03-transplant-team-performs-san-diegos-first-hiv-liver-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-09-15-uc-san-diego-health-revives-non-beating-donor-heart-for-successful-tansplantation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-09-28-genetic-testing-cost-effective-for-newly-diagnosed-gist/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2020-11-12-student-medical-records-at-uc-san-diego-make-epic-change-and-california-first/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-01-05-lung-heart-kidney-and-transplant-programs-rank-among-nations-best/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-04-26-two-novel-biobanks-offer-investigatory-targets-for-cocaine-and-oxycodone-addiction/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-06-15-center-brings-doctors-scientists-together-to-improve-health-of-mother-and-child/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-07-01-for-transplant-patients-covid-19-vaccination-presents-a-diffferent-uncertainty/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-07-08-uc-san-diego-health-first-in-nation-to-implant-new-device-for-chronic-back-pain/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-07-23-senator-toni-atkins-visits-hospital-to-recognize-plans-for-new-hillcrest-campus/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-08-05-organ-transplant-recipients-significantly-protected-by-covid-19-vaccination/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-08-24-second-breath-regions-first-double-lung-transplant-for-covid-19-patient/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-09-08-study-no-serious-covid-19-vaccine-side-effects-in-breastfeeding-moms-infants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2021-10-11-uc-san-diego-health-physicians-top-the-list-in-san-diego-county/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2022-03-21-transplant-cancer-patients-among-first-to-get-evusheld-at-uc-san-diego-health/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2022-06-29-study-reveals-the-job-problems-contributing-to-physician-suicide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2022-07-05-a-rhythmic-small-intestinal-microbiome-prevents-obesity-and-type-2-diabetes/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2022-08-04-engineering-the-microbiome-to-potentially-cure-disease/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2022-09-08-fathers-life-is-saved-after-receiving-heart-kidney-and-liver-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2022-10-10-uc-san-diego-health-physicians-named-Top-Docs-in-san-diego-county/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2022-10-19-new-treatment-for-urinary-tract-cancer-could-prevent-kidney-dialysis-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2022_02_17_uc-san-diego-health-excellence-in-medication-safety-pharmacy-practice/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2023-02-27-local-leaders-announce-plan-to-strengthen-health-services-in-imperial-county/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2023-04-25-new-prostate-biopsy-procedure-reduces-risk-improves-recovery/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2023-10-02-uc-san-diego-health-physicians-top-the-list/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2024-03-25-uc-san-diego-health-first-in-region-to-implant-dual-chamber-leadless-pacemaker/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2024-04-15-study-reveals-ai-enhances-physician-patient-communication/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2025-10-14-uc-san-diego-health-and-palomar-health-receive-approval-to-form-joint-powers-authority/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2025-11-03-first-in-the-united-states-to-offer-new-testicular-cancer-blood-test/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2025-11-26-data-driven-surgical-supply-lists-can-reduce-hospital-cost-and-waste/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2026-06-25-study-leveraging-ai-to-enhance-how-physicians-approach-sepsis-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2026-07-02-palomar-health-and-uc-san-diego-health-form-joint-powers-authority/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2026-08-03-uc-san-diego-health-no-1-in-california-makes-national-honor-roll/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/2026-10-01-uc-san-diego-health-doctors-earn-top-honors-in-peer-recognition-survey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/news/press-releases/new-findings-may-fix-the-replicability-crisis-in-microbiome-research/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/patients/advance-care-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/patients/compliments-complaints/recognize-doctor-nurse-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/patients/hospital-stay/safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/patients/places-to-stay/family-houses/eligibility-room-fees/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://health.ucsd.edu/vendors/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

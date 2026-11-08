@@ -1,0 +1,6466 @@
+{
+  "name": "Diabetes.org.uk",
+  "domain": "diabetes.org.uk",
+  "total_urls": 4048,
+  "semaglutide_pages": [
+    "https://www.diabetes.org.uk/guide-to-diabetes/recipes/creamy-bacon-and-rosemary-pasta",
+    "https://www.diabetes.org.uk/guide-to-diabetes/recipes/rosemary-baked-onions",
+    "https://www.diabetes.org.uk/our-research/about-our-research/our-funded-projects/london/broadening-benefits-semaglutide-type-2-diabetes"
+  ],
+  "tirzepatide_pages": [
+    "https://www.diabetes.org.uk/about-us/news-and-views/tirzepatide-can-be-prescribed-nhs-scotland-treatment-option-type-2-diabetes"
+  ],
+  "pricing_pages": [
+    "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet",
+    "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/charcot-foot",
+    "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/serious-foot-problem",
+    "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/taking-care-of-your-feet",
+    "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/touch-the-toes",
+    "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/what-can-i-expect-at-my-annual-foot-check",
+    "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/planning-for-pregnancy",
+    "https://www.diabetes.org.uk/about-us/news-and-views/77-say-rising-cost-living-negatively-impacting-how-they-manage-their",
+    "https://www.diabetes.org.uk/about-us/news-and-views/cgm-access-and-costs-scotland-raised-diabetes-cross-party-group",
+    "https://www.diabetes.org.uk/about-us/news-and-views/cost-complications-highlights-urgent-need-transform-diabetes",
+    "https://www.diabetes.org.uk/about-us/news-and-views/cost-diabetes-complications-highlights-need-transform-healthcare-scotland",
+    "https://www.diabetes.org.uk/about-us/news-and-views/half-people-living-type-1-diabetes-are-concerned-about-hypo-treatment-costs",
+    "https://www.diabetes.org.uk/about-us/news-and-views/how-diabetes-affects-breastfeeding-local-women-share-their-experiences",
+    "https://www.diabetes.org.uk/about-us/news-and-views/how-diabetes-uk-help-cost-of-living",
+    "https://www.diabetes.org.uk/about-us/news-and-views/i-felt-so-much-shame-and-was-made-feel-though-it-was-all-my-fault"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.diabetes.org.uk/about-diabetes/diabetes-misconceptions-and-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/charcot-foot",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/serious-foot-problem",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/taking-care-of-your-feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/touch-the-toes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/feet/what-can-i-expect-at-my-annual-foot-check",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/planning-for-pregnancy",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/celebrity-supporters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/how-we-are-governed",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/how-we-are-governed/legal-structure-and-constitution",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/how-we-are-governed/our-promise-to-involve",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/how-we-are-governed/our-trustees",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/how-we-are-governed/our-trustees/avoiding-conflicts-of-interest",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/how-we-are-governed/our-trustees/council-of-people-living-with-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/how-we-are-governed/our-trustees/healthcare-professional-advisory-committee",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/how-we-are-governed/the-community-organisation-advisory-committee",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/jobs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/jobs/application-process",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-areas-of-work",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-areas-of-work/history",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-areas-of-work/medals",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-areas-of-work/producing-diabetes-information",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-staff/colette-marshall",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-staff/david-chaney",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-staff/elizabeth-robertson",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-staff/graham-galvin",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-staff/ir%C3%A9n%C3%A9-fufeyin",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-staff/james-beeby",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/access-flash-devices-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/caring-for-children-with-type-1-diabetes-in-nurseries",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/coronavirus-position",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/diabetic-foods",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/dietary-fat-consumption-in-the-management-of-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/do-it-yourself-closed-loop",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/emotional-and-psychological-support-for-people-with-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/employment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/high-quality-care-for-children-and-young-people-with-type-1-diabetes-in-the-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/nutrition-labelling",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/prevention-of-type-2-diabetes-whole-society-interventions-to-address-root-causes-ill-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/self-monitoring-of-blood-glucose-levels",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/self-monitoring-of-blood-glucose-levels-for-adults-with-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/treatment-of-obesity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/type-1-technology-guidelines",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/type-2-children",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/type-2-prevention-for-high-risk-groups",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/use-of-low-or-no-calorie-sweetners",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/position-statements/wearable-technology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/about-the-charity/our-strategy/statistics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/contact-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/contact-us/complaints-procedure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/legal-information/pay-gap-reporting",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/1-10-adults-living-diabetes-2030",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/10-year-old-book-duo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/100-million-pledge-bukhman-foundation-transform-type-1-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/20-half-marathons",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/2020-research-highlights",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/2024-we-invested-5m-new-pioneering-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/2025-we-invested-4.2m-new-boundary-pushing-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/30-people-living-type-2-diabetes-england-are-undiagnosed-ons-analysis-shows",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/3000-mile-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/44-years-being-supported-diabetes-uk-lynette-doing-swim-22-give-back",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/4ts-campaign",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/5-steps-to-diabetes-prevention",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/5-things-we-want-to-see-autumn-budget-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/50-people-living-diabetes-have-missed-healthcare-appointments-due-stigma",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/6.8-million-on-new-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/68-percent-people-without-diabetes-or-prediabetes-have-never-considered-type-2-risk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/77-say-rising-cost-living-negatively-impacting-how-they-manage-their",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/86-people-type-1-and-75-people-type-2-experience-judgement-their-condition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/97-per-cent-people-non-white-communities-have-experienced-diabetes-related-stigma",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Braintree-woman-to-abseil-in-Lake-District-for-Diabetes-UK",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Cambridgeshire-pensioner-to-cycle",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Campaign-launches-to-encourage-people-to-move-more-in-the-Midlands",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Coronation-Street-storyline",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/DUKPC-highlights-part-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/DUKPC-highlights-part-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/DUKPC-highlights-part-3",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/DUKPC-highlights-part-4",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/DUKPC-highlights-part-5",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/DUKPC-highlights-part-6",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/DUKPC-highlights-part-7",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Diabetes-diagnoses-hits-365424-in-East-of-England--our-new-analysis-shows",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Diabetes-diagnoses-hits-700610-in-the-Midlands--our-new-analysis-shows",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/EPOS-Bureau-raises-1130",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Five-East-of-England-schools-win-good-diabetes-care-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Five-schools-in-the-Midlands-win-good-diabetes-care-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Five-things-we-want-to-see-in-the-CSR",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Gloria-Miller-type2-prevention-week",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Lincolnshire-man-cycle-100-km",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/MHRA-safety-alert",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Midlands-inspire-award-winners-celebrated",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Norfolk-consultant-chosen-as-diabetes-champion-for-East-of-England",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Northampton-rows-400-miles",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Nottingham-teacher-run",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Rugby-mum-takes-big-strides",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Seven-Midlands-schools-win-good-diabetes-care-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/Vital-diabetes-health-checks-leaflets-available-across-Shropshire-and-Staffordshire",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/abbott-freestyle-libre-delays",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/abbott-issues-freestyle-libre-apps-safety-notice-android-13-users",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/abdul-rais-over-20-years-dedication-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/aberdeen-bus-driver-champions-diabetes-awareness-first-bus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/aberdeen-dad-runs-copenhagen-marathon-raise-funds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/access-mental-health-support-helped-my-lowest",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/activity-snacking-helps-people-type-1-diabetes-manage-blood-sugar-levels",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/actor-james-norton-reads-diabetes-childrens-book-cbeebies-bedtime-stories",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ada-better-care-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ada-cure-and-prevent-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ada-living-well-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ada-prevention-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/adam-rollo-dukpc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/adapting-uni-life-when-you-live-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ageing-well-workshop",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ai-can-predict-kidney-disease-routine-eye-screening-images",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ai-could-spot-type-2-risk-beta-cell-therapy-tested-research-highlights-january-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/alex-mcintyre-mp-discusses-his-determination-break-down-diabetes-stigma",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/all-way-australia-support-friend-diabetes-uk-walking-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/alternatives-weight-loss-surgery-and-immune-attack-solutions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/amrc-open-research-for-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ancient-remedy-foot-ulcers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/anglesey-group",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/architect-who-took-33-marathon-challenge-diabetes-uk-celebrates-final-run",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/are-you-hypo-aware-learn-signs-and-symptoms-hypoglycaemia",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/arthritis-drug-could-offer-immunotherapy-hope-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/article-in-the-sunday-times",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/artificial-intelligence-spots-type-1-diabetes-children-earlier",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ashford-father-four-makes-splash-raise-ps3000-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/autumn-online-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/award-for-unsung-consultant",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/awareness-day-at-mansfield-town-fc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/awareness-talks-online",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/bangor-live-well-hub-marks-world-diabetes-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/barrister-and-blogger-rob-darbyshire-tells-us-about-his-time-dukpc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/because-im-very-active-i-thought-i-wouldnt-get-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/befriender-scheme",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/befriender-service",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/befriending-circle",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/behind-the-headlines-covid-19",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/behind-the-headlines-covid-age-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/behind-the-scenes-this-is-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/belfast-lord-mayor-launches-new-diabetes-live-well-hub-north-belfast",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/belfast-met-supports-diabetes-uk-northern-ireland-its-new-podcast-series-0",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/benefit-weight-loss-type-2-and-link-between-virus-and-type-1-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/best-companies-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/beta-cell-balance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/beta-cell-therapies-and-better-gestational-diabetes-care-dukpc-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/beta-cell-therapy-breakthrough-and-harm-weight-stigma-january-2026-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/bexhill-man-takes-walking-challenge-raise-funds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/big-jubilee-lunch",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/biggest-diabetes-research-stories-2022",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/blood-pressure-drug-can-slow-type-1-diabetes-research-shows",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/bollywood-dance-moves-and-treats-raise-more-ps1800-diabetes-uk-pinner-event",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/bradford-district-and-craven-beating-diabetes-through-ground-breaking",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/braintree-woman-swims-equivalent-english-channel-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/breaking-research-news-american-diabetes-association",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/brent-diabetes-group",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/bringing-teenagers-and-young-adults-type-1-diabetes-together-hastings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/bristol-paramedic-raises-over-ps4000-running-100km-world-diabetes-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/brother-inspires-brighton-woman-take-walking-challenge-raise-funds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/building-blocks-good-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/buzz-hair-cut-raise-funds-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/call-goes-out-swimmers-northern-ireland-make-splash-diabetes-charity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/call-join-summer-stepping-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/calling-on-government-fight-health-inequality",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/calorie-labelling-compulsory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/calorie-labelling-regulations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cambridge-man-takes-big-strides-for-diabetes-uk-for-second-year-running",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cambridge-man-taking-huge-strides-for-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cardiff-host-wellness-walk-first-time-sunday-june-16th",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cardiff-walk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/care-improvement-ambassador",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/celebrating-achievements-our-local-diabetes-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/celebrating-our-volunteers-black-history-month",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/celebrating-world-diabetes-day-south-west-and-south-central-region",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cgm-access-and-costs-scotland-raised-diabetes-cross-party-group",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cgm-people-type-2-slowing-type-1-and-experiences-diabetes-and-menopause",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cgm-recommended-some-children-and-young-people-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cgm-study-access-inequity-in-diabetes-tech",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/challenging-snowdon-trek-raise-funds-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/changes-funding-hybrid-closed-loop-technology-scotland-what-we-know-so-far",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/charcot-foot-scoring",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cheshire-teenagers-artwork-parliament",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/chief-exec-obe",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/childhood-type-2-risk-and-beta-cell-therapy-type-1-research-highlights",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/children-type-1-diabetes-do-well-school-research-shows",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/children-type-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/children-type1-diabetes-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cholesterol-lowering-drug-slows-progression-retinopathy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/clinical-champions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/clinical-guidelines-overweight-and-obesity-england-updated",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/clinical-services-northern-ireland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/clinical-trial-new-covid-19-treatments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/clinically-extremely-vulnerable-guidance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/closed-loop-systems",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/closed-loop-technology-could-benefit-people-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/clothes-young-women-type-1-diabetes-research-action",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/clues-predicting-type-2-risk-and-how-hot-weather-impacts-hypos-type-1-may",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coalville-football-fundraiser-memory-friend-raise-funds-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coleraine-inspire-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/colette-marshall-appointed-our-new-chief-executive",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/combining-immunotherapies-slow-down-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/community-day-cornwall-support-locals",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-booster-programme-diabetes-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-food-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-new-guidance-response",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-reporting-website",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-shielding",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-study-call",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-support-group",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-vaccines",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/coronavirus-what-were-doing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cost-complications-highlights-urgent-need-transform-diabetes",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cost-diabetes-complications-highlights-need-transform-healthcare-scotland",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/could-babys-gut-bacteria-help-predict-future-risk-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/could-you-be-community-champion",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/covid-19-funding-announcement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/covid-fear-delaying-type-1-diagnoses",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/curved-veins-retinopathy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cycling-challenge-northern-ireland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/cycling-nurses-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dads-backyard-climb",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dapagliflozin-no-longer-used-for-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/day-life-diabetes-educator",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/daya-betty",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/decision-makers-scotland-hear-why-inequality-diabetes-must-be-reduced",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/depression-risk-factor-type-2-diabetes-our-research-reveals",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/derbyshire-patient-information-packs-to-support-people-newly-diagnosed-with-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dexcom-g6-cgm-being-upgraded-dexcom-g7-what-you-need-know",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-and-climate-change-what-are-links",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-and-kidney-research-charities-team-tackle-diabetic-kidney-disease",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-and-ramadan-webinar",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-awareness-roadshows-set-visit-western-area-diabetes-week",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-care-accreditation-programme-daniel-flanagan-esther-walden",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-diagnoses-doubled-prevalence-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-diagnoses-hits-nearly-600000-south-west-and-south-central-regions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-distress-closed-loop-weight-loss-drugs-research-highlights-september-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-distress-funding-call",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-foot-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-health-crisis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-in-wales-increase",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-is-serious-ni-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-network",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-nurse-donna",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-nurse-jo-reed",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-pregnancy-conference-all-hot-topics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-prevention-week-2023-men-under-40-urged-understand-their-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-prevention-week-2024-action-needed-tackle-rising-type-2-cases",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-scotland-and-movement-health-drive-out-stigma-golf-event",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-scotland-appoints-new-national-director-0",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-scotland-calls-make-equitable-diabetes-care-priority",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-scotland-publishes-diabetes-tech-cant-wait-campaign-report-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-scotland-sends-open-letter-scottish-government-hybrid-closed-loop",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-scotland-shortlisted-years-scottish-charity-awards",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-self-management-alliance-brings-international-community-belfast",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-shielding-call",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-support-group-tunbridge-wells-appeals-new-chair",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-tech-cant-wait-recognised-scottish-charity-awards-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-tech-young-leader-shares-her-views-updated-nice-guidance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-technology-transforms-hundreds-lives-north-east-and-north-cumbria",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-themed-art",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-cymru-calls-urgent-action-support-children-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-cymru-demands-welsh-government-action-pandemic-hits-diabetes-care-hard",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-cymru-diabetes-psychology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-cymru-new-director",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-cymru-response-new-proposals-create-healthier-food-environment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-cymru-response-new-quality-statement-diabetes-care-wales",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-cymru-swansea-half-marathon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-events-your-nation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-events-your-region",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-fellows-mentoring",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-fundraiser-paddleboard-back-home",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-gains-pif-tick-accreditation-trusted-information-creator",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-ni-launches-its-manifesto-assembly-elections-2022",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-northern-ireland-welcomes-health-minister-back-post",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-responds-sunday-times-article-britvic-partnership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-uk-tackling-inequality-commission-launched",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-week-2022",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-week-activity-south-west-and-south-central-regions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-week-chris-askew",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diabetes-week-mental-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/diagnosis-confusion",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/did-2024-spring-statement-deliver-people-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dietitian-inspire-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/different-patterns-body-fat-can-protect-against-or-increase-risk-type-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/digital-peer-support-group",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dip-diabetes-makes-splash-castlerock-beach",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/discoveries-root-causes-type-1-and-type-2-diabetes-research-highlights-august-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/distance-aware-campaign",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dka-fright-toddler-who-became-little-warrior",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/doctor-extra-mile",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/donkey-day-and-vintage-gathering-back-parkgate",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dont-let-diabetes-stand-way-amazing-experiences",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/double-win-diabetes-uk-funded-researcher-professor-noel-morgan",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dr-bob-young-one-our-trustees-has-sadly-passed-away",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dr-sheila-reith-insulin-pen-pioneer-wins-pride-britain-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dr-sheila-reith-inventor-insulin-pen-awarded-cbe",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/driving-diabetes-getting-easier",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/drsg-tech-paper",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/drug-delays-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/duke-al-durham-bittersweet-hypers-and-hypos-living-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/duke-and-duchess-of-cambridge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dukpc-digest-day-3-new-findings-flash-and-updates-type-2-and-fatty-livers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dukpc-digest-day-4-ai-helps-spot-type-1-diabetes-earlier-and-inequalities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dukpc-digest-health-inequalities-pandemic-cause-type-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dukpc-digest-immunotherapy-research-type-1-screening-wellbeing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dulaglutide-shortage",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/dungannon-park-welcomes-back-walk-diabetes-june-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/duo-tough-mudder-challenge-celebrate-fundraising-success",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/early-blood-sugar-management-people-type-2-diabetes-has-lifelong-benefits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/early-onset-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/easd-2022-highlights",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/easd-research-better-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/easd-research-cure-prevent",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/easd-research-living-better",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/easd-research-prevention",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/easing-burden-people-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/east-of-england-inspire-award-winners-celebrated",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/eating-disorders-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/elizabeth-evans-hughes-and-welsh-connection-insulin",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ellen-day-life",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/elsa-trial-screen-children-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/employment-support-and-social-security-people-living-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ending-obesity-stigma",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/event-highlight-how-volunteers-can-make-difference-people-thanet",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/exercise-help-hypo-awareness",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/experts-call-end-diabetes-stigma",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/exploring-stem-cells-for-diabetic-retinopathy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/express-your-diabetes-children-and-type-1-diabetes-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/eyesight-worries-david-story",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/family-mission-raise-awareness-type-1-diabetes-children",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/family-raises-3750-memory-beloved-jim-joe",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/familys-40-mile-journey-inspirational-daughters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/fandance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/first-100-days-new-government",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/first-treatment-delay-type-1-diabetes-teplizumab-licensed-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/flash-transforms-life-people-type-1-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/flu-campaign",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/food-access-in-pandemic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/forest-gate-runner-takes-london-marathon-challenge-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/free-pharmacy-packs-diabetes-birmingham-solihull",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/freestyle-libre-2-can-now-work-real-time-continuous-glucose-monitor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/freestyle-libre-2-plus-for-prediabetes-alison-review-2026",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/freestyle-libre-2-sensors-will-be-replaced-freestyle-libre-2-plus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/freestyle-libre-3-sensors-will-be-phased-out-replaced-freestyle-libre-3-plus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/freestyle-libre-plus-2-and-freestyle-libre-3-abduls-review-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/fridge-fundraiser-cool-proposal-london-marathon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/frogs-hypos-and-understanding-chances-type-2-remission-dukpc-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/full-sugar-coca-cola-error",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/funding-new-type-2-diabetes-research-NewDAWN",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/gamer-sponsored-gameathon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/gemmas-30-challenges-30-years-milestone-birthday-celebrations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/gene-therapy-could-offer-new-type2diabetes-treatments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/genes-can-protect-some-people-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/george-swim22",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/gestational-study-finds-benefits-reduced-calorie-diet-pregnant-women",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/get-your-diabetes-mot-bangor-community-hub",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/get-your-diabetes-mot-peninsula-healthy-living-centre",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/getting-fitter-with-fitbit-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/girft-report-2020",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/glasgow-caledonian-university-embeds-diabetes-uk-resources-adult-nursing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/going-it-alone-remission-supporting-others-along-way",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/government-announces-22-billion-go-nhs-services-deprived-and-coastal",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/government-food-strategy-response-comment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/government-musnt-delay-junk-food-advertising",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/gp-data-trust-pilot-study",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/grantham-dad-takes-on-oar-inspiring-challenge-to-support-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/groundbreaking-immunotherapy-drug-teplizumab-licensed-uk-delaying-early",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/groundbreaking-new-tool-accurately-predicts-most-effective-treatments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/half-people-living-type-1-diabetes-are-concerned-about-hypo-treatment-costs",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/harry-irvine-celebrates-20-years-fundraising",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/hastings-postman-takes-london-marathon-and-world-record-attempt-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/hastings-residents-invited-get-involved-diabetes-uk-open-meeting",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/health-psychology-intern-celebrates-three-years-diabetes-scotland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/healthier-valentines-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/heart-disease-risk-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/help-us-guide-our-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/her-majesty-queen-welcomes-100-year-anniversary-insulin-treatment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/her-majesty-the-queen-diabetes-uk-pays-tribute",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/hidden-benefits-weight-loss-could-open-doors-new-type-2-diabetes-treatments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/highlands-resident-takes-on-swim22-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/highlights-american-diabetes-associations-scientific-meeting-2022",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/highlights-and-challenges-working-within-diabetes-support-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/highlights-europes-largest-diabetes-conference-easd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/holly-taylor-dukpc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/hormonal-condition-macs-linked-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/house-lords-debate-recognises-importance-mobile-phones-children-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-diabetes-affects-breastfeeding-local-women-share-their-experiences",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-diabetes-uk-help-cost-of-living",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-genes-protect-or-increase-risk-type-2-diabetes-dukpc-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-i-support-people-use-diabetes-tech-and-how-it-makes-difference",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-make-governments-major-conditions-strategy-england-work-people-living",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-mandys-living-healthier-more-active-lifestyle-fitbit-and-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-neighbourhood-health-service-could-improve-diabetes-care-across-england",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-our-patient-information-packs-partnership-fitbit-are-supporting-people",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-we-are-working-improve-tech-access-scotland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/how-were-working-tackle-diabetes-stigma",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/hybrid-closed-loop-technology-recommended-thousands-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/i-felt-so-much-shame-and-was-made-feel-though-it-was-all-my-fault",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/i-was-left-feeling-alone-lifechanging-diagnosis",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/improve-islet-transplants",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/improved-access-to-tech",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/improving-gestational-diabetes-care-during-and-after-pregnancy-south-asian-women",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/incorrect-readings-warning-freestyle-libre-3-freestyle-libre-3-plus-sensors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/increase-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inequality-tech",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-bad-beta-cell-behaviour",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-closer-look-diabetic-retinopathy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-detoxing-type-2-beta-cells",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-diabetes-and-cancer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-ethnicity-and-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-kidney-cell-conversations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-link-gestational-diabetes-type-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-putting-footwear-guidelines-test",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-shape-shifting-cells-and-beta-cell-transplants",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inside-lab-supporting-teenagers-type-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/insomnia-could-play-direct-role-causing-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inspirational-grandmother-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inspirational-story-skye-young-supporter-living-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inspire-award-nominees-2020",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inspire-awards-nominations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inspire-awards-open",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inspire-winners",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/inspiring-fundraiser-cambridges-kouros-majidi-takes-double-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/instagrammer-walks-type-1-diabetes-awareness-community-building",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/insulin-and-me-40-years",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/insulin-pioneer-john-macleod-honoured-life-size-story-telling-statue",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/insuman-discontinuation-sanofi",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/international-day-women-and-girls-science-2022-meet-professor-melissa",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/international-day-women-and-girls-science-meet-our-inspiring-female-scientists",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/international-womens-day-2025-celebrating-professor-claire-meek",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/international-womens-day-2026-meet-insulin-pioneer-professor-dorothy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/investigating-accuracy-and-safety-data-behind-cgm-devices-uk",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/investment-data-science-centre-transform-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/involvement-opportunity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ios-17-update-could-impact-freestyle-libre-apps-usage-abbott-warns",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ippr-report-2020",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/islet-transplant-guidance-changed",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/isobel-murray-obituary",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/itn-diabetes-matters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/itn-diabetes-matters-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/its-family-affair-omagh-runners",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/its-time-to-level-up-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/jack-whitehall-and-friends-raises-money-us-charity-comedy-gig",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/jack-whitehall-charity-gig-raises-over-40000-pounds-for-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/jackie-day-life-diabetes-psychotherapist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/jeremy-one-million-step",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/jim-crossland-university-what-cure-would-mean",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/john-ogroats-lands-end-type-1-diabetes-runners-challenge-raise-funds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/junk-food-advertising-ban-childrens-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/kent-mum-london-marathon-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/kent-trio-takes-epic-rowing-and-cycling-challenge-raise-funds-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/kent-volunteer-receives-mbe-new-year-honours-list",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/key-raising-awareness-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/kings-college-london-awarded-5m-type-1-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/kornel-wach-fundraising",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lab-life-protecting-heart-health-people-type-2-diabetes-and-foot-ulcers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lab-life-snacking-activity-manage-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lab-life-targeting-structural-proteins-prevent-type-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lab-life-tracking-protein-turnover-treat-type-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lapping-lough-family-affair",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/launching-diabetes-serious-northern-ireland-and-wales",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/laura-bull-dukpc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lavena-mcstocker",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/leeds-dietitian-live-well-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/leicestershire-man-run",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lets-talk-about-diabetes-representation-film-and-tv",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lets-talk-numbers-diabetes-week-2023",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/life-changing-bionic-pancreas-type-1-diabetes-available-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/life-diabetes-garden-be-showcased-bbc-gardeners-world-spring-fair",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/liquid-metformin-batch-recalled",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lisa-and-marcus-are-walking-length-uk-raise-funds-and-awareness-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/liver-fat-risk-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/living-well-diabetes-awareness-day-planned-waltham-forest-people-type-2",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/living-with-covid",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/local-group-celebrates-world-diabetes-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/local-groups-give-rebecca-support-her-type-1-diabetes-and-fundraising",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lockdown-diabetes-care-deaths",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/london-and-south-east-coast-region-nearing-2-million-diabetes-diagnoses",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/london-inspire-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/london-region-news/prevalance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/looking-deeper-retinopathy-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lord-darzi-nhs-report-reveals-need-focus-early-diabetes-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/lord-rennard-highlights-inequality-cgm-access-people-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/low-calorie-diets-best-lose-weight-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/making-access-diabetes-tech-fair-and-equitable",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/managing-diabetes-can-make-you-feel-emotionally-exhausted",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mark-swim22",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/martha-day-life-diabetes-specialist-nurse",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/matt-video-producer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mayor-diabetes-uk-lisburn",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mcdonalds-swapping-zero-sugar-fanta-orange-and-oasis-summer-fruits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/medical-exemption-certificates-england-last-10-years-people-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/medieval-mixture-tackle-diabetic-foot-ulcers-and-strengthened-evidence",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/medtronic-advance-infusion-sets-supply-shortages",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/medtronic-guardian-3-and-4-sensors-supply-disrupted",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/meera-diabetes-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/melin-primary-school-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mental-health-guide",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/message-from-new-chair-of-trustees",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mhra-warning-insulin-power-adaptors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mid-sussex-mp-backing-diabetes-uk-campaign-better-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/midlands-regions-hit-743749-diabetes-diagnoses",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/milestone-music-fans-100k-raised-over-10-years-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/million-steps-toddler-diagnosed",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mindfulness-yoga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/miss-world-northern-ireland-finalist-eyes-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/more-children-with-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/more-half-women-gestational-diabetes-subjected-dangerous-stigma-new-study",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/more-people-should-be-accessing-flash",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/more-type-2-diagnoses-are-rising-among-young-adults-and-how-shoe-fit-may",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mother-daughter-million-steps",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mps-debate-type-1-diagnosis-and-testing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/multiple-long-term-conditions-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mum-type-1-diabetes-long-distance-running-diabetes-awareness",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/mums-journey-cbt-complications-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/my-diagnosis-inspired-me-train-nurse-i-will-forever-be-grateful-nurses-who",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/my-type-1-diabetes-young-people-share-their-unique-relationship-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/national-childhood-type-1-screening-effective-could-prevent-emergency-diagnoses",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/national-girft-report-care-of-children-and-young-adults-living-with-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/national-lottery-funding-diabetes-uk-ni",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/national-registry-launched-transform-care-people-risk-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-android-16-update-could-impact-dexcom-g6-mobile-app-usage",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-blood-sugar-data-reveals-worsening-inequalities-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-continuous-glucose-monitor-available-on-prescription",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-diabetes-care-accreditation-programme-launches-improve-diabetes-inpatient-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-diabetes-research-2022",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-drsg-chairs-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-dvla-rules-bus-lorry-drivers-diabetes-cgm-check-glucose-levels",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-emotional-wellbeing-cpd-module",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-era-type-1-diabetes-has-begun",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-exhibition-frames-young-perspectives-life-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-exhibition-frames-young-perspectives-life-type-1-diabetes-0",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-figures-show-record-increase-childhood-obesity-pandemic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-findings-nhs-hybrid-closed-loop-pilot-dukpc-research-highlights",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-findings-on-immunotherapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-findings-our-research-diabetes-and-disordered-eating",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-gene-therapy-shows-promise-preventing-kidney-damage-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-healthy-weight-strategy-aims-reverse-rising-levels-obesity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-law-regulations-calorie-labelling-large-food-establishments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-leaflet-dka",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-mental-health-strategy-england-have-your-say-10-july",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-mhra-advice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-music-festival-coming-mold-summer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-my-type-1-info-resource-launches-young-people-type-1-school",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-national-diabetes-experience-survey-have-your-voice-heard",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-national-director",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-nhs-england-programme-improve-type-2-diabetes-care-people-under-40",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-report-makes-recommendations-treating-overweight-and-obesity-england",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-research-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-research-help-beat-diabetes-stigma",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-research-strategy-uk-aims-transform-diabetes-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-toolkit-scotland-help-improve-blood-glucose-control-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-type-1-care-guidelines-genetics-type-2-diagnosis-research-highlights-october-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-worse-cases-coronavirus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/new-years-day-dippers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/newborns-risk-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/newly-diagnosed-type-2-diabetes-booklet-diabetes-scotland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/newsletters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/next-steps-animas-transitioning-patients-alternative-insulin-pumps",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nhs-england-announces-nhs-app-rollout-digital-prescriptions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nhs-england-rolls-out-artificial-pancreas-people-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nhs-programme-help-juliet-put-her-type-2-diabetes-remission",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nhs-reveals-eye-screening-changes-people-england-lower-risk-diabetic-retinopathy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nhs-soup-and-shake-diet-to-help-people-with-type-2-into-remission",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nice-guidelines-recommend-wider-use-for-flash-and-cgm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nice-plans-widen-access-newer-type-2-diabetes-medications",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nice-recommends-pregnancy-specific-hybrid-closed-loop-systems-type-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nihr-mifoot-funding",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/nihr-remission-funding",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/noemi-day-life",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/northampton-man-fundraiser-world-diabetes-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/northern-ireland-diabetes-prevalence-hits-nearly-112000-0",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/northern-irelands-prediabetes-population-reaches-73500-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/november-menopause-sessions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/novo-nordisk-to-withdraw-levemir-what-you-need-to-know",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/number-of-people-with-diabetes-in-east-of-england-reaches-352000",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/number-of-people-with-diabetes-in-the-midlands-increases",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/number-people-living-diabetes-uk-tops-5-million-first-time",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/obesity-alliance-cymru-welcome-proposals-create-healthier-food-environment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/omnipod-5-first-tubeless-hybrid-closed-loop-system-now-available-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/once-weekly-insulin-type-2-and-beta-cell-therapy-type-1-ada-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/one-five-adults-now-live-diabetes-or-prediabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/online-active-session",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/online-diabetes-clinic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/online-event-to-support-people-living-with-diabetes-in-west-essex",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/online-foot-session",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/online-health-talks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/open-access-diabetic-medicine",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/open-access-diabetic-medicine/protein-vitamin-d",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/open-letter-our-partnership-slimming-world",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/opening-doors-future-black-leaders-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ordeal-long-covid",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-ceo-chris-askew-steps-down-after-eight-years-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-chief-executive-calls-nhs-soups-and-shakes-programme-whole-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-community-and-events-impact-report-celebrates-2023-achievements",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-future-health-huge-health-discoveries",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-future-health-research-prevent-health-conditions-earlier",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-good-diabetes-care-school-award-back",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-helping-you-live-healthier-partnership-tesco-wins-professional-title",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-new-partnership-support-government-new-plan-reduce-cardiovascular-disease",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-new-prime-minister-must-take-diabetes-seriously",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-new-report-issues-recommendations-tackle-diabetes-inequality-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-new-report-shows-how-young-people-type-1-diabetes-are-driving-change-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-remission-research-revolution-could-save-nhs-1-billion",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-research-brings-us-closer-new-hypo-treatments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-research-easd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-research-helps-shape-worlds-first-diabetes-distress-guidance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-research-reveals-cost-major-barrier-young-families-buying-healthy-foods",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-research-reveals-genetic-clue-could-tailor-type-2-treatments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-research-shows-chilli-can-help-treat-foot-complications",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-research-uncovers-core-genes-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-researchers-reveal-how-diabetic-kidney-disease-could-be-slowed",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-budget-spending-review-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-government-levelling-up-white-paper",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-governments-10-year-health-plan",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-nhs-long-term-workforce-plan",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-november-2025-budget",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-reports-classifying-aspartame-possible-cause-cancer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-serious-supply-issues-drugs-people-living-type-2-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-spring-statement-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-response-to-autumn-budget-statement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-scientists-discover-early-trigger-diabetic-eye-disease",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-scientists-took-diabetes-research-pub",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/our-young-leaders-visit-health-secretary-westminster",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/over-1-million-people-living-diabetes-across-north-england",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/over-20000-under-40s-living-type-2-south-west-and-south-central-area",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/over-40000-under-40s-living-type-2-south-east-and-london-area",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/over-42000-under-40-living-type-2-diabetes-across-north-england",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/over-46000-under-40-living-type-2-diabetes-across-midlands-and-east-region",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/over-6-in-10-people-have-not-checked-their-type-2-diabetes-risk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/owen-mumford-discontinue-autopen-insulin-pens-heres-what-you-need-know",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/pandemic-care-your-experience",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/parents-aware-4ts-lockdown",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/parliamentary-inquiry-report-calls-improved-weight-management-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/patricia-day-life-consultant-psychologist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/paul-niven-dukpc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/paula-type1derful-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/people-at-the-heart-of-diabetes-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/people-diabetes-asked-report-tech-safety-issues-yellow-card-scheme",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/people-diabetes-england-might-be-offered-new-scan-during-eye-screening",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/pepsi-drink-be-sold-supermarkets-57-less-sugar-pepsico-confirms",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/pharmacy-campaign-cambridgeshire-peterborough",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/phone-operating-system-updates-and-freestyle-librelink-app",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/pinpointing-gaps-research-and-support-diabetes-and-menopause",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/poetry-and-online-support-help-natalie-cope-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/poll-fad-diets",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/powering-across-channel-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/prediabetes-and-type-2-diabetes-women-linked-higher-cardiovascular-disease",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/pregnancy-and-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/prescriptions-most-bd-and-some-novofine-insulin-pen-needles-are-changing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/press-enquiries",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/preventing-type-2-diabetes-complications-dukpc-research-highlights",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/primary-school-teachers-mental-health-journey",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/professor-may-ng-obe-services-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/professor-roy-taylor-awarded-mbe-services-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/professor-stephanie-amiel-receives-damehood-services-people-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/professors-awarded-2024-rank-prize-nutrition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/protect-clinically-vulnerable-letter",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/public-advised-stop-using-some-non-sterile-alcohol-free-wipes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/putney-runner-takes-london-marathon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/putting-quality-life-measures-heart-diabetes-technology-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/q-professor-susan-wong-lab-life",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/quiz-of-the-year",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/raf-falkland-islands",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/raising-awareness-diabetes-week",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ramadan-2020",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ramadan-coronavirus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/rare-diabetes-insulin-production",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/real-story-insulin-and-my-diagnosis-Kersten-Hall",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/reduced-risk-type-2-diabetes-diabetes-prevention-programme",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/reducing-risk-suicide-people-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/regional-team-out-force-diabetes-week",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/registrations-now-open-free-online-events-helping-travellers-and-drivers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/remission-new-definition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-delves-deeper-islet-transplant-match-making-people-type-1-diabetes",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-finds-new-players-type-1-diabetes-immune-attack",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-highlights-europes-biggest-meeting-diabetes-scientists",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-highlights-our-professional-conference",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-priorities-improve-care-older-people-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-priorities-improve-kidney-health-people-living-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-reflections-our-professional-conference",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-reveals-new-routes-reverse-retinopathy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-shows-promise-restore-beta-cells-and-offer-type-1-diabetes-treatment-hope",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/research-spot-signs-type-2-diabetes-dentist-appointments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/researchers-PM-letter",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/resetting-immune-system-type-1-new-retinopathy-drug-research-highlights-november-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/retune-study-lower-body-weight",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/rewrite-story-world-diabetes-day-ni",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/roche-diabetes-care-issue-new-frames-remedy-issue-accu-chek-insight-insulin",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/rosie-gets-swim-things-raise-vital-funds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/roxy-horner-nailing-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/runner-take-london-marathon-challenge-after-traumatic-injury",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/running-candidate-local-elections-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/saddle-up-cycling-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/safe-fasting-advice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/safety-notice-accu-chek-aviva",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/safety-notice-omnipod-dash-pdm",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/safety-notice-roche-diabetes-care",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/safety-warnings-roche-insulin-pumps",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/samuel-day-life-clinical-professor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sarahs-story",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/schoolboy-inspired-find-cure-diabetes-following-work-experience-placement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/scotland-hosts-together-type-1-event",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/scottish-government-announces-new-funding-diabetes-technology-scotland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/search",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/searching-clues-origins-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/select-committee-report-nhs-backlog",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/september-research-highlights-europes-largest-diabetes-conference",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/setbacks-success-living-type-1-diabetes-and-winning-gold",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/shaped-dna-new-insights-insulin-production-revealed",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/share-your-thoughts-appg-inquiry-how-integrated-care-systems-england-can-work-tackle-obesity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sharon-awarded-our-medal-living-type-1-diabetes-50-years",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sheffield-pharmacist-taking-100-spin-classes-over-100-days-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/shift-diabetes-developing-dietary-support-shift-workers-living-type-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/shining-light-diabetes-tech-south-west-and-south-central-regions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/shining-light-tech-during-diabetes-week-0",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/short-film-only-competition-highlights-how-you-can-thrive-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/shreya-mashru-tells-us-about-type-1-diabetes-and-technology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sian-story",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sian-swim22",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/siblings-rare-genetic-change-spark-progress-towards-new-type-1-treatments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/silent-start-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/six-Midlands-schools-win-good-diabetes-care-award-in-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/six-schools-in-east-of-england-win-diabetes-uk-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sleep-duration-type-2-tackling-type-1-immune-attack-research-highlights-august-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/slowing-frailty-older-people-type-2-and-using-genetics-find-adults-risk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/smart-insulin-and-stem-cell-transplants-research-highlights-october-2024",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/smf-type-1-diabetes-grand-challenge-launches-first-research-call",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/soap-actor-releases-duet-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/social-factors-challenges-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/song-for-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/south-yorkshire-event-brings-diabetes-support-and-information-rotherham",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/specialised-psychological-support-type-1-and-cancer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/spending-review-response",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sport-england",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/spring-statement-2023-government-must-support-people-diabetes-during-cost",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/spring-statement-reaction",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/starting-right-diabetes-diagnosis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/statins-ethnic-differences",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/stay-connected",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/steel-magnolias-theatre-play-northampton-raises-awareness-and-funds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/stem-cell-therapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/stephen-joins-wellness-walk-signal-you-are-not-alone",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/steve-morgan-foundation-gift-to-bring-type-1-cure-closer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/stigma-inequalities-and-early-detection-type-1-dukpc-research-highlights",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/stop-hate-for-profit-campaign",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/strabane-diabetes-support-group",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/structured-education-diagnosis-type-1-diabetes-leads-improvement-hba1c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/summer-steps-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/support-ramadan-london",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/supporting-new-generation-health-data-scientists-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/supporting-people-live-well-type-2-diabetes-desmond-turns-20",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/surrey-dad-training-two-cycling-challenges-raise-funds-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/surrey-family-five-take-london-bridges-walking-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/surrey-swimmer-makes-splash-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sussex-man-back-daunting-trek-everest-base-camp-raise-funds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/sussex-man-everest-base-camp-raise-funds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/swimmers-in-charity-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tackling-inequality-commission-panel-co-chairs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/take-on-your-month-of-miles",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/taking-collaborative-approach-type-2-prevention",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/taking-plunge-see-if-my-son-high-risk-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/taking-type-1-tipping-point-campaign-westminster",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/taunton-volunteer-pulls-out-all-stops-large-charity-concert",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/team-archie-raises-ps2350-cake-sale",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tech-inequality-chris-askew",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/technology-survey",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/teen-affected-type-1-diabetes-wins-young-science-writer-year",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/teen-develops-diabetes-education-game-roblox",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/telford-nurse-scales-mount-kilimanjaro",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ten-years-discoveries-shaped-british-bangladeshi-and-british-pakistani",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tenacious-teen",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/teplizumab-benefits-remission-and-eating-disorders-and-power-resistant",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/teplizumab-first-treatment-slow-type-1-diabetes-approved-use-nhs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/teplizumab-not-approved",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tesco-lets-talk-pharmacy-programme-launch",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tesco-partnership-type-2-diabetes-risk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tesco-september-appeal-2020",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/the-diabetes-football-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/the-professional-view-lesley-mills",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/thousands-set-walk-londons-iconic-bridges-and-raise-vital-funds-diabetes-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/three-exciting-diabetes-tech-developments-horizon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/three-existing-drugs-show-promise-slow-type-1-diabetes-people-newly",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/thurrock-trio-basketball-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tina-mcrossan",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tirzepatide-can-be-prescribed-nhs-scotland-treatment-option-type-2-diabetes",
+      "categories": [
+        "Tirzepatide",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/today-we-launch-our-brand-new-podcast-series-diabetes-discussions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/too-many-people-diabetes-still-not-receiving-vital-care-our-new-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/top-10-pregnancy-priorities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/top-cycling-tips",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/treatment-type-1-disordered-eating-requires-essential-changes-parliamentary-inquiry",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tribute-prof-david-dunger",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/twelve-bridges-ten-miles-one-amazing-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/two-ultra-marathons",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/tyne-valley-friends-start-type-1-diabetes-peer-support-group",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-beta-cell-therapy-and-drug-shows-promise-treat-type-2-march-2026-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-diabetes-ballerina-represent-wales-dance-world-cup",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-diabetes-family-drives-long-distance-runner",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-diabetes-grand-challenge-invests-13-million-transformational-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-diabetes-grand-challenge-invests-5-million-kick-race-towards-cure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-diabetes-research-highlights-worlds-biggest-diabetes-conference",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-life-expectancy-and-pausing-type-2-research-highlights-july-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-online-support-group",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-research-gene-therapy-islet-cell-advances",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-risk-factors-voice-screening-type-2-research-highlights-september-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-subtypes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-super-heroes-comics-support-people-living-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-1-support-programme",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-and-endometriosis-and-uncovering-missed-type-1-diagnoses-august-2026",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-diabetes-25-year-old-parul-supporting-others-south-asian-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-diabetes-diagnoses-among-under-40s-wales-increases-22",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-diabetes-medications-can-also-protect-heart-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-diabetes-research-highlights-worlds-biggest-diabetes-conference",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-diabetes-rises-twice-fast-younger-women-compared-older-women",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-diabetes-test-may-be-inaccurate-thousands-south-asian-people",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-fat-burn-signals",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-molecular-glue-and-pancreas-architecture-type-1-research-highlights-march-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-prevention-gene-therapy-heart-protection-type-1-research-highlights-may-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-risk-south-asian-people-and-diabetic-kidney-disease-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-2-tech-and-treatments-and-update-beta-cell-therapy-june-2026-research-highlights",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type-one-adventurer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type1-diabetes-and-pregnancy-ros-story",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/type1-holly-story",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/types-coronavirus-vaccines",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/uk-first-screening-trial-type-1-diabetes-sees-18000-children-sign-so-far",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/uk-first-trial-screen-children-type-1-diabetes-now-available-northern-ireland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/ultramarathon-challenge-raising-awareness-about-diabetes-northern-ireland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/uncertainty-over-treatment-centres-type-1-disordered-eating-t1de-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/undefeatable",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/understanding-coronavirus-risks-people-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/understanding-risk-coronavirus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/university-brought-new-set-challenges-i-hadnt-expected",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/urgent-action-needed-support-diabetes-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/urgent-funding-call",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/vaccines-and-type-1-risk-and-dementia-risk-type-2-diabetes-october-2026",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/vial-shortages",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/video-gamer-raises-money-in-memory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/virtual-bike-ride-rhys",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/viruses-and-type-1-diabetes-what-we-know-so-far",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/volunteer-blair-supporting-diabetes-scotland-football-clubs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/volunteer-conference-stirling",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/volunteers-needed-help-tunbridge-wells-parents-run-vital-diabetes-uk-group",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/volunteers-week-2023-diabetes-edinburgh",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/wales-creative-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/walk-for-diabetes-returns-dugannon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/walking-challenge-10-year-old-girl-newport-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/warwickshire-type-2-information-packs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/we-are-calling-free-school-meals-be-adopted-all-england-primary-schools",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/we-are-calling-more-research-help-tackle-diabetes-inequities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/we-are-supporting-new-research-understand-links-between-covid-19-diabetes-heart-disease",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/we-have-told-health-bosses-diabetes-tech-cant-wait-sussex",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/we-invested-over-20-million-groundbreaking-diabetes-research-2023",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/we-invested-over-6-million-new-diabetes-research-2021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/we-present-10-year-vision-diabetes-care-house-commons",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/weekly-insulin-injection-approved-for-nhs-use-type-2-adults",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/weight-loss-can-put-type-2-diabetes-remission-least-five-years-reveal-latest-findings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/weight-stigma-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/were-calling-employers-political-parties-help-people-diabetes-health-checks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/were-calling-new-research-sight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/were-funding-vital-research-tackle-diabetes-distress",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/were-supporting-future-black-leaders-diabetes-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/west-sussex-runner-takes-london-marathon-challenge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/weve-joined-forces-britvic-three-year-partnership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/weve-launched-our-type-2-diabetes-remission-cpd-module-healthcare",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/weve-newly-appointed-20-clinical-champions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/weve-partnered-tesco-create-ultimate-summer-guide-people-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-are-we-doing-tackle-stigma-and-whats-next",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-diabetes-means-us-combines-research-art-and-lived-experience-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-does-risk-really-mean",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-is-it-like-advanced-nurse-practitioner",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-it-be-diabetes-dietitian",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-it-be-paediatric-diabetes-dietitian",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-it-live-type-1-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-schools-guidance-phone-restrictions-means-children-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-we-have-achieved-our-first-year-working-slimming-world",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/what-you-need-know-about-insulin-supply-issues-uk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/when-art-and-science-come-together",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/why-it-vital-roll-out-hybrid-closed-loop-tech-funded",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/why-tackling-inequity-must-be-priority-research-charities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/why-young-people-type-1-diabetes-decline-structured-education-and-how",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/wolves-star-ambassador",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/working-local-healthcare-professionals-fight-health-and-tech-injustice-diabetes-0",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/world-first-study-screen-adults-type-1-diabetes-opens-recruitment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/young-gymnast-lucie-crowned-scottish-regional-3-champion",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/young-leader-amyrose-throwing-fundraising-ball-get-involved",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/young-leader-climbs-mount-kilimanjaro",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/young-leaders-pen-powerful-letters-their-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/young-people-northern-ireland-leading-way-diabetes-and-mental-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/young-poet-supports-awareness",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/your-questions-answered-about-our-new-partnership-slimming-world",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/your-top-priorities-research-type-1-diabetes-revealed",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news-and-views/your-views-im-passionate-about-raising-awareness-type-1-diabetes-symptoms",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news/children-young-adults-type-2-rise",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news/clinical-champions-programme-healthcare-professionals",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news/flash-annoucement-dvla",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/news/joint-statement-brexit-insulin-supply",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/annual-reports",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/how-we-influence-change",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/how-we-influence-change/our-work-in-parliament",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/how-we-influence-change/our-work-in-parliament/reverse-the-trend-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/tackling-inequity",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/tackling-inequity-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/tackling-inequity-strategy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/tackling-inequity/unbiased",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about-us/our-impact/where-does-my-money-go",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/acceptable-use-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/information-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/links-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/privacy-policy-raffle",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/privacy-policy/cookie-list",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/privacy-policy/cookie-list-raffle",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/terms-of-use-of-our-website",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/terms-of-use-of-our-website/standard_terms_and_conditions_of_purchase_of_goods_andor_services_of_diabetes_uk",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/about_us/legal-information/whistleblowing-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/birmingham-hce-pharmacy-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/diabetes-uk-professional-conference/delegate-refunds",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/diabetes-uk-professional-conference/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/diabetes-uk-professional-conference/insider-event/delegate-refunds",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/feedback",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/feedback-survey/eye-screening",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/get-involved/conferences-and-eventsdiabetes-uk-professional-conference/terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/get-involved/news-and-updates/important-safety-information-about-canagliflozin-containing-medicines-invokana-canagliflozinvokanamet-canagliflozinmetformin1",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/get-involved/news-and-updates/new-insulin-safety-leaflet-from-trend-uk",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/get-involved/news-and-updates/rowan-hillson-inpatient-safety-award-2023",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/get-involved/news-and-updates/tips-for-insulin-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/improving-care/clinical-recommendations-for-professionals/healthcare-professional-staffing-competency/diabetes-specialist-nurses-improving-patient-outcomes-and-reducing-costs",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/improving-care/clinical-recommendations-for-professionals/healthcare-professional-staffing-competency/specialist-diabetes-team-role-and-members",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/improving-care/good-practice/care-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/improving-care/good-practice/pharmacy-and-medicines",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/improving-care/good-practice/pharmacy-and-medicines/delegation-of-insulin-administration",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/improving-care/good-practice/pharmacy-and-medicines/delegation-of-insulin-administration/webinars",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/improving-care/resources/feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/for-professionals/improving-care/resources/resources-to-improve-your-clinical-practice/feet/act-now",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/fundraising-events/million-step/prize-draw-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/campaigning/coronavirus/safety-at-work",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/corporate/acknowledgements/pharmacy2u-partnership",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/fundraising-events/2019-marathon-water-bottle-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/fundraising-events/million-step/fundraising-incentive-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/fundraising-events/million-step/terms-and-conditions/gift-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/fundraising-events/month-of-miles/incentive-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/fundraising-events/prudential-ridelondon-surrey-100/free-cycle-cap-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/fundraising-events/thames-path-walk/teddies-prize-draw-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/fundraising-events/uk-wide-cycle-ride/incentive-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/inspire-awards/inspire-awards-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/inspire-awards/terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/volunteer/involve-newsletter/care-planning-supporting-the-15-healthcare-essentials",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/volunteer/involve-newsletter/policy-update",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/volunteer/involve-newsletter/staff-update",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/get_involved/ways-to-donate/coin-pack-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/enjoy-food/cooking-for-people-with-diabetes/getting-started/cooking-terms-jargon-buster",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/managing-your-diabetes/care-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/managing-your-diabetes/treating-your-diabetes/islet-cell-transplants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/managing-your-diabetes/treating-your-diabetes/islet-cell-transplants/who-to-contact",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/managing-your-diabetes/treating-your-diabetes/tablets-and-medication/incretin-mimetics/shortage-FAQs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/recipes/cold-brew-iced-coffee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/recipes/creamy-bacon-and-rosemary-pasta",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/recipes/plantain-chips",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/recipes/rosemary-baked-onions",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/your-child-and-diabetes/schools/school-staff-stories",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/guide-to-diabetes/your-child-and-diabetes/schools/school-staff/responsibilities-school-nurses",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/hce-pharmacy-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/how_we_help/membership/balance-competition-terms",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/how_we_help/membership/membership-email-terms",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/investing-in-care/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/legal-information/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/legal-information/privacy-policy1",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/leicester-hce-pharmacy-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/food-shopping-for-diabetes/shopping-on-a-budget/top-ways-to-cut-your-food-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/1200-calories-a-day",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/1200-calories-a-day-vegetarian",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/1500-calories-a-day",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/1800-calories-a-day",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/1800-calories-a-day-vegetarian",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/budget",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/family-of-four",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/how-to-choose-your-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/low-carb",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/meal-plan-1500kcal-vegetarian",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/meal-planning-for-diabetes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/mediterranean",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/vegan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/emotional-wellbeing/talk-about-feelings",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/emotional-wellbeing/your-feelings-about-food-and-diabetes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/ihp-a-childs-individual-healthcare-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/school-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/school-staff/exams",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/school-staff/managing-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/school-staff/responsibilities-headteachers-school-governors-responsible-bodies",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/school-staff/responsibilities-sencos-additional-needs-coordinators-inclusion-managers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/school-staff/responsibilities-teachers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/school-staff/responsibilities-trained-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/children-and-diabetes/schools/school-staff/school-trips",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/cost-of-living",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/Ed-islet-transplants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/bruce-islet-transplants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/cambridge-weight-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/catriona-life-after-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/donita-type-1-and-feeling-misunderstood",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/georgia-type1",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/harry-membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/laura-cost-of-living",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/other/i-made-all-the-staff-aware-of-how-to-deal-with-the-situation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/other/raising-twice-as-much-as-planned-alex-took-on-the-challenging-paris-roubaix-bike-ride",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/type-1/a-small-price-to-pay",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/type-1/i-was-overwhelmed-by-the-kindness-of-people-donating-and-how-good-that-made-us-feel-",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/type-1/laura-and-zoe-she-made-me-feel-normal-at-a-time-when-my-normal-had-completely-changed",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/your-stories/type-1/running-for-diabetes-uk-makes-me-feel-part-of-a-team",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/local-groups-portal/gdpr-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/our-research/about-our-research/our-funded-projects/london/broadening-benefits-semaglutide-type-2-diabetes",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/our-research/about-our-research/our-funded-projects/london/stem-cell-beta-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/our-research/about-our-research/our-funded-projects/midlands/gut-feeling-or-matter-of-the-heart",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/our-research/for-researchers/applying-for-funding/funding-schemes/duk-nihr-doctoral-fellowship",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/our-research/for-researchers/applying-for-funding/guidelines-on-applying-for-funding/excess-treatment-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/our-research/get-involved/take-part-in-research/-feet-self-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/award-winning-clinical-champions-programme-recruits-twenty-more-clinicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/how-to-commission-and-deliver-cost-effective-diabetes-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/important-safety-information-regarding-novopen-echo-and-novopen-5",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/medical-safety-alerts-issued",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/mhra-issues-alert-for-medicina-ltds-automatically-retracting-safety-syringes",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/new-diabetes-and-mood-tool-for-clinicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/on-the-ground-feedback-on-diabetes-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/rcgp-launches-animation-on-care-planning-",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/rowan-hillson-insulin-safety-award-2016",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/rowan-hillson-insulin-safety-award-winners-2016",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/winners-rowan-hillson-inpatient-safety-award-2018",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news--updates/winners-rowan-hillson-inpatient-safety-award-2019",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/news-updates/2017-rowan-hillson-inpatient-safety-award",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/position-statements-reports/diagnosis-ongoing-management-monitoring/biosimilar-insulins",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/position-statements-reports/healthcare-professional-staffing-competency/footcare-commissioning",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/position-statements-reports/healthcare-professional-staffing-competency/healthcare-professional-competency-frameworks-in-diabetes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/position-statements-reports/healthcare-professional-staffing-competency/implementing-local-diabetes-networks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/position-statements-reports/healthcare-professional-staffing-competency/state-of-the-nation-2013",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/position-statements-reports/type-2-diabetes-prevention-early-identification/nhs-health-checks-in-local-authorities",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/resources/improving-local-services-together/getting-service-users-involved-resources/planning-user-activity/review-user-activity",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/survey-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/professionals/training--competencies/courses/year-of-care-care-planning-in-long-term-conditions",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/research/our-research-projects/north-west/giving-pancreas-transplants-the-best-chance-to-last",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/research/our-research-projects/northern-and-yorkshire/gut-feeling-about-the-development-of-type-2",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/research/research-round-up/new-study-islet-transplants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/scotland/campaigning_media/diabetes-tech-scotland-funding-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/speakers-presentations-diabetes-uk-professional-conference-2016/wednesday/1130--1300-the-efficacy-cost-and-benefits-of-the-newer-injectables-in-diabetes-management",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-for-you/diabetes-uk-in-your-area/midlands-and-east-of-england/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-for-you/diabetes-uk-in-your-area/midlands-and-east-of-england/about-us/meet-the-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-for-you/diabetes-uk-in-your-area/north-of-england/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-for-you/diabetes-uk-in-your-area/northern-ireland/meet-our-team-NI",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-for-you/diabetes-uk-in-your-area/scotland/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-for-you/diabetes-uk-in-your-area/scotland/scottish-diabetes-advisory-council/recruitment-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-for-you/membership",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-us/campaign/cost-of-living-impacting-diabetes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-us/campaign/other-campaigns/putting-feet-first",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-us/fundraise/fundraise-your-way/in-aid-of-fundraising-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/marathon-training-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/one-million-steps/incentive-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/one-million-steps/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/support-us/other-ways-to-support/gift-aid/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.diabetes.org.uk/tech-cant-wait/faq",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

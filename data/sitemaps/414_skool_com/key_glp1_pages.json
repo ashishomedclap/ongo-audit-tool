@@ -1,0 +1,13 @@
+{
+  "name": "Skool",
+  "domain": "skool.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://skool.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://skool.com/pricing"
+  ],
+  "all_categorized": []
+}

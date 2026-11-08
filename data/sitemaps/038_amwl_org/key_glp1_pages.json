@@ -1,0 +1,19 @@
+{
+  "name": "Amwl",
+  "domain": "amwl.org",
+  "total_urls": 8,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://amwl.org/pricing/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://amwl.org/pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    }
+  ]
+}

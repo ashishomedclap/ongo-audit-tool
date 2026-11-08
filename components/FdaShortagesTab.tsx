@@ -76,14 +76,7 @@ export default function FdaShortagesTab() {
   return (
     <div style={{ maxWidth: '1440px', margin: '0 auto', padding: '0 8px' }}>
       {/* Context Cue Banner */}
-      <ContextCue
-        title="US FDA Drug Shortages & 503A Regulatory Watchdog"
-        level={3}
-        toolNumber={22}
-        badge="Live Federal US Telemetry"
-        useCase="Monitors the official U.S. FDA Drug Shortages Database to verify 503A compounding shields for Semaglutide & Tirzepatide, tracking legal safety margins and FAERS adverse event signals."
-      />
-
+      
       {/* Hero Stat Matrix */}
       <div style={{
         display: 'grid',

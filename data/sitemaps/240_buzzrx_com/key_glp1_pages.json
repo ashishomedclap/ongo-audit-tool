@@ -1,0 +1,58 @@
+{
+  "name": "Buzzrx",
+  "domain": "buzzrx.com",
+  "total_urls": 70,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.buzzrx.com/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.buzzrx.com/legal/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.buzzrx.com/legal/privacy-policy/consumer-health-data-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.buzzrx.com/legal/privacy-policy/state-consumer-privacy-policy-addendum",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.buzzrx.com/legal/responsible-disclosure-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.buzzrx.com/legal/terms-of-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.buzzrx.com/legal/transparency-in-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.buzzrx.com/pharmacy-locator",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2946 @@
+{
+  "name": "Nghs",
+  "domain": "nghs.com",
+  "total_urls": 2429,
+  "semaglutide_pages": [
+    "https://www.nghs.com/2023/12/07/can-taking-a-semaglutide-help-keep-my-heart-healthy"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.nghs.com/2014/12/07/feeding-body-soul",
+    "https://www.nghs.com/2019/10/14/ngmc-heart-failure-success-with-lvad-implant",
+    "https://www.nghs.com/2020/10/10/breastfeeding-in-a-safe-sleep-environment-can-help-prevent-the-risk-for-sids",
+    "https://www.nghs.com/2020/12/03/nghs-plans-to-add-new-tower-expand-clinical-services-enhance-care-at-ngmc-gainesville",
+    "https://www.nghs.com/2021/08/05/covid-19-pregnancy-breastfeeding-what-you-should-know",
+    "https://www.nghs.com/2021/11/05/georgia-state-health-benefit-plan-to-cover-weight-loss-surgery-in-2022",
+    "https://www.nghs.com/2022/02/23/provide-feedback-and-strengthen-the-health-of-our-community-by-participating-in-online-survey",
+    "https://www.nghs.com/2022/04/25/breastfeeding-cookies",
+    "https://www.nghs.com/2022/08/03/how-to-survive-and-thrive-when-breastfeeding-your-baby",
+    "https://www.nghs.com/2022/08/30/why-should-i-care-about-advance-care-planning",
+    "https://www.nghs.com/2023/01/27/nghs-planning-new-building-in-future-medical-office-park-in-northern-hall-county",
+    "https://www.nghs.com/2023/04/03/nghs-and-lifepoint-rehabilitation-announce-plans-to-build-inpatient-rehabilitation-facility",
+    "https://www.nghs.com/2024/02/02/nghs-chief-executive-officer-announces-retirement-as-succession-plan-starts",
+    "https://www.nghs.com/2024/03/19/what-does-a-hernia-look-and-feel-like",
+    "https://www.nghs.com/2024/08/29/heart-failure-patient-embraces-second-chance-thanks-to-lvad-implant"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.nghs.com/2014/04/07/the-women-of-northeast-georgia-raise-almost-55000-to-benefit-emergency-services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2014/06/05/donations-help-create-destination-of-hope-healing-and-wellness-at-future-northeast-georgia-medical-center-braselton-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2014/06/18/new-scholarship-donation-announced-as-community-resource-center-is-dedicated-at-northeast-georgia-medical-center-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2014/12/07/feeding-body-soul",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2015/01/19/northeast-georgia-medical-center-reaches-milestone-in-robotic-surgical-procedures-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2015/03/27/signature-donors-join-the-medical-center-foundation-for-a-sneak-peek-of-northeast-georgia-medical-center-braselton-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2015/05/05/the-christian-david-family-pet-park-dedicated-at-northeast-georgia-medical-center-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2016/06/15/rare-stained-glass-arrives-at-the-henry-edward-braselton-chapel-at-northeast-georgia-medical-center-braselton-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2016/11/08/the-woody-stewart-heart-failure-treatment-unit-at-northeast-georgia-medical-center-dedicated-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2016/12/19/northeast-georgia-medical-center-braselton-chapel-recognized-nationally-for-stained-glass-artwork",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2017/10/18/downey-societys-fall-party-welcomes-new-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2017/12/11/watch-the-video-and-learn-how-a-mobile-simulation-unit-can-transform-healthcare-training-in-northeast-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2018/02/16/northeast-georgia-medical-center-reaches-milestone-in-robotic-surgical-procedures",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2019/04/25/northeast-georgia-medical-center-gainesville-dedicates-flagpole-to-honor-organ-donors-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2019/09/16/the-heart-center-of-northeast-georgia-welcomes-new-cardiologist-atul-trivedi-md-facc",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2019/09/30/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-8",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2019/10/14/ngmc-heart-failure-success-with-lvad-implant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2020/10/01/northeast-georgia-health-system-joins-lhc-group-to-form-home-healthcare-service",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2020/10/09/northeast-georgia-medical-center-named-one-of-the-nations-most-wired-hospitals-for-seventh-time",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2020/10/10/breastfeeding-in-a-safe-sleep-environment-can-help-prevent-the-risk-for-sids",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2020/10/13/ngmc-announces-new-program-director-for-obstetrics-and-gynecology-physician-residency",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2020/11/12/ngmc-announces-new-director-for-psychiatry-physician-residency-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2020/12/03/nghs-plans-to-add-new-tower-expand-clinical-services-enhance-care-at-ngmc-gainesville",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2020/12/17/northeast-georgia-health-system-providing-first-shipment-of-covid-19-vaccine-to-frontline-workers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2020/12/23/northeast-georgia-health-system-may-be-forced-to-ration-care-asks-for-communitys-help",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/01/09/northeast-georgia-health-system-announces-first-covid-19-vaccine-clinic-events",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/03/22/northeast-georgia-medical-center-matches-new-class-of-resident-physicians",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/03/24/when-should-i-consult-a-doctor-about-getting-hernia-surgery",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/03/25/philanthropic-physicians-donate-100000-to-nghs-covid-relief-fund",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/04/06/northeast-georgia-medical-center-announces-accreditation-for-emergency-medicine-residency-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/04/21/northeast-georgia-medical-center-completes-new-dedicated-hospice-unit-for-inpatient-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/04/26/northeast-georgia-medical-center-announces-accreditation-for-psychiatry-residency-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/05/03/northeast-georgia-medical-center-announces-accreditation-for-ob-gyn-residency-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/05/04/northeast-georgia-health-system-recognizes-physicians-named-to-georgia-trend-magazines-2021-top-doctors-list",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/05/05/northeast-georgia-health-system-urges-community-not-to-delay-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/06/03/northeast-georgia-medical-center-credited-with-contributing-more-than-3-2-billion-to-local-and-state-economy-in-2019",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/07/12/its-summer-lets-enjoy-safe-summer-splashes-water-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/07/22/nghs-physicians-named-to-atlanta-magazines-2021-top-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/07/22/northeast-georgia-physicians-group-urges-community-to-get-covid-19-vaccine-at-upcoming-vaccine-clinic",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/07/30/northeast-georgia-health-system-to-hold-news-conference-about-fourth-wave-of-covid-19",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/08/05/covid-19-pregnancy-breastfeeding-what-you-should-know",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/08/09/northeast-georgia-medical-center-earns-grant-from-winship-to-study-the-use-of-touch-in-cancer-patients",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/08/23/georgia-heart-institute-welcomes-three-new-cardiologists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/09/07/northeast-georgia-health-system-launches-new-heart-vascular-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/09/13/braselton-rotary-club-donates-100000-to-neonatal-intensive-care-unit-at-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/09/22/marketplace-cancelled-due-to-covid-19-crisis",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/09/24/northeast-georgia-medical-center-announces-initial-accreditation-for-cardiovascular-disease-and-hospice-palliative-medicine-fellowship-programs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/10/04/hospice-of-northeast-georgia-medical-center-named-as-prestigious-2021-hospice-honors-elite-recipient",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/10/06/northeast-georgia-medical-center-gainesville-receives-highest-certification-as-comprehensive-stroke-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/10/28/northeast-georgia-health-system-breaks-ground-on-new-medical-plaza-in-jefferson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/11/04/northeast-georgia-medical-center-named-one-of-the-nations-most-wired-hospitals-for-eighth-time",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/11/05/georgia-state-health-benefit-plan-to-cover-weight-loss-surgery-in-2022",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/11/15/northeast-georgia-health-system-receives-5-million-gift-commitment-for-future-hospice-house",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/11/17/dr-monica-newton-wins-georgia-family-medicine-educator-of-the-year-award",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/12/06/northeast-georgia-medical-center-matches-first-class-of-cardiovascular-disease-fellows",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/12/07/northeast-georgia-medical-center-invites-the-community-to-the-2021-love-light-celebrations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2021/12/16/northeast-georgia-health-system-announces-new-board-leaders-and-members",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/01/27/georgia-heart-institute-welcomes-two-new-cardiologists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/01/28/northeast-georgia-health-system-to-build-new-medical-office-building-for-ambulatory-surgery-center-in-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/02/09/georgia-heart-institute-welcomes-new-medical-director",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/02/10/northeast-georgia-medical-center-lumpkin-designated-as-remote-treatment-stroke-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/02/15/northeast-georgia-medical-center-braselton-earns-dual-center-of-excellence-accreditations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/02/23/provide-feedback-and-strengthen-the-health-of-our-community-by-participating-in-online-survey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/03/08/beloved-pediatrician-honored-at-northeast-georgia-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/03/21/northeast-georgia-medical-center-matches-new-class",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/04/01/family-foundation-honors-physicians-with-transformational-gift",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/04/05/how-do-genetics-affect-heart-disease-northeast-georgia-health-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/04/05/northeast-georgia-medical-center-gainesville-recognized-as-leading-hospital-in-early-covid-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/04/12/georgia-heart-institute-welcomes-dr-marc-veneziano-to-blairsville-location",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/04/21/how-you-can-benefit-from-cardiac-rehab-northeast-georgia-health-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/04/25/breastfeeding-cookies",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/05/11/nghs-is-first-health-system-in-nation-to-provide-highest-level-of-safety-through-apex-virtual-reality-simulator",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/05/17/local-foundation-honors-doctors-with-transformational-gift-to-new-hospice-house",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/05/19/nghs-recognizes-physicians-named-to-georgia-trend-magazines-2022-top-doctors-list",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/05/20/northeast-georgia-health-system-names-mary-bess-employee-of-the-year",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/06/08/anonymous-donor-honors-frontline-staff-with-artwork",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/06/20/use-your-head-wear-a-helmet-5-bicycle-safety-tips",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/06/28/georgia-heart-institute-hosts-inaugural-georgia-heart-vascular-symposium",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/07/07/is-gestational-diabetes-dangerous-for-my-heart-northeast-georgia-health-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/07/12/ngmc-graduates-inaugural-class-of-resident-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/07/14/tips-to-promote-fun-safety-in-the-sun",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/08/03/how-to-survive-and-thrive-when-breastfeeding-your-baby",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/08/30/why-should-i-care-about-advance-care-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/09/08/5-tips-for-new-parents-during-baby-safety-month",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/10/11/how-do-i-know-if-my-heart-health-is-ok-northeast-georgia-health-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/10/24/dr-siva-chiranjeevi-joins-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/10/24/treat-yourself-to-these-10-halloween-safety-tips",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/11/03/nationally-renowned-robotic-heart-surgeon-joins-ngpg-cardiovascular-thoracic-surgery-and-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/11/04/gainesville-emergency-physician-recognized-for-trauma-excellence",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/11/08/yale-medicine-cardiologist-joins-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/11/09/ngmc-family-medicine-physicians-win-top-state-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2022/11/18/georgia-heart-institute-continues-to-grow-by-adding-dr-olaniyi-osofisan",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/01/27/nghs-planning-new-building-in-future-medical-office-park-in-northern-hall-county",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/01/27/what-to-do-after-a-cancer-diagnosis-northeast-georgia-health-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/02/15/how-to-give-back-to-nghs-northeast-georgia-health-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/02/15/patient-travels-from-minnesota-for-georgia-heart-institutes-first-robotic-heart-surgery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/03/13/tap-trial-northeast-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/03/20/ngmc-increases-number-of-resident-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/04/02/new-technology-at-georgia-heart-institutes-electrophysiology-labs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/04/03/nghs-and-lifepoint-rehabilitation-announce-plans-to-build-inpatient-rehabilitation-facility",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/04/11/leading-electrophysiologist-returns-to-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/04/24/renowned-robotic-heart-thoracic-surgeon-joins-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/04/27/longtime-atlanta-cardiologist-joins-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/05/05/two-nghs-staff-honored-with-awards-at-recent-healthcare-gala",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/05/09/ngmc-barrow-awarded-top-patient-safety-rating",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/05/24/two-ngmc-barrow-staff-awarded-paramedics-of-the-year",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/06/02/answering-the-faqs-about-medicare-what-you-should-know",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/06/14/nghs-recognizes-physicians-named-to-georgia-trend-magazines-2023-top-doctors-list",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/07/10/nghs-recognizes-physicians-named-to-atlanta-magazines-2023-top-doctors-list",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/07/11/bringing-medical-education-to-northeast-georgia-through-the-mobile-simulation-lab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/07/11/ngmc-adding-local-physicians-as-inaugural-class-of-residents-graduates",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/08/04/nghs-updates-covid-19-vaccine-mask-requirement-for-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/08/10/senator-warnock-visits-northeast-georgia-medical-center-gainesville-to-discuss-maternal-health",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/08/11/georgia-heart-institute-welcomes-dartmouth-cardiologist-to-demorest",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/08/23/ngmc-braselton-now-offering-aquablation-therapy-to-treat-enlarged-prostates",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/09/01/nghs-renew-support-of-university-of-north-georgia-athletics",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/10/16/dialyze-direct-and-nghv-announce-strategic-partnership-to-bring-home-dialysis-services-to-snfs-in-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/10/26/vulcan-materials-company-supports-northeast-georgia-medical-center-lumpkin-with-250000",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/11/01/northeast-georgia-medical-center-trauma-program-director-recognized-for-trauma-excellence",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/11/06/ngmc-barrow-named-small-hospital-of-the-year-by-georgia-alliance-of-community-hospitals",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/11/07/two-ngmc-hospitals-awarded-top-patient-safety-rating",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/11/29/answering-your-faqs-about-antibiotics",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2023/12/07/can-taking-a-semaglutide-help-keep-my-heart-healthy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/01/18/firefighter-paramedic-gets-new-heart-valve-in-a-new-type-of-robotic-surgery-performed-in-georgia-for-the-first-time",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/02/02/nghs-chief-executive-officer-announces-retirement-as-succession-plan-starts",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/02/05/ngmc-braselton-first-in-north-georgia-to-offer-nanoknife-treatment-for-prostate-cancer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/02/15/nghs-earns-national-awards-for-safety-patient-experience-and-employee-engagement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/03/04/answering-a-few-faqs-about-colorectal-cancer",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/03/07/ghi-expands-clinical-staff-prepares-to-relocate-clinics-in-communities-along-ga-400",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/03/19/ngmc-increases-number-of-resident-physicians-2",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/03/19/what-does-a-hernia-look-and-feel-like",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/04/03/cardiologist-adel-m-eldin-md-joins-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/05/01/georgia-heart-institute-welcomes-three-interventional-cardiologists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/05/08/georgia-heart-institute-adds-another-experienced-cardiologist-dr-ram-penmetsa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/05/15/ngmc-gainesville-to-be-first-in-georgia-to-acquire-new-surgical-robotic-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/05/16/georgia-heart-institute-welcomes-nurse-practitioner-expands-services-in-habersham",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/05/22/ngmc-gainesville-now-offering-aquablation-therapy-to-treat-enlarged-prostates",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/05/30/georgia-heart-institute-becomes-first-in-u-s-to-use-new-device-to-treat-patient-with-leaky-tricuspid-valve",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/05/30/ngmc-barrow-staff-members-awarded-paramedic-emt-of-the-year",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/06/21/ngmc-first-hospital-in-georgia-to-operate-with-new-robotic-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/06/25/georgia-heart-institute-hosts-annual-georgia-heart-vascular-symposium-welcomes-largest-audience-yet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/06/27/ngmc-barrow-welcomes-emergency-medicine-resident-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/07/25/georgia-heart-institute-welcomes-cardiologist-to-serve-patients-in-cumming-dawsonville-dahlonega",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/08/14/primary-care-doctor-returns-home-to-care-for-new-patients-at-nghss-medical-plaza-in-buford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/08/23/georgia-heart-institute-welcome-heart-failure-specialist-evan-hiner-md",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/08/23/nghs-building-a-new-home-for-a-longtime-flowery-branch-physician-practice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/08/27/northeast-georgia-health-system-reaches-25000-robotic-surgeries-now-among-top-10-programs-in-the-southeastern-u-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/08/28/heart-failure-cardiologist-lawrence-justin-charles-md-joins-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/08/29/heart-failure-patient-embraces-second-chance-thanks-to-lvad-implant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/09/03/structural-heart-interventionalist-marc-allard-ratick-md-joins-georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/09/12/nghs-once-again-recognized-as-one-of-georgias-best-employers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/10/15/when-should-i-see-a-doctor-about-back-pain",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/10/22/georgia-heart-institute-and-ngpg-welcome-cardiothoracic-surgeon-matthew-janko-md",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/11/04/nghs-receives-states-only-level-10-designation-for-innovation-in-technology",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/12/05/nghs-announces-next-chief-executive-officer-plans-to-start-in-april",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2024/12/16/georgia-heart-institute-welcomes-electrophysiologist-greg-altemose-md",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/01/27/nghs-continues-to-improve-access-to-cancer-care-in-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/01/30/georgia-heart-institute-welcomes-cardiologist-raj-mulyala-md-in-gainesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/03/06/provide-feedback-to-strengthen-the-health-of-our-community-by-participating-in-online-survey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/03/14/georgia-heart-institute-welcomes-cardiologist-rana-zouveenoor-tariq-md-to-braselton-and-bethlehem",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/03/25/ngmc-increases-number-of-resident-physicians-3",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/04/09/georgia-heart-institute-welcomes-new-vice-president-haley-harrison",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/04/17/carol-burrell-wins-georgia-hospital-associations-prestigious-w-daniel-barker-leadership-award",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/04/23/georgia-heart-institute-welcomes-habersham-native-to-care-for-people-in-demorest",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/05/05/antonio-rios-md-receives-georgia-hospital-associations-physician-hero-award",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/05/12/nghs-now-among-few-providers-offering-new-treatment-options-for-liver-cancer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/05/14/what-is-a-hand-doctor-called",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/05/22/ngmc-barrow-enhances-security-to-protect-patients-visitors-and-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/05/28/beloved-nurse-practitioner-returns-to-georgia-heart-institute-in-toccoa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/06/03/northeast-georgia-health-system-and-lifepoint-rehabilitation-celebrate-opening-of-northeast-georgia-rehabilitation-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/06/12/what-does-a-gallbladder-attack-feel-like-a-general-surgeons-take",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/07/09/how-to-tell-if-you-have-pelvic-prolapse-signs-you-can-feel",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/07/22/nghs-physicians-donate-100k-to-help-create-the-regions-first-hospice-house",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/07/23/nghs-is-first-in-georgia-to-have-5-hospitals-receive-national-award-for-emergency-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/08/08/why-a-back-to-school-asthma-action-plan-matters",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/08/26/what-does-a-gallbladder-attack-feel-like-a-general-surgeons-take-2",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/09/02/mudassar-ahmed-md-joins-georgia-heart-institute-as-chief-cardiology-officer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/09/17/northeast-georgia-health-system-cardiologist-named-inaugural-recipient-of-endowed-professorship",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/10/14/former-nghs-resident-physician-returns-as-pulmonary-critical-care-specialist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/10/15/local-golf-tournament-funds-the-future-of-healthcare-workers-in-ortheast-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/10/22/georgia-heart-institute-in-blairsville-launches-regions-first-and-only-cardiac-pet-machine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/11/10/nghs-marketplace-breaks-funding-record-to-support-child-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/11/12/georgia-heart-institute-welcomes-three-electrophysiologists-to-help-keep-patients-hearts-in-rhythm",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/11/17/dr-monica-newton-named-president-of-the-georgia-academy-of-family-physicians-gafp",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/11/19/georgia-heart-institute-welcomes-cardiologist-emmanuel-amoran-md-to-gainesville-clayton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/12/02/nghs-once-again-receives-states-only-level-10-designation-for-innovation-in-technology",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/12/03/georgia-heart-institute-earns-top-national-award-for-helping-patients-control-high-blood-pressure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2025/12/17/georgia-heart-institute-welcomes-four-providers-to-help-heart-failure-patients-achieve-their-treatment-goals",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/01/26/what-is-plantar-fasciitis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/01/27/nghs-president-and-ceo-named-one-of-georgias-most-influential-people-in-2026",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/03/18/georgia-heart-institute-welcomes-hanbi-hong-fnp-to-serve-patients-in-buford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/03/24/nghs-hospitals-win-statewide-patient-safety-awards",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/03/26/ngmc-welcomes-new-resident-physicians-with-strong-ties-to-georgia",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/04/09/common-pickleball-injuries-in-north-georgia-an-orthopedic-surgeons-perspective",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/04/09/georgia-heart-institute-welcomes-physician-assistant-ashley-himmel-and-nurse-practitioner-michelle-povolny-to-blairsville",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/04/13/georgias-first-officially-designated-level-ii-neonatal-intensive-care-unit-is-at-ngmc-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/04/15/georgia-heart-institute-welcomes-vanessa-rusu-pa-c-to-care-for-patients-in-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/04/17/planning-for-pregnancy-take-these-steps-first",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/04/22/georgia-heart-institute-welcomes-karlie-bearden-pa-c-to-cumming-dawsonville-and-dahlonega",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/05/27/longstreet-clinic-at-nghs-welcomes-two-new-ob-gyn-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/06/25/ngmc-gainesville-becomes-the-states-first-center-of-excellence-for-endocrine-surgery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/08/11/northeast-georgia-health-system-among-16-nationally-recognized-for-electronic-health-record-satisfaction",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/09/16/nghs-hp2-recognized-among-nations-top-1-of-providers-by-anthem",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/09/24/georgia-heart-institute-opens-clinic-to-serve-patients-in-hiawassee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/2026/10/07/what-is-a-physician-assistant-understanding-the-advanced-practice-provider-who-guides-your-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/3d-mammography-service-now-available-at-northeast-georgia-medical-center-barrow",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/4-8-million-donated-through-the-medical-center-foundation-to-benefit-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/7th-annual-northeast-georgia-regional-stemi-summit",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/about/admin-fellowship/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/about/patient-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/about/physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/about/practice-medicine-here/physician-recruitment-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/advance-care-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/all-urgent-care-locations-earn-national-recognition",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/anthony-williamson-named-president-of-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/atlanta-parent-magazine-recognizes-21-ngmc-obstetricians-midwives-on-its-mom-approved-doctors-list-for-excellence-in-medical-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/bariatrics/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/bariatrics/gastric-bypass/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/bariatrics/meet-our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/bariatrics/sleeve-gastrectomy/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/careers/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/child-passenger-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/cme-physician-license-renewal",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/commerce-cardiology-clinic-joins-the-heart-center-of-northeast-georgia-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/covid-19-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/covid-19-screening-begins-for-visitors-at-northeast-georgia-medical-center-hospitals-as-two-patients-test-positive",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/during-stroke-awareness-month-northeast-georgia-medical-center-wants-you-to-know-how-you-can-protec",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/emergency-unplanned-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/fire-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/first-baby-delivered-today-at-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/five-students-complete-winter/spring-unit-of-clinical-pastoral-education-at-northeast-georgia-medic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/form/birth-plan/sent",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/former-patients-gather-to-celebrate-weight-loss-journeywith-northeast-georgia-medical-centers-baria",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/foundation/donate/georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/foundation/grateful-patient/doctors-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/graduate-medical-education-at-northeast-georgia-medical-center-names-leaders-in-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/habersham-medical-center-northeast-georgia-health-system-are-working-together-for-healthier-tomorrows",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/habersham-medical-center-partnering-with-northeast-georgia-medical-center-to-support-emergency-and-inpatient-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/habersham-medical-center-signs-loi-to-join-northeast-georgia-health-system",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart-vascular/meet-our-heart-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/complex-coronary-disease/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/complex-coronary-disease/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/for-clinicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/for-clinicians/watch-grand-rounds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/heart-failure-center-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/meet-our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/prevention-center-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/prevention-center-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/structural-heart-center-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/structural-heart-program/our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/heart/womens-heart-center-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/hernia-surgery/how-much-does-hernia-repair-surgery-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/home-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/hospice-of-northeast-georgia-medical-center-accepting-camper-applications-for-camp-braveheart",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/hospice-of-northeast-georgia-medical-center-offers-grief-support-groups",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/hospice-of-northeast-georgia-medical-center-receives-designation-for-providing-veteran-specific-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/hospice-of-northeast-georgia-medical-center-receives-prestigious-national-award",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/hospice-of-northeast-georgia-medical-centeroffers-grief-support-camp-for-kids",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/imaging-center-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/lifecord-recognizes-northeast-georgia-medical-center-for-mutual-miracles",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/local-artists-celebrated-at-future-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations-and-contacts",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/barrow",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/gainesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/lumpkin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-park-1",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-park-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-plaza-1",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-plaza-1-dawsonville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-plaza-1-gainesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-plaza-2-dawsonville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-plaza-b",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-plaza-bethlehem",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-plaza-buford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/locations/medical-plaza-flowery-branch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/making-the-decision-for-hospice-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/meet-the-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/national-doctors-day-started-in-barrow-county",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/navy-veteran-has-peace-of-mind-thanks-to-a-new-service-from-lifeline-of-northeast-georgia-medical-c",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/neurosciences/meet-our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/new-donor-funded-outdoor-destination-under-construction-at-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/new-faces-new-focus-at-northeast-georgia-medical-center-barrow",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/new-outdoor-park-allows-pets-to-join-the-healing-process-at-northeast-georgia-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/new-scholarship-donation-announced-as-community-resource-center-is-dedicated-at-northeast-georgia-m",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/nghs-recognizes-physicians-named-to-atlanta-magazines-2019-top-doctors-list",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/nghs-recognizes-physicians-named-to-atlanta-magazines-2020-top-doctors-list",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/ngmc-announces-new-program-director-for-emergency-medicine-physician-residency",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/ngmc-is-the-first-hospital-in-the-state-to-provide-new-heart-test-to-improve-care-reduce-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/ngmc-matches-next-class-of-resident-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/north-georgia-heart-foundation-signs-letter-of-intent-with-the-medical-center-foundation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-and-blue-cross-and-blue-shield-of-georgia-agree-to-multi-year-contr",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-agreement-with-chestatee-regional-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-new-administrators",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-new-administrators-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-new-chief-financial-officer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-new-chief-human-resources-officer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-new-chief-legal-officer-and-vice-president-of-legal-affairs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-new-leaders",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-new-members-of-several-boards",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-new-members-of-several-boards-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-announces-plans-to-provide-emergency-care-and-develop-a-new-hospital-in-lumpkin-county",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-becomes-official-healthcare-partner-of-ung-athletics",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-ceo-named-georgias-most-respected-business-leader",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-ceo-receives-women-who-mean-business-award",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-encourages-you-to-helpstop-the-spread-of-covid-19-this-labor-day-we",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-first-in-state-to-receive-emergency-cardiac-care-center-designation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-foundation/fiscal-year-2026-funding-initiatives",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-foundation/sponsorship-with-teams",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-foundation/sponsorship-without-a-team",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-foundations-28th-annual-medical-center-open-supports-the-hub-student-success-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-increases-access-to-healthcare-services-in-lumpkin-county",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-named-most-wired-hospital/health-system-for-fourth-year-in-a-row",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-named-one-of-metro-atlantas-top-150-workplaces-for-fifth-year-in-a",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-named-one-of-the-nations-most-wired-hospitals-and-health-systems-for-fifth-time",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-named-one-of-the-top-150-workplaces-in-atlanta-for-sixth-year-in-a-row",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-named-one-of-the-top-150-workplaces-in-atlanta-for-the-seventh-year-in-a-row",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-named-one-ofmetro-atlantas-top-100-workplaces-for-fourth-year",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-names-employee-of-the-year-and-recognizes-long-term-employees-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-names-employee-of-the-year-and-recognizes-long-term-employees-3",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-names-employees-of-the-year",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-opens-urgent-care-center-in-dahlonega",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-physicians-board-members-and-local-governments-urge-people-to-stay-home-to-save-lives",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-receives-2014-vha-excellence-award-for-clinical-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-receives-award-for-employee-wellness",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-recognizes-physicians-named-to-atlanta-magazines-2017-top-doctors-list",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-recognizes-physicians-named-to-atlanta-magazines-2018-top-doctors-list",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-recognizes-physicians-named-to-georgia-trends-2020-top-doctors-list",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-shares-more-covid-19-data-highlighting-the-pandemics-impact",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-sharing-covid-19-data-as-regional-peak-not-yet-reached",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-taking-part-in-investigational-study-to-potentially-treat-covid-19-patients",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-to-purchase-barrow-regional-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-volunteers-recognized-at-appreciation-luncheon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-welcomes-barrow-regional-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-welcomes-new-members-to-its-administrative-team",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-welcomes-new-physicians",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-welcomes-new-physicians-2",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-welcomes-new-physicians-3",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-welcomes-new-physicians-4",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-system-welcomes-new-physicians-5",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-health-systems-request-for-new-surgery-center-in-braselton-approved",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-again-rated-1-in-georgia-and-among-the-top-10-in-the-nation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-announces-accreditation-for-family-medicine-residency-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-announces-new-chief-nursing-officer-two-new-department-directors",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-announces-new-president-for-its-gainesville-campus",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-barrow-designated-as-remote-treatment-stroke-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-barrow-earns-accreditation-for-cardiac-testing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-barrow-names-winder-native-as-new-chief-nursing-officer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-barrow-stresses-education-during-stroke-awareness-month",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-barrow-welcomes-new-emergency-department-director",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-braselton-appoints-chief-nursing-officer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-braselton-appoints-new-executive-director-of-operations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-braselton-celebrates-first-anniversary",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-braselton-is-now-open",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-braselton-now-offering-advanced-technology-to-help-vascular-patien",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-braselton-now-offering-latest-robotic-surgery-technology",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-braselton-now-offering-life-saving-heart-procedure-to-treat-heart-attacks",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-braseltonto-begin-construction-of-new-ob-services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-cardiologist-receives-prestigious-national-title",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-celebrates-level-ii-trauma-center-designation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-celebrates-open-house-for-graduate-medical-education-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-credited-with-contributing-more-than-1-5-billion-to-local-and-state-economy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-credited-with-contributing-more-than-1-75-billion-to-local-and-state-economy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-credited-with-contributing-more-than-1-8-billion-to-local-and-state-economy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-credited-with-contributing-more-than-1-billion-to-local-and-state",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-credited-with-contributing-more-than-1-billion-to-local-and-state-economy-for-fifth-year-in-a-row",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-earns-2018-womens-choice-award",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-earns-commission-on-cancers-outstanding-achievement-award",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-earns-highest-level-of-accreditation-for-cancer-services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-first-in-the-state-to-offer-alternative-pain-relief-during-labor",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-first-to-offer-new-minimally-invasive-lung-navigation-system-for-c",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-gainesville-achieves-national-accreditation-as-a-bariatric-surgery-comprehensive-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-gainesville-and-braselton-receive-prestigious-awards-from-american-heart-association",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-gainesville-dedicates-flagpole-to-honor-organ-donors",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-gainesville-hosts-free-joint-pain-forum",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-gainesville-verified-as-a-level-ii-trauma-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-holds-inaugural-white-coat-ceremony-for-resident-physicians",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-honored-for-protecting-newborns-from-hepatitis-b-virus-infection",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-hosts-6th-annual-northeast-georgia-regional-stemi-summit",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-hosts-7th-annual-northeast-georgia-regional-stemi-summit",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-hosts-free-cancer-screenings",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-hosts-free-colorectal-health-forum",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-hosts-gov-nathan-deal-for-signing-of-cardiac-legislation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-introduces-first-class-of-resident-physicians",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-invites-the-community-to-the-2016-love-light-tree-lighting-celebrations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-invites-the-community-to-the-2018-love-light-tree-lighting-celebrations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-is-first-hospital-in-georgia-to-join-new-national-heart-initiative",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-is-first-in-northeast-georgia-to-offer-reshape-non-surgical-weight-loss-procedure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-is-first-in-state-to-offer-peer-support-in-its-emergency-departments-to-fight-opiate-crisis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-is-the-first-and-only-hospital-in-georgia-approved-to-use-new-tech",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-is-the-first-and-only-hospital-in-georgia-to-offer-airo-mobile-ct-in-the-operating-room",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-issues-call-for-local-artwork-to-feature-in-new-braselton-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-lumpkin-celebrates-first-week-of-life-saving-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-named-georgia-safe-to-sleep-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-named-one-of-the-nations-100-top-hospitals-and-georgias-1-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-observes-national-healthcare-decisions-day",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-offering-free-educational-seminars-about-colorectal-health",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-offers-free-joint-pain-educational-seminar",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-offers-more-parking-for-patients-and-visitors",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-offers-procedure-that-gives-hope-to-patients-suffering-with-parkin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-participating-in-national-collaborative-to-help-improve-obstetric",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-rated-1-in-georgiafor-the-second-year-in-a-row-and-2-in-the-nation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-receives-high-honors-for-stroke-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-receives-top-state-and-national-rankings-for-quality-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-recognized-for-technology-leadership-in-cardiac-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-recognizes-physicians-named-to-atlanta-magazines-2016-top-doctors-list",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-reminds-public-to-get-flu-shots-early",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-surgeons-collaborate-in-national-program-to-improve-patient-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-the-first-and-only-hospital-in-the-state-to-implant-naturally-dissolving-heart-stent",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-to-open-april-1",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-to-provide-residency-program-for-graduate-medical-students",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-updates-expands-robotics-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-center-welcomes-first-set-of-quadruplets",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-medical-centers-cardio-oncology-program-created-to-fight-link-between-cancer-treatment-and-potential-heart-disease",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-physicians-group-appoints-president-and-chief-administrative-officer",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-physicians-group-now-offering-online-service-to-treat-the-flu",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-physicians-group-offers-smoking-cessation-classes",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/northeast-georgia-physicians-group-surgeon-now-offers-a-new-fda-approved-procedure-to-treat-reflux",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/one-of-a-kind-marble-water-garden-coming-to-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/orthopedics/fractures-dislocations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/orthopedics/meet-our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/our-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/patient-visitor/advance-care/plan-in-a-can",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/patient-visitor/community-health-resources/pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/pharmacy-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/pharmacy-residency/apply",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/pharmacy-residency/faculty",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/pharmacy-residency/rotations",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/philanthropic-physicians-donate-to-integrative-technology-at-good-news-clinics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/price-estimates",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/rare-stained-glass-arrives-at-the-henry-edward-braselton-chapel-at-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/record-attendance-heart-attack-survivor-stories-and-new-legislation-highlight-9th-annual-northeast-georgia-stemi-summit",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/regions-first-cardiac-stress-mri-now-available-at-northeast-georgia-medical-center-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/rehabilitation-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/robotic-procedure-available-for-kidney-patients-at-northeast-georgia-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/safety-concerns",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/signature-donors-join-the-medical-center-foundation-for-a-sneak-peek-of-northeast-georgia-medical-c",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/six-students-complete-fall-unit-of-clinical-pastoral-education-atnortheast-georgia-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/spiritual-care/staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/summer-safety-against-covid-19-staying-at-home",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/summer-safety-against-covid-19-traveling",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/tag/advance-care-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/tag/breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/tag/georgia-heart-institute",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/tag/patient-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/tag/safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/tag/university-of-north-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/teen-thanks-team-that-saved-his-life-during-the-11th-annual-northeast-georgia-stemi-summit",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-christian-david-family-pet-park-dedicated-at-northeast-georgia-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-now-offering-cardiac-calcium-scoring-to-detect-heart-disease",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-now-open-in-bethlehem",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-mahmoud-abdou-md",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-1",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-3",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-4",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-5",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-6",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-7",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-cardiologist-in-gainesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-new-interventional-cardiologist",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-two-new-cardiologists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-center-welcomes-two-new-cardiologists-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-heart-center-of-northeast-georgia-medical-centernow-open-in-buford-and-winder",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-medical-center-auxiliary-funds-books-given-to-every-baby-born-at-northeast-georgia-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/the-woody-stewart-heart-failure-treatment-unit-at-northeast-georgia-medical-center-dedicated",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/toccoa-clinic-extends-letter-of-intent-with-northeast-georgia-physicians-group",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/toccoa-clinic-joins-northeast-georgia-physicians-group",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/trauma-contact-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/treatment-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/unique-construction-techniques-keep-northeast-georgia-medical-center-braselton-construction-project",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/volunteer/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/water-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/wheeled-sports-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nghs.com/women/birth-plan",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Sohohealthny",
+  "domain": "sohohealthny.com",
+  "total_urls": 97,
+  "semaglutide_pages": [
+    "https://www.sohohealthny.com/treatments/semaglutide-in-soho/"
+  ],
+  "tirzepatide_pages": [
+    "https://www.sohohealthny.com/treatments/tirzepatide-in-soho/"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.sohohealthny.com/asthma-doctor-in-soho/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/doctor-in-soho/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/doctors-office-in-soho/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/immunization-doctor-in-soho-ny/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/kids-doctor-primary-care-pediatric-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/new-york-travel-medicine/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/physicians-office-in-soho-ny/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/soho-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/soho-ny-family-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/travel-medicine-in-new-york/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/treatments/primary-care-doctor-in-soho/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/treatments/semaglutide-in-soho/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.sohohealthny.com/treatments/tirzepatide-in-soho/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

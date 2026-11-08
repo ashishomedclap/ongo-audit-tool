@@ -1,0 +1,74 @@
+{
+  "name": "Sagapixel",
+  "domain": "sagapixel.com",
+  "total_urls": 204,
+  "semaglutide_pages": [
+    "https://sagapixel.com/semaglutide-marketing-agency/",
+    "https://sagapixel.com/seo/semaglutide/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://sagapixel.com/hair-transplant-marketing-agency/",
+    "https://sagapixel.com/ppc/ppc-hair-transplant/",
+    "https://sagapixel.com/seo/hair-transplant-seo-tips/",
+    "https://sagapixel.com/seo/is-yext-worth-price/",
+    "https://sagapixel.com/seo/seo-pricing/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://sagapixel.com/hair-transplant-marketing-agency/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://sagapixel.com/marketing/how-patients-are-finding-healthcare-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://sagapixel.com/ppc/ppc-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://sagapixel.com/semaglutide-marketing-agency/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://sagapixel.com/seo/doctor-gbp-profiles/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://sagapixel.com/seo/hair-transplant-seo-tips/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://sagapixel.com/seo/is-yext-worth-price/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://sagapixel.com/seo/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://sagapixel.com/seo/seo-pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Stanford.edu",
+  "domain": "stanford.edu",
+  "total_urls": 27,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.stanford.edu/faculty-staff-gateway/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.stanford.edu/terms",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

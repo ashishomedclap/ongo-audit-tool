@@ -1,0 +1,31 @@
+{
+  "name": "Bestlifeaesthetics",
+  "domain": "bestlifeaesthetics.com",
+  "total_urls": 16,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.bestlifeaesthetics.com/payment-plans",
+    "https://www.bestlifeaesthetics.com/weight-loss-packages"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.bestlifeaesthetics.com/faq-s",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.bestlifeaesthetics.com/payment-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.bestlifeaesthetics.com/weight-loss-packages",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

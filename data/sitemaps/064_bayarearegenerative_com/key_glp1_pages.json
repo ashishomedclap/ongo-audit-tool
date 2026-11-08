@@ -1,0 +1,88 @@
+{
+  "name": "Bayarearegenerative",
+  "domain": "bayarearegenerative.com",
+  "total_urls": 111,
+  "semaglutide_pages": [
+    "https://bayarearegenerative.com/semaglutide-peptide-therapy-for-weight-loss/"
+  ],
+  "tirzepatide_pages": [
+    "https://bayarearegenerative.com/tirzepatide-weight-loss-injections/"
+  ],
+  "pricing_pages": [
+    "https://bayarearegenerative.com/evaluation-memberships/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://bayarearegenerative.com/bioidentical-hormone-therapy-for-libido-enhancement/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/bioidentical-hormone-therapy-for-muscle-atrophy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/bioidentical-hormone-therapy-women/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/bioidentical-hormones-for-hgh-deficiency/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/bioidentical-hormones-for-hot-flashes-and-night-sweats/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/bioidentical-hormones-for-menopause/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/bioidentical-hormones-for-perimenopause/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/bioidentical-hormones-women/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/biotin-iv-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/evaluation-memberships/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/semaglutide-peptide-therapy-for-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://bayarearegenerative.com/tirzepatide-weight-loss-injections/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

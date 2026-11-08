@@ -1,0 +1,4512 @@
+{
+  "name": "Nyc.gov",
+  "domain": "nyc.gov",
+  "total_urls": 5091,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-appoints-dan-garodnick-city-planning-commission-chair-department-city",
+    "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-dot-commissioner-rodriguez-lyft-free-citi-bike-memberships-hospital",
+    "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-on-city-s-medicare-advantage-plan",
+    "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-releases-subway-safety-plan-says-safe-subway-prerequisite-new-york-city-s",
+    "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-shuts-down-illegal-hotel-operator-plan-create-80-new-affordable-homes-on",
+    "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-on-governor-hochul-s-public-safety-plan",
+    "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-on-including-equal-act-congress-omnibus-spending-package",
+    "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-on-federal-monitor-s-letter-action-plan-reform-rikers-island",
+    "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-sbs-commissioner-kim-kick-off-national-small-business-week-events-planned-all",
+    "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-health-commissioner-dr-vasan-new-york-city-s-plans-covid-19-baby",
+    "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-hunts-point-community-leaders-release-comprehensive-plan-create-economic",
+    "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-mta-hold-first-transit-improvement-summit-plans-immediately-improve-mass",
+    "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-nominates-rasmia-kirmani-frye-david-gold-city-planning-commission-chris-yoon-to",
+    "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-on-federal-court-s-endorsement-city-s-rikers-action-plan",
+    "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-outlines-blueprint-housing-our-neighbors-plan-get-new-yorkers-safe"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.nyc.gov/employment/events/events-archive/office-of-the-deputy-mayor-for-public-safety-job-fair-for-entry-level-uniformed-roles",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/employment/events/nypl-new-york-state-job-fair",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/employment/events/pharmacy-technician-itg-program-07-30-2026",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/eric-l-adams-sworn-as-110th-mayor-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/global-superstar-bronx-native-cardi-b-partners-mayor-s-fund-advance-new-york-city-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-appoints-dan-garodnick-city-planning-commission-chair-department-city",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-appoints-philip-banks-deputy-mayor-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-dot-commissioner-rodriguez-lyft-free-citi-bike-memberships-hospital",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-mayor-s-fund-advance-new-york-city-relief-effort-victims-bronx",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-new-york-city-s-five-district-attorneys-meet-discuss-gun-violence",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-on-president-biden-s-visit-new-york-city-next-week",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/mayor-adams-releases-blueprint-end-gun-violence-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/mayor-s-fund-advance-new-york-city-partners-bank-america-met-council-immediately",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/transcript-mayor-adams-commissioner-sewell-governor-hochul-deliver-remarks-subway-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/01/what-they-saying-new-york-leaders-applaud-mayor-adams-blueprint-end-gun-violence",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-appointments-will-strengthen-new-york-city-s-social-safety-net",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-celebrates-new-york-fashion-week-announcing-creation-sustainable-fashion-jobs-in",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-delivers-testimony-new-york-state-senate-finance-assembly-ways-means",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-inaugural-journey-staff-sergeant-michael-h-ollis-staten-island-ferry",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-on-city-s-medicare-advantage-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-releases-subway-safety-plan-says-safe-subway-prerequisite-new-york-city-s",
+      "categories": [
+        "Pricing",
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-rings-opening-bell-the-new-york-stock-exchange-pushes-build-more-inclusive",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-shuts-down-illegal-hotel-operator-plan-create-80-new-affordable-homes-on",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/mayor-adams-takes-executive-action-promote-healthy-food-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/new-york-city-mayor-eric-adams-chairman-jerrold-nadler-issue-joint-statement",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/new-york-city-mayor-eric-adams-record-100-000-summer-youth-employment-opportunities",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/02/president-biden-mayor-adams-deliver-resources-tackle-new-york-city-s-gun-violence-crisis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/joint-from-new-york-city-mayor-adams-washington-dc-mayor-bowser-recent-murders",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-appointment-new-members-panel-educational-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-appoints-new-members-new-york-city-districting-commission",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-completes-initial-portion-enhanced-effort-connect-new-yorkers-living-the",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-new-york-embroidery-studio-creating-500-jobs-brooklyn-army-terminal",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-on-governor-hochul-s-public-safety-plan",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-on-including-equal-act-congress-omnibus-spending-package",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-on-second-anniversary-first-confirmed-covid-19-fatality-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-on-signing-florida-s-don-t-say-gay-bill-law",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-opens-safe-haven-facility-expanding-shelter-access-other-services-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-partners-urge-albany-pass-local-control-traffic-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-pushes-equitable-recovery-reaffirming-commitment-bolstering-new-york-city-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-raises-irish-flag-honoring-first-irish-immigrants-who-arrived-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/mayor-adams-signs-executive-order-strengthening-fire-safety-enforcement-outreach-wake-of",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/new-york-city-launches-new-get-local-nyc-campaign-inviting-visitors-explore-all-five-boroughs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/statement-new-york-city-mayor-adams-albany-budget-resolutions",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/statement-new-york-city-mayor-adams-ukrainian-president-volodymyr-zelensky-s-address-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/summer-youth-employment-program-applications-open-new-yorkers-aged-14-24",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/transcript-mayor-eric-adams-hosts-ceremony-honor-new-york-city-s-hunger-heroes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/transcript-mayor-eric-adams-hosts-event-new-york-city-s-social-safety-net",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/transcript-mayor-eric-adams-partners-urge-albany-pass-local-control-traffic-safety-event",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/transcript-mayor-eric-adams-thanks-nypd-neighborhood-safety-teams-makes-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/03/what-they-saying-new-yorkers-support-mayor-adams-blueprint-nyc-s-economic-recovery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/city-new-york-sues-postal-service-faulty-environmental-review-used-justify-purchase-of",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/mayor-adams-100-days-getting-stuff-done-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/mayor-adams-department-the-aging-distribute-1-000-free-computer-tablets-older-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/mayor-adams-designates-juneteenth-paid-new-york-city-holiday",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/mayor-adams-historic-investment-more-900-million-traffic-safety-turn-the",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/mayor-adams-new-campaign-digital-billboards-five-florida-markets-denouncing-don-t",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/mayor-adams-outlines-bold-vision-new-york-city-s-recovery-first-state-the-city-address",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/mayor-adams-steps-welcome-equitable-cannabis-economy-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/mayor-adams-unprecedented-investments-safe-haven-beds-resources-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/transcript-mayor-eric-adams-and-kicks-off-first-phase-care-strategy-east-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/transcript-mayor-eric-adams-appears-cbs-news-new-york-marcia-kramer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/transcript-mayor-eric-adams-delivers-address-future-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/transcript-mayor-eric-adams-historic-investment-traffic-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/transcript-mayor-eric-adams-unprecedented-investments-unsheltered-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/04/what-they-saying-new-yorkers-support-mayor-adams-chancellor-banks-expansion-gifted-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/citing-strong-fiscal-management-under-mayor-adams-fitch-ratings-raises-new-york-city-s-general",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-appointment-new-member-panel-educational-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-appoints-anthony-miranda-new-york-city-sheriff",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-commissioner-sewell-everytown-gun-safety-call-atf-revoke-license-of",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-governor-hochul-launch-new-new-york-blue-ribbon-panel-future-nyc-s-region-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-more-1-300-new-yorkers-have-accepted-shelter-since-launch-subway",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-new-york-city-state-federal-elected-leaders-launch-bid-2024-democratic-national",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-on-agreement-deliver-24-7-365-speed-cameras-safer-streets-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-on-federal-monitor-s-letter-action-plan-reform-rikers-island",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-sbs-commissioner-kim-kick-off-national-small-business-week-events-planned-all",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/mayor-adams-takes-steps-transform-new-york-city-global-hub-digital-games-industry",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/transcript-mayor-eric-adams-commissioner-sewell-everytown-gun-safety-call-atf-revoke",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/transcript-mayor-eric-adams-speaks-support-legislation-authorizing-nycha-preservation",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/05/transcript-mayor-eric-adams-steps-transform-new-york-city-global-hub-digital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-city-hall-municipal-buildings-iconic-new-york-city-sites-be-lit-red",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-governor-hochul-appoint-new-new-york-panelists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-health-commissioner-dr-vasan-new-york-city-has-moved-down-medium",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-health-commissioner-dr-vasan-new-york-city-s-plans-covid-19-baby",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-hunts-point-community-leaders-release-comprehensive-plan-create-economic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-mta-hold-first-transit-improvement-summit-plans-immediately-improve-mass",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-nominates-rasmia-kirmani-frye-david-gold-city-planning-commission-chris-yoon-to",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-on-federal-court-s-endorsement-city-s-rikers-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-outlines-blueprint-housing-our-neighbors-plan-get-new-yorkers-safe",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-outlines-vision-city-yes-plan-citywide-zoning-initiatives-support",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-signs-legislation-strengthening-fire-safety-enforcement-education-wake-bronx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-street-safety-proposal-two-pronged-strategy-address-critical-broadway",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/mayor-adams-turn-new-york-city-s-speed-cameras-24-7-august-1-following-month-long-public",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/new-york-new-jersey-selected-host-city-2026-fifa-world-cup",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/transcript-mayor-eric-adams-delivers-remarks-a-new-york-city-approach-addressing-hunger",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/transcript-mayor-eric-adams-delivers-remarks-new-york-city-new-jersey-s-fifa-2026-world-cup",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/transcript-mayor-eric-adams-housing-our-neighbors-plan--blueprint-housing-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/transcript-mayor-eric-adams-outlines-vision-city-yes-plan-citywide-zoning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/06/what-they-saying-new-yorkers-support-mayor-adams-blueprint-get-new-yorkers-safe",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-celebrates-city-council-passage-resilient-edgemere-community-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-city-new-york-join-fight-voting-rights-u-s-supreme-court",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-cto-fraser-linknyc-first-link5g-kiosk-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-on-governor-hochul-signing-historic-gun-safety-legislation",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-on-resilient-edgemere-community-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-opens-new-innovative-behavioral-health-facility-new-yorkers-experiencing-mental",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-partnership-new-york-city-launch-homeless-assistance-fund-nyc-s-business",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-releases-homeowner-handbook-comprehensive-guide-help-new-yorkers-protect-maintain",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-releases-rainfall-ready-nyc-action-plan-preparing-city-government-new-yorkers-for",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/mayor-adams-takes-steps-shares-resources-help-new-yorkers-enjoy-safe-july-4th-weekend",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/new-york-city-health-department-declares-monkeypox-public-health-emergency",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/transcript-mayor-eric-adams-cto-fraser-linknyc-first-link5g-kiosk-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/transcript-mayor-eric-adams-governor-kathy-hochul-hold-media-availability-new-york-city-s-bid",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/transcript-mayor-eric-adams-holds-hearing-package-abortion-rights-bills",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/07/transcript-mayor-eric-adams-the-nyc-ferry-forward-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/adams-administration-project-open-arms-comprehensive-support-plan-meet-educational",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/la-administraci-n-de-adams-anuncia-el-proyecto-brazos-abiertos-un-plan-integral-de-apoyo-para",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/mayor-adams-city-new-york-coalition-states-secure-settlement-usps-improve-practices",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/mayor-adams-declares-monkeypox-state-emergency-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/mayor-adams-new-expansion-plans-urban-assembly-new-york-harbor-school-governors",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/mayor-adams-nyc-receives-7-25-million-federal-grant-plan-major-expansion-greenway",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/mayor-adams-plan-prevent-end-youth-homelessness-new-york-city",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/mayor-adams-signs-legislation-guaranteeing-access-safe-affordable-abortion-new-york-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/mayor-adams-steps-keep-new-yorkers-safe-new-concealed-carry-regulations-go-into",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/transcript-mayor-adams-signs-legislation-guaranteeing-access-safe-affordable-abortion-new",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/transcript-mayor-eric-adams-appears-live-fox-5-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/transcript-mayor-eric-adams-delivers-remarks-united-states-citizenship-immigration-services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/transcript-mayor-eric-adams-holds-community-conversation-public-safety-staten-island",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/transcript-mayor-eric-adams-plan-prevent-end-youth-homelessness-new-york-city",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/transcript-mayor-eric-adams-steps-keep-new-yorkers-safe-new-concealed-carry",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/transcript-mayor-eric-adams-the-launch-new-york-city-pathways-industrial-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/08/transcript-mayor-eric-adams-the-return-the-18th-annual-new-york-comedy-festival",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/mayor-adams-appoints-two-new-members-panel-educational-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/mayor-adams-city-hall-be-lit-blue-flags-be-flown-half-staff-mark-21st",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/mayor-adams-new-nycha-leadership-structure-advancing-transformation-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/mayor-adams-nyc-cabinet-older-new-yorkers-coordinated-city-agency-collective-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/mayor-adams-nyc-h-h-ceo-katz-successful-rollout-expansion-plant-based-meals-as",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/mayor-adams-on-influx-asylum-seekers-arriving-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/transcript-mayor-eric-adams-appears-live-fox-5-new-york-s-evening-news",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/transcript-mayor-eric-adams-delivers-remarks-new-york-state-financial-control-board-meeting",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/transcript-mayor-eric-adams-holds-community-conversation-public-safety-queens",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/09/transcript-mayor-eric-adams-makes-public-safety-related-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/adams-administration-hold-high-level-summit-find-common-ground-public-safety-efforts",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-4-billion-plan-make-new-schools-all-electric-electrify-100-existing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-appoints-marcella-tillett-executive-director-mayor-s-fund-advance-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-city-hall-municipal-buildings-iconic-new-york-city-sites-be-lit-purple",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-governor-hochul-plan-first-of-its-kind-job-education-hub-growing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-new-york-city-s-libraries-partner-google-org-best-buy-joly-family-foundation-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-orders-flags-lowered-half-staff-honor-passing-reverend-dr-calvin-butts-iii",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-reappoints-kate-mackenzie-executive-director-mayor-s-office-food-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-signs-two-bills-dam-additional-rivers-feeding-sea-gun-violence",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/statement-vile-sexist-story-the-new-york-post",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-4-billion-plan-make-new-schools-all-electric-electrify",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-appears-cbs-news-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york-october-21",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-commissioner-ydanis-rodriguez-expanded-public-safety-efforts",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-governor-kathy-hochul-plan-first-of-its-kind-job-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-holds-public-hearing-package-childcare-bills-intros-242-477",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-hosts-community-conversation-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-hosts-community-conversation-public-safety-queens",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/10/transcript-mayor-eric-adams-signs-two-bills-dam-additional-rivers-feeding-sea-gun-violence",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/mayor-adams-city-hall-municipal-buildings-iconic-new-york-city-sites-be-lit-orange",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/mayor-adams-plan-provide-care-individuals-suffering-untreated-severe-mental",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/mayor-adams-signs-package-bills-improve-diversity-within-fdny",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/mayor-adams-signs-package-seven-child-care-bills-provide-support-working-parents",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/mayor-adams-sweeping-plan-holiday-season-car-free-open-streets-midtown-manhattan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/mayor-adams-takes-major-steps-help-new-yorkers-access-high-quality-housing-more-quickly-move",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/mayor-eric-adams-releases-november-financial-plan-for-fiscal-year-2023",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/transcript-mayor-adams-signs-package-bills-improve-diversity-within-fdny",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/transcript-mayor-eric-adams-calls-wnyc-new-york-public-radio",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/transcript-mayor-eric-adams-delivers-address-mental-health-crisis-new-york-city-holds",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/transcript-mayor-eric-adams-holds-public-hearing-package-bills-intros-414-a-442-a",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/transcript-mayor-eric-adams-hosts-community-conversation-public-safety-november-10",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/transcript-mayor-eric-adams-makes-thanksgiving-day-parade-safety-related-announcement-nypd",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/transcript-mayor-eric-adams-signs-package-seven-child-care-bills",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/11/transcript-mayor-eric-adams-takes-major-steps-help-new-yorkers-access-high-quality-housing-more",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/mayor-adams-applauds-opening-first-legal-cannabis-dispensary-new-york-state",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/mayor-adams-appoints-three-new-members-procurement-policy-board",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/mayor-adams-delivers-public-safety-wins-new-yorkers-first-year-office",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/mayor-adams-gets-stuff-done-new-yorkers-during-first-year-office",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/mayor-adams-governor-hochul-release-making-new-york-work-everyone-action-plan",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/mayor-adams-names-sheena-wright-first-deputy-mayor-camille-joseph-varlack-chief-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/mayor-adams-releases-community-driven-nyc-speaks-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/mayor-adams-signs-sister-city-agreement-between-new-york-city-athens-greece",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york-december-07",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/transcript-mayor-eric-adams-celebrates-arrival-msc-seascape-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/transcript-mayor-eric-adams-delivers-address-new-york-city-s-affordable-housing-crisis-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/transcript-mayor-eric-adams-delivers-on-public-safety-efforts-new-york-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/transcript-mayor-eric-adams-delivers-remarks-nyc-speaks-action-plan-launch",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/transcript-mayor-eric-adams-governor-hochul-release-making-new-york-work-everyone-action",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2022/12/transcript-senior-advisor-severe-mental-illness-brian-stettin-interviewed-faq-nyc",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/mayor-adams-appoints-six-new-members-panel-educational-policy-four-new-members-elected-by",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/mayor-adams-commits-making-new-york-city-future-women-s-health",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/mayor-adams-expansion-financial-counseling-services-new-yorkers-visiting-workforce1",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/mayor-adams-helps-new-yorkers-save-up-150-million-overdue-water-bills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/mayor-adams-makes-emergency-mutual-aid-request-new-york-state-response-massive-influx-of",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/mayor-adams-new-initiative-communicate-directly-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/mayor-adams-on-new-york-city-s-preparations-potential-nurses-strike",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/mayor-adams-orders-flags-lowered-half-staff-honor-victims-twin-park-fire-one-year",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/new-york-city-supports-new-york-state-fight-against-gun-violence",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/transcript-mayor-eric-adams-appears-live-cbs-new-york-s-cbs-2-news-this-morning",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york-january-06",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york-january-27",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/transcript-mayor-eric-adams-makes-subway-safety-related-announcement-governor-kathy-hochul",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/01/what-they-saying-new-yorkers-and-tony-hawk-praise-mayor-adams-working-people-s-agenda",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/02/icymi-mayor-adams-rides-subway-overnight-one-year-anniversary-subway-safety-plan-announces",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/02/mayor-adams-comptroller-lander-hail-fitch-ratings-upgrading-new-york-city-s-general-obligation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/02/mayor-adams-delivers-testimony-new-york-state-senate-finance-assembly-ways-means",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/02/mayor-adams-signs-eight-bills-taking-action-address-pay-disparities-support-new-yorkers-with",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/02/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york-february-06",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/02/transcript-mayor-eric-adams-delivers-testimony-new-york-state-senate-finance-assembly-ways",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/adams-administration-holds-first-ever-women-s-health-summit-take-next-step-making-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-15-million-revolving-fund-nonprofit-homeless-service-providers-build",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-appoints-juanita-n-holmes-new-york-city-probation-commissioner",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-dot-commissioner-rodriguez-kick-off-new-phase-broadway-vision-plan-create-new",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-governor-hochul-partnership-new-york-city-launch-citywide-civic-action",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-launches-first-phase-mycity-portal-easily-help-new-yorkers-check-eligibility",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-marks-three-years-since-first-recorded-death-new-york-city-resident-covid-19",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-nycedc-new-center-sustainability-focused-biotech-open-the-brooklyn",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-on-president-biden-s-gun-safety-executive-order",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-plan-combat-lithium-ion-battery-fires-promote-safe-electric-micromobility",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-plan-expand-harlem-river-greenway-the-bronx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/mayor-adams-tonya-jenerette-mayoral-designee-new-york-city-banking-commission",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-adams-appears-live-cbs-news-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-adams-appears-live-fox-5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-adams-appears-live-wnyc-s-forum-the-future-new-york-city-housing-with",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-adams-hosts-ceremony-honoring-new-york-city-s-hunger-heroes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-adams-launches-first-phase-mycity-portal-easily-help-new-yorkers-check",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-adams-makes-public-safety-related-announcement-nypd-commissioner-sewell",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-adams-plan-combat-lithium-ion-battery-fires-promote-safe-electric",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-adams-plan-expand-harlem-river-greenway-the-bronx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/03/transcript-mayor-eric-adams-delivers-remarks-rally-supporting-new-york-city-s-bid-host-2024",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-action-plan-strengthen-protections-vulnerable-historic-buildings",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-awards-key-the-city-new-york-broadway-legend-lord-andrew-lloyd-webber",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-city-planning-director-garodnick-celebrate-major-step-proposal-green-nyc",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-first-deputy-mayor-sheena-wright-convene-child-care-experts-new-york-city-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-new-yorkers-fight-against-lead-exposure-appoints-new-citywide-lead",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-recognizes-impact-volunteerism-service-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-releases-planyc-getting-sustainability-done-new-york-city-s-strategic-climate-plan",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-reminds-new-yorkers-file-taxes-during-last-week-tax-season",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/mayor-adams-urges-biden-administration-provide-expedited-emergency-paths-work-authorization",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/new-york-city-leads-coalition-cities-counties-across-nation-fight-continued",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/transcript-mayor-adams-delivers-remarks-virtual-press-conference-hosted-planned-parenthood",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/transcript-mayor-adams-highlights-public-safety-technology-fdny-commissioner-kavanagh",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/transcript-mayor-adams-makes-public-safety-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/transcript-mayor-adams-makes-public-safety-announcement-nypd-commissioner-sewell",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/transcript-mayor-adams-makes-public-safety-related-announcement-nypd-commissioner-sewell-april-03",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/transcript-mayor-adams-releases-planyc-getting-sustainability-done-new-york-city-s-strategic",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/transcript-mayor-eric-adams-hosts-city-new-york-s-first-nowruz-celebration",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/what-they-saying-new-yorkers-praise-mayor-adams-vision-nation-leading-climate-research",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/04/what-they-saying-new-yorkers-support-mayor-adams-planyc-getting-sustainability-done",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/mayor-adams-city-planning-director-garodnick-planning-framework-guide-continued",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/mayor-adams-extends-successful-water-bill-debt-forgiveness-program-saved-new-yorkers-12",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/mayor-adams-launch-new-program-older-new-yorkers-who-want-work",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/mayor-adams-on-new-york-city-s-right-shelter-law",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/mayor-adams-plan-combat-retail-theft-new-york-city",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/transcript-mayor-adams-calls-expedited-work-authorization-asylum-seekers",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/transcript-mayor-adams-delivers-remarks-new-york-new-jersey-2026-fifa-world-cup-host-city-logo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/transcript-mayor-adams-joins-governor-hochul-public-safety--state-budget-related",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/transcript-mayor-adams-makes-public-safety-related-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/transcript-mayor-adams-plan-combat-retail-theft-new-york-city",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york-may-16",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/what-they-saying-new-yorkers-hail-mayor-adams-chancellor-banks-announcement-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/05/what-they-saying-new-yorkers-praise-mayor-adams-sbs-commissioner-kim-small-business-month",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/city-new-york-deems-medicare-advantage-contract-registered",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/city-new-york-sue-30-new-york-counties-illegally-walling-off-their-borders-asylum",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-awards-key-the-city-new-york-legendary-actor-co-founder-tribeca",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-city-planning-director-garodnick-plan-support-small-business-growth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-creation-new-york-city-s-first-jewish-advisory-council",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-fdny-commissioner-kavanagh-sbs-commissioner-kim-plan-step-up-lithium-ion",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-food-education-roadmap-promote-healthier-school-communities-across-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-four-key-appointments-strengthen-new-york-city-s-economic-recovery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-new-york-city-s-dna-testing-lab-achieves-30-day-turnaround-time-testing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-on-deteriorating-air-quality-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-on-police-commissioner-sewell-s-service-the-city-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-signs-executive-order-protecting-access-gender-affirming-health-care-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-signs-legislation-increasing-health-care-pricing-transparency",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/mayor-adams-vetoes-four-city-council-bills-exceed-council-s-legal-authority-would-make-it",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/one-year-after-dobbs-decision-new-york-city-continues-lead-abortion-access",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/transcript-deputy-mayor-public-safety-philip-banks-holds-briefing-public-safety-new-york",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/transcript-deputy-mayor-public-safety-philip-banks-holds-briefing-public-safety-new-york-june-30",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/transcript-mayor-adams-fdny-commissioner-kavanagh-sbs-commissioner-kim-plan-step-up",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/transcript-mayor-adams-holds-briefing-discuss-new-york-city-s-air-quality-smoke-coming",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/transcript-mayor-adams-majority-leader-schumer-senator-gillibrand-make-e-bike-safety-related",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/transcript-mayor-adams-new-york-city-s-dna-testing-lab-achieves-30-day-turnaround-time",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/transcript-mayor-eric-adams-appears-live-cbs-news-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/transcript-new-york-city-office-public-safety-hold-briefing-public-safety-new-york-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/what-they-saying-new-yorkers-show-support-mayor-adams-blueprint-future-nyc-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/06/what-they-saying-new-yorkers-support-mayor-adams-executive-order-protecting-access-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/as-asylum-seekers-city-s-care-tops-54-800-mayor-adams-new-policy-help-asylum",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/despite-new-york-times-false-attack-family-friends-robert-venable-highlight-mayor-adams",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/in-case-you-missed-it-civil-rights-leaders-family-members-robert-venable-sound-off-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/mayor-adams-appointment-new-members-panel-educational-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/mayor-adams-awards-key-the-city-new-york-music-producer-songwriting-legend-valerie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/mayor-adams-dob-commissioner-oddo-plan-remove-unsightly-sheds-scaffolding-nyc",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/mayor-adams-gun-violence-prevention-task-force-release-a-blueprint-community-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/mayor-adams-historic-progress-moving-new-yorkers-shelter-permanent-housing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/mayor-adams-new-guidelines-allow-responsible-drone-usage-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-deputy-mayor-public-safety-banks-hold-briefing-public-safety-new-york-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-deputy-mayor-public-safety-banks-hold-briefing-public-safety-new-york-city-july-28",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-deputy-mayor-public-safety-philip-banks-holds-briefing-public-safety-new-york-july-07",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-mayor-adams-dob-commissioner-oddo-plan-remove-unsightly-sheds-scaffolding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-mayor-adams-historic-progress-moving-new-yorkers-shelter-permanent",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-mayor-adams-hosts-food-culinary-staff-appreciation-reception",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-mayor-adams-new-guidelines-allow-responsible-drone-usage-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-mayor-adams-new-policy-help-asylum-seekers-move-shelter",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-mayor-eric-adams-appears-live-fox-5-s-good-day-new-york-july-12",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/transcript-mayor-eric-adams-holds-briefing-discuss-new-york-city-s-heat-advisory",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/07/what-they-saying-new-yorkers-voice-strong-support-mayor-adams-appointments-edward",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/forwarding-new-york-task-force-1-urban-search-rescue-team-arrives-columbia-south-carolina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/mayor-adams-new-expansion-popular-broadway-vision-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/mayor-adams-new-york-city-has-cared-more-100-000-asylum-seekers-since-last-spring",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/mayor-adams-posthumously-awards-key-the-city-new-york-legendary-entertainer-civil-rights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/mayor-adams-record-breaking-year-creating-connecting-new-yorkers-affordable",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/mayor-adams-text-eric-new-initiative-communicate-directly-new-yorkers-via",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/transcript-deputy-mayor-public-safety-banks-holds-briefing-public-safety-new-york-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/transcript-mayor-adams-appears-fox-5-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/transcript-mayor-adams-hosts-rally-delivers-remarks-calling-expedited-work-authorization",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/transcript-mayor-adams-makes-public-safety-related-announcement-august-05",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/transcript-mayor-adams-office-public-safety-holds-briefing-public-safety-new-york-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/transcript-mayor-adams-participates-fireside-conversation-hosted-the-new-york-law-school",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/transcript-mayor-adams-record-breaking-year-creating-connecting-new-yorkers-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/08/transcript-office-public-safety-holds-briefing-public-safety-new-york-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/mayor-adams-15-million-new-federal-funding-plant-maintain-city-s-trees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/mayor-adams-awards-key-the-city-new-york-cultural-icon-music-mogul-sean-combs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/mayor-adams-comprehensive-plan-combat-car-thefts-new-york-city",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/mayor-adams-dcp-director-garodnick-plan-new-affordable-housing-open-space-central",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/mayor-adams-dot-commissioner-rodriguez-action-plan-innovative-tools-reimagine",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/mayor-adams-gives-new-yorkers-ability-use-city-funded-rental-assistance-vouchers-across-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/mayor-adams-new-yorkers-ongoing-flooding-response-recovery-efforts",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/new-york-city-mayor-adams-israeli-minister-economy-industry-barkat-release-joint",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-appears-wcbs-cbs2-news-9-11-anniversary-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-comprehensive-plan-combat-car-thefts-new-york-city",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-delivers-remarks-public-safety-briefing",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-makes-public-safety-announcement-september-05",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-makes-public-safety-related-announcement-nypd-commissioner-caban",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-makes-public-safety-related-announcement-september-22",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-makes-public-safety-related-announcement-september-27",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/transcript-mayor-adams-thanks-lifeguards-emts-nypd-officers-who-rescued-new-yorker-from",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/09/what-they-saying-new-yorkers-back-mayor-adams-historic-effort-build-a-little-more-housing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-appoints-louis-molina-assistant-deputy-mayor-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-city-hall-municipal-buildings-iconic-new-york-city-sites-be-lit-purple",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-expands-remote-work-pilot-new-york-city-employees",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-hpd-commissioner-carri-n-take-action-connect-new-yorkers-affordable-housing-more",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-launches-new-whatsapp-channel-communicate-directly-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-makes-abortion-care-available-via-telehealth-new-yorkers-nyc-health",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-more-100-car-free-trick-or-streets-locations-halloween",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-new-yorkers-potential-air-quality-concerns-monday-october-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-releases-first-of-its-kind-plan-responsible-artificial-intelligence-use-nyc",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/nyc-weather-alert-new-yorkers-strongly-urged-take-safety-measures-preparation-periods-of",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/transcript-adams-administration-new-yorkers-weather-preparations-ahead-anticipated",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-october-20",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/transcript-mayor-adams-appears-univision-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/transcript-mayor-adams-delivers-remarks-new-york-stands-israel-rally",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/transcript-mayor-adams-makes-abortion-care-available-via-telehealth-new-yorkers-nyc",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/transcript-mayor-adams-makes-public-safety-related-announcement-nypd-commissioner-caban-october-26",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/transcript-mayor-adams-releases-first-of-its-kind-plan-responsible-artificial-intelligence-use",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/10/what-they-re-saying-new-yorkers-praise-mayor-adams-announcement-new-york-city-hit-all-time",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/mayor-adams-city-hall-municipal-buildings-iconic-new-york-city-sites-be-lit-orange",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/mayor-adams-city-planning-director-garodnick-celebrate-city-council-s-passage-zoning-reform-for",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/mayor-adams-kicks-off-annual-dusk-darkness-campaign-promote-street-safety-during-dangerous",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/mayor-adams-more-half-hardest-to-reach-new-yorkers-have-moved-street-into",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/mayor-adams-on-impact-rainbow-bridge-explosion-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/mayor-adams-plan-first-ever-community-vending-area-corona-plaza",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/mayor-adams-plan-make-nyc-first-east-coast-city-transition-city-s-heavy-duty-fleet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/mayor-adams-releases-november-2023-financial-plan-update",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/transcript-mayor-adams-honors-nypd-officers-who-saved-new-yorkers-lives",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/transcript-mayor-adams-makes-thanksgiving-day-parade-safety-related-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/11/transcript-mayor-adams-more-half-hardest-to-reach-new-yorkers-have-moved-from",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/city-issues-travel-advisory-mayor-adams-advises-new-yorkers-prepare-coastal-storm",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/city-suspends-inspection-authority-engineer-due-conduct-bronx-building-collapse-site",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/city-travel-advisory-mayor-adams-advises-new-yorkers-particularly-those-jamaica-bay",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-citywide-action-plan-build-inclusive-career-pathways-young-people",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-continues-get-stuff-done-working-class-new-yorkers-halfway-first-term",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-governor-hochul-progress-building-more-inclusive-prosperous-new-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-launches-effort-enhance-nightlife-safety-strengthen-small-businesses-phasing",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-nearly-30-million-federal-funding-queens-boulevard-safety-improvements",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-on-city-council-bills-will-make-new-york-city-less-safe",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-on-impact-incident-temple-israel-albany-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-progress-connecting-new-yorkers-shelter-permanent-housing-technology",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/mayor-adams-signs-bill-bolster-new-york-city-s-life-sciences-sector",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/new-york-city-hosts-eighth-annual-cities-action-convening-focused-national-asylum-seeker",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-deputy-mayor-public-safety-banks-holds-briefing-public-safety-new-york-city-december-01",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-december-15",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-december-20",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-mayor-adams-calls-unity-peace-safety-religious-leaders",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-mayor-adams-citywide-action-plan-build-inclusive-career-pathways-young",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-mayor-adams-continues-get-stuff-done-working-class-new-yorkers-halfway-through",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-mayor-adams-launches-effort-enhance-nightlife-safety-strengthen-small",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-mayor-adams-makes-new-year-s-eve-public-safety-related-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-office-public-safety-holds-briefing-public-safety-new-york-city-december-15",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-office-public-safety-holds-briefing-public-safety-new-york-city-december-22",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/transcript-office-public-safety-holds-briefing-public-safety-new-york-city-december-29",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2023/12/what-they-re-saying-new-york-leaders-continue-support-mayor-adams-push-back-misleading-poll",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/in-line-federal-monitor-editorial-boards-union-mayor-adams-vetoes-city-council-bill-that",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/mayor-adams-43-million-plan-lead-gender-equity-lays-ambitious-goal-make-nyc-most",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/mayor-adams-dc-37-launch-compressed-workweek-pilot-new-york-city-employees-who-cannot-work",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/mayor-adams-lays-out-future-focused-vision-working-class-new-yorkers-third-state-the-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/mayor-adams-on-passage-city-council-bills-will-make-new-york-city-less-safe",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/mayor-adams-suit-against-texas-charter-bus-companies-seeking-708-million-cover-costs",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/new-york-city-leads-coalition-cities-urging-supreme-court-safeguard-access-medication",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/new-yorkers-offer-praise-mayor-adams-future-focused-vision-working-class-new-yorkers-in",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-mayor-adams-43-million-plan-lead-gender-equity-lays-ambitious-goal-to",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-mayor-adams-appears-fox5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-mayor-adams-appears-live-cbs-news-new-york-s-streaming-network",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-january-30",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-mayor-adams-lays-out-future-focused-vision-working-class-new-yorkers-third-state",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-mayor-adams-makes-public-safety-related-announcement-nypd-commissioner-caban",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-office-public-safety-holds-briefing-public-safety-new-york-city",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-office-public-safety-holds-briefing-public-safety-new-york-city-january-11",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/transcript-office-public-safety-holds-briefing-public-safety-new-york-city-january-18",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/01/what-they-re-saying-new-york-leaders-continue-voice-opposition-city-council-bill-could",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-ambitious-plan-make-new-york-city-leader-green-collar-jobs",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-cancellation-next-round-agency-spending-cuts-result-strong",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-delivers-testimony-new-york-state-senate-finance-assembly-ways-means",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-fulfills-major-street-safety-commitment-making-city-vehicle-fleet-safer",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-governor-murphy-celebrate-new-york-new-jersey-selection-host-biggest",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-launches-chinatown-connections-plan-add-new-public-space-improve-traffic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-launches-program-create-1-500-permanent-affordable-homes-new-yorkers-shelter",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-nyc-health-hospitals-free-tax-prep-services-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-recommends-deputy-mayor-meera-joshi-department-city-planning-director-dan-garodnick",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/mayor-adams-selection-two-firms-redesign-scaffolding-sheds-pedestrian-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/transcript-mayor-adams-ambitious-plan-make-new-york-city-leader-green-collar-jobs",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-february-05",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-february-13",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/transcript-mayor-adams-delivers-testimony-before-new-york-state-senate-finance-assembly-ways",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/transcript-mayor-adams-launches-chinatown-connections-plan-add-new-public-space-improve",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/transcript-mayor-adams-makes-public-safety-related-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/02/transcript-office-public-safety-holds-briefing-public-safety-new-york-city-february-02",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-boosts-pay-80-000-human-services-workers-741-million-cost-of-living-adjustment",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-building-construction-trades-council-greater-new-york-cirrus-announce",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-celebrates-city-planning-commission-s-approval-city-yes-economic",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-celebrates-new-york-city-s-public-health-agenda-becoming-law-extending-lifespan-all",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-governor-hochul-port-authority-agreement-support-replacement-midtown",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-launch-new-york-city-s-first-ever-tenant-protection-cabinet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-launches-multi-pronged-effort-connect-more-new-yorkers-jobs-training-reduce",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-nypd-commissioner-caban-pilot-new-technology-additional-clinicians-be",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-opens-dining-out-nyc-portal-restaurants-apply-participate-new-york-city-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-plan-help-faith-based-organizations-build-more-affordable-housing-nyc",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-plans-open-substance-use-disorder-clinic-expecting-parenting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-progress-improve-care-services-people-custody-advances-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/mayor-adams-revive-creation-paused-monuments-honoring-new-york-city-women",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/transcript-mayor-adams-appears-live-cbs-news-new-york-s-streaming-network-march-06",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-march-01",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-march-06",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/transcript-mayor-adams-appears-live-wnbc-s-news-4-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/transcript-mayor-adams-launches-multi-pronged-effort-connect-more-new-yorkers-jobs-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/03/transcript-mayor-adams-plan-help-faith-based-organizations-build-more-affordable",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-celebrates-housing-milestone-ahead-schedule-plans-redevelop-bronx-library",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-celebrates-launch-new-york-city-s-first-climate-budgeting-process",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-chief-service-officer-rog-plan-boost-service-opportunities-volunteerism",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-curriculum-hate-crimes-their-impact-new-york-city-schools",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-dot-commissioner-rodriguez-launch-lockernyc-combat-package-theft-reduce",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-in-response-fruitful-new-york-state-budget-agreement",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-launches-workforce-development-council-unlock-new-job-opportunities-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-new-york-city-s-first-ever-nonprofit-advisory-council",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-nyc-health-hospitals-open-16-mental-health-clinics-new-york-city-public-schools",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-on-4-8-magnitute-earthquake-felt-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-takes-major-steps-towards-transforming-new-york-city-skate-capital-east-coast",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/new-yorkers-praise-mayor-adams-fiscal-year-2025-executive-budget-significant-sustainable",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/transcript-mayor-adams-appears-fox5-s-good-day-new-york-april-05",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/transcript-mayor-adams-appears-live-cbs-news-new-york-s-streaming-network-april-25",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-april-12",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-april-25",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/transcript-mayor-adams-dot-commissioner-rodriguez-launch-lockernyc-combat-package-theft-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/04/transcript-mayor-adams-makes-public-safety-related-announcement-nypd-commissioner-caban-april-03",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/charter-revision-commission-key-staff-appointments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-bipartisan-coalition-40-other-mayors-renew-call-work-authorization-for",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-completes-rollout-composting-all-new-york-city-public-schools",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-governor-hochul-nycedc-port-authority-plan-transform-brooklyn-marine",
+      "categories": [
+        "Pricing",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-hosts-first-ever-new-york-city-public-safety-promotion-ceremony-new-unified",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-york-city-emergency-management-proactive-safety-plan-help-new-yorkers",
+      "categories": [
+        "Pricing",
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-plans-new-memorial-honoring-fallen-post-9-11-service-members",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-may-02",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-may-20",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/transcript-mayor-adams-delivers-remarks-first-ever-public-safety-promotion-ceremony-makes",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/transcript-mayor-adams-delivers-remarks-governor-hochul-s-transportation-safety-budget",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/transcript-mayor-adams-governor-hochul-nycedc-port-authority-plan-transform",
+      "categories": [
+        "Pricing",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/transcript-mayor-adams-hosts-reception-kick-off-fleet-week-announces-plans-new-memorial",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/05/transcript-mayor-adams-new-york-city-emergency-management-proactive-safety-plan-help",
+      "categories": [
+        "Pricing",
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/adams-administration-releases-competitive-rfp-reduce-asylum-seeker-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/mayor-adams-applauds-passage-new-york-city-s-legislative-priorities-end-session",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/mayor-adams-chancellor-banks-more-equitable-vision-future-new-york-city-public",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/mayor-adams-on-president-biden-s-executive-order-providing-work-authorization-to",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/mayor-adams-speaker-adams-investment-school-budget-allocations-programming-for",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/new-yorkers-join-mayor-adams-speaker-adams-celebrate-fiscal-year-2025-budget-agreement-that",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/transcript-mayor-adams-attorney-general-james-27-million-coming-new-york-city-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/transcript-mayor-adams-chancellor-banks-more-equitable-vision-future-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/06/transcript-mayor-adams-speaker-adams-investment-school-budget-allocations-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/mayor-adams-ahsia-badi-executive-director-new-york-city-children-s-cabinet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/mayor-adams-awards-key-the-city-new-york-legendary-new-york-musician-philanthropist",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/mayor-adams-back-to-back-record-years-creating-connecting-new-yorkers-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/mayor-adams-governor-hochul-celebrate-new-subway-safety-milestones-massive-decreases-subway",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/mayor-adams-new-appointments-help-lead-new-york-city-government",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/mayor-adams-nominates-randy-mastro-serve-new-york-city-s-corporation-counsel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/new-york-city-s-asylum-application-help-center-wins-american-bar-association-s-hodson-award-for",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-july-01",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-july-18",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/transcript-mayor-adams-back-to-back-record-years-creating-connecting-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/transcript-mayor-adams-governor-hochul-celebrate-new-subway-safety-milestones-massive-decreases",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/transcript-mayor-adams-makes-public-safety-and-technology-related-announcement-mayors-from",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/transcript-mayor-adams-new-yorkers-impact-crowdstrike-outages-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/07/what-they-re-saying-former-new-york-city-state-officials-praise-mayor-adams-nomination-randy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-awards-key-the-city-new-york-legendary-new-york-weatherman-journalist-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-celebrates-city-council-approval-plan-create-approximately-7-000-new-homes-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-city-council-historic-10-point-plan-make-high-quality-child-care-more",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-community-improvement-coalition-protect-public-safety-enhance-quality-of",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-expanded-workforce-services-hiring-milestone-new-yorkers-with",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-largest-civil-rights-settlement-city-history-protecting-new-yorkers-from",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-new-tools-help-new-yorkers-add-accessory-homes-build-generational-wealth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-norman-siegel-celebrate-massive-increase-percentage-homeless-new-yorkers-being",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-releases-new-study-finding-sidewalk-sheds-scaffolding-cost-manhattan-businesses",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/new-yorkers-claim-345-million-thanks-mayor-adams-push-enhanced-earned-income-tax-credit",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/transcript-mayor-adams-appears-live-cbs2-s-cbs-news-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-august-30",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/transcript-mayor-adams-appears-live-news-12-takes-questions-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/transcript-mayor-adams-city-council-historic-10-point-plan-make-high-quality-child",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/transcript-mayor-adams-delivers-remarks-new-york-state-financial-control-board",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/transcript-mayor-adams-new-tools-help-new-yorkers-add-accessory-homes-build",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/transcript-mayor-adams-releases-new-study-finding-sidewalk-sheds-scaffolding-cost-manhattan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/transcript-new-yorkers-claim-345-million-thanks-mayor-adams-push-enhanced-earned-income",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/08/what-they-re-saying-even-more-new-yorkers-praise-mayor-adams-nomination-randy-mastro-city-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/adams-administration-breaks-ground-new-stapleton-waterfront-esplanade-of-development-that",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/fy24-mayor-s-management-report-adams-administration-has-driven-major-improvements-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-appointment-melissa-aviles-ramos-next-chancellor-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-celebrates-city-planning-commission-s-approval-city-yes-housing-opportunity",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-celebrates-milestone-connecting-new-yorkers-jobs-training-opportunities",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-celebrates-record-breaking-year-placing-formerly-homeless-new-yorkers-into",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-chancellor-banks-key-to-new-york-city-public-schools-application",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-comptroller-lander-new-york-city-s-third-issuance-social-bonds",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-launches-final-phase-historic-project-secure-future-new-york-city-s-water",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-next-generation-new-york-city-s-investments-flood-prevention-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/mayor-adams-on-new-york-city-public-schools-chancellor-david-banks-retirement",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/transcript-mayor-adams-appears-live-news12-takes-questions-new-yorkers-september-25",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/transcript-mayor-adams-launches-final-phase-historic-project-secure-future-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/transcript-mayor-adams-makes-cannabis-public-safety-related-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/transcript-mayor-adams-new-yorkers-ongoing-closure-the-queens-midtown-tunnel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/09/transcript-mayor-adams-next-generation-new-york-city-s-investments-flood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-appoints-chauncey-parker-deputy-mayor-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-awards-key-the-city-new-york-women-s-national-basketball-association",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-citywide-day-action-educate-new-yorkers-historic-affordable-housing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-completion-roll-out-first-ever-no-cost-pain-free-citywide-curbside",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-councilmember-moya-launch-multi-agency-operation-address-urgent-public-safety-and",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-finalized-e-bike-trade-in-program-keep-new-yorkers-safe-lithium-ion",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-how-nyc-moves-new-data-driven-plan-streamline-developing-major",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-kicks-off-public-review-atlantic-avenue-mixed-use-plan-create-approximately-4-600",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-lowers-city-flags-half-staff-city-hall-municipal-buildings-be-lit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-new-co-response-operation-focused-serving-more-new-yorkers-need-on",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-new-suite-benefits-help-make-it-easier-new-york-city-employees-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-the-intention-nominate-muriel-goode-trufant-serve-new-york-city-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-urges-new-yorkers-call-911-combat-subway-surfing-highlights-life-saving-tech",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/mayor-adams-welcomes-home-new-york-city-first-responders-deployment-north-carolina-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-october-07",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/transcript-mayor-adams-appears-live-news12-takes-questions-new-yorkers-october-23",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/transcript-mayor-adams-finalized-e-bike-trade-in-program-keep-new-yorkers-safe-from",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/transcript-mayor-adams-hosts-delivers-remarks-ceremony-celebrating-new-york-liberty",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/transcript-mayor-adams-new-co-response-operation-focused-serving-more-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/transcript-mayor-adams-new-suite-benefits-help-make-it-easier-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/10/transcript-mayor-adams-urges-new-yorkers-call-911-combat-subway-surfing-highlights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/adams-administration-breaks-ground-new-york-harbor-school-expansion-governors-island",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/mayor-adams-awards-key-the-city-new-york-gracie-mansion-conservancy-annual-gala-honorees",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/mayor-adams-bans-grilling-parks-reminds-new-yorkers-take-additional-precautions-conserve",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/mayor-adams-first-ever-civil-service-exams-multiple-public-safety-positions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/mayor-adams-governor-hochul-celebrate-agreement-advance-historic-plan-build-affordable",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/mayor-adams-releases-november-2024-financial-plan-with-new-investments-public-safety",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/transcript-mayor-adams-appears-live-news12-takes-questions-new-yorkers-november-19",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/transcript-mayor-adams-briefs-new-yorkers-thanksgiving-day-parade-safety-nypd-commissioner",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/transcript-mayor-adams-makes-public-safety-related-announcement-november-13",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/11/transcript-mayor-adams-releases-november-2024-financial-plan-with-new-investments-public",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-administration-deliver-safer-more-affordable-new-york-city-2024",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-appoints-james-stratford-executive-director-new-york-city-young-men-s-initiative",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-axe-tax-the-working-class-bold-proposal-eliminate-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-celebrates-confirmation-muriel-goode-trufant-new-york-city-corporation-counsel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-councilmember-moya-new-york-city-football-club-break-ground-new-soccer-stadium",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-kate-smith-executive-director-the-mayor-s-fund-advance-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-lifts-flame-firework-ban-reduced-fire-risk-urges-new-yorkers-continue",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-new-york-city-has-won-40-million-epa-grants-electrify-heavy-duty",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-proposals-protect-longtime-new-yorkers-immigrant-families-repeat",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-releases-new-report-detailing-success-community-driven-public-safety-strategies-to",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/mayor-adams-tentative-agreement-doctors-council-seiu-deliver-raises-500",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/transcript-mayor-adams-administration-deliver-safer-more-affordable-new-york-city-2024",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/transcript-mayor-adams-briefs-new-yorkers-new-year-s-eve-safety",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/transcript-mayor-adams-hosts-community-conversation-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2024/12/transcript-mayor-adams-launches-campaign-celebrate-new-york-city-s-400th-anniversary",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-82-million-investment-put-homeownership-within-reach-more-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-in-response-governor-hochul-s-plans-introduce-legislation-finally",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-kicks-off-public-review-midtown-south-mixed-use-plan-create-nearly-10-000-new",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-lays-out-ambitious-agenda-make-new-york-city-best-place-raise-family-fourth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-lifts-drought-watch-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-new-york-city-has-connected-victims-benefits-theft-nearly-48-million",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-nycedc-release-first-of-its-kind-report-secure-new-york-city-global-leader-in",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-progress-strengthening-new-york-city-s-position-national-leader-for",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-releases-fiscal-year-2026-preliminary-budget-make-new-york-city-best-place-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-relieves-80-million-medical-debt-working-class-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-removal-20-000-illegal-firearms-new-york-city-streets-since",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-requests-doctors-council-health-care-partners-engage-mediation-avert-strike",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/transcript-mayor-adams-appears-live-news-12-takes-questions-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/transcript-mayor-adams-lays-out-ambitious-agenda-make-new-york-city-best-place-raise-a",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/transcript-mayor-adams-releases-fiscal-year-2026-preliminary-budget-make-new-york-city-best",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/transcript-mayor-adams-removal-20-000-illegal-firearms-new-york-city-streets",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/what-they-re-saying-new-yorkers-praise-mayor-adams-family-focused-fiscal-year-2026-preliminary",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/01/what-they-re-saying-new-yorkers-praise-mayor-adams-family-focused-fourth-state-the-city-address",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/mayor-adams-commissioner-mayuga-kick-off-tax-season-urge-new-yorkers-sign-up-free-tax",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/mayor-adams-delivers-testimony-new-york-state-senate-local-government-general-government",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/mayor-adams-multi-agency-operation-address-urgent-public-safety-quality-of-life",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/new-york-city-law-department-lawsuit-against-trump-administration-unlawful-80",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york-february-26",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/transcript-mayor-adams-commissioner-mayuga-kick-off-tax-season-urge-new-yorkers-sign-up",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/transcript-mayor-adams-delivers-testimony-before-new-york-state-senate-finance-new-york-state",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/transcript-mayor-adams-multi-agency-operation-address-urgent-public-safety-and",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/02/transcript-mayor-eric-adams-delivers-address-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-celebrates-city-planning-commission-s-approval-atlantic-avenue-mixed-use-plan-to",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-celebrates-two-consecutive-years-population-growth-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-city-leaders-honor-lives-lost-covid-19-reflect-new-york-city-s-efforts-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-da-bragg-new-community-coalition-enhance-quality-life-improve-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-fdny-commissioner-tucker-declare-2025-fire-prevention-year-new-york-city-in",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-kicks-off-public-review-jamaica-neighborhood-plan-create-nearly-12-000-new-homes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-more-10-000-veterans-residing-new-york-city-have-been-contacted-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-new-exhibit-history-reproductive-rights-new-york-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-new-york-yankees-new-york-mets-home-games-projected-generate-over",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/mayor-adams-removal-over-1-000-illegal-firearms-new-york-city-streets-since",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/transcript-mayor-adams-city-leaders-honor-lives-lost-covid-19-reflect-new-york-city-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/transcript-mayor-adams-new-york-yankees-new-york-mets-home-games-projected-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/03/transcript-mayor-adams-removal-over-1-000-illegal-firearms-new-york-city-streets",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/mayor-adams-ambitious-plan-achieve-universal-after-school-programming-upcoming",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/mayor-adams-dob-commissioner-oddo-release-annual-construction-safety-report-highlight-safest",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/mayor-adams-kicks-off-public-review-onelic-neighborhood-plan-create-nearly-15-000-homes-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/mayor-adams-nypd-commissioner-tisch-launch-new-quality-life-division-enhance-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-ambitious-plan-achieve-universal-after-school-programming-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-appears-good-day-new-york-fox-5",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-appears-live-fox-5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-appears-live-fox5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-appears-live-wcbs-s-cbs-news-new-york-6-00-pm",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-briefs-new-yorkers-passover-safety-nypd-commissioner-tisch",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-makes-public-safety-related-announcement-bronx-da-darcel-clark-and",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-makes-public-safety-related-announcement-d-a-bragg-nypd",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-makes-public-safety-related-announcement-nypd-police-commissioner-tisch",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/transcript-mayor-adams-provides-address-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/what-they-re-saying-new-yorkers-praise-mayor-adams-ambitious-plan-achieve-universal",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/04/what-they-re-saying-new-yorkers-praise-mayor-adams-unprecedented-5-billion-advance-payments",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/mayor-adams-celebrates-city-council-approval-administration-s-plan-create-4-600-new-homes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/mayor-adams-city-officials-summer-safety-plan-brief-new-yorkers-staying-safe-as",
+      "categories": [
+        "Pricing",
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/mayor-adams-city-planning-kick-off-public-review-mta-project-create-nearly-700-homes-above",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/mayor-adams-full-new-york-knicks-postseason-has-potential-generate-832-million-in",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/mayor-adams-in-response-productive-new-york-state-budget-agreement-delivering-on",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/mayor-adams-temporarily-co-names-nyc-streets-after-new-york-knicks-players-team-advances-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/new-york-city-host-homecoming-heroes-first-major-city-ticker-tape-parade-honoring",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/new-york-city-israel-sign-declaration-intent-launch-nyc-israel-economic-council",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/transcript-mayor-adams-appears-live-fox-5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/transcript-mayor-adams-appears-live-fox-5-s-good-day-new-york-may-19",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/transcript-mayor-adams-hosts-community-conversation-public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/transcript-mayor-adams-hosts-summer-safety-briefing-ahead-memorial-day-weekend",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/05/transcript-new-york-city-host-homecoming-heroes-first-major-city-ticker-tape-parade",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/city-new-york-takes-action-protect-820-million-federal-funding-public-safety",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/city-new-york-takes-action-protect-billions-federal-funding-hospitals-universities",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/city-new-york-takes-action-support-public-school-student-who-was-arrested-after-attending",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-100-000-free-tickets-new-yorkers-watch-macy-s-4th-july-fireworks",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-celebrate-s-city-planning-commission-s-approval-midtown-south-mixed-use-plan-to",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-department-city-planning-kick-off-public-engagment-manhattan-plan-ambitious",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-family-former-congressman-charles-b-rangel-plans-congressman-rangel",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-fatherhood-plan-help-new-york-city-fathers-children-thrive",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-nycedc-doc-plan-remove-decommissioned-jail-barge-hunts-point-unveil",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-nycem-commissioner-iscol-urge-new-yorkers-plan-prepare-extreme",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-nypd-commissioner-tisch-new-york-city-has-seen-lowest-number-shootings-and",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-olr-commissioner-campion-continue-negotiations-new-city-employee-health-plan-that",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-posthumously-awards-key-the-city-new-york-former-congressman-charles-b-rangel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-removal-over-2-200-illegal-firearms-new-york-city-streets-since",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-urges-new-yorkers-prepare-summer-s-first-heat-wave",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/transcript-mayor-adams-appears-live-fox-5-s-good-day-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/transcript-mayor-adams-makes-public-safety-related-announcement-bronx-d-a-darcel-clark-and",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/transcript-mayor-adams-nycedc-doc-plan-remove-decommissioned-jail-barge-hunts",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/transcript-mayor-adams-removal-over-2-200-illegal-firearms-new-york-city-streets",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/06/transcript-mayor-adams-urges-new-yorkers-prepare-summer-s-first-heat-wave",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/-mayor-adams-expands-public-safety-communications-with--nyc-publ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/city-new-york-takes-action-support-former-public-school-student-arrested-after-attending",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/city-new-york-takes-action-support-public-school-student-arrested-after-attending-routine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/city-of-new-york-signs-declaration-challenging-federal-governmen",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/city-of-new-york-takes-action-to-safeguard-temporary-protected-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/city-of-new-york-takes-legal-action-to-protect-federal-funding-f",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/city-officials-urge-new-yorkers-to-stay-safe-during-extreme-heat",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/mayor-adams-department-sustainable-delivery-boost-street-safety-hold-delivery-app",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/mayor-adams-plan-close-dot-concrete-recycling-facility-brooklyn-marine-terminal",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/mayor-adams-urges-new-yorkers-take-precautions-stay-safe-during-extreme-heat",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/mayor-adams-urges-new-yorkers-to-take-care-of-their-mental-healt",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/transcript--mayor-adams-appears-live-on-wcbs---cbs-new-york-5-pm",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/transcript--mayor-adams-expands-public-safety-communications-wit",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/transcript-mayor-adams-makes-public-safety--heat-related-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/07/transcript-mayor-adams-makes-public-safety-related-announcement-brooklyn-da-gonzalez-nypd",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/08/city-of-new-york-leads-coalition-of-local-governments-to-protect",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/08/city-of-new-york-takes-action-to-stop-federal-government-s-campa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/08/mayor-adams--commissioner-campion-announce-new-city-health-plan-",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/08/mayor-adams-announces-new-proposal-to-further-support-new-yorker",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/08/transcript--mayor-adams-briefs-new-yorkers-on-j-ouvert-and-west-",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/08/transcript--mayor-adams-participates-in-interview-with-new-york-",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/09/city-of-new-york-takes-action-opposing-federal-government-s-mili",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/09/city-of-new-york-takes-additional-action-opposing-federal-govern",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/09/city-of-new-york-takes-multiple-actions-supporting-challenges-to",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/09/city-of-new-york-takes-steps-toward-recovering-approximately--48",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/09/mayor-adams--statement-after-new-york-city-board-of-elections-vo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/09/mayor-adams-breaks-ground-on--218-million-public-safety-project-",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/09/transcript--mayor-adams-briefs-new-yorkers-on-safety-ahead-of-un",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/09/transcript--mayor-adams-makes-public-safety-related-announcement",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/city-of-new-york-files-lawsuit-against-u-s--department-of-educat",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/city-of-new-york-files-lawsuit-to-protect-over--100-million-in-f",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/city-of-new-york-takes-action-to-block-federal-rule-threatening-",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/city-of-new-york-takes-action-to-protect-federal-funding-for-pla",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/city-of-new-york-takes-new-action-opposing-federal-government-s-",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/mayor-adams-announces-new-york-city-s-fourth-sale-of-social-bond",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/mayor-adams-cancels-nearly--135-million-in-medical-debt-for-work",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/mayor-adams-takes-action-to-position-new-york-city-as-global-cap",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/mayor-adams-unveils-comprehensive-neighborhood-plan-to-improve-q",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/new-yorkers-urged-to-take-safety-measures-in-preparation-for-pot",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/transcript--mayor-adams-delivers-an-address-to-new-yorkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/10/transcript--mayor-adams-unveils-comprehensive-neighborhood-plan-",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/11/city-of-new-york-takes-action-to-support-public-school-student-d",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams--governor-hochul-announce-planning-effort-for-future",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-and-chancellor-aviles-ramos-announce-new-york-city-p",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-announces--10-million-platform-to-map-new-york-city-",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-announces-new-model-to-have-new-york-city-s-911-ment",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-awards-key-to-the-city-of-new-york-to-national-women",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-releases-november-2025-financial-plan-update-with-ne",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/11/transcript--mayor-adams-briefs-new-yorkers-on-thanksgiving-day-p",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/12/mayor-adams-announces--68-million-plan-to-tackle-flash-flooding-",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/12/mayor-adams-awards-key-to-the-city-of-new-york-to-emmy-award-win",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/12/mayor-adams-awards-key-to-the-city-of-new-york-to-former-u-s--co",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/12/transcript--mayor-adams-briefs-new-yorkers-on-new-year-s-eve-saf",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2025/12/transcript--mayor-adams-briefs-new-yorkers-on-preparations-for-e",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2026/01/mamdani-administration-bans-hotel-hidden-fees-and-unexpected-cre",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2026/01/mayor-mamdani-releases-new-video-urging-new-yorkers-to-take-prec",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2026/01/mayor-mamdani-signs-executive-orders-to-crack-down-on-junk-fees-",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2026/01/mayor-mamdani-visits-snow-melting-location--updates-new-yorkers-",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2026/01/transcript--mayor-mamdani-administration-bans-hotel-hidden-fees-",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2026/02/mayor-mamdani-announces-additional-actions-to-keep-new-yorkers-s",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.nyc.gov/mayors-office/news/2026/02/mayor-mamdani-rolls-out-linknyc-psa-urging-homeless-new-yorkers-",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

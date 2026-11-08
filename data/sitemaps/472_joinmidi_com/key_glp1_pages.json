@@ -1,0 +1,926 @@
+{
+  "name": "Joinmidi",
+  "domain": "joinmidi.com",
+  "total_urls": 1392,
+  "semaglutide_pages": [
+    "https://www.joinmidi.com/post/does-semaglutide-make-you-tired",
+    "https://www.joinmidi.com/post/how-to-avoid-ozempic-side-effects",
+    "https://www.joinmidi.com/post/oral-semaglutide-weight-loss",
+    "https://www.joinmidi.com/post/ozempic-bone-loss",
+    "https://www.joinmidi.com/post/semaglutide-alternatives",
+    "https://www.joinmidi.com/post/semaglutide-and-menopause",
+    "https://www.joinmidi.com/post/semaglutide-to-tirzepatide-dose-conversion",
+    "https://www.joinmidi.com/post/semaglutide-withdrawal-symptoms",
+    "https://www.joinmidi.com/post/tirzepatide-vs-semaglutide-for-weight-loss",
+    "https://www.joinmidi.com/post/wegovy-pill",
+    "https://www.joinmidi.com/post/what-to-eat-on-ozempic",
+    "https://www.joinmidi.com/store/oral-semaglutide-drops",
+    "https://www.joinmidi.com/store/semaglutide",
+    "https://www.joinmidi.com/team/rosemary-thomas-cloud"
+  ],
+  "tirzepatide_pages": [
+    "https://www.joinmidi.com/post/does-tirzepatide-cause-hair-loss",
+    "https://www.joinmidi.com/post/foundayo-vs-zepbound",
+    "https://www.joinmidi.com/post/how-fast-does-tirzepatide-work",
+    "https://www.joinmidi.com/post/how-quickly-does-zepbound-work",
+    "https://www.joinmidi.com/post/how-to-get-tirzepatide",
+    "https://www.joinmidi.com/post/semaglutide-to-tirzepatide-dose-conversion",
+    "https://www.joinmidi.com/post/tirzepatide-dosing-for-weight-loss",
+    "https://www.joinmidi.com/post/tirzepatide-vs-retatrutide",
+    "https://www.joinmidi.com/post/tirzepatide-vs-semaglutide-for-weight-loss",
+    "https://www.joinmidi.com/post/zepbound-diarrhea",
+    "https://www.joinmidi.com/post/zepbound-dose-schedule",
+    "https://www.joinmidi.com/post/zepbound-generic",
+    "https://www.joinmidi.com/post/zepbound-shot",
+    "https://www.joinmidi.com/post/zepbound-without-insurance",
+    "https://www.joinmidi.com/store/oral-tirzepatide-drops"
+  ],
+  "pricing_pages": [
+    "https://www.joinmidi.com/glp1-pricing",
+    "https://www.joinmidi.com/post/ask-the-expert-all-about-hormones-weight-and-feeling-good-at-midlife",
+    "https://www.joinmidi.com/post/hrt-cost",
+    "https://www.joinmidi.com/post/menopause-diet-plan",
+    "https://www.joinmidi.com/post/retatrutide-cost",
+    "https://www.joinmidi.com/pricing-insurance",
+    "https://www.joinmidi.com/team/kerem-price"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.joinmidi.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/bioidentical-hormone-therapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/for-clinicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/glp1-pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/info/editorial-standards",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/legals/breakupletterchallengetermsandconditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/legals/calm--midi-giveaway-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/legals/calm-reddit-giveaway-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/legals/card-on-file-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/legals/midi-terms-of-purchase",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/legals/midisupplementsterms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/legals/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/legals/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/az",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/az/mesa-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/az/phoenix-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/az/tucson-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/bakersfield-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/fresno-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/long-beach-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/los-angeles-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/oakland-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/sacramento-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/san-diego-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/san-francisco-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ca/san-jose-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/co",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/co/colorado-springs-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/co/denver-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/fl",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/fl/jacksonville-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/fl/miami-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ga/atlanta-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/il",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/il/chicago-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/in",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/in/indianapolis-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ks",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ks/wichita-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ky",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ky/louisville-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ma/boston-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/md",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/md/baltimore-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/mi",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/mi/detroit-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/mn",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/mn/minneapolis-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/mo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/mo/kansas-city-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/nc",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/nc/charlotte-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/nc/raleigh-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/nj",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ny",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ny/nyc-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/oh",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/oh/columbus-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ok",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ok/oklahoma-city-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/ok/tulsa-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/pa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/pa/philadelphia-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tn",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tn/memphis-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tn/nashville-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tx",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tx/austin-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tx/dallas-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tx/el-paso-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tx/fort-worth-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tx/houston-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/tx/san-antonio-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/wa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/wa/seattle-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/locations/washington-dc-menopause-specialists",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/medical-advisors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/meet-our-clinicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/ask-the-expert-all-about-hormones-weight-and-feeling-good-at-midlife",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/best-probiotic-for-women",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/bioidentical-progesterone",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/does-semaglutide-make-you-tired",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/does-tirzepatide-cause-hair-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/foundayo-vs-zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/how-fast-does-tirzepatide-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/how-quickly-does-zepbound-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/how-to-avoid-ozempic-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/how-to-get-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/hrt-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/menopause-diet-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/oral-semaglutide-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/ozempic-bone-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/probiotics-for-menopause",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/retatrutide-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/semaglutide-alternatives",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/semaglutide-and-menopause",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/semaglutide-to-tirzepatide-dose-conversion",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/semaglutide-withdrawal-symptoms",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/tirzepatide-dosing-for-weight-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/tirzepatide-vs-retatrutide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/tirzepatide-vs-semaglutide-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/wegovy-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/what-to-eat-on-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/who-is-the-best-menopause-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/zepbound-diarrhea",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/zepbound-dose-schedule",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/zepbound-generic",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/zepbound-shot",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/post/zepbound-without-insurance",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/pricing-insurance",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/store/oral-semaglutide-drops",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/store/oral-tirzepatide-drops",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/store/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/store/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/aissel-faquir",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/alice-oglethorpe-author-bio",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/brittany-burke-robert-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/elizabeth-dougherty-author-bio",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/georgia-owen",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/gina-way-bio-page",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/haley-jena-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/hannah-chenoweth-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/jennifer-heimlich-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/jessica-booth-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/jessica-migala-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/jihan-myers-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/julie-stewart-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/kathleen-felton-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/kayla-blanton-author-bio",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/kerem-price",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/lauren-savage-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/leslie-goldman-bio-page",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/meghan-rabbitt-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/ronnie-koenig-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/rosemary-thomas-cloud",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/samantha-lande-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/sarah-klein-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/sarah-wexler-bio-page",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/shaun-dreisbach-bio-page",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.joinmidi.com/team/tula-karras-bio",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

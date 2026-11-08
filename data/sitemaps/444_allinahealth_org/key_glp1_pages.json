@@ -1,0 +1,6017 @@
+{
+  "name": "Allinahealth",
+  "domain": "allinahealth.org",
+  "total_urls": 5851,
+  "semaglutide_pages": [
+    "https://www.allinahealth.org/healthysetgo/nourish/is-green-tea-natures-ozempic"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=22e8f8c0-2534-479d-9b1b-3e4010aa2fee",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=28049fee-5fd4-4bf0-856a-ba03141abacd",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=4bd10899-72a8-4ece-abfb-8d25a234cfee",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=4cf57d06-e4db-4aec-bd40-ac02fee1915c",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=6f8cfee5-eb02-4008-8a6c-e30f6a6ef3d1",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=71a31a9a-0e9d-4adb-90da-fb7f69efee96",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=77a6e514-fce8-4ae5-bc2c-dfee89c97416",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=8e1a4bcc-b9f6-4d06-bf88-5a3ea4d3bfee",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=c17b8fdc-fee7-412b-aa8a-2084c109c911",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=d44c46ca-d843-4de1-9a15-f3feee99caee",
+    "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=ed62fee4-d4f2-4821-bc54-52a61e123c18",
+    "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2014-2016-community-health-needs-assessment-and-implementation-plans",
+    "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2017-2019-community-health-needs-assessment-and-implementation-plans",
+    "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2020-2022-needs-assessments-and-implementation-plans",
+    "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2023-2025-needs-assessments-and-implementation-plans"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://account.allinahealth.org/find/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=22e8f8c0-2534-479d-9b1b-3e4010aa2fee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=28049fee-5fd4-4bf0-856a-ba03141abacd",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=4bd10899-72a8-4ece-abfb-8d25a234cfee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=4cf57d06-e4db-4aec-bd40-ac02fee1915c",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=6f8cfee5-eb02-4008-8a6c-e30f6a6ef3d1",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=71a31a9a-0e9d-4adb-90da-fb7f69efee96",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=77a6e514-fce8-4ae5-bc2c-dfee89c97416",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=8e1a4bcc-b9f6-4d06-bf88-5a3ea4d3bfee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=c17b8fdc-fee7-412b-aa8a-2084c109c911",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=d44c46ca-d843-4de1-9a15-f3feee99caee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/library/download?templateUID=39D9FBC3-FBCE-4D05-87D0-3FC666F7E5B3&amp;documentUID=ed62fee4-d4f2-4821-bc54-52a61e123c18",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/100",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1003",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1019",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/102",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1020",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/103",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/106",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/11",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/113",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1157",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1178",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/118",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/120",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/121",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/122",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/124",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/125",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/127",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1272",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1298",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/13",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1367",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1383",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1386",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1387",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1388",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1394",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1395",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1396",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1458",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1459",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1461",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1462",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1463",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1464",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1468",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1469",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1488",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1501",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1504",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1506",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1526",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1528",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1537",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1549",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1558",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1597",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1621",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1642",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1658",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1662",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1664",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1669",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1678",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1685",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1687",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1688",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1691",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1706",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1708",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1709",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1712",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1713",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1714",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1715",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1716",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1717",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1719",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1720",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1721",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1722",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1723",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1724",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1725",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1730",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1734",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1748",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1751",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1752",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1753",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1754",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1761",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1765",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1767",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1768",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1772",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1776",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1793",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1794",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1801",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1819",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1824",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1825",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1835",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1839",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1853",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1869",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1880",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1881",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1882",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1884",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1885",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1886",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1888",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1890",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1892",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1897",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1899",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1900",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1902",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1904",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1905",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1906",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1909",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1910",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1912",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1913",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1917",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1925",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1928",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1929",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1930",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1932",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1933",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1934",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1935",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1936",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1937",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1938",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1940",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1941",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1942",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1943",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1944",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1945",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1946",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1948",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1949",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1950",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1951",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1952",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1956",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1959",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1961",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1964",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1973",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1974",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1975",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1976",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1977",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1979",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1981",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1985",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1987",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1988",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1989",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1990",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1991",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1993",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1994",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1995",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1997",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/1998",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2000",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2001",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2002",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2004",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2008",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2009",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2010",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2013",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2014",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2016",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2017",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2018",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2021",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2023",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2024",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2027",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2028",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2029",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2031",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2033",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2034",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2035",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2037",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/2038",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/3",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/32",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/342",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/46",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/48",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/49",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/492",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/50",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/504",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/52",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/53",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/54",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/55",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/56",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/57",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/58",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/599",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/60",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/604",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/615",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/616",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/62",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/63",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/64",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/649",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/655",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/656",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/657",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/658",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/659",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/66",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/660",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/662",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/663",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/664",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/665",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/666",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/669",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/683",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/684",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/69",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/709",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/71",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/72",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/724",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/73",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/76",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/761",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/762",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/79",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/796",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/80",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/809",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/818",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/82",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/824",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/841",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/85",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/852",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/853",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/858",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/86",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/866",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/867",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/868",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/869",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/87",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/88",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/887",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/89",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/893",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/897",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/898",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/899",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/901",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/91",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/929",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/93",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/930",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/94",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/95",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/locations/96",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/802/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/803/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/809/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/811/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/815/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/820/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/821/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/824/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/826/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/827/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/828/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/829/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/830/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/831/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/858/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/859/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/860/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/861/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/862/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/867/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/871/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/872/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/874/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/875/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/876/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/877/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/878/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/881/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/884/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/885/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/886/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/887/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/888/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/889/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/890/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/891/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/892/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/893/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/894/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/896/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/897/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/898/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/899/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://account.allinahealth.org/servicelines/900/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/internal-medicine-residency-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/neurology-residency-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/neurology-residency-program/how-to-apply",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/neurology-residency-program/living-in-the-twin-cities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/neurology-residency-program/meet-the-faculty",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/neurology-residency-program/message-from-the-director",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/neurology-residency-program/mission-and-program-aims",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-internship",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-residency-program",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-residency-program/current-pharmacy-residents",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-residency-program/pgy1-pharmacy-practice-residency-ashp-accredited",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-residency-program/pgy2-cardiology-pharmacy-residency-ashp-accredited",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-residency-program/pgy2-health-system-pharmacy-administration-residency",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-residency-program/pgy2-pharmacy-residency-in-infectious-diseases-ashp-accredited",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-residency-program/pgy2-pharmacy-residency-oncology",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/careers/pharmacy-residency-program/preceptors",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/hospital-overview/awards-and-ratings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/hospital-overview/nursing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/in-the-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/services/hospitalist-care/for-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-hospital/services/hyperbaric-oxygen-therapy/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-westhealth/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/abbott-northwestern-westhealth/about-us/overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report/allina-health-foundation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report/brain-and-spine-institute",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report/cancer-institute",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report/community-benefit-and-engagement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report/emergency-medical-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report/environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report/minneapolis-heart-institute",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/annual-report/minnesota-united-fc-partnership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/awards-and-recognition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/awards-and-recognition/annual-volunteer-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/awards-and-recognition/the-daisy-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/awards-and-recognition/top-docs-for-women",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/awards-and-recognition/top-docs-mn-monthly",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/awards-and-recognition/top-docs-rising-star-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/awards-and-recognition/topdocs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/community-engagement-regions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/allina-health-and-free-bikes-4-kidz",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/automated-external-defibrillators",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/cpr-and-aed-training-in-minnesota-and-western-wisconsin",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/cpr-and-aed-training-in-minnesota-and-western-wisconsin/save-a-life-parties",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/order-an-aed",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/order-an-aed/aed-maintenance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/programs-and-success-stories",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/programs-and-success-stories/heart-safe-communities-cities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/programs-and-success-stories/heart-safe-communities-counties",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/programs-and-success-stories/heart-safe-communities-schools",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/heart-safe-communities/sudden-cardiac-arrest",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/the-backyard-initiative",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/the-backyard-initiative/community-health-action-teams",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/initiatives-and-programs/the-backyard-initiative/publications",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/minnesota-united-fc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/need-assessments",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2014-2016-community-health-needs-assessment-and-implementation-plans",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2017-2019-community-health-needs-assessment-and-implementation-plans",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2020-2022-needs-assessments-and-implementation-plans",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2023-2025-needs-assessments-and-implementation-plans",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/need-assessments/2026-2028-needs-assessments-and-implementation-plans",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/need-assessments/community-health-needs-assessments-video",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/community-involvement/need-assessments/partnering-to-improve-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/healthy-food-and-beverages",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/information-for-suppliers-and-vendors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/information-for-suppliers-and-vendors/contact-supply-chain-management",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/information-for-suppliers-and-vendors/supplier-development-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/leadership/allina-health-board-of-directors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/leadership/foundation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/3-allina-health-hospitals-awarded-5-stars-from-the-centers-for-medicare-and-medicaid-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/ahci-piper-center-accreditation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/ahci-plymouth-welcomes-cancer-patients-at-new-expanded-infusion-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-05042023-statement-on-seiu-10-day-notice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-51023-statement-on-tentative-agreement-with-seiu",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-82423-policy-announcement",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-adds-mobile-app-to-help-deaf-and-hard-of-hearing-patients-better-communicate",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-and-free-bikes-4-kidz-mn-celebrate-partnership-at-large-bike-giveaway",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-announces-changes-to-services-in-owatonna",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-announces-first-climate-action-plan-ahead-of-earth-day",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-announces-new-mental-health-addiction-services-programs-at-united-hospital-hastings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-anw-hospital-is-first-in-twin-cities-to-perform-groundbreaking-lung-cancer-procedure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-appoints-dominica-tallarico-new-executive-vice-president-and-chief-operations-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-appoints-first-senior-vice-president-chief-nursing-executive-role",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-buffalo-hospital-marks-500th-surgery-with-stryker-mako-robotic-assisted-arm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-cancer-institute-adds-clinicalpath-to-enhance-evidence-based-cancer-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-cancer-institute-clinical-trial-to-revolutionize-cancer-treatment-and-diagnosis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-cancer-institute-coon-rapids-designated-an-acr-comprehensive-breast-imaging-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-cancer-institute-faribault-welcomes-patients-at-new-expanded-cancer-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-cancer-institute-partners-with-foundation-medicine-to-advance-precision-oncology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-cancer-institute-receives-accreditation-for-excellence-in-radiation-oncology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-celebrates-future-of-abbott-northwestern-hospital",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-commits-to-the-safe-use-of-artificial-intelligence-via-white-house-pledge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-cost-cutting-innovation-receives-national-supply-chain-award-recognition",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-earns-accreditation-from-the-aahrpp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-earns-platinum-bell-seal-for-workplace-mental-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-ems-welcomes-therapy-dog-to-the-communication-center-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-expanding-care-offerings-at-allina-health-eden-prairie",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-faribault-medical-center-commemorates-johnston-hall",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-hospitals-ranked-among-highest-in-state",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-hospitals-receive-national-recognition-for-stroke-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-joins-guardian-research-network-to-drive-translational-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-joins-vizient-community-contracting-to-expand-opportunities-for-diverse-suppliers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-lakeville-north-clinic-now-open-to-patients",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-names-medspeed-as-partner-to-provide-systemwide-health-care-logistics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-names-new-president-of-owatonna-hospital-and-faribault-medical-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-new-ulm-medical-center-receives-award-for-rural-health-care-workforce",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-new-ulm-medical-center-welcomes-new-outpatient-mental-health-provider",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-new-ulm-medical-center-welcomes-new-surgeon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-new-ulm-pharmacy",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-now-scheduling-free-skin-cancer-screenings-for-melanoma-monday",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-partners-with-epic-based-keycare-platform-for-24-x-7-virtual-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-partners-with-qventus-to-improve-or-efficiency-and-grow-surgical-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-pauses-interruptions-to-nonemergent-outpatient-clinic-scheduling",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-receives-national-award-for-environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-requests-hospice-care-volunteers-as-nationwide-shortage-continues",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-researchers-present-studies-aimed-at-improving-care-during-pregnancy-childbirth",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-southern-market-president-accepts-position-as-mercy-hospital-president",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-springfield-clinic-now-offering-3d-mammography",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-statement-on-labor-reductions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-statement-regarding-doctors-council-seiu-vote",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-statement-seiu-strike-authorization-42623",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-statement-to-new-york-times",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-surgery-center-vadnais-heights-opens-to-patients",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-takes-steps-to-prepare-for-winter-storm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-health-united-hospital-updates-mental-health-unit-to-create-more-welcoming-spaces",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-healths-abbott-northwestern-hospital-named-to-newsweeks-worlds-best-hospitals-2023",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-healths-mercy-hospital-named-to-newsweeks-worlds-best-hospitals-2023-list",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/allina-healths-new-complex-hernia-program-offers-care-options-for-all-case-types",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/buffalo-hospital-awarded-spring-2023-a-hospital-safety-grade-from-leapfrog-group",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/cambridge-medical-center-awarded-spring-2023-a-hospital-safety-grade-from-leapfrog-group",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/faribault-medical-center-begins-construction-on-expanded-cancer-clinic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/faribault-medical-center-hospital-auxiliary-makes-donation-to-help-young-athletes-stay-safe",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/full-scholarships-for-future-emergency-medical-technicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/minnesota-health-care-systems-declare-gun-violence-a-public-health-crisis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/minnesota-united-announces-expanded-partnership-with-allina-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/new-technology-somewhere-wins-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/new-ulm-medical-center-welcomes-new-acupuncturist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/new-ulm-medical-center-welcomes-new-podiatrist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/notice-of-data-privacy-incident-from-allina-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/owatonna-hospital-awarded-spring-2023-a-hospital-safety-grade-from-leapfrog-group",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/st-francis-regional-medical-center-announces-construction-of-surgery-and-endoscopy-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/strike-retirement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/the-miller-dwan-foundation-acquires-northland-adaptive-recreation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2023/the-mother-baby-center-locations-at-united-and-mercy-hospitals-top-ratings",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/abbott-northwestern-and-mercy-hospitals-named-to-newsweeks-worlds-best-hospitals-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/abbott-northwestern-hospital-is-first-in-mn-to-implant-barostim-therapy-for-heart-failure-symptoms",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/abbott-northwestern-hospital-seeks-fourth-magnet-designation-for-excellence-in-nursing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/abbott-northwestern-westhealth-designated-as-an-acute-stroke-ready-site",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-and-minnesota-united-fc-form-new-mnufc-power-soccer-academy-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-announces-chief-clinical-executive",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-announces-definitive-agreement-with-quest-diagnostics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-announces-departure-of-chief-administrative-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-announces-departure-of-longtime-chief-financial-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-announces-strategic-relationship-to-enhance-health-care-experience",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-appoints-doug-watson-as-chief-financial-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-awarded-grant-to-combat-youth-substance-abuse",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-buffalo-hospital-hosts-scrub-club",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-buffalo-hospital-teams-perform-1000th-surgery-with-stryker-mako-robotic-assisted-arm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-cambridge-medical-center-earns-spring-2024-a-hospital-safety-grade-from-leapfrog-group",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-celebrates-five-years-of-emergency-management-services-therapy-dog-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-complex-hernia-program-is-first-to-perform-surgery-with-new-resorbable-mesh-technology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-courage-kenny-rehabilitation-institute-hosts-adaptive-sports-expo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-earns-national-award-for-environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-earns-top-scores-for-disability-inclusion-for-third-year-in-a-row",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-ems-operations-supervisor-completes-national-fire-academy-managing-officer-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-faribault-medical-center-offers-new-mental-health-treatment-for-teens",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-foundation-and-buffalo-hospital-award-ten-student-health-care-scholarships",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-foundation-surprises-9-year-old-boy-with-adaptive-bike",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-hospitals-donate-to-greater-minnesota-food-shelves",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-hospitals-nationally-recognized-for-their-commitment-to-stroke-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-hospitals-ranked-among-highest-in-state-according-to-us-news-and-world-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-introduces-new-vice-president-of-womens-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-lakeville-specialty-center-celebrates-opening",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-launches-cancer-connection-mobile-app",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-minneapolis-heart-institute-brings-advanced-cardiac-imaging-to-cambridge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-minneapolis-heart-institute-first-in-us-to-implant-triclip-system",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-minneapolis-heart-institute-partners-with-st-croix-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-minneapolis-heart-institutes-northern-region-welcomes-new-cardiologist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-now-scheduling-free-skin-cancer-screenings-for-melanoma-monday",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-nursing-professional-development-program-receives-accreditation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-owatonna-hospital-receives-level-4-trauma-designation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-partners-with-unite-us-to-address-unmet-social-care-needs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-recognized-as-2024-wellbeing-first-champion-supporting-health-worker-wellbeing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-repositioning-services-between-mercy-hospital-campuses",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-retail-pharmacies-taking-part-in-national-prescription-drug-take-back-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-statement-on-crowdstrike",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-statement-on-nlrb-decision",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-health-surgical-teams-deploy-new-robotic-technology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/allina-healths-center-for-mental-health-and-addiction-provides-seamlessly-connected-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/birth-center-open-house-at-owatonna-hospital",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/buffalo-hospital-celebrates-the-first-baby-born-in-the-hospital-in-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/buffalo-hospital-earns-spring-2024-a-hospital-safety-grade-from-leapfrog-group",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/cambridge-medical-center-marks-500th-surgery-with-stryker-mako-robotic-assisted-arm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/change-to-chill-program-partners-with-mnufc-academy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/ckri-rolling-twins-are-2024-international-wheelchair-softball-world-series-champions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/colorectal-cancer-screening-gets-ai-boost-at-allina-health-buffalo-hospital",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/dragon-divas-announce-allina-health-festival-sponsorship-for-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/faribault-medical-center-auxiliary-donates-more-than-11000-dollars",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/meet-the-first-baby-born-at-faribault-medical-center-in-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/meet-the-first-baby-born-at-new-ulm-medical-center-in-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/meet-the-first-baby-born-at-owatonna-hospital-in-2024",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/naming-rights-agreement-for-new-allina-health-pavilion-rink-at-hasse-arena",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/new-ulm-medical-center-awards-scholarships",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/new-ulm-medical-center-offers-new-mental-health-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/new-ulm-medical-center-optical-shop-to-close-june-28",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/new-ulm-medical-center-welcomes-three-new-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/notice-of-privacy-incident-from-allina-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/nursing-and-health-care-career-scholarships-available-from-new-ulm-medical-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/opportunities-for-wright-county-students-pursuing-a-career-in-health-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/owatonna-hospital-auxiliary-awards-scholarships",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/owatonna-hospital-auxiliary-gifts-newborns-a-warm-safe-welcome",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/owatonna-hospital-earns-spring-2024-a-hospital-safety-grade-from-leapfrog-group",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/owatonna-hospital-volunteer-honored",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/river-falls-area-hospital-receives-top-marks-for-patient-experience-and-more",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/st-francis-regional-medical-center-campus-moves-to-100-clean-energy-from-shakopee-public-utilities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/the-mother-baby-center-at-united-hospital-recognized-for-excellent-outcomes-for-black-patients",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2024/united-hospital-hastings-regina-campus-welcomes-new-resident-chaplain",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/47-new-ulm-area-students-receive-scholarships-through-donor-generosity-to-allina-health-foundation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/abbott-northwestern-and-united-hospitals-awarded-on-newsweeks-worlds-best-hospitals-2025-list",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/abbott-northwestern-hospital-achieves-magnet-recognition-again",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/abbott-northwestern-only-metro-hospital-in-top-100-for-heart-care-and-brain-surgery",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/adolescent-mental-health-program-among-recipients-of-generous-donations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-and-mnufc-to-host-blood-drive-during-critical-time",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-and-st-francis-regional-medical-center-to-provide-mental-health-services-at-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-announces-closure-of-faribault-birth-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-announces-plan-for-owatonna-labor-and-delivery-services",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-appoints-kelly-spratt-as-mercy-hospital-president",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-brain-and-spine-institute-launches-focused-ultrasound-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-brain-and-spine-institute-names-new-president",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-brings-advanced-cardiac-imaging-to-united-hospital-hastings-regina",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-buffalo-hospital-awards-scholarships-to-future-healthcare-workers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-buffalo-hospital-gets-latest-joint-surgery-technology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-cancer-institute-launches-mammo-on-the-move",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-cancer-institute-offers-noninvasive-ultrasound-to-treat-some-liver-tumors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-coon-rapids-clinic-completes-multi-year-remodel",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-earns-platinum-bell-seal-for-workplace-mental-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-earns-top-marks-for-environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-eden-prairie-clinic-expands-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-emt-honored-with-national-red-cross-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-faribault-medical-center-re-designated-as-acute-stroke-ready-hospital",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-hastings-clinic-now-offers-urgent-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-helps-local-foundation-provide-free-aed-and-life-saving-skills-to-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-hospitals-nationally-recognized-for-expert-stroke-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-minneapolis-heart-institute-earns-international-recognition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-minneapolis-heart-institute-first-in-state-to-use-new-device-for-atrial-fibrillation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-names-new-abbott-northwestern-hospital-chief-nursing-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-new-ulm-medical-center-adds-new-family-medicine-physician",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-new-ulm-medical-center-welcomes-new-mental-health-clinician",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-now-offers-total-knee-and-hip-replacements-at-united-hospital-hastings-regina-campus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-now-scheduling-free-skin-cancer-screenings-for-melanoma-monday",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-recognized-by-ghx-for-supply-chains-of-distinction-award-winner",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/allina-health-simulation-lab-sustained-with-ongoing-generosity-from-julie-and-steve-vanderboom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/buffalo-hospital-scrub-club-highlights-inpatient-nursing-careers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/buffalo-hospital-welcomes-the-first-baby-born-in-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/colorectal-cancer-screenings-get-ai-boost-at-allina-health-cambridge-medical-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/courage-kenny-rehabilitation-institute-hosts-2025-usa-wheelchair-softball-international-world-series",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/donation-to-faribault-medical-center-aims-to-help-make-emergency-department-visits-less-stressful",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/memorial-blood-centers-partners-with-allina-health-to-expand-lifesaving-impact",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/minnesota-aurora-names-allina-health-as-its-official-health-system-partner",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/new-donation-to-faribault-medical-center-provides-comfort-for-visitors-of-youngest-patients",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/new-orthopedic-surgeon-joins-allina-health-new-ulm-medical-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/new-ulm-medical-center-among-top-20-critical-access-hospitals-in-the-nation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/new-ulm-medical-center-brings-robot-assisted-knee-surgery-to-south-central-minnesota-residents",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/new-ulm-medical-center-president-toby-freier-takes-on-new-role-at-allina-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/new-ulm-medical-center-recognized-by-chartis-as-a-top-100-critical-access-hospital",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/new-ulm-medical-center-welcomes-the-first-baby-born-in-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/northfield-hospital-clinics-allina-health-sign-letter-of-intent",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/nursing-and-health-care-career-scholarships-available-from-new-ulm-medical-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/opportunities-for-wright-county-students-pursuing-health-care-career",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/owatonna-hospital-auxiliary-awards-student-scholarships",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/owatonna-hospital-auxiliarys-annual-student-scholarship-applications-now-open",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/owatonna-hospital-welcomes-the-first-baby-born-in-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/rheumatologist-joins-care-team-at-allina-health-new-ulm-medical-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/ridgeview-partners-with-allina-health-to-provide-outpatient-mental-health-care-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/river-falls-area-hospital-recognized-by-chartis-as-a-top-100-critical-access-hospital",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2025/united-hospital-welcomes-the-first-baby-born-in-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/a-new-home-for-heart-care-in-waconia",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/ahmhi-first-in-upper-midwest-to-implant-innovative-defibrillation-lead",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/ahmhi-offers-advance-vascular-care-at-cuyuna-regional-medical-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allia-health-awarded-mental-health-of-america-platinum-bell-seal-for-workplace-mental-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-and-sutter-health-sign-definitive-agreement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-announcement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-becomes-first-in-the-twin-cities-to-offer-da-vinci-sp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-brain-and-spine-institute-is-first-in-twin-cities-to-offer-zeto-one-eeg-technology",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-cancer-institute-expands-services-to-edina",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-courage-kenny-rehabilitation-hosts-national-wheelchair-basketball-tournament",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-earns-national-recognition-for-sustainability-efforts",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-expands-cancer-connection-app-to-support-lung-cancer-patients",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-faribault-medical-center-recognized-by-visient-with-quality-leadership-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-hospitals-nationally-recognized-for-expert-stroke-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-launches-minnesotas-first-mobile-cardiac-pet-ct-imaging-service",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-minneapolis-heart-institute-expands-services-to-hudson",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-names-matt-wille-as-new-president-of-faribault-medical-center-and-owatonna-hospital",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-responds-to-seiu-strike-notices",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-retail-pharmacies-take-part-in-national-prescription-drug-take-back-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-unveils-richard-m-schulze-surgical-and-critical-care-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/allina-health-welcomes-first-patients-to-richard-m-schulze-surgical-and-critical-care-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/buffalo-hospital-expands-its-robotic-surgical-systems",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/courage-kenny-rehabilitation-institute-showcases-adaptive-sports-and-recreation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/mercy-hospital-welcomes-the-first-baby-born-in-2026",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/mn-companies-mobilize-millions-of-dollars-for-small-business-support",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/new-ulm-medical-center-names-carisa-buegler-as-new-president",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/new-ulm-medical-center-offers-several-nursing-health-care-career-scholarships",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/new-ulm-medical-center-welcomes-new-mental-health-clinician",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/new-ulm-medical-center-welcomes-the-first-baby-born-in-2026",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/northfield-hospital-clinics-and-allina-health-enter-into-innovative-partnership-of-care",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/owatonna-hospital-auxiliary-awards-scholarships",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/owatonna-hospital-auxiliarys-student-annual-scholarship-applications-now-open",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/owatonna-hospital-welcomes-the-first-baby-born-in-2026",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/real-time-medical-and-allina-health-collaborate",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/two-allina-health-rural-hospitals-earn-national-top-100-recognition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/2026/winona-health-and-allina-health-minneapolis-heart-institute-announce-partnership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/updates",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/updates/seiu",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/news-releases/updates/union-negotiations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/patient-care-safety-and-satisfaction-ratings",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/about-us/patient-care-safety-and-satisfaction-ratings/patient-experience-surveys-ratings-and-comments",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-health-faribault-medical-center/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-health-faribault-medical-center/about-us/auxiliary",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-health-faribault-medical-center/about-us/leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-health-faribault-medical-center/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/01/ems-providers-sound-warning-over-ambulance-staffing-shortages-reimbursement-dollars",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/02/allina-health-telestroke-program-helps-save-glencoe-er-doctors-life",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/02/forward-planning-helps-hospitals-during-severe-weather-events",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/02/minneapolis-woman-thankful-for-each-day-after-second-heart-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/03/a-record-number-of-people-are-putting-off-doctor-visits-due-to-cost",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/03/minnesota-bill-would-eliminate-out-of-pocket-costs-for-additional-breast-cancer-screenings",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/05/minnesota-patients-and-providers-navigate-historical-peak-of-drug-shortages",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/07/new-tool-helps-doctors-predict-outcomes-for-stroke-patients",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/07/new-ulm-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/07/staff-shortages",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/08/breastfeeding-awareness-month",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/10/allina-health-doctor-discusses-football-and-hamstring-injuries",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/10/allina-health-doctor-discusses-the-impact-of-daylight-saving-and-lack-of-sleep-on-your-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/10/allina-health-infectious-disease-physician-talks-covid-and-flu-season",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/11/allina-health-doctor-shares-tips-to-prepare-for-winter",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/11/allina-health-doctor-works-to-mentor-future-native-american-clinicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2023/11/rising-popularity-leads-to-more-questions-about-the-cost-of-weight-loss-drugs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/01/allina-health-doctor-discusses-heartscan",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/03/never-too-early-to-start-planning-for-pregnancy",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/03/people-are-feeling-seasonal-allergies-earlier-than-usual",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/03/why-are-people-feeling-more-lonely",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/04/allina-health-mhi-first-in-the-nation-to-implant-triclip",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/04/the-importance-of-belonging-for-providers-and-patients",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/05/allina-health-doctor-explains-why-and-when-you-should-see-a-dermatologist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/05/managing-an-airplane-crash",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/05/national-construction-safety-week",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/06/why-men-need-to-make-a-doctors-appointment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/08/landmark-negotiations-could-lower-the-price-of-some-medications-in-2026",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/09/allina-health-doctor-explains-what-parkinsons-disease-is",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/10/allina-health-doctor-explains-the-role-of-innovation-and-artificial-intelligence",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/10/doodles-delight-patients-and-staff-at-allina-health-isles-clinic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/11/wedum-residential-hospice-staff-fulfill-a-patients-last-wish",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2024/12/mn-doctor-recovers-at-courage-kenny-rehabilitation-institute-after-fall-from-mountain-in-switzerland",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/01/allina-health-doctor-reminds-people-to-stay-safe-as-temperatures-plunge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/02/are-prebiotic-sodas-really-better-for-you",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/03/allina-health-doctor-trains-for-marathon-after-paired-liver-donation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/04/abbott-northwestern-hospital-marks-a-century-of-membership-in-the-american-hospital-association",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/04/abbott-northwestern-hospital-marks-century-of-membership-in-the-american-hospital-association",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/04/allina-health-doctor-discusses-allergy-symptoms-and-relief",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/05/allina-health-physician-joins-morning-show-to-answer-allergy-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/05/minnesota-doctor-shares-update-months-after-devastating-fall-caused-paralysis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/06/family-medicine-and-obstetrics-doctor-hits-four-generation-milestone",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/10/allina-health-coon-rapids-clinic-opens-new-pharmacy-for-added-patient-convenience",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/11/allina-health-first-in-minnesota-to-use-new-knee-implant-technology-for-arthritis-pain-relief",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2025/12/patient-rep-with-40-years-of-experience-shares-specialty-pharmacy-benefits",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2026/01/allina-health-sleep-medicine-physician-shares-tips-for-better-sleep",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2026/03/allina-health-doctor-shares-over-the-counter-tips-for-spring-allergy-relief",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2026/03/allina-health-magazine-discover-how-doctors-liquefy-cancer-tumors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2026/03/healthy-sleep-habits-that-can-help-you-feel-your-best",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2026/05/allina-health-dermatologist-shares-melanoma-risks-and-sun-safety-tips",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2026/05/minnesota-teen-paralyzed-in-hockey-incident-plans-to-walk-at-graduation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/allina-news/2026/10/why-more-americans-are-feeling-lonely-and-what-you-can-do-about-it",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/antibiotic-stewardship",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/advisory-board",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/hospital-overview/awards-and-recognition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/hospital-overview/history",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/hospital-overview/testimonials",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/in-the-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/in-the-community/choose-wellness-enewsletter",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/in-the-community/freedom-watch",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/in-the-community/healthcare-careers-scholarship",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/in-the-community/wellness-wisdom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/buffalo-hospital/services/birth-center/breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/cambridge-medical-center/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/cambridge-medical-center/about-us/allina-health-physicians-save-life-of-local-woman",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/cambridge-medical-center/about-us/community-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/cambridge-medical-center/about-us/environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/cambridge-medical-center/about-us/leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/cambridge-medical-center/about-us/medical-center-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/cambridge-medical-center/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/ambulatory-care-pharmacy-residency-program",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/ambulatory-care-pharmacy-residency-program/about-allina-and-mtm-program",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/ambulatory-care-pharmacy-residency-program/benefits-and-how-to-apply",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/ambulatory-care-pharmacy-residency-program/current-and-previous-residents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/ambulatory-care-pharmacy-residency-program/frequently-asked-questions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/ambulatory-care-pharmacy-residency-program/preceptors",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/ambulatory-care-pharmacy-residency-program/required-learning-experiences",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/pharmacy-informatics-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/pharmacy-internships",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/careers/welcome-to-allina-health/dress-code-policy-and-uniform-guidelines",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/courage-kenny-rehabilitation-institute/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/courage-kenny-rehabilitation-institute/about-us/making-lives-work",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/customer-service/be-prepared/for-your-hospital-stay/planning-for-your-hospital-discharge",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/customer-service/be-prepared/your-care-plan-after-leaving-the-hospital",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/footer/mobile-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/footer/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/footer/terms-and-conditions-of-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/for-medical-professionals/refer-patients/minnesota-perinatal-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/beginnings/newborn-feeding/general-feeding-schedules",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/banked-human-milk",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/breastfeeding-basics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/breastfeeding-in-public",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/common-concerns",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/expressing-and-storing-breastmilk",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/how-to-tell-if-your-baby-is-getting-enough-milk",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/how-to-tell-if-your-baby-is-hungry",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/latch",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/pacifier-and-bottle-use-while-breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/returning-to-work-or-school",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/special-circumstances",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/breastfeeding/weaning-your-baby",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/infant-and-baby-care/nursery-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/infections/antibiotic-use",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/newborn-feeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/newborn-feeding/formula-feeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/newborn-feeding/general-feeding-schedules",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/newborn-feeding/how-to-burp-your-baby",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/newborn-feeding/other-feeding-issues",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/backyard-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/bicycle-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/choosing-a-child-care-provider",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/falls",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/fires",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/garage-door-opener",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/guns",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/insect-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/medicine-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/playground-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/poisons",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/stranger-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/sun-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/care-of-children/safety-precautions/water-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/gestational-diabetes/healthy-eating-physical-activity-stress-management/basic-meal-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/heart-transplant/complications/coronary-artery-disease",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/preparing-for-your-hysterectomy/care-after-surgery/when-to-call-your-doctor-or-pharmacist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/preparing-for-your-hysterectomy/the-day-of-your-surgery/planning-for-leaving-the-hospital",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/total-hip-replacement/before-surgery/insurance-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/total-hip-replacement/surgery-and-beyond/discharge-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/total-hip-replacement/surgery-and-beyond/patient-care-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/total-knee-replacement/before-surgery/insurance-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/total-knee-replacement/surgery-and-beyond/patient-care-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/understanding-your-colon-or-rectal-surgery/before-surgery/insurance-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/understanding-your-colon-or-rectal-surgery/surgery-hospital-stay-and-beyond/planning-for-leaving-the-hospital",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/understanding-your-colon-or-rectal-surgery/surgery-hospital-stay-and-beyond/transversus-abdominis-plane-tap-block",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/understanding-your-colon-or-rectal-surgery/surgery-hospital-stay-and-beyond/transversus-abdominis-plane-tap-block/commonly-asked-questions-about-a-tap-block",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/what-you-need-to-know-about-surgery/after-surgery/when-to-call-your-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/what-you-need-to-know-about-surgery/before-surgery/increasing-safety-before-surgery",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/what-you-need-to-know-about-surgery/before-surgery/insurance-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/health-conditions-and-treatments/health-library/patient-education/what-you-need-to-know-about-surgery/before-surgery/what-to-tell-your-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/11-tips-for-planning-a-healthy-road-trip",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/backpack-safety-for-kids",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/caring-for-yourself-when-current-events-feel-heavy",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/do-i-really-need-a-birth-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/enjoy-the-great-outdoors-with-these-camping-safety-tips",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/five-ways-to-help-your-family-feel-close-and-connected-in-2018",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/halloween-safety-for-your-boos-and-ghouls",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/midwife-doula-or-obstetrician-who-to-include-in-your-birth-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/seizure-disorder-water-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/care/should-i-breastfeed-my-baby",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/heal/chest-pain-how-a-doctor-decides-it-could-be-a-heart-attack",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/heal/concussion-recovery-you-need-a-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/heal/do-you-really-need-that-antibiotic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/heal/feeling-sick-when-you-should-stay-home-from-work-or-school",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/heal/firework-safety-for-a-fabulous-fourth",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/a-doctors-journey-from-fat-to-fit--taking-one-stage-at-a-time",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/a-doctors-journey-from-fat-to-fit-facing-my-own-mortality",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/a-doctors-journey-from-fat-to-fit-finding-what-works-best-for-me",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/a-doctors-journey-from-fat-to-fit-following-my-own-advice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/doctors-guide-to-choosing-the-right-shoe",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/eight-workouts-that-dont-feel-like-exercise",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/feel-the-winter-calorie-burn",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/feet-are-not-meant-to-hurt",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/get-your-feet-ready-for-the-minnesota-state-fair",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/move/one-of-the-best-exercises-the-plank",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/nourish/a-primer-on-probiotics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/nourish/coffee-and-caffeine-whats-the-buzz",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/nourish/feel-healthier-during-and-after-the-minnesota-state-fair",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/nourish/help-i-need-a-diet-plan-that-really-works",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/nourish/is-green-tea-natures-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/prevent/ask-a-family-doctor-your-stage-by-stage-guide-to-well-child-visits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/prevent/crimp-you-barbs-matey-fishing-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/prevent/four-reasons-health-checks-for-men-are-important-even-if-you-feel-great",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/prevent/power-up-with-a-coffee-nap",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/thrive/birth-planning-in-special-situations-a-celebration-of-life",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/thrive/specialty-vs-retail-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/thrive/the-double-shot-of-power-in-a-coffee-nap",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/thrive/the-top-five-things-to-quit-to-improve-your-wellness-and-feeling-of-selfworth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/thrive/three-questions-parents-should-ask-before-planning-spring-break",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/healthysetgo/thrive/when-to-talk-to-your-childs-doctor-about-mental-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/medical-services/pharmacies/ordering-prescriptions-at-allina-health-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-internship",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-residency-program",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-residency-program/current-residents",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-residency-program/pgy1-pharmacy-practice-residency",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-residency-program/pharmacy-residency-application",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-residency-program/pharmacy-services",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-residency-program/preceptors",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-residency-program/residency-benefits",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/pharmacy-residency-program/rotations",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/podiatry-residency-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/podiatry-residency-program/education-and-benefits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/podiatry-residency-program/facilities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/podiatry-residency-program/physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/careers/podiatry-residency-program/tasks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/hospital-overview/accreditation-and-awards",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/hospital-overview/history",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/in-the-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/services/heart-and-vascular-center/services-and-procedures/cardiovascular-surgery/physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/mercy-hospital/services/midwest-internal-medicine-hospitalists/for-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/aitkin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/apple-valley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/arlington-sibley-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/baldwin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/baxter",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/baxter/provider-videos",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/blue-earth-united-hospital-district",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/cambridge",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/chaska-two-twelve-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/crosby",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/edina-centennial-lakes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/faribault",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/forest-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/glencoe-regional-health-services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/grantsburg-wisconsin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/hastings",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/lakewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/le-sueur",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/lindstrom",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/mankato",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/minneapolis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/minneapolis-heart-institute-cardio-oncology-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/minneapolis-heart-institute-lakeville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/minneapolis/emergency",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/minneapolis/tests-and-screenings",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/mora",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/morris-stevens-community-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/new-prague",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/new-ulm",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/northfield",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/osceola",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/plymouth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/plymouth-voyage-healthcare",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/plymouth/tests-and-screenings",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/river-falls",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/sartell",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/shakopee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/shoreview",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/sleepy-eye-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/springfield",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/st-croix-falls",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/st-paul",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/united-vascular-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/united-vascular-clinic/care-team",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/united-vascular-clinic/services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/waconia-lakeview-clinic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/waconia-ridgeview-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/minneapolis-heart-institute/locations/woodbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us/hospital-overview/awards-and-recognition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us/hospital-overview/community-hospital-advisory-board",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us/hospital-overview/environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us/hospital-overview/history",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us/in-the-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us/in-the-community/heart-of-new-ulm-project",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/patient-and-visitor-information/recognize-a-staff-member",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/new-ulm-medical-center/services/occupational-health-and-wellness-services/our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/auxiliary",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/board-of-trustees",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/hospital-overview/community-resource-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/hospital-overview/hospital-features",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/hospital-overview/professional-education-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/hospital-overview/walking-paths",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/in-the-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/in-the-community/community-giving",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/in-the-community/speakers-bureau",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/patient-and-visitor-information/gift-and-coffee-shop",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/services/birth-center/breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/owatonna-hospital/services/birth-center/breastfeeding/owamilkdepot",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/about-us/auxiliary",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/about-us/hospital-overview/environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/about-us/hospital-overview/history",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/about-us/in-the-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/about-us/regina-leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/regina-hospital/services/emergency-department/childrens-emergency-doctors-available-virtually-through-new-partnership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/river-falls-area-hospital/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/river-falls-area-hospital/about-us/environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/river-falls-area-hospital/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/river-falls-area-hospital/about-us/leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/river-falls-area-hospital/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/ru/doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/careers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/careers/pharmacy-internship",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/careers/united-pharmacy-residency",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/careers/united-pharmacy-residency/benefits-and-stipend",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/careers/united-pharmacy-residency/current-residents",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/careers/united-pharmacy-residency/pgy1-pharmacy-residency",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/careers/united-pharmacy-residency/pgy2-administration-and-leadership-residency",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/environmental-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/hospital-overview/awards-and-recognition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/hospital-overview/history",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/in-the-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/leadership-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/services/hospitalist-care/for-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/united-hospital/services/john-nasseff-neuroscience-institute/technology/neurointerventional-biplane",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/unity-hospital/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/unity-hospital/about-us/hospital-overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/unity-hospital/about-us/hospital-overview/awards-and-recognition",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/unity-hospital/about-us/hospital-overview/unity-hospital-and-the-north-suburban-hospital-district",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/unity-hospital/about-us/in-the-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/unity-hospital/about-us/newsroom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.allinahealth.org/unity-hospital/services/heart-and-vascular-services/physician-partners",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

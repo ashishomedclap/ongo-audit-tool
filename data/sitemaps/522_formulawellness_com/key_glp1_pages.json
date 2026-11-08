@@ -1,0 +1,510 @@
+{
+  "name": "Formulawellness",
+  "domain": "formulawellness.com",
+  "total_urls": 1274,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://formulawellness.com/austin-tx/skin-rejuvenation/dermaplaning/",
+    "https://formulawellness.com/blog/how-botox-in-frisco-can-help-you-look-and-feel-younger/",
+    "https://formulawellness.com/blog/ultimate-faq-on-hair-transplants-and-hair-restoration-2/",
+    "https://formulawellness.com/blog/ultimate-faq-on-hair-transplants-and-hair-restoration/",
+    "https://formulawellness.com/dallas-tx/hair-restoration/fue-hair-transplant/",
+    "https://formulawellness.com/dallas-tx/hair-restoration/neograft-hair-transplant/",
+    "https://formulawellness.com/dallas-tx/hair-restoration/robotic-hair-transplant/",
+    "https://formulawellness.com/dallas-tx/skin-rejuvenation/dermaplaning/",
+    "https://formulawellness.com/hair-restoration/fue-hair-transplant/",
+    "https://formulawellness.com/hair-restoration/neograft-hair-transplant/",
+    "https://formulawellness.com/hair-restoration/robotic-hair-transplant/",
+    "https://formulawellness.com/programs/aesthetic-membership/",
+    "https://formulawellness.com/programs/iv-therapy-membership/",
+    "https://formulawellness.com/programs/new-patient-package/",
+    "https://formulawellness.com/skin-rejuvenation/dermaplaning/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://formulawellness.com/about/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/brooke-mulligan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/caerisaa-kirkland/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/chrissy-rudman/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/courtney-clayton/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/cynthia-gregg/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/danielle-carruth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/dr-brian-rudman/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/erika-schwartz/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/jennifer-walden/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/julie-shelley/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/about/providers/yvette-suarez/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/austin-tx/comprehensive-diagnostics/gut-and-microbiome-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/austin-tx/skin-rejuvenation/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/blog/formula-wellness-expands-national-footprint-with-strategic-partnerships-in-texas-rhode-island-and-oklahoma/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/blog/how-botox-in-frisco-can-help-you-look-and-feel-younger/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/blog/ultimate-faq-on-hair-transplants-and-hair-restoration-2/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/blog/ultimate-faq-on-hair-transplants-and-hair-restoration/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/dallas-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/dallas-tx/hair-restoration/fue-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/dallas-tx/hair-restoration/neograft-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/dallas-tx/hair-restoration/robotic-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/dallas-tx/skin-rejuvenation/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/fort-worth-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/frisco-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/hair-restoration/fue-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/hair-restoration/neograft-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/hair-restoration/robotic-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/programs/aesthetic-membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/programs/iv-therapy-membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/programs/new-patient-package/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/skin-rejuvenation/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/southlake-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/southlake-tx/skin-rejuvenation/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/university-park-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://formulawellness.com/university-park-tx/injectables/sculptra-biostimulator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/brooke-mulligan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/caerisaa-kirkland/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/chrissy-rudman/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/courtney-clayton/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/cynthia-gregg/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/danielle-carruth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/dr-brian-rudman/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/erika-schwartz/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/jennifer-walden/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/julie-shelley/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/about/providers/yvette-suarez/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/austin-tx/comprehensive-diagnostics/gut-and-microbiome-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/austin-tx/skin-rejuvenation/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/blog/formula-wellness-expands-national-footprint-with-strategic-partnerships-in-texas-rhode-island-and-oklahoma/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/blog/how-botox-in-frisco-can-help-you-look-and-feel-younger/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/blog/ultimate-faq-on-hair-transplants-and-hair-restoration-2/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/blog/ultimate-faq-on-hair-transplants-and-hair-restoration/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/dallas-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/dallas-tx/hair-restoration/fue-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/dallas-tx/hair-restoration/neograft-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/dallas-tx/hair-restoration/robotic-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/dallas-tx/skin-rejuvenation/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/fort-worth-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/frisco-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/hair-restoration/fue-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/hair-restoration/neograft-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/hair-restoration/robotic-hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/programs/aesthetic-membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/programs/iv-therapy-membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/programs/new-patient-package/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/skin-rejuvenation/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/southlake-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/southlake-tx/skin-rejuvenation/dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/university-park-tx/comprehensive-diagnostics/gut-microbiome-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.formulawellness.com/university-park-tx/injectables/sculptra-biostimulator/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

@@ -163,12 +163,7 @@ export default function ImageAuditTab() {
         </div>
       </div>
 
-      <ContextCue
-        useCase="Review every image on your website to ensure screen readers can understand content and Google image search ranks your pages."
-        title="Dedicated Image Accessibility Engine"
-        about="Google requires descriptive alt text for medical imagery to satisfy WCAG 2.1 Level A compliance. This tool highlights missing tags in red, flags generic placeholders in amber, checks for layout shift dimensions, and generates 1-click suggested alt copy you can paste directly into your Next.js JSX."
-      />
-
+      
       {/* Custom URL Scanner Input */}
       <CustomUrlScanBar
         toolName="Image Alt &amp; Accessibility"
@@ -399,10 +394,10 @@ export default function ImageAuditTab() {
                           alignItems: 'center',
                           justifyContent: 'center'
                         }}>
-                          {img.src ? (
+                          {img.src && !img.src.includes('staging.ongoweightloss.com') ? (
                             <img
                               src={img.src}
-                              alt={img.alt || ''}
+                              alt={img.alt || img.recommendation || "Clinical page asset thumbnail"}
                               style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'cover' }}
                               onError={(e) => {
                                 (e.target as HTMLElement).style.display = 'none';

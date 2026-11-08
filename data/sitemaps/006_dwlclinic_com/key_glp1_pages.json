@@ -1,0 +1,13 @@
+{
+  "name": "DWL Medical Weight Loss",
+  "domain": "dwlclinic.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://dwlclinic.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://dwlclinic.com/pricing"
+  ],
+  "all_categorized": []
+}

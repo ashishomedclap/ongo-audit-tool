@@ -1,0 +1,591 @@
+{
+  "name": "Barbend",
+  "domain": "barbend.com",
+  "total_urls": 4447,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://barbend.com/10k-training-plan/",
+    "https://barbend.com/3-exercises-feet-strength-athletes/",
+    "https://barbend.com/5k-training-plan/",
+    "https://barbend.com/best-weightlifting-shoes-flat-feet/",
+    "https://barbend.com/bulking-workout-plan/",
+    "https://barbend.com/coffee-before-workout/",
+    "https://barbend.com/coffee-tea-nutrient-absorption/",
+    "https://barbend.com/coffee-vs-pre-workout/",
+    "https://barbend.com/exercises-strong-feet/",
+    "https://barbend.com/feet-rotating-squat/",
+    "https://barbend.com/gym-membership-statistics/",
+    "https://barbend.com/halloween-costumes-for-strength-athletes/",
+    "https://barbend.com/how-much-do-treadmills-cost/",
+    "https://barbend.com/ian-kaplan-podcast/",
+    "https://barbend.com/jim-stoppani-pros-cons-caffeine-coffee-alcohol/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://barbend.com/10k-training-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/3-exercises-feet-strength-athletes/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/5k-training-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/barbend-cookies-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/best-probiotic-supplements/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/best-weightlifting-shoes-flat-feet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/biotrust-low-carb-protein-review/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/bulking-workout-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/coffee-before-workout/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/coffee-tea-nutrient-absorption/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/coffee-vs-pre-workout/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/doctors-best-creatine-review/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/editorial-policy/",
+      "categories": [
+        "Author",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/exercises-strong-feet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/facts-about-usa-weightlifting-nationals/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/feet-rotating-squat/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/fit-cities-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/graciano-rubio-weightlifting-strongman-crossfit-podcast/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/grow-strongman-united-states/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/gym-membership-statistics/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/halloween-costumes-for-strength-athletes/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/harbinger-bioform-wristwrap-gloves-review/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/how-much-do-treadmills-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/ian-kaplan-podcast/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/jim-stoppani-pros-cons-caffeine-coffee-alcohol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/kayo-plant-based-smooth-protein-review-vegan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/kettlebell-kings-package-giveaway/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/legion-plant-protein-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/mayhem-madness-team-event-canceled/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/monkey-feet-weights-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/2023-california-state-pro-results/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/2023-fitness-authority-poland-muscle-fest-pro-results/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/2023-fitness-authority-poland-pro-results/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/2023-hyrox-new-york-results/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/2023-new-york-pro-results/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/2023-texas-state-pro-am-bodybuilding-show-results/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/2024-new-york-pro-live-results/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/2024-texas-pro-results/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/coffee-naturally-boosts-workout-performance/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/crossfit-games-brent-fikowski-training-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/doctor-turned-away-bodybuilder-dorian-yates-in-1990s/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/hafthor-bjornsson-weight-over-bar-world-record-23-feet-3-inches/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/how-much-does-it-cost-to-compete-at-the-mr-olympia/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/intermittent-fasting-continuous-feeding-similar-weight-loss-outcomes/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/introduction-programming-strongman-12-week-plan-part-2-3/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/lauralie-chapados-meathead-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/nasser-el-sonbaty-bodybuilder-biography/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/nick-walker-recovery-plan-for-torn-hamstring/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/nick-walker-will-enter-2024-new-york-pro/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/nick-walker-wins-2024-new-york-pro/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/pro-bodybuilder-biki-singhs-vegetarian-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/news/weightlifting-shoes-wide-feet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/nutrabio-naturals-grass-fed-whey-isolate-review/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/nutricost-creatine-monohydrate-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/nutricost-whey-protein-isolate-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/obesity-data-california/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/off-day-gym-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/off-season-workout-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/onnit-plant-based-protein-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/optimum-nutrition-gold-standard-plant-based-protein-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/orgain-organic-protein-plant-based-powder/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/pallof-press-vs-plank/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/plank-jacks/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/plantfusion-complete-plant-protein-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/plantrise-supergreens72-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/probiotics-for-athletes-gut-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/pure-food-company-plant-based-protein-powder-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/refeed-day/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/reverse-plank/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/rogue-ohio-bar-barbell-review/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/rogue-ohio-bar-vs-force-usa-gunner-barbell/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/rogue-ohio-bar-vs-rep-sabre-barbell/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/rogue-ohio-bar-vs-rogue-echo-bar/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/rogue-ohio-bar-vs-x-training-elite-competition-barbell/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/rogue-ohio-cotton-lifting-strap-review/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/rogue-ohio-leather-lifting-belt-review/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/safety-squat-bar-bench-shoulder-pressing/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/safety-squat-bar-front-squat/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/screw-feet-floor-deadlift/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/should-you-buy-a-treadmill-from-costco/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/side-plank-variations/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/side-plank/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/sprout-living-epic-plant-based-protein-review/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/strength-athletes-bulletproof-coffee/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/study-micrombiome-muscular-strength/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://barbend.com/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/texas-superfood-greens-review/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://barbend.com/the-no-feet-snatchclean-why-when-and-how-to-do-them/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/top-plant-sources-of-protein/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/treadmill-safety-tips/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/ultimate-guide-to-performing-planche-strength/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://barbend.com/where-can-i-get-a-replacement-treadmill-safety-key/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://barbend.com/whey-protein-vs-plant-protein/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Saltaestheticsbar",
+  "domain": "saltaestheticsbar.com",
+  "total_urls": 44,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://saltaestheticsbar.com/memberships/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://saltaestheticsbar.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://saltaestheticsbar.com/memberships/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://saltaestheticsbar.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://saltaestheticsbar.com/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://saltaestheticsbar.com/terms-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://saltaestheticsbar.com/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

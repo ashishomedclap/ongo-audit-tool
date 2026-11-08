@@ -1,0 +1,13 @@
+{
+  "name": "Integrishealth",
+  "domain": "integrishealth.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://integrishealth.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://integrishealth.org/pricing"
+  ],
+  "all_categorized": []
+}

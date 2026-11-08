@@ -1,0 +1,336 @@
+{
+  "name": "Weightmaps",
+  "domain": "weightmaps.com",
+  "total_urls": 90,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://weightmaps.com/specialty/nutrition-counseling-and-meal-planning/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://weightmaps.com/specialty/nutrition-counseling-and-meal-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/state/california/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/alabama/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/alaska/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/arizona/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/arkansas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/california/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/colorado/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/connecticut/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/delaware/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/district-of-columbia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/florida/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/hawaii/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/idaho/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/illinois/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/indiana/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/iowa/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/kansas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/kentucky/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/louisiana/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/maine/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/maryland/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/massachusetts/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/michigan/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/minnesota/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/mississippi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/missouri/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/montana/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/nebraska/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/nevada/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/new-hampshire/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/new-jersey/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/new-mexico/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/new-york/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/north-carolina/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/north-dakota/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/ohio/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/oklahoma/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/oregon/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/pennsylvania/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/rhode-island/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/south-carolina/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/south-dakota/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/tennessee/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/texas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/utah/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/vermont/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/virginia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/wa/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/washington/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/west-virginia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/wisconsin/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://weightmaps.com/states/wyoming/",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

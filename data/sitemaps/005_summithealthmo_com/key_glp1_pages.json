@@ -1,0 +1,60 @@
+{
+  "name": "Summit Health MO",
+  "domain": "summithealthmo.com",
+  "total_urls": 65,
+  "semaglutide_pages": [
+    "https://summithealthmo.com/summit-health-blog/semaglutide",
+    "https://summithealthmo.com/summit-health-blog/semax-in-springfield-mo-the-nasal-spray-peptide-for-focus-and-brain-health",
+    "https://summithealthmo.com/summit-health-blog/tag/Semaglutide",
+    "https://summithealthmo.com/summit-health-blog/tag/Semax"
+  ],
+  "tirzepatide_pages": [
+    "https://summithealthmo.com/summit-health-blog/tag/Tirzepatide",
+    "https://summithealthmo.com/summit-health-blog/tirzepatide-weight-loss-mo"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://summithealthmo.com/bioidentical-hormone-replacement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://summithealthmo.com/summit-health-blog/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://summithealthmo.com/summit-health-blog/semax-in-springfield-mo-the-nasal-spray-peptide-for-focus-and-brain-health",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://summithealthmo.com/summit-health-blog/tag/Semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://summithealthmo.com/summit-health-blog/tag/Semax",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://summithealthmo.com/summit-health-blog/tag/Tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://summithealthmo.com/summit-health-blog/tirzepatide-weight-loss-mo",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

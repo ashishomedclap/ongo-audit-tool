@@ -1,0 +1,44 @@
+{
+  "name": "417healthwellness",
+  "domain": "417healthwellness.com",
+  "total_urls": 18,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://417healthwellness.com/membership/",
+    "https://417healthwellness.com/payment-plans/",
+    "https://417healthwellness.com/weight-loss-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://417healthwellness.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://417healthwellness.com/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://417healthwellness.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://417healthwellness.com/sms-terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://417healthwellness.com/weight-loss-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Policylab",
+  "domain": "policylab.us",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://policylab.us/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://policylab.us/pricing"
+  ],
+  "all_categorized": []
+}

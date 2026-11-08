@@ -1,0 +1,13 @@
+{
+  "name": "Drugbank",
+  "domain": "drugbank.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://drugbank.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://drugbank.com/pricing"
+  ],
+  "all_categorized": []
+}

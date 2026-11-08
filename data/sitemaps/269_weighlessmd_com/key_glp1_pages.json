@@ -1,0 +1,57 @@
+{
+  "name": "Weighlessmd",
+  "domain": "weighlessmd.com",
+  "total_urls": 85,
+  "semaglutide_pages": [
+    "https://www.weighlessmd.com/blog/is-semaglutide-safe-unraveling-the-facts-behind-this-weight-loss-revolution/",
+    "https://www.weighlessmd.com/blog/peptide-injections-dual-agonists-vs-semaglutide-a-comprehensive-comparison-guide/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.weighlessmd.com/blog/the-incredible-value-of-creating-a-weight-loss-plan/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.weighlessmd.com/blog/is-semaglutide-safe-unraveling-the-facts-behind-this-weight-loss-revolution/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weighlessmd.com/blog/peptide-injections-dual-agonists-vs-semaglutide-a-comprehensive-comparison-guide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.weighlessmd.com/blog/the-incredible-value-of-creating-a-weight-loss-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.weighlessmd.com/hipaa-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weighlessmd.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.weighlessmd.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weighlessmd.com/terms-service/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Synergywellnessandweightloss",
+  "domain": "synergywellnessandweightloss.com",
+  "total_urls": 87,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.synergywellnessandweightloss.com/5-plant-based-foods-that-can-help-you-build-lean-muscle/",
+    "https://www.synergywellnessandweightloss.com/our-treatment-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.synergywellnessandweightloss.com/5-plant-based-foods-that-can-help-you-build-lean-muscle/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.synergywellnessandweightloss.com/naltrexone-improves-weight-loss-in-6-key-areas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.synergywellnessandweightloss.com/our-treatment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

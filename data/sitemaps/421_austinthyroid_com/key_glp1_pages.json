@@ -1,0 +1,111 @@
+{
+  "name": "Austinthyroid",
+  "domain": "austinthyroid.com",
+  "total_urls": 163,
+  "semaglutide_pages": [
+    "https://austinthyroid.com/glp-1-wegovy-zepbound-ozempic/",
+    "https://austinthyroid.com/tag/ozempic/",
+    "https://austinthyroid.com/tag/wegovy/",
+    "https://austinthyroid.com/wegovy-and-zepbound/"
+  ],
+  "tirzepatide_pages": [
+    "https://austinthyroid.com/glp-1-wegovy-zepbound-ozempic/",
+    "https://austinthyroid.com/tag/zepbound/",
+    "https://austinthyroid.com/wegovy-and-zepbound/"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://austinthyroid.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/about-us/alexis-holder-pa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/about-us/our-practice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/austin-thyroid-now-offers-biological-age-testing-physioage/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/conditions-treated/bio-identical/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/conditions-treated/thyroid/thyroid-faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/glp-1-wegovy-zepbound-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/tag/austin-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/tag/austin-texas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/tag/biological-age/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/tag/ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/tag/texas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/tag/wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/tag/zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://austinthyroid.com/wegovy-and-zepbound/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

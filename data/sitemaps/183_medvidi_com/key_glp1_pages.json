@@ -1,0 +1,337 @@
+{
+  "name": "Medvidi",
+  "domain": "medvidi.com",
+  "total_urls": 479,
+  "semaglutide_pages": [
+    "https://medvidi.com/blog/does-semaglutide-make-you-tired",
+    "https://medvidi.com/blog/foundayo-vs-wegovy",
+    "https://medvidi.com/blog/how-long-does-it-take-for-semaglutide-to-suppress-appetite",
+    "https://medvidi.com/blog/how-to-get-semaglutide",
+    "https://medvidi.com/blog/how-to-get-wegovy",
+    "https://medvidi.com/blog/not-losing-weight-on-semaglutide",
+    "https://medvidi.com/blog/ozempic-face",
+    "https://medvidi.com/blog/phentermine-vs-ozempic",
+    "https://medvidi.com/blog/phentermine-vs-wegovy",
+    "https://medvidi.com/blog/saxenda-vs-wegovy-which-is-better-for-weight-loss",
+    "https://medvidi.com/blog/semaglutide-dosage-for-weight-loss",
+    "https://medvidi.com/blog/switching-from-semaglutide-to-tirzepatide",
+    "https://medvidi.com/blog/switching-from-wegovy-to-zepbound",
+    "https://medvidi.com/blog/tirzepatide-vs-semaglutide",
+    "https://medvidi.com/blog/wegovy-shortage-and-alternatives-for-weight-loss"
+  ],
+  "tirzepatide_pages": [
+    "https://medvidi.com/blog/how-long-do-zepbound-side-effects-last",
+    "https://medvidi.com/blog/how-long-does-it-take-for-zepbound-to-work",
+    "https://medvidi.com/blog/how-to-get-mounjaro-for-weight-loss",
+    "https://medvidi.com/blog/how-to-get-zepbound-prescription-online",
+    "https://medvidi.com/blog/switching-from-semaglutide-to-tirzepatide",
+    "https://medvidi.com/blog/switching-from-wegovy-to-zepbound",
+    "https://medvidi.com/blog/tirzepatide-dosage",
+    "https://medvidi.com/blog/tirzepatide-vs-semaglutide",
+    "https://medvidi.com/blog/zepbound-dosage",
+    "https://medvidi.com/blog/zepbound-hair-loss",
+    "https://medvidi.com/blog/zepbound-nausea",
+    "https://medvidi.com/blog/zepbound-vs-wegovy"
+  ],
+  "pricing_pages": [
+    "https://medvidi.com/blog/dealing-with-the-feeling-of-impending-doom",
+    "https://medvidi.com/blog/feeling-of-guilt-from-depression",
+    "https://medvidi.com/blog/marplan-for-depression-treatment-your-detailed-guide",
+    "https://medvidi.com/blog/understanding-adhd-in-adults-what-does-it-feel-like"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://medvidi.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/adhd/doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/basic-facts-about-using-nardil-for-depression-treatment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/dealing-with-the-feeling-of-impending-doom",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/does-semaglutide-make-you-tired",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/feeling-of-guilt-from-depression",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/foundayo-vs-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-long-do-zepbound-side-effects-last",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-long-does-it-take-for-semaglutide-to-suppress-appetite",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-long-does-it-take-for-zepbound-to-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-to-ask-your-doctor-for-weight-loss-pills",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-to-get-a-prescription-online-without-seeing-a-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-to-get-mounjaro-for-weight-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-to-get-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-to-get-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-to-get-zepbound-prescription-online",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/how-to-talk-to-doctor-about-adhd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/marplan-for-depression-treatment-your-detailed-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/not-losing-weight-on-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/ozempic-face",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/phentermine-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/phentermine-vs-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/saxenda-vs-wegovy-which-is-better-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/semaglutide-dosage-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/switching-from-semaglutide-to-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/switching-from-wegovy-to-zepbound",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/tirzepatide-dosage",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/tirzepatide-vs-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/understanding-adhd-in-adults-what-does-it-feel-like",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/wegovy-shortage-and-alternatives-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/what-happens-when-you-stop-taking-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/what-type-of-doctor-should-i-see-for-weight-loss-treatment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/which-doctor-should-you-see-for-insomnia-treatment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/why-i-am-not-losing-weight-on-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/zepbound-dosage",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/zepbound-hair-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/zepbound-nausea",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/blog/zepbound-vs-wegovy",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/careers/telehealth-care-provider-florida",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/editorial-policy/",
+      "categories": [
+        "Author",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/faqs/pharmacy-issues/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/hipaa-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/payment-terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medvidi.com/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

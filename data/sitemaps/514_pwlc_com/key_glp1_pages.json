@@ -1,0 +1,46 @@
+{
+  "name": "Pwlc",
+  "domain": "pwlc.com",
+  "total_urls": 30,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.pwlc.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.pwlc.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.pwlc.com/physiciansfast/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.pwlc.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.pwlc.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.pwlc.com/thank-you-physicians-fast/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

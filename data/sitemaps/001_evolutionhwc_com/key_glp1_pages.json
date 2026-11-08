@@ -1,0 +1,26 @@
+{
+  "name": "Evolution Health & Wellness Clinic",
+  "domain": "evolutionhwc.com",
+  "total_urls": 22,
+  "semaglutide_pages": [
+    "https://evolutionhwc.com/weight-loss-solution/semaglutide/"
+  ],
+  "tirzepatide_pages": [
+    "https://evolutionhwc.com/weight-loss-solution/tirzepatide/"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://evolutionhwc.com/weight-loss-solution/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://evolutionhwc.com/weight-loss-solution/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

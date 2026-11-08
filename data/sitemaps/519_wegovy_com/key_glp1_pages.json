@@ -1,0 +1,292 @@
+{
+  "name": "Wegovy",
+  "domain": "wegovy.com",
+  "total_urls": 44,
+  "semaglutide_pages": [
+    "https://www.wegovy.com/",
+    "https://www.wegovy.com/homeKT_test.html",
+    "https://www.wegovy.com/medicare.html",
+    "https://www.wegovy.com/obesity/fat-loss-weight-loss.html",
+    "https://www.wegovy.com/obesity/hd-signup.html",
+    "https://www.wegovy.com/obesity/how-to-get-wegovy.html",
+    "https://www.wegovy.com/obesity/how-to-take-wegovy.html",
+    "https://www.wegovy.com/obesity/is-wegovy-right-for-me.html",
+    "https://www.wegovy.com/obesity/is-wegovy-right-for-me/real-patient-stories.html",
+    "https://www.wegovy.com/obesity/is-wegovy-right-for-me/safety-side-effects.html",
+    "https://www.wegovy.com/obesity/is-wegovy-right-for-me/wegovy-pen-results.html",
+    "https://www.wegovy.com/obesity/is-wegovy-right-for-me/wegovy-pill-results.html",
+    "https://www.wegovy.com/obesity/protein-for-weight-management.html",
+    "https://www.wegovy.com/obesity/quiz.html",
+    "https://www.wegovy.com/obesity/resistance-training-benefits.html"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.wegovy.com/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/homeKT_test.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/medicare.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/fat-loss-weight-loss.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/hd-signup.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/how-to-get-wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/how-to-take-wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/is-wegovy-right-for-me.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/is-wegovy-right-for-me/real-patient-stories.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/is-wegovy-right-for-me/safety-side-effects.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/is-wegovy-right-for-me/wegovy-pen-results.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/is-wegovy-right-for-me/wegovy-pill-results.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/protein-for-weight-management.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/quiz.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/resistance-training-benefits.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/faq.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/getting-started-on-wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare-app.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare/build-strength-with-resistance.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare/build-your-healthy-habit.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare/fat-loss-and-weight-loss.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare/how-to-take-wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare/keeping-an-eye-on-common-side-effects.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare/protein-packs-a-punch.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare/the-deal-with-dosing.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/novocare/what-mindful-eating-means.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/starting-wegovy-pen.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/starting-wegovy-pill.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/wegotogether.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/wegotogether/build-your-healthy-habit.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/wegotogether/how-to-take-wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/wegotogether/keeping-an-eye-on-common-side-effects.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/wegotogether/protein-packs-a-punch.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/wegotogether/the-deal-with-dosing.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/starting-wegovy/wegotogether/what-mindful-eating-means.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/wegovy-dosing.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/wegovy-insider.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/wegovy-side-effects.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/obesity/what-to-pay-for-wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/pill.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/prescribing-information.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.wegovy.com/sitemap.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

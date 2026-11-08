@@ -1,0 +1,132 @@
+{
+  "name": "Resolveweightloss",
+  "domain": "resolveweightloss.com",
+  "total_urls": 56,
+  "semaglutide_pages": [
+    "https://resolveweightloss.com/blog/insurance-and-access/does-insurance-cover-wegovy",
+    "https://resolveweightloss.com/blog/medication-decisions/how-long-does-wegovy-take-work",
+    "https://resolveweightloss.com/blog/medication-decisions/wegovy-side-effects",
+    "https://resolveweightloss.com/blog/medication-decisions/wegovy-vs-zepbound",
+    "https://resolveweightloss.com/blog/medication-decisions/wegovy-what-to-know",
+    "https://resolveweightloss.com/treatments/wegovy"
+  ],
+  "tirzepatide_pages": [
+    "https://resolveweightloss.com/blog/insurance-and-access/does-bcbs-cover-zepbound",
+    "https://resolveweightloss.com/blog/insurance-and-access/does-insurance-cover-zepbound",
+    "https://resolveweightloss.com/blog/medication-decisions/how-long-does-zepbound-take-work",
+    "https://resolveweightloss.com/blog/medication-decisions/wegovy-vs-zepbound",
+    "https://resolveweightloss.com/blog/medication-decisions/zepbound-side-effects",
+    "https://resolveweightloss.com/blog/medication-decisions/zepbound-what-to-know",
+    "https://resolveweightloss.com/tirzepatide-weight-loss-atlanta",
+    "https://resolveweightloss.com/treatments/zepbound"
+  ],
+  "pricing_pages": [
+    "https://resolveweightloss.com/insurance-pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://resolveweightloss.com/blog/insurance-and-access/does-bcbs-cover-zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/insurance-and-access/does-insurance-cover-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/insurance-and-access/does-insurance-cover-zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/medication-decisions/how-long-does-wegovy-take-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/medication-decisions/how-long-does-zepbound-take-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/medication-decisions/wegovy-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/medication-decisions/wegovy-vs-zepbound",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/medication-decisions/wegovy-what-to-know",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/medication-decisions/zepbound-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/blog/medication-decisions/zepbound-what-to-know",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/cookie-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/insurance-pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/medical-weight-loss-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/tirzepatide-weight-loss-atlanta",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/treatments/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://resolveweightloss.com/treatments/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

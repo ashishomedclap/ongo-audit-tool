@@ -13,7 +13,7 @@ import { getBooksIndex } from '@/lib/books-data';
 
 export const metadata: Metadata = {
   title: 'Doctor Credentials & Medical E-E-A-T Auditor | Ongo Intelligence Suite',
-  description: 'Audit physician credentials, NPI registrations, state licenses, and clinical author bylines across Ongo and 100 telehealth competitors.',
+  description: 'Audit physician credentials, NPI registrations, state licenses, and clinical author bylines across Ongo and 618 telehealth competitors.',
 };
 
 export default function DoctorEeatPage() {

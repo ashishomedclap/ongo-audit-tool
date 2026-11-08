@@ -1,0 +1,115 @@
+{
+  "name": "Golo",
+  "domain": "golo.com",
+  "total_urls": 122,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.golo.com/pages/meal-plans",
+    "https://www.golo.com/pages/meal-plans-that-work",
+    "https://www.golo.com/pages/recipe-category/coffee-creamers",
+    "https://www.golo.com/pages/view-information-modal/30-day-metabolic-reset-plan",
+    "https://www.golo.com/pages/view-information-modal/golo-for-life-plan",
+    "https://www.golo.com/pages/view-information-modal/golo-for-life-plan-with-release",
+    "https://www.golo.com/pages/view-information-modal/ultimate-30-day-metabolic-reset-plan",
+    "https://www.golo.com/products/golo-for-life-plan-extended"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.golo.com/pages/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/at-safety-message",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/ca-employee-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/doctors-recommend-golo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/golo-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/meal-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/meal-plans-that-work",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/recipe-category/coffee-creamers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/sms-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/view-information-modal/30-day-metabolic-reset-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/view-information-modal/golo-for-life-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/view-information-modal/golo-for-life-plan-with-release",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/pages/view-information-modal/ultimate-30-day-metabolic-reset-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.golo.com/products/golo-for-life-plan-extended",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

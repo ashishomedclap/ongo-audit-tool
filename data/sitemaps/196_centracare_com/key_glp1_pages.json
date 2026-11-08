@@ -1,0 +1,13 @@
+{
+  "name": "Centracare",
+  "domain": "centracare.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://centracare.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://centracare.com/pricing"
+  ],
+  "all_categorized": []
+}

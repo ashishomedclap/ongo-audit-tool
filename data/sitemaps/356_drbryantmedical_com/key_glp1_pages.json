@@ -1,0 +1,177 @@
+{
+  "name": "Drbryantmedical",
+  "domain": "drbryantmedical.com",
+  "total_urls": 97,
+  "semaglutide_pages": [
+    "https://drbryantmedical.com/blog/ozempic-vs-wegovy-queens-ny",
+    "https://drbryantmedical.com/blog/semaglutide-vs-tirzepatide-which-is-right-for-you",
+    "https://drbryantmedical.com/cost/semaglutide-queens-ny",
+    "https://drbryantmedical.com/ozempic-queens-ny",
+    "https://drbryantmedical.com/services/semaglutide",
+    "https://drbryantmedical.com/wegovy-queens-ny"
+  ],
+  "tirzepatide_pages": [
+    "https://drbryantmedical.com/blog/mounjaro-vs-zepbound-queens-ny",
+    "https://drbryantmedical.com/blog/semaglutide-vs-tirzepatide-which-is-right-for-you",
+    "https://drbryantmedical.com/cost/tirzepatide-queens-ny",
+    "https://drbryantmedical.com/mounjaro-queens-ny",
+    "https://drbryantmedical.com/services/tirzepatide",
+    "https://drbryantmedical.com/zepbound-queens-ny"
+  ],
+  "pricing_pages": [
+    "https://drbryantmedical.com/cost/botox-queens-ny",
+    "https://drbryantmedical.com/cost/glp1-monthly-queens",
+    "https://drbryantmedical.com/cost/semaglutide-queens-ny",
+    "https://drbryantmedical.com/cost/tirzepatide-queens-ny",
+    "https://drbryantmedical.com/weight-loss-plan"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://drbryantmedical.com/blog/mounjaro-vs-zepbound-queens-ny",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/blog/ozempic-vs-wegovy-queens-ny",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/blog/semaglutide-vs-tirzepatide-which-is-right-for-you",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/blog/when-to-see-primary-care-doctor-queens",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/cost/botox-queens-ny",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/cost/glp1-monthly-queens",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/cost/semaglutide-queens-ny",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/cost/tirzepatide-queens-ny",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/diabetes-doctor-queens",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/high-blood-pressure-doctor-queens",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/locations/cambria-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/locations/jamaica-queens",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/locations/st-albans",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/mounjaro-queens-ny",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/ozempic-queens-ny",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/services/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/services/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/wegovy-queens-ny",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/weight-loss-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/womens-health-doctor-queens",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://drbryantmedical.com/zepbound-queens-ny",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

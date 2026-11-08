@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemapindex xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.nhs.uk/sitemap-cms-content.xml</loc>
+    <lastmod>2026-11-07T10:06:38Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.nhs.uk/sitemap-cms-videos.xml</loc>
+    <lastmod>2026-11-05T09:41:42Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.nhs.uk/sitemap-profiles-dentist.xml</loc>
+    <lastmod>2026-11-07T21:59:27Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.nhs.uk/sitemap-profiles-gp.xml</loc>
+    <lastmod>2026-11-07T09:55:48Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.nhs.uk/sitemap-profiles-pharmacy.xml</loc>
+    <lastmod>2026-11-07T23:25:22Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.nhs.uk/sitemap-profiles-gdos.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.nhs.uk/sitemap-campaigns-cms-content.xml</loc>
+    <lastmod>2026-11-06T14:16:48Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.nhs.uk/sitemap-find-a-service.xml</loc>
+    <lastmod>2026-11-02T11:44:10Z</lastmod>
+  </sitemap>
+</sitemapindex>

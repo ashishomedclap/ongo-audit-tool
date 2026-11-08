@@ -1,0 +1,112 @@
+{
+  "name": "Healthline",
+  "domain": "healthline.com",
+  "total_urls": 727,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.healthline.com/glp1s-explained/coverage-costs/",
+    "https://www.healthline.com/healthy-aging/end-of-life-planning/",
+    "https://www.healthline.com/healthy-aging/managing-healthcare-costs/",
+    "https://www.healthline.com/nutrition/feel-good-food/",
+    "https://www.healthline.com/program/feel-good-fitness/",
+    "https://www.healthline.com/program/lonely-planet/",
+    "https://www.healthline.com/program/parenthood-a-complete-guide-to-breastfeeding/",
+    "https://www.healthline.com/program/planning-your-infertility-care/",
+    "https://www.healthline.com/program/your-heartburn-relief-plan/",
+    "https://www.healthline.com/reviews/at-home-tests/fertility-family-planning/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.healthline.com/anxiety-and-depression/doctor-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/glp1s-explained/coverage-costs/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/glp1s-explained/side-effects-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/healthy-aging/end-of-life-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/healthy-aging/managing-healthcare-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/menopause/doctor-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/nutrition/feel-good-food/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/program/feel-good-fitness/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/program/lonely-planet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/program/parenthood-a-complete-guide-to-breastfeeding/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/program/planning-your-infertility-care/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/program/understanding-colorectal-cancer-biomarkers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/program/your-heartburn-relief-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/reviews/at-home-tests/fertility-family-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthline.com/vitamins-supplements/probiotics/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

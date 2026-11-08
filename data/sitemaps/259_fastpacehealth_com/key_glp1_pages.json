@@ -1,0 +1,43 @@
+{
+  "name": "Fastpacehealth",
+  "domain": "fastpacehealth.com",
+  "total_urls": 51,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://fastpacehealth.com/pricing-and-insurance/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://fastpacehealth.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://fastpacehealth.com/pricing-and-insurance/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://fastpacehealth.com/privacy-policy-sms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://fastpacehealth.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://fastpacehealth.com/service/ripley-pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

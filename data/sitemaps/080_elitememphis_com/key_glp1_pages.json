@@ -1,0 +1,64 @@
+{
+  "name": "Elitememphis",
+  "domain": "elitememphis.com",
+  "total_urls": 103,
+  "semaglutide_pages": [
+    "https://elitememphis.com/weight-loss/semaglutide/",
+    "https://elitememphis.com/weight-loss/wegovy/"
+  ],
+  "tirzepatide_pages": [
+    "https://elitememphis.com/weight-loss/tirzepatide/",
+    "https://elitememphis.com/weight-loss/zepbound/"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://elitememphis.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://elitememphis.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://elitememphis.com/service/bio-identical-hormone-replacement-therapy-bhrt/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://elitememphis.com/service/in-house-pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://elitememphis.com/weight-loss/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://elitememphis.com/weight-loss/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://elitememphis.com/weight-loss/wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://elitememphis.com/weight-loss/zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

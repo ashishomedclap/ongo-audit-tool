@@ -1,0 +1,40 @@
+{
+  "name": "Oasiswomens",
+  "domain": "oasiswomens.com",
+  "total_urls": 39,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://oasiswomens.com/our-terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://oasiswomens.com/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://oasiswomens.com/providers/candace-gates-md/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://oasiswomens.com/providers/crystal-welch-md/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://oasiswomens.com/providers/jada-hyland-pa-c/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

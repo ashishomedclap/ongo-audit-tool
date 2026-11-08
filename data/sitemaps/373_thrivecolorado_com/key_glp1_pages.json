@@ -1,0 +1,255 @@
+{
+  "name": "Thrivecolorado",
+  "domain": "thrivecolorado.com",
+  "total_urls": 273,
+  "semaglutide_pages": [
+    "https://thrivecolorado.com/blog/how-long-to-lose-20-lbs-on-ozempic/",
+    "https://thrivecolorado.com/blog/ozempic-side-effects-women/",
+    "https://thrivecolorado.com/blog/weight-management/ozempic-side-effects-women/",
+    "https://thrivecolorado.com/news/semaglutide-versus-tirzepatide-comparison/",
+    "https://thrivecolorado.com/services/weight-loss-clinic-in-denver/semaglutide-weight-loss-denver/"
+  ],
+  "tirzepatide_pages": [
+    "https://thrivecolorado.com/news/semaglutide-versus-tirzepatide-comparison/"
+  ],
+  "pricing_pages": [
+    "https://thrivecolorado.com/blog/anti-inflammatory-diet-plan-midlife-weight-loss/",
+    "https://thrivecolorado.com/blog/avoiding-hidden-fees-in-wellness-clinics-2026-guide/",
+    "https://thrivecolorado.com/news/best-weight-loss-membership-options-explained/",
+    "https://thrivecolorado.com/news/cost-of-bioidentical-hormone-replacement-pricing-guide/",
+    "https://thrivecolorado.com/news/menopause-weight-loss-meal-plan-beginners/",
+    "https://thrivecolorado.com/news/pellet-therapy-this-is-what-good-feels-like/",
+    "https://thrivecolorado.com/news/personalized-wellness-plans-for-professionals/",
+    "https://thrivecolorado.com/news/plan-a-botox-treatment/",
+    "https://thrivecolorado.com/news/wellness-membership-benefits/",
+    "https://thrivecolorado.com/services/all-inclusive-pricing-bhrt/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://thrivecolorado.com/blog/anti-inflammatory-diet-plan-midlife-weight-loss/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/blog/avoiding-hidden-fees-in-wellness-clinics-2026-guide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/blog/can-bioidentical-hormones-help-with-anxiety/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/blog/how-long-to-lose-20-lbs-on-ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/blog/ozempic-side-effects-women/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/blog/weight-management/ozempic-side-effects-women/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/hipaa-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/benefits-bioidentical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/best-doctor-supervised-weight-treatments/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/best-weight-loss-membership-options-explained/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/bioidentical-hormone-replacement-therapy-women/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/bioidentical-hormone-therapy-for-men-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/bioidentical-hormone-therapy-what-is-how-it-works/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/bioidentical-hormones-for-perimenopause/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/bioidentical-vs-synthetic-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/cost-of-bioidentical-hormone-replacement-pricing-guide/",
+      "categories": [
+        "Pricing",
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/doctor-supervised-medical-weight-loss-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/doctor-supervised-weight-loss-clinic-guide/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/doctor-supervised-weight-loss-near-me/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/doctor-supervised-wellness-clinic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/how-doctor-supervised-weight-loss-works/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/is-bioidentical-hormone-therapy-safe/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/menopause-weight-loss-meal-plan-beginners/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/pellet-therapy-this-is-what-good-feels-like/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/personalized-wellness-plans-for-professionals/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/plan-a-botox-treatment/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/semaglutide-versus-tirzepatide-comparison/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/news/wellness-membership-benefits/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/privacy-policy-2/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/returns-refund-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/services/all-inclusive-pricing-bhrt/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/services/bioidentical-hormone-therapy-denver/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/services/weight-loss-clinic-in-denver/semaglutide-weight-loss-denver/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/shipping-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/shipping-waiver-form/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/terms-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://thrivecolorado.com/thrive-about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

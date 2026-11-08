@@ -1,0 +1,13 @@
+{
+  "name": "Webmd",
+  "domain": "webmd.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://webmd.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://webmd.com/pricing"
+  ],
+  "all_categorized": []
+}

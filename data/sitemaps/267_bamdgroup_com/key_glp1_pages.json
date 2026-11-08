@@ -1,0 +1,22 @@
+{
+  "name": "Bamdgroup",
+  "domain": "bamdgroup.com",
+  "total_urls": 56,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://bamdgroup.com/about/our-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://bamdgroup.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

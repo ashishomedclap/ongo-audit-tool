@@ -367,14 +367,7 @@ export default function KeywordsHarvesterTab() {
         </div>
       </div>
 
-      <ContextCue
-        level={2}
-        toolNumber={7}
-        useCase="Harvest real-time Google search suggestions and question trees across 8 GLP-1 seeds."
-        title="Topical Cluster Intelligence"
-        about="Google Suggest queries reflect raw, unfiltered patient hesitations and decision queries. Mined questions are grouped directly into Ongo's 8 Hub-and-Spoke Silos so you can copy and deploy them as FAQ schema sections, subheadings (H2/H3), or dedicated blog spokes."
-      />
-
+      
       {/* 4 Clarity Executive Scorecards */}
       <div style={{
         display: 'grid',
@@ -660,6 +653,7 @@ export default function KeywordsHarvesterTab() {
           <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '8px' }}>
             {/* Filter by Question Type */}
             <select
+              aria-label="Filter by question type"
               value={selectedQuestionType}
               onChange={(e) => setSelectedQuestionType(e.target.value)}
               style={{
@@ -685,6 +679,7 @@ export default function KeywordsHarvesterTab() {
 
             {/* Filter by Intent */}
             <select
+              aria-label="Filter questions by search intent"
               value={selectedIntent}
               onChange={(e) => setSelectedIntent(e.target.value)}
               style={{

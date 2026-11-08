@@ -1,0 +1,13 @@
+{
+  "name": "Nextdoor",
+  "domain": "nextdoor.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://nextdoor.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://nextdoor.com/pricing"
+  ],
+  "all_categorized": []
+}

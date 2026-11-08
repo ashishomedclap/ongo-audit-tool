@@ -1,0 +1,13 @@
+{
+  "name": "Phentermineclinics",
+  "domain": "phentermineclinics.net",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://phentermineclinics.net/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://phentermineclinics.net/pricing"
+  ],
+  "all_categorized": []
+}

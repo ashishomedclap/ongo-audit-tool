@@ -68,38 +68,7 @@ export default function MetaAuditorTab({ ongoMeta }: MetaAuditorTabProps) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-      <ContextCue
-        level={3}
-        toolNumber={13}
-        useCase="Rewrite robotic, symbol-heavy SERP titles into natural human search queries that maximize CTR."
-        badge="Metadata Optimization"
-        title="SERP Snippet Optimization & Real-Time HTML Auditor"
-        about="This page is a real-time Google SERP Snippet Simulator and Meta Tag Optimization Auditor designed specifically for Ongo Weight Loss. It validates meta titles and meta descriptions against Google's desktop and mobile character/pixel display limits, checks for essential clinical authority signals (E-E-A-T), and audits live competitor URLs on the fly."
-        whatYouCanDo={[
-          {
-            action: "Simulate Google Search Snippets",
-            description: "View desktop Google SERP previews showing exactly how Ongo's current live titles and descriptions display to searching patients."
-          },
-          {
-            action: "Review Side-by-Side Recommendations",
-            description: "Compare current metadata against search-optimized titles and descriptions engineered with doctor-led authority, $179+ pricing hooks, and conversion CTAs."
-          },
-          {
-            action: "1-Click Copy Optimized Tags",
-            description: "Click the copy icon next to any recommended title or description to immediately paste it into Ongo's Next.js page metadata configurations."
-          },
-          {
-            action: "Audit Any Competitor URL Live",
-            description: "Switch to 'Live Competitor URL Auditor', enter any URL (e.g. joinmochi.com, henrymeds.com), and fetch live titles, descriptions, and OpenGraph tags in real-time."
-          },
-          {
-            action: "Verify E-E-A-T Medical Compliance",
-            description: "Check for board-certified MD credentials, 50-state licensing disclosures, and pharmacy sterility badges that impact Google's healthcare search ranking."
-          }
-        ]}
-        tip="Click the Copy icon next to any Recommended Title or Description to paste it directly into Ongo's Next.js metadata configs."
-      />
-
+      
       {/* Premium GSC / Clarity Header */}
       <div className="gsc-header">
         <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '14px' }}>

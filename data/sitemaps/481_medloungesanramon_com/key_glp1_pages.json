@@ -1,0 +1,69 @@
+{
+  "name": "Medloungesanramon",
+  "domain": "medloungesanramon.com",
+  "total_urls": 78,
+  "semaglutide_pages": [
+    "https://medloungesanramon.com/medical-weight-loss-program-san-ramon/semaglutide-san-ramon/",
+    "https://medloungesanramon.com/semaglutide-vs-tirzepatide-in-san-ramon-ca-which-weight-loss-injection-is-right-for-you/"
+  ],
+  "tirzepatide_pages": [
+    "https://medloungesanramon.com/how-tirzepatide-works-san-ramon/",
+    "https://medloungesanramon.com/medical-weight-loss-program-san-ramon/tirzepatide-weight-loss-san-ramon/",
+    "https://medloungesanramon.com/semaglutide-vs-tirzepatide-in-san-ramon-ca-which-weight-loss-injection-is-right-for-you/"
+  ],
+  "pricing_pages": [
+    "https://medloungesanramon.com/botox-cost-san-ramon/",
+    "https://medloungesanramon.com/medlounge-membership/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://medloungesanramon.com/botox-cost-san-ramon/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medloungesanramon.com/how-tirzepatide-works-san-ramon/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medloungesanramon.com/medical-weight-loss-program-san-ramon/semaglutide-san-ramon/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://medloungesanramon.com/medical-weight-loss-program-san-ramon/tirzepatide-weight-loss-san-ramon/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medloungesanramon.com/medlounge-membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://medloungesanramon.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://medloungesanramon.com/semaglutide-vs-tirzepatide-in-san-ramon-ca-which-weight-loss-injection-is-right-for-you/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://medloungesanramon.com/terms-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -76,7 +76,7 @@ RECOMMENDED META TITLE: ${item.recommendedMetaTitle}
 RECOMMENDED META DESCRIPTION: ${item.recommendedMetaDescription}
 TARGET WORD COUNT: ${item.recommendedWordCount} words
 PRIMARY TARGET KEYWORDS: ${item.primaryKeywords.join(', ')}
-COMPETITOR BENCHMARK: ${item.competitorSaturationCount}/100 competitors (${item.competitorTotalUrls.toLocaleString()} ranking URLs)
+COMPETITOR BENCHMARK: ${item.competitorSaturationCount}/${data?.totalCompetitorsAnalyzed || 618} competitors (${item.competitorTotalUrls.toLocaleString()} ranking URLs)
 COMPETITOR URL EXAMPLES:
 ${item.topCompetitorExamples.map(e => `- ${e.competitor} (${e.domain}): ${e.sampleUrl}`).join('\n')}
 DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA to ${item.funnelDestination}
@@ -171,47 +171,50 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       
-      {/* Premium GSC / Clarity Header */}
-      <div className="gsc-header">
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
-          <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
-              <span className="gsc-badge-healthy">
-                <span className="gsc-pulse-dot" />
-                Competitor Big Data Gap Mining
-              </span>
-              <span className="gsc-badge-neutral">
-                33,108 Competitor URLs vs. 43 Ongo Pages
-              </span>
-            </div>
-            <h1 style={{ fontSize: '1.45rem', fontWeight: 800, color: '#0f1715', margin: 0, letterSpacing: '-0.02em' }}>
-              Competitor Content Gap &amp; Organic Roadmap
+      {/* Unified World-Class Tool Workspace Header */}
+      <div style={{
+        background: 'var(--bg-surface)',
+        border: '1px solid var(--border-subtle)',
+        borderRadius: '14px',
+        padding: '18px 22px',
+        display: 'flex',
+        flexWrap: 'wrap',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        gap: '16px',
+        boxShadow: '0 1px 3px rgba(0, 0, 0, 0.02)'
+      }}>
+        <div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '2px' }}>
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--text-primary)', margin: 0, letterSpacing: '-0.02em' }}>
+              Competitor Content Gap & Organic Roadmap
             </h1>
-            <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
-              Discover high-demand patient topic vacuums published across 100 competitors that are missing from Ongo's 43 live pages, complete with ready-to-write writer briefs.
-            </p>
+            <span style={{
+              fontSize: '0.72rem',
+              fontWeight: 700,
+              padding: '2px 8px',
+              borderRadius: '9999px',
+              background: 'var(--bg-surface-alt)',
+              color: 'var(--text-secondary)'
+            }}>
+              {(data?.totalCompetitorUrlsAnalyzed || 512334).toLocaleString()} URLs Analyzed
+            </span>
           </div>
+          <p style={{ fontSize: '0.82rem', color: 'var(--text-tertiary)', margin: 0 }}>
+            Discover high-demand patient topic vacuums published across {data?.totalCompetitorsAnalyzed || 618} competitors missing from Ongo's 56 live pages.
+          </p>
+        </div>
 
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-            <button
-              onClick={handleExportCsv}
-              className="gsc-btn-secondary"
-              title="Download content roadmap to CSV"
-            >
-              <Download size={14} />
-              Export Roadmap CSV
-            </button>
-          </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <button
+            onClick={handleExportCsv}
+            className="tool-filter-pill"
+            style={{ display: 'inline-flex', alignItems: 'center', gap: '5px', cursor: 'pointer', background: 'var(--bg-surface-alt)', border: '1px solid var(--border-medium)' }}
+          >
+            <Download size={13} /> Export CSV
+          </button>
         </div>
       </div>
-
-      <ContextCue
-        level={2}
-        toolNumber={6}
-        useCase="Compare 33,000+ competitor URLs against Ongo to uncover missing clinical topics, formats, and patient intent clusters."
-        title="Content Gap Strategy"
-        about="Competitors like OrderlyMeds, Mochi, and Ro generate 60%+ of their organic patients through middle-of-funnel comparison and dosing pages. Ongo currently has 43 live production pages. Launching the 6 P0 Roadmap pages below instantly plugs our biggest organic traffic leaks."
-      />
 
       {/* KPI Bento Grid */}
       <div style={{
@@ -230,10 +233,10 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
             Competitor URLs Wired
           </div>
           <div style={{ fontSize: '1.9rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-            {(data?.totalCompetitorUrlsAnalyzed || 33108).toLocaleString()}
+            {(data?.totalCompetitorUrlsAnalyzed || 512334).toLocaleString()}
           </div>
           <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '4px' }}>
-            Across 100 Competitor Sitemaps
+            Across {data?.totalCompetitorsAnalyzed || 618} Competitor Sitemaps
           </div>
         </div>
 
@@ -400,8 +403,7 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
 
           <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '10px' }}>
             {/* Priority Filter */}
-            <select
-              value={priorityFilter}
+            <select aria-label="Filter by priority tier" value={priorityFilter}
               onChange={(e) => setPriorityFilter(e.target.value)}
               style={{
                 padding: '6px 12px',
@@ -421,8 +423,7 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
             </select>
 
             {/* Silo Filter */}
-            <select
-              value={siloFilter}
+            <select aria-label="Filter by content silo" value={siloFilter}
               onChange={(e) => setSiloFilter(e.target.value)}
               style={{
                 padding: '6px 12px',
@@ -445,8 +446,7 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
             </select>
 
             {/* Status Filter */}
-            <select
-              value={statusFilter}
+            <select aria-label="Filter by roadmap status" value={statusFilter}
               onChange={(e) => setStatusFilter(e.target.value)}
               style={{
                 padding: '6px 12px',
@@ -598,6 +598,7 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
                         {/* Status Switcher */}
                         <td style={{ padding: '12px 14px' }}>
                           <select
+                            aria-label="Update roadmap status for topic"
                             value={currentStatus}
                             onChange={(e) => handleStatusChange(item.id, e.target.value)}
                             style={{
@@ -707,7 +708,7 @@ DOWNSTREAM INTERNAL LINK CONVERSION: Link within first 150 words and final CTA t
                               {/* Competitor URL Benchmarks */}
                               <div>
                                 <div style={{ fontSize: '0.72rem', fontWeight: 700, color: 'var(--text-tertiary)', textTransform: 'uppercase', marginBottom: '6px' }}>
-                                  Live Competitor Benchmark URLs (from 33,108 dataset):
+                                  Live Competitor Benchmark URLs (from 512,334 dataset):
                                 </div>
                                 <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
                                   {item.topCompetitorExamples.map((ex, i) => (

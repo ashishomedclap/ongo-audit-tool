@@ -1,0 +1,16 @@
+{
+  "name": "Klinic",
+  "domain": "klinic.com",
+  "total_urls": 278,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://klinic.com/workers-compensation-injury-treatment/virginia/stafford",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

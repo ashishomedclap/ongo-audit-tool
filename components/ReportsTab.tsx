@@ -61,38 +61,7 @@ export default function ReportsTab({ reportsList }: ReportsTabProps) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-      <ContextCue
-        level={3}
-        toolNumber={14}
-        useCase="Read and download comprehensive architectural, compliance, and competitive strategy blueprints."
-        badge="Executive Briefs"
-        title="Curated Competitive Research Documents"
-        about="This page serves as an executive library of structured research documents, audit syntheses, and strategic briefs prepared specifically for Ongo Weight Loss leadership. It compiles the full findings of the 100-competitor census, sitemap crawl data, meta optimizations, and content blueprints into presentation-ready reports."
-        whatYouCanDo={[
-          {
-            action: "Browse Executive Research Documents",
-            description: "Select between key reports including the 'Competitor Sitemap Census', '217-Page Architecture Checklist', 'Meta Optimization Scorecard', and '100 Competitors Master Directory'."
-          },
-          {
-            action: "Read Formatted Strategic Briefings",
-            description: "Review executive summaries, key data tables, clinical recommendations, and strategic action plans in a clean, high-readability briefing format."
-          },
-          {
-            action: "1-Click Copy Full Report Content",
-            description: "Click 'Copy Markdown' to copy the entire document to your clipboard for pasting into team Slack channels, Notion, or internal memos."
-          },
-          {
-            action: "Download Raw Markdown Files",
-            description: "Click 'Download' to save the complete structured markdown report locally to your computer for offline archiving or sharing with developers and copywriters."
-          },
-          {
-            action: "Search Briefing Topics",
-            description: "Use the report search bar to quickly jump to specific documents by keyword or topic."
-          }
-        ]}
-        tip="Click 'Download' to save any report locally as a .md file for sharing with team members or loading into documentation."
-      />
-
+      
       {/* Sleek Minimalist Tool Header */}
       <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>

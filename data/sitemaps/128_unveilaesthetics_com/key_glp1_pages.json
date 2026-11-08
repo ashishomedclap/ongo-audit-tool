@@ -1,0 +1,34 @@
+{
+  "name": "Unveilaesthetics",
+  "domain": "unveilaesthetics.com",
+  "total_urls": 49,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.unveilaesthetics.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.unveilaesthetics.com/product/epicutis-hydrobiome-mist/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.unveilaesthetics.com/services/injectables/biostimulators/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.unveilaesthetics.com/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

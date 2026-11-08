@@ -1,0 +1,13 @@
+{
+  "name": "Health",
+  "domain": "health.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://health.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://health.com/pricing"
+  ],
+  "all_categorized": []
+}

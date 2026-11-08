@@ -1,0 +1,34 @@
+{
+  "name": "Deseret",
+  "domain": "deseret.com",
+  "total_urls": 44,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.deseret.com/opinion/2026/11/07/disagreeing-better-after-the-midterms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.deseret.com/sports/2026/11/03/byu-basketball-defeats-ohio-state-analysis-cougars-are-elite-offensively/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.deseret.com/sports/2026/11/06/jazz-owner-ryan-smith-firmly-behind-coach-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.deseret.com/sports/2026/11/07/byu-cougars-utah-utes-football-2026-live-coverage/",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

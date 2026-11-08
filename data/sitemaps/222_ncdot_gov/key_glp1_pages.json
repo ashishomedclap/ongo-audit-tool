@@ -1,0 +1,614 @@
+{
+  "name": "Ncdot.gov",
+  "domain": "ncdot.gov",
+  "total_urls": 1999,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.ncdot.gov:443/divisions/integrated-mobility/multimodal-planning/Pages/statewide-active-transportation-plan.aspx",
+    "https://www.ncdot.gov:443/dmv/offices-services/Pages/strategic-plan.aspx",
+    "https://www.ncdot.gov:443/initiatives-policies/Transportation/freight/Pages/plan-update-timeline.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-05-14-nc-by-train-seeks-feedback.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-05-19-mial-plantation-major-slade-intersection.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-08-06-ncdot-tpd-planning-national-award.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-11-25-ncdmv-commissioner-strategic-plan.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-11-26-ncdmv-driver-license-examiner-staffing-plan.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-12-22-state-rail-plan-released-for-comment.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-01-12-real-id-tsa-fee.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-02-25-funding-multimodal-planning-grants.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-04-07-ncdot-employee-donation-transplant-matches.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-04-23-ncdot-nc-12-sand-plan.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-07-10-statewide-multimodal-freight-plan.aspx",
+    "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-11-06-Freight-Plan-Online-Public-Feedback.aspx"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/leadership/Pages/anthony-waddell.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/leadership/Pages/david-womack.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/leadership/Pages/james-narron.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/leadership/Pages/james-warlick.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/leadership/Pages/lynn-clark.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/leadership/Pages/mitch-colvin.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/license-plate-agent-advisory-committee/Pages/2024-advisory-committee-meetings.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/license-plate-agent-advisory-committee/Pages/2025-advisory-committee-meetings-archives.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/2025-board-directors-meetings.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/2025-finance-committee-meetings.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/2025-operations-committee-meetings.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/2026-finance-committee-meetings.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/2026-operations-committee-meetings.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/2026-tumpike-directors-meeting-archives.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/finance-meetings-archives.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/julie-eiselt.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/larry-hall.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/meeting-archives.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/boards/turnpike-authority/Pages/turnpike-operations-meetings-archives.aspx",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/about.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/americans-disabilities-act.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/business-opportunity-workforce-development.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/disadvantaged-business-enterprise.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/disparity-study.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/equal-opportunity-contractor-compliance.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/equal-opportunity.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/events.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/minority-women-business-enterprise.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/nondiscrimination.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/on-the-job-training.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/small-business.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/strategic-priorities.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/board-offices/offices/economic-opportunity-compliance/Pages/unified-certification-program.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/how-we-operate/finance-budget/Pages/2025-cash-watch-reports.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/how-we-operate/finance-budget/Pages/2025-monthly-financial-statement-reports.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/how-we-operate/finance-budget/Pages/2025-monthly-summary-by-purpose.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/how-we-operate/finance-budget/Pages/2025-session-law-monthly-reports.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/how-we-operate/finance-budget/Pages/2026-cash-watch-weekly-archive.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/how-we-operate/finance-budget/Pages/cash-watch-numbers.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/our-mission/Pages/annual-reports-archive.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/our-people/leadership/Pages/alpesh-patel.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/our-people/leadership/Pages/mary-cole-pike.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/our-people/leadership/Pages/mike-ware.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/our-people/leadership/Pages/patrick-norman.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/about-us/our-people/leadership/Pages/paul-tine.aspx",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/divisions/integrated-mobility/multimodal-planning/Pages/statewide-active-transportation-plan.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/help/Pages/terms-conditions.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/license-id/nc-mobile-id/Pages/mobile-id-faqs-law-enforcement.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/offices-services/Pages/strategic-plan.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/title-registration/emissions-safety/Pages/Forms/DispForm.aspx?ID=10",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/title-registration/emissions-safety/Pages/Forms/DispForm.aspx?ID=11",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/title-registration/emissions-safety/Pages/Forms/DispForm.aspx?ID=13",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/title-registration/emissions-safety/Pages/Forms/DispForm.aspx?ID=14",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/title-registration/emissions-safety/Pages/Forms/DispForm.aspx?ID=9",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/dmv/title-registration/emissions-safety/Pages/index.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/initiatives-policies/Transportation/freight/Pages/plan-update-timeline.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/initiatives-policies/federal-competitive-grants/Pages/faqs.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/initiatives-policies/safety/work-zone-safety/Pages/work-zone-safety-statistics-archives.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-05-14-equipment-safety-conference-beaufort.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-05-14-nc-by-train-seeks-feedback.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-05-19-mial-plantation-major-slade-intersection.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-05-23-division-13-safety-conference.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-07-02-ghsp-summer-driving-heat-safety.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-08-06-ncdot-tpd-planning-national-award.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-09-16-berailsafe-promotes-rail-safety-week.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-09-22-ghsp-child-passenger-safety-campaign.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-11-21-nc-quick-pass-available-at-harris-teeter-locations-in-south-carolina.aspx",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-11-25-ncdmv-commissioner-strategic-plan.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-11-26-ncdmv-driver-license-examiner-staffing-plan.aspx",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/2025-12-22-state-rail-plan-released-for-comment.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2025/north-carolina-georgia-advanced-mobility-sky.aspx",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-01-12-real-id-tsa-fee.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-02-03-I-485-express-lanes-turnpike-authority-opening.aspx",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-02-25-funding-multimodal-planning-grants.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-04-07-ncdot-employee-donation-transplant-matches.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-04-17-division-14-safety-event.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-04-23-ncdot-nc-12-sand-plan.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-04-24-division-7-safety-conference.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-05-05-division-13-safety.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-07-10-statewide-multimodal-freight-plan.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-07-14-ncdmv-license-plate-agency-statesville.aspx",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-08-03-boone-safety.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-09-21-child-passenger-safety-week.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-09-23-rail-safety-week.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-11-06-Freight-Plan-Online-Public-Feedback.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/press-releases/Pages/2026/2026-5-11-utility-relocation-planned-wrightsville-beach.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/news/public-meetings/Pages/2026-07-14-ncdot-statewide-multimodal-freight-plan.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/projects/15th-street/Pages/faqs.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/projects/asheville-i-26-connector/Pages/river-safety.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/projects/capital-boulevard-upgrade/Pages/faqs.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/projects/i-77-south-express-lanes/Pages/faq.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/projects/nc-12-access/Pages/faqs.aspx",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/projects/nc-12-access/Pages/sand-plan-survey.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/projects/nc-73-corridor-plan/Pages/project-archives.aspx",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncdot.gov:443/projects/us-17-us-74-intersection-improvements/Pages/faqs.aspx",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "name": "Lemonaidhealth",
+  "domain": "lemonaidhealth.com",
+  "total_urls": 340,
+  "semaglutide_pages": [
+    "https://www.lemonaidhealth.com/drug/compounded-semaglutide",
+    "https://www.lemonaidhealth.com/drug/compounded-semaglutide-microdoses",
+    "https://www.lemonaidhealth.com/drug/ozempic",
+    "https://www.lemonaidhealth.com/drug/wegovy",
+    "https://www.lemonaidhealth.com/learn/weight-loss/alcohol-ozempic-what-you-need-to-know/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/alcohol-wegovy-what-you-need-to-know/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/microdosing-semaglutide-medications/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/ozempic-guide/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/ozempic-vs-wegovy/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/tips-to-alleviate-constipation-ozempic/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/tips-to-alleviate-constipation-wegovy/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/wegovy-guide/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/what-to-expect-when-starting-ozempic/",
+    "https://www.lemonaidhealth.com/learn/weight-loss/what-to-expect-when-starting-wegovy/"
+  ],
+  "tirzepatide_pages": [
+    "https://www.lemonaidhealth.com/drug/compounded-tirzepatide",
+    "https://www.lemonaidhealth.com/drug/compounded-tirzepatide-microdoses",
+    "https://www.lemonaidhealth.com/drug/zepbound-vials"
+  ],
+  "pricing_pages": [
+    "https://www.lemonaidhealth.com/learn/weight-loss/role-of-exercise-in-medical-weight-loss-plan/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.lemonaidhealth.com/drug/compounded-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/drug/compounded-semaglutide-microdoses",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/drug/compounded-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/drug/compounded-tirzepatide-microdoses",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/drug/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/drug/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/drug/zepbound-vials",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/a-step-by-step-guide-on-how-to-find-out-if-you-have-glp-1-insurance-coverage/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/alcohol-ozempic-what-you-need-to-know/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/alcohol-wegovy-what-you-need-to-know/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/microdosing-semaglutide-medications/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/ozempic-guide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/ozempic-vs-wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/role-of-exercise-in-medical-weight-loss-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/tips-to-alleviate-constipation-ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/tips-to-alleviate-constipation-wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/wegovy-guide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/what-to-expect-when-starting-ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/learn/weight-loss/what-to-expect-when-starting-wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/legals/cancellation-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/legals/cookie-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/legals/prescription-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/legals/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/legals/refund-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/legals/terms-of-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/meet-our-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/safety-information/erectile-dysfunction",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/safety-information/hair-loss",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/safety-information/weight-loss",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.lemonaidhealth.com/services/virtual-doctor-visit",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

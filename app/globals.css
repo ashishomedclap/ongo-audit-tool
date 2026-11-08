@@ -26,34 +26,34 @@
   --color-accent-soft: #fce4dc;      /* Soft Peachy Coral Tint */
   --color-accent-warm: #f4a261;      /* Golden Warm Sand / Apricot */
   
-  /* Canvas & Surfaces (Warm Regal Alabaster & Frosted Glass) */
-  --bg-canvas: #faf8f5;              /* Clean warm alabaster canvas */
+  /* Canvas & Surfaces (Modern SaaS Ultra-Clean Layout) */
+  --bg-canvas: #f8fafc;              /* Crisp clean modern canvas */
   --bg-surface: #ffffff;             /* Crisp pure white surface */
   --bg-surface-elevated: #ffffff;
-  --bg-surface-alt: #f5f2eb;         /* Soft sandstone neutral background */
-  --bg-surface-hover: #f9f7f2;
+  --bg-surface-alt: #f1f5f9;         /* Modern soft slate neutral background */
+  --bg-surface-hover: #f8fafc;
   --bg-input: #ffffff;
 
-  /* Glassneumorphic Translucent Surfaces */
-  --bg-glass: rgba(255, 255, 255, 0.84);
-  --bg-glass-elevated: rgba(255, 255, 255, 0.95);
-  --bg-glass-inset: #f3efe6;         /* Neumorphic debossed container */
-  --border-glass: rgba(27, 67, 50, 0.09);
-  --border-glass-hover: rgba(27, 67, 50, 0.20);
+  /* Glass Surfaces */
+  --bg-glass: rgba(255, 255, 255, 0.90);
+  --bg-glass-elevated: rgba(255, 255, 255, 0.98);
+  --bg-glass-inset: #f1f5f9;
+  --border-glass: rgba(15, 23, 42, 0.08);
+  --border-glass-hover: rgba(15, 23, 42, 0.16);
   --glass-blur: blur(20px) saturate(180%);
   
-  /* Warm Sandstone Borders */
-  --border-subtle: #ede8e0;
-  --border-medium: #dfd9cf;
-  --border-hover: #c5bdb0;
+  /* Crisp Modern Borders */
+  --border-subtle: #e2e8f0;
+  --border-medium: #cbd5e1;
+  --border-hover: #94a3b8;
   --border-focus: #0f2c24;
   
-  /* High-Contrast Typography */
-  --text-primary: #0a1411;           /* Obsidian Imperial Charcoal */
-  --text-secondary: #42524a;         /* Deep Forest Slate */
-  --text-tertiary: #61736b;          /* Subdued Graphite */
-  --text-muted: #8ca096;            /* Soft Muted Gray */
-  --text-dim: #c8d6ce;
+  /* High-Contrast Sharp Typography */
+  --text-primary: #0f172a;           /* Sharp Obsidian Slate */
+  --text-secondary: #334155;         /* Deep Slate */
+  --text-tertiary: #64748b;          /* Cool Slate */
+  --text-muted: #94a3b8;            /* Soft Muted Gray */
+  --text-dim: #cbd5e1;
   
   /* Functional Accents */
   --accent-emerald: #10b981;
@@ -167,7 +167,7 @@ html, body {
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
   background-image: 
-    radial-gradient(ellipse at 50% -5%, rgba(197, 155, 39, 0.07) 0%, rgba(30, 90, 64, 0.05) 35%, #faf8f5 75%);
+    none;
   background-attachment: fixed;
   transition: background-color 0.25s ease, color 0.15s ease;
 }
@@ -1564,5 +1564,194 @@ body[data-theme='dark'] {
 [data-theme='dark'] ::-webkit-scrollbar-thumb:hover {
   background: #2a4839;
 }
+
+/* ==========================================================================
+   Elite Minimalist Tool UI Design System (Linear / Apple / Stripe Grade)
+   Transforms dense web pages into a clean, intuitive, tactile tool
+   ========================================================================== */
+
+@keyframes toolFadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulseSubtle {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.85; transform: scale(0.98); }
+}
+
+.animate-tool-entry {
+  animation: toolFadeIn 0.24s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-tool-entry {
+    animation: none !important;
+  }
+}
+
+/* Clean Tool Action Bar */
+.tool-action-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 20px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 14px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+  margin-bottom: 16px;
+}
+
+/* Segmented Control / View Switcher */
+.tool-segmented-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 3px;
+  background: var(--bg-surface-alt);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+}
+
+.tool-segmented-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.tool-segmented-btn:hover {
+  color: var(--text-primary);
+}
+
+.tool-segmented-btn.active {
+  background: var(--bg-surface);
+  color: var(--color-primary-dark);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme='dark'] .tool-segmented-btn.active {
+  background: #1e3328;
+  color: #4ade80;
+}
+
+/* Modern Pill Filters */
+.tool-filter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.tool-filter-pill:hover {
+  border-color: var(--color-primary-light);
+  color: var(--text-primary);
+  transform: translateY(-1px);
+}
+
+.tool-filter-pill.active {
+  background: var(--color-primary-dark);
+  border-color: var(--color-primary-dark);
+  color: #ffffff;
+  box-shadow: 0 2px 6px rgba(15, 44, 36, 0.2);
+}
+
+[data-theme='dark'] .tool-filter-pill.active {
+  background: #4ade80;
+  border-color: #4ade80;
+  color: #070d0a;
+}
+
+/* Modern Clean Search Box */
+.tool-search-box {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex: 1 1 260px;
+  max-width: 480px;
+}
+
+.tool-search-input {
+  width: 100%;
+  padding: 8px 14px 8px 36px;
+  border-radius: 10px;
+  font-size: 0.84rem;
+  font-weight: 500;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-medium);
+  color: var(--text-primary);
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.tool-search-input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(30, 90, 64, 0.12);
+}
+
+[data-theme='dark'] .tool-search-input:focus {
+  border-color: #4ade80;
+  box-shadow: 0 0 0 3px rgba(74, 222, 128, 0.18);
+}
+
+/* Modern Clean Cards */
+.tool-grid-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  border-radius: 12px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+  transition: transform 0.18s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.18s ease, border-color 0.18s ease;
+  cursor: pointer;
+  position: relative;
+}
+
+.tool-grid-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--color-primary-light);
+  box-shadow: 0 8px 24px -4px rgba(15, 44, 36, 0.08);
+}
+
+/* Clean Benchmark Hero Banner */
+.tool-benchmark-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 22px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, rgba(30, 90, 64, 0.06) 0%, rgba(82, 183, 136, 0.08) 100%);
+  border: 1px solid rgba(30, 90, 64, 0.2);
+  margin-bottom: 20px;
+}
+
+[data-theme='dark'] .tool-benchmark-hero {
+  background: linear-gradient(135deg, rgba(74, 222, 128, 0.08) 0%, rgba(18, 51, 36, 0.5) 100%);
+  border-color: rgba(74, 222, 128, 0.25);
+}
+
 
 

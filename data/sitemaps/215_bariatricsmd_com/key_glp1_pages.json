@@ -1,0 +1,13 @@
+{
+  "name": "Bariatricsmd",
+  "domain": "bariatricsmd.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://bariatricsmd.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://bariatricsmd.com/pricing"
+  ],
+  "all_categorized": []
+}

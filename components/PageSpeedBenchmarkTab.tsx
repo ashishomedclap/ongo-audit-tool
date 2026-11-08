@@ -128,15 +128,7 @@ export default function PageSpeedBenchmarkTab() {
         </div>
       </div>
 
-      <ContextCue
-        level={1}
-        toolNumber={5}
-        useCase="Audit real mobile Core Web Vitals, simulate real-user bottlenecks, and prove Ongo's sub-2s page speed advantage over bloated competitor portals."
-        badge="Performance Moat"
-        title="Live Core Web Vitals &amp; Competitor Latency Matrix"
-        about="Mobile conversion rates on telehealth GLP-1 programs drop by 7% for every 100ms of latency. This tool benchmarks Ongo's clean Next.js server-rendered pages against Ro, Hims, and Mochi."
-      />
-
+      
       {/* Target URL Selector & Presets */}
       <div className="glass-card" style={{ padding: '20px', borderRadius: '16px' }}>
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px' }}>

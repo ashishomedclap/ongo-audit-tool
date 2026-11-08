@@ -1,0 +1,13 @@
+{
+  "name": "Glomedspa",
+  "domain": "glomedspa.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://glomedspa.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://glomedspa.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Springer",
+  "domain": "springer.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://springer.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://springer.com/pricing"
+  ],
+  "all_categorized": []
+}

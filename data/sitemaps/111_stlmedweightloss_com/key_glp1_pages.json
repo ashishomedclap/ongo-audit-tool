@@ -1,0 +1,122 @@
+{
+  "name": "Stlmedweightloss",
+  "domain": "stlmedweightloss.com",
+  "total_urls": 86,
+  "semaglutide_pages": [
+    "https://www.stlmedweightloss.com/post/do-i-need-to-be-a-diabetic-to-get-on-semaglutide",
+    "https://www.stlmedweightloss.com/post/im-ready-to-discover-why-semaglutide-is-so-popular",
+    "https://www.stlmedweightloss.com/post/ozempic-face-hair-loss-muscle-mass-loss-and-the-true-causes-of-these",
+    "https://www.stlmedweightloss.com/post/semaglutide-vs-tirzepatide-which-is-right-for-me",
+    "https://www.stlmedweightloss.com/service/semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.stlmedweightloss.com/post/5-fast-facts-about-tirzepatide",
+    "https://www.stlmedweightloss.com/post/am-i-a-candidate-for-tirzepatide",
+    "https://www.stlmedweightloss.com/post/semaglutide-vs-tirzepatide-which-is-right-for-me",
+    "https://www.stlmedweightloss.com/service/tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://www.stlmedweightloss.com/post/3-signs-your-nutrition-plan-needs-a-reset",
+    "https://www.stlmedweightloss.com/pricing-comparison"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.stlmedweightloss.com/content/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/our-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/physicians-picks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/post/3-signs-your-nutrition-plan-needs-a-reset",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/post/5-fast-facts-about-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/post/am-i-a-candidate-for-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/post/do-i-need-to-be-a-diabetic-to-get-on-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/post/im-ready-to-discover-why-semaglutide-is-so-popular",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/post/ozempic-face-hair-loss-muscle-mass-loss-and-the-true-causes-of-these",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/post/semaglutide-vs-tirzepatide-which-is-right-for-me",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/pricing-comparison",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/service/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.stlmedweightloss.com/service/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

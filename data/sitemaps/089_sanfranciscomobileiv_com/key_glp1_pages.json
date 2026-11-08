@@ -1,0 +1,56 @@
+{
+  "name": "Sanfranciscomobileiv",
+  "domain": "sanfranciscomobileiv.com",
+  "total_urls": 131,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://sanfranciscomobileiv.com/mobile-iv-therapy-cost-san-francisco/",
+    "https://sanfranciscomobileiv.com/pricing/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://sanfranciscomobileiv.com/best-top-10/top-10-best-mobile-iv-therapy-providers-in-san-francisco-bay-area/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://sanfranciscomobileiv.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://sanfranciscomobileiv.com/mobile-iv-therapy-cost-san-francisco/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://sanfranciscomobileiv.com/pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://sanfranciscomobileiv.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://sanfranciscomobileiv.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://sanfranciscomobileiv.com/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

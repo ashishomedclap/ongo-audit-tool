@@ -1,0 +1,22 @@
+{
+  "name": "Femmemedandspa",
+  "domain": "femmemedandspa.com",
+  "total_urls": 69,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://femmemedandspa.com/about/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://femmemedandspa.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

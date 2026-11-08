@@ -1,0 +1,40 @@
+{
+  "name": "Nashvilleweightloss",
+  "domain": "nashvilleweightloss.com",
+  "total_urls": 102,
+  "semaglutide_pages": [
+    "https://www.nashvilleweightloss.com/wegovy"
+  ],
+  "tirzepatide_pages": [
+    "https://www.nashvilleweightloss.com/zepbound"
+  ],
+  "pricing_pages": [
+    "https://www.nashvilleweightloss.com/single-post/2020/01/30/the-cost-of-bariatric-surgery"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.nashvilleweightloss.com/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nashvilleweightloss.com/single-post/2020/01/30/the-cost-of-bariatric-surgery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nashvilleweightloss.com/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.nashvilleweightloss.com/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

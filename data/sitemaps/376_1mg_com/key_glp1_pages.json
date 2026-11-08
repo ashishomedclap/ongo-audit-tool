@@ -1,0 +1,327 @@
+{
+  "name": "1mg",
+  "domain": "1mg.com",
+  "total_urls": 10000,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.1mg.com/drugs/azifeel-500mg-tablet-767613",
+    "https://www.1mg.com/drugs/capricef-500mg-injection-685948",
+    "https://www.1mg.com/drugs/celplanin-400mg-injection-393205",
+    "https://www.1mg.com/drugs/decostal-50mg-injection-822485",
+    "https://www.1mg.com/drugs/feel-good-hr-tablet-358068",
+    "https://www.1mg.com/drugs/mecostal-1500mcg-injection-2-ml-367035",
+    "https://www.1mg.com/drugs/mecostay-p-capsule-494876",
+    "https://www.1mg.com/drugs/meroplan-s-injection-266770",
+    "https://www.1mg.com/drugs/tofee-5mg-tablet-1119516",
+    "https://www.1mg.com/drugs/troyplanin-400mg-injection-289150"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.1mg.com/drugs/azifeel-500mg-tablet-767613",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioact-500mg-tablet-458878",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioazi-500mg-tablet-661194",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biobin-100mg-injection-294476",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biocetamol-150mg-injection-280853",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biocib-120mg-tablet-495083",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioclar-500-tablet-506568",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioclear-tablet-1068387",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioclox-500mg-capsule-542411",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biocobal-p-750mcg-75mg-capsule-540102",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biocold-mc-oral-suspension-1098110",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biocristin-1mg-injection-159512",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioctide-100-mcg-injection-1077206",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biodex-syrup-1038775",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biogrel-a-75mg-75mg-tablet-483877",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biokare-od-tablet-187665",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biolactin-plus-syrup-218043",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biolanza-5mg-tablet-454809",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biolax-5mg-tablet-566458",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biolev-5mg-tablet-459908",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biological-e-diptheria-antitoxin-1000iu-injection-735880",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioluric-40-tablet-928021",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biomoxil-lb-syrup-306635",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biomus-1-capsule-323275",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biopanib-400mg-tablet-730151",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biopank-212.5mg-tablet-588899",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biopride-m-2mg-500mg-tablet-389190",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioprim-40mg-tablet-sr-354102",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biores-forte-tablet-626145",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biospan-10mg-tablet-241829",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biotrany-p-37.5mg-325mg-tablet-425938",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biotrix-1gm-injection-590870",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biovent-lc-syrup-420788",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/bioxime-100mg-tablet-dt-805686",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/biozenises-pg-tablet-446059",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/capricef-500mg-injection-685948",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/celplanin-400mg-injection-393205",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/curebiotic-ear-drop-564702",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/decostal-50mg-injection-822485",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/eubioxyl-lb-500mg-capsule-510597",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/feel-good-hr-tablet-358068",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/healthaid-biotin-5000-mcg-tablet-vitamin-b7-for-hair-skin-nail-health-978567",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/l-biotic-250-mg-250-mg-capsule-250782",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/mecostal-1500mcg-injection-2-ml-367035",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/mecostay-p-capsule-494876",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/meroplan-s-injection-266770",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/otobiotic-plus-ear-drop-139702",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/prebion-m-750mcg-75mg-capsule-771325",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/sulfaquin-100mg-tablet-290486",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/tofee-5mg-tablet-1119516",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.1mg.com/drugs/troyplanin-400mg-injection-289150",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

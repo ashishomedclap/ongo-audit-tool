@@ -1,0 +1,13 @@
+{
+  "name": "Trustpilot",
+  "domain": "trustpilot.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://trustpilot.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://trustpilot.com/pricing"
+  ],
+  "all_categorized": []
+}

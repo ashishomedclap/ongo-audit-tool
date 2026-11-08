@@ -1,0 +1,13 @@
+{
+  "name": "Hartley Health & Wellness",
+  "domain": "hartleyhealthandwellness.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://hartleyhealthandwellness.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://hartleyhealthandwellness.org/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,368 @@
+{
+  "name": "Batashmedical",
+  "domain": "batashmedical.com",
+  "total_urls": 470,
+  "semaglutide_pages": [
+    "https://www.batashmedical.com/blog/bariatric-surgery-vs-ozempic",
+    "https://www.batashmedical.com/blog/do-celebrities-use-ozempic-for-weight-loss",
+    "https://www.batashmedical.com/blog/does-semaglutide-work-long-term",
+    "https://www.batashmedical.com/blog/how-fast-does-semaglutide-work",
+    "https://www.batashmedical.com/blog/how-to-lose-weight-without-ozempic",
+    "https://www.batashmedical.com/blog/how-to-not-gain-weight-after-stopping-ozempic",
+    "https://www.batashmedical.com/blog/mounjaro-vs-ozempic",
+    "https://www.batashmedical.com/blog/ozempic-alternatives-for-weight-management",
+    "https://www.batashmedical.com/blog/ozempic-and-osteoporosis",
+    "https://www.batashmedical.com/blog/ozempic-face",
+    "https://www.batashmedical.com/blog/semaglutide-headache",
+    "https://www.batashmedical.com/blog/semaglutide-side-effects",
+    "https://www.batashmedical.com/blog/tirzepatide-vs-semaglutide",
+    "https://www.batashmedical.com/blog/wegovy-vs-zepbound",
+    "https://www.batashmedical.com/blog/what-happens-when-you-stop-taking-ozempic-semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.batashmedical.com/blog/does-tirzepatide-cause-hair-loss",
+    "https://www.batashmedical.com/blog/mounjaro-vs-ozempic",
+    "https://www.batashmedical.com/blog/tirzepatide-plateau",
+    "https://www.batashmedical.com/blog/tirzepatide-vs-semaglutide",
+    "https://www.batashmedical.com/blog/wegovy-vs-zepbound"
+  ],
+  "pricing_pages": [
+    "https://www.batashmedical.com/blog/bariatric-diet-plan-without-surgery-heres-how-it-works",
+    "https://www.batashmedical.com/blog/cost-of-a-gastric-balloon-procedure",
+    "https://www.batashmedical.com/blog/cost-of-gastric-sleeve",
+    "https://www.batashmedical.com/blog/how-much-does-bariatric-surgery-cost-new-york",
+    "https://www.batashmedical.com/blog/non-surgical-weight-loss-plan",
+    "https://www.batashmedical.com/blog/weight-loss-plans-for-the-morbidly-obese-without-surgery",
+    "https://www.batashmedical.com/blog/what-strategies-produce-the-best-6-month-weight-loss-plan",
+    "https://www.batashmedical.com/diet-plan/intragastric-balloon-diet",
+    "https://www.batashmedical.com/diet-plan/suture-resculpt-of-bypass-diet",
+    "https://www.batashmedical.com/diet-plan/suture-sculpt-diet",
+    "https://www.batashmedical.com/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.batashmedical.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/accessibility-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/all-about-bariatric-surgery-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/bariatric-diet-plan-without-surgery-heres-how-it-works",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/bariatric-surgery-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/batash-endoscopic-weight-loss-expands-to-miami-florida",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/change-your-life-with-non-surgical-weight-loss-in-glendale-ny",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/cost-of-a-gastric-balloon-procedure",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/cost-of-gastric-sleeve",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/do-celebrities-use-ozempic-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/does-semaglutide-work-long-term",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/does-tirzepatide-cause-hair-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/endoscopic-sleeve-gastroplasty-doctors-in-new-york",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/high-fat-diet-linked-to-unfavorable-gut-microbiota-changes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/how-fast-does-semaglutide-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/how-much-does-bariatric-surgery-cost-new-york",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/how-to-lose-weight-without-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/how-to-not-gain-weight-after-stopping-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/mounjaro-vs-ozempic",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/non-surgical-weight-loss-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/non-surgical-weight-loss-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/orbera-doctor-near-you",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/orbera-procedure-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/ozempic-alternatives-for-weight-management",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/ozempic-and-osteoporosis",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/ozempic-face",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/semaglutide-headache",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/semaglutide-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/tirzepatide-plateau",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/tirzepatide-vs-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/wegovy-vs-zepbound",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/weight-loss-plans-for-the-morbidly-obese-without-surgery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/weight-loss-trends-of-2025-the-shift-to-biological-sustainability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/weight-management-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/what-does-a-bariatric-doctor-do-and-how-can-they-help",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/what-happens-when-you-stop-taking-ozempic-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/what-strategies-produce-the-best-6-month-weight-loss-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/blog/why-am-i-not-losing-weight-on-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/diet-plan/intragastric-balloon-diet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/diet-plan/suture-resculpt-of-bypass-diet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/diet-plan/suture-sculpt-diet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/doctor/don-portocarrero",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/doctor/dr-federico-gregory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/doctor/eric-ibegbu",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/doctor/irene-bokser",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/doctor/lorenzo-ottaviano",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/doctor/steven-batash",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/doctor/yoel-rojas-ortiz-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/our-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.batashmedical.com/shop-policy",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "name": "Primehealthmd",
+  "domain": "primehealthmd.com",
+  "total_urls": 315,
+  "semaglutide_pages": [
+    "https://www.primehealthmd.com/blog/combining-semaglutide-with-diet-and-exercise",
+    "https://www.primehealthmd.com/blog/consulting-your-doctor-about-semaglutide-weight-loss",
+    "https://www.primehealthmd.com/blog/how-semaglutide-works",
+    "https://www.primehealthmd.com/blog/myths-and-misconceptions-about-semaglutide-weight-loss",
+    "https://www.primehealthmd.com/blog/semaglutide-questions",
+    "https://www.primehealthmd.com/blog/semaglutide-vs-traditional-weight-loss-methods",
+    "https://www.primehealthmd.com/blog/tips-for-sustainable-weight-management-with-semaglutide",
+    "https://www.primehealthmd.com/blog/tirzepatide-versus-semaglutide-which-is-better-for-weight-loss-in-atlanta-ga",
+    "https://www.primehealthmd.com/blog/wegovy-semaglutide-vs-tirzepatide-what-s-the-difference",
+    "https://www.primehealthmd.com/blog/why-semaglutide-finally-works-when-every-other-diet-has-failed",
+    "https://www.primehealthmd.com/pages/beyond-weight-loss-can-semaglutide-help-manage-other-health-conditions",
+    "https://www.primehealthmd.com/pages/is-semaglutide-a-magic-bullet-the-science-behind-weight-loss",
+    "https://www.primehealthmd.com/pages/wegovy-semaglutide-medical-weight-loss",
+    "https://www.primehealthmd.com/pages/wegovy-semaglutide-vs-tirzepatide-whats-the-difference",
+    "https://www.primehealthmd.com/pages/wegovy-weight-loss"
+  ],
+  "tirzepatide_pages": [
+    "https://www.primehealthmd.com/blog/struggling-with-midlife-weight-gain-tirzepatide-weight-loss-in-kennesaw-ga-offers-a-proven",
+    "https://www.primehealthmd.com/blog/tirzepatide-versus-semaglutide-which-is-better-for-weight-loss-in-atlanta-ga",
+    "https://www.primehealthmd.com/blog/tirzepatide-vs-traditional-weight-loss-therapies",
+    "https://www.primehealthmd.com/blog/tirzepatide-weight-loss-revolution",
+    "https://www.primehealthmd.com/blog/understanding-tirzepatide",
+    "https://www.primehealthmd.com/blog/wegovy-semaglutide-vs-tirzepatide-what-s-the-difference",
+    "https://www.primehealthmd.com/blog/what-to-expect-during-your-first-month-of-tirzepatide",
+    "https://www.primehealthmd.com/pages/tirzepatide-weight-loss",
+    "https://www.primehealthmd.com/pages/wegovy-semaglutide-vs-tirzepatide-whats-the-difference",
+    "https://www.primehealthmd.com/services/tirzepatide-weight-loss"
+  ],
+  "pricing_pages": [
+    "https://www.primehealthmd.com/blog/age-with-confidence-simple-ways-men-can-feel-their-best",
+    "https://www.primehealthmd.com/blog/curious-about-what-perimenopause-mood-swings-really-feel-like",
+    "https://www.primehealthmd.com/blog/feeling-tired-after-a-full-night-s-sleep-discover-5-causes",
+    "https://www.primehealthmd.com/blog/incorporating-mindful-eating-into-your-weight-loss-plan",
+    "https://www.primehealthmd.com/blog/testosterone-replacement-therapy-treatment-planning-why-integrated-care-matters",
+    "https://www.primehealthmd.com/blog/weight-loss-pricing-tricks-how-to-avoid-hidden-costs",
+    "https://www.primehealthmd.com/pages/5-must-haves-to-create-a-sustainable-weight-loss-plan",
+    "https://www.primehealthmd.com/pages/creating-an-exercise-routine-to-compliment-your-medical-weight-loss-plan-in-3-key-steps",
+    "https://www.primehealthmd.com/pages/how-to-create-a-simple-weight-loss-plan-you-can-actually-stick-to",
+    "https://www.primehealthmd.com/pages/how-to-stick-to-your-weight-loss-plan-through-the-holidays",
+    "https://www.primehealthmd.com/products/salted-toffee-pretzel-protein-bars"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.primehealthmd.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/age-with-confidence-simple-ways-men-can-feel-their-best",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/bioidentical-hormone-replacement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/bioidentical-hormone-therapy-delivery-methods",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/combining-semaglutide-with-diet-and-exercise",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/consulting-your-doctor-about-semaglutide-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/curious-about-what-perimenopause-mood-swings-really-feel-like",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/deciding-if-bioidentical-hormones-in-dunwoody-ga-are-right-for-you",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/feeling-tired-after-a-full-night-s-sleep-discover-5-causes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/how-semaglutide-works",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/how-to-find-the-best-medical-weight-loss-in-kennesaw-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/incorporating-mindful-eating-into-your-weight-loss-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/myths-and-misconceptions-about-semaglutide-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/semaglutide-questions",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/semaglutide-vs-traditional-weight-loss-methods",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/struggling-with-midlife-weight-gain-tirzepatide-weight-loss-in-kennesaw-ga-offers-a-proven",
+      "categories": [
+        "Tirzepatide",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/testosterone-replacement-therapy-treatment-planning-why-integrated-care-matters",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/the-role-of-probiotics-in-weight-management",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/the-top-five-ways-you-can-benefit-from-bioidentical-hormone-therapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/tips-for-sustainable-weight-management-with-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/tirzepatide-versus-semaglutide-which-is-better-for-weight-loss-in-atlanta-ga",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/tirzepatide-vs-traditional-weight-loss-therapies",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/tirzepatide-weight-loss-revolution",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/understanding-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/wegovy-semaglutide-vs-tirzepatide-what-s-the-difference",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/weight-loss-pricing-tricks-how-to-avoid-hidden-costs",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/what-are-the-signs-that-you-may-need-bioidentical-hormone-therapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/what-to-expect-during-your-first-month-of-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/why-many-people-choose-bioidentical-hormones-for-hormonal-balance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/blog/why-semaglutide-finally-works-when-every-other-diet-has-failed",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/5-must-haves-to-create-a-sustainable-weight-loss-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/beyond-weight-loss-can-semaglutide-help-manage-other-health-conditions",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/creating-an-exercise-routine-to-compliment-your-medical-weight-loss-plan-in-3-key-steps",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/how-to-create-a-simple-weight-loss-plan-you-can-actually-stick-to",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/how-to-stick-to-your-weight-loss-plan-through-the-holidays",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/is-semaglutide-a-magic-bullet-the-science-behind-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/tirzepatide-weight-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/top-7-questions-to-ask-your-medical-weight-loss-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/top-8-questions-to-ask-your-medical-weight-loss-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/wegovy-semaglutide-medical-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/wegovy-semaglutide-vs-tirzepatide-whats-the-difference",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/pages/wegovy-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/products/50-first-week-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/products/prime-health-md-50-semaglutide-via-calendars",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/products/salted-toffee-pretzel-protein-bars",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/services/bioidentical-hormone-therapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/services/gut-microbiome-mapping",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/services/semaglutide-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.primehealthmd.com/services/tirzepatide-weight-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

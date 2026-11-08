@@ -1,0 +1,44 @@
+{
+  "name": "The Healthywoman",
+  "domain": "the-healthywoman.com",
+  "total_urls": 86,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.the-healthywoman.com/post/why-your-primary-care-doctor-should-be-part-of-your-weight-loss-plan",
+    "https://www.the-healthywoman.com/service/implants"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.the-healthywoman.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.the-healthywoman.com/our-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.the-healthywoman.com/post/why-your-primary-care-doctor-should-be-part-of-your-weight-loss-plan",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.the-healthywoman.com/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.the-healthywoman.com/service/implants",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

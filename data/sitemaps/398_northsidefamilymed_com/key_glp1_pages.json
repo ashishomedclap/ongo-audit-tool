@@ -1,0 +1,70 @@
+{
+  "name": "Northsidefamilymed",
+  "domain": "northsidefamilymed.com",
+  "total_urls": 31,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.northsidefamilymed.com/meet-our-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/primary-care-physician-buford-ga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/primary-care-physician-duluth-ga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/primary-care-physician-marietta-ga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/primary-care-physician-norcross-ga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/primary-care-physician-roswell-ga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/primary-care-physician-sandy-springs-ga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/primary-care-physician-tucker-ga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/primary-care-physician-woodstock-ga",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.northsidefamilymed.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

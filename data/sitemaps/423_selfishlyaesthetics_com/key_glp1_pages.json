@@ -1,0 +1,63 @@
+{
+  "name": "Selfishlyaesthetics",
+  "domain": "selfishlyaesthetics.com",
+  "total_urls": 39,
+  "semaglutide_pages": [
+    "https://selfishlyaesthetics.com/what-to-expect-when-starting-semaglutide-for-weight-management/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://selfishlyaesthetics.com/memberships/",
+    "https://selfishlyaesthetics.com/payment-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://selfishlyaesthetics.com/biostimulators-adapted-skin-types/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://selfishlyaesthetics.com/glp-1-weight-loss-injections-benefits-safety-results/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://selfishlyaesthetics.com/memberships/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://selfishlyaesthetics.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://selfishlyaesthetics.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://selfishlyaesthetics.com/rejuvenate-skin-with-biostimulators/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://selfishlyaesthetics.com/terms-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://selfishlyaesthetics.com/what-to-expect-when-starting-semaglutide-for-weight-management/",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

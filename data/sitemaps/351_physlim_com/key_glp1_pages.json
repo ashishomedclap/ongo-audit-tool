@@ -1,0 +1,13 @@
+{
+  "name": "Physlim",
+  "domain": "physlim.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://physlim.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://physlim.com/pricing"
+  ],
+  "all_categorized": []
+}

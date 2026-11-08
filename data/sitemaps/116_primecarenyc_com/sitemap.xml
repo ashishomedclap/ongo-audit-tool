@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.primecarenyc.com/</loc>
+  </url>
+  <url>
+    <loc>https://www.primecarenyc.com/about</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.primecarenyc.com/services</loc>
+  </url>
+
+      <url>
+      <loc>https://www.primecarenyc.com/services/family-practice</loc>
+    </url>
+      <url>
+      <loc>https://www.primecarenyc.com/services/immunizations</loc>
+    </url>
+      <url>
+      <loc>https://www.primecarenyc.com/services/asthma</loc>
+    </url>
+      <url>
+      <loc>https://www.primecarenyc.com/services/physical-exam</loc>
+    </url>
+      <url>
+      <loc>https://www.primecarenyc.com/services/diabetes</loc>
+    </url>
+      <url>
+      <loc>https://www.primecarenyc.com/services/weight-loss</loc>
+    </url>
+      <url>
+      <loc>https://www.primecarenyc.com/services/womens-health</loc>
+    </url>
+      <url>
+      <loc>https://www.primecarenyc.com/services/podiatry</loc>
+    </url>
+      <url>
+      <loc>https://www.primecarenyc.com/services/cardiology</loc>
+    </url>
+    <url>
+    <loc>https://www.primecarenyc.com/schedule</loc>
+  </url>
+  <url><loc>https://www.primecarenyc.com/testimonials</loc></url>
+    <url><loc>https://www.primecarenyc.com/blog</loc></url>
+      <url><loc>https://www.primecarenyc.com/blog/archive</loc></url>
+              <url><loc>https://www.primecarenyc.com/contents/insurance-full</loc></url>
+          
+  <url><loc>https://www.primecarenyc.com/contactus</loc></url>
+
+      <url><loc>https://www.primecarenyc.com/location/ny/brooklyn</loc></url>
+      <url><loc>https://www.primecarenyc.com/location/ny/jamaica/queens</loc></url>
+      <url><loc>https://www.primecarenyc.com/location/ny/brooklyn/flatbush</loc></url>
+  
+    </urlset>

@@ -1,0 +1,167 @@
+{
+  "name": "Mdwls",
+  "domain": "mdwls.com",
+  "total_urls": 101,
+  "semaglutide_pages": [
+    "https://mdwls.com/semaglutide-weight-loss/"
+  ],
+  "tirzepatide_pages": [
+    "https://mdwls.com/tirzepatide-weightloss/"
+  ],
+  "pricing_pages": [
+    "https://mdwls.com/payment-plans-copy/",
+    "https://mdwls.com/weight-loss-meal-plans-atlanta-birmingham/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://mdwls.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/about-us/about-uspayment-options/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/about-us/in-the-news/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/about-us/pay-now/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/about-us/weight-loss-financing-insurance/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/payment-plans-copy/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/semaglutide-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/tirzepatide-weightloss/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/alpharetta-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/atlanta-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/birmingham-al/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/buckhead-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/buford-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/conyers-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/cullman-al/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/gainesville-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/griffin-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/huntsville-al/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/johns-creek-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/kennesaw-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/lawrenceville-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-clinic-locations/roswell-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mdwls.com/weight-loss-meal-plans-atlanta-birmingham/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

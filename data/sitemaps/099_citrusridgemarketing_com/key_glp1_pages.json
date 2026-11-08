@@ -1,0 +1,44 @@
+{
+  "name": "Citrusridgemarketing",
+  "domain": "citrusridgemarketing.com",
+  "total_urls": 46,
+  "semaglutide_pages": [
+    "https://www.citrusridgemarketing.com/semaglutide-marketing"
+  ],
+  "tirzepatide_pages": [
+    "https://www.citrusridgemarketing.com/tirzepatide-seo"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.citrusridgemarketing.com/english-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.citrusridgemarketing.com/semaglutide-marketing",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.citrusridgemarketing.com/seo-for-healthcare-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.citrusridgemarketing.com/seo-for-weight-loss-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.citrusridgemarketing.com/tirzepatide-seo",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

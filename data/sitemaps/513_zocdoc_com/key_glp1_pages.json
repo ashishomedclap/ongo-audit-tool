@@ -1,0 +1,13 @@
+{
+  "name": "Zocdoc",
+  "domain": "zocdoc.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://zocdoc.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://zocdoc.com/pricing"
+  ],
+  "all_categorized": []
+}

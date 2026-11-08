@@ -1,0 +1,16 @@
+{
+  "name": "Drjacobsclinic",
+  "domain": "drjacobsclinic.com",
+  "total_urls": 14,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.drjacobsclinic.com/terms",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

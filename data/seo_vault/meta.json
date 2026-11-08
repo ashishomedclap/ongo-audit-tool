@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-11-08T02:55:07.720Z",
+  "version": "1.0.0",
+  "counts": {
+    "keywords": 531,
+    "backlinks": 7888,
+    "competitors": 526,
+    "referringDomains": 1686
+  },
+  "kpis": {
+    "top3Keywords": 48,
+    "top10Keywords": 67,
+    "totalSearchVolume": 86980,
+    "totalTrafficCost": 3907,
+    "totalEstimatedTraffic": 443,
+    "dofollowBacklinks": 2772,
+    "nofollowBacklinks": 5116,
+    "highAuthBacklinks": 4,
+    "averageCompetitorRelevance": 0.009
+  }
+}

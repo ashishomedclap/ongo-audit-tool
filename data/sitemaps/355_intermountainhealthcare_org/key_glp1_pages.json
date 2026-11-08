@@ -1,0 +1,13 @@
+{
+  "name": "Intermountainhealthcare",
+  "domain": "intermountainhealthcare.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://intermountainhealthcare.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://intermountainhealthcare.org/pricing"
+  ],
+  "all_categorized": []
+}

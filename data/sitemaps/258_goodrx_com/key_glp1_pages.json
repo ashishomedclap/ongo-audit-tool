@@ -1,0 +1,222 @@
+{
+  "name": "Goodrx",
+  "domain": "goodrx.com",
+  "total_urls": 9937,
+  "semaglutide_pages": [
+    "https://www.goodrx.com/ozempic",
+    "https://www.goodrx.com/ozempic/what-is",
+    "https://www.goodrx.com/wegovy",
+    "https://www.goodrx.com/wegovy/what-is"
+  ],
+  "tirzepatide_pages": [
+    "https://www.goodrx.com/mounjaro",
+    "https://www.goodrx.com/mounjaro/what-is",
+    "https://www.goodrx.com/zepbound",
+    "https://www.goodrx.com/zepbound/what-is"
+  ],
+  "pricing_pages": [
+    "https://www.goodrx.com/implanon",
+    "https://www.goodrx.com/marplan",
+    "https://www.goodrx.com/marplan/what-is",
+    "https://www.goodrx.com/mycostatin",
+    "https://www.goodrx.com/mycostatin/what-is",
+    "https://www.goodrx.com/nexplanon",
+    "https://www.goodrx.com/nexplanon/what-is",
+    "https://www.goodrx.com/plan-b",
+    "https://www.goodrx.com/plan-b-one-step"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.goodrx.com/bio-mycin-200",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/bio-spot-active-care-for-dogs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/bio-spot-defense-for-dogs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/bio-spot-for-cats",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/biomox",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/bionect",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/bionect/what-is",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/bionime",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/biorphen",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/biothrax",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/biothrax/what-is",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/fabior",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/fabior/what-is",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/implanon",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/marplan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/marplan/what-is",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/mounjaro/what-is",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/mycostatin",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/mycostatin/what-is",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/neobiotic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/nexplanon",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/nexplanon/what-is",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/ozempic/what-is",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/plan-b",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/plan-b-one-step",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/visbiome",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/wegovy/what-is",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.goodrx.com/zepbound/what-is",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

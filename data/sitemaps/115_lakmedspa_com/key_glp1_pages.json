@@ -1,0 +1,77 @@
+{
+  "name": "Lakmedspa",
+  "domain": "lakmedspa.com",
+  "total_urls": 110,
+  "semaglutide_pages": [
+    "https://www.lakmedspa.com/prevent-ozempic-face-wayzata-mn/",
+    "https://www.lakmedspa.com/semaglutide-and-emsculptneo-wayzata-mn/",
+    "https://www.lakmedspa.com/semaglutide-for-weight-loss-wayzata-mn/",
+    "https://www.lakmedspa.com/semaglutide-injection-wayzata-mn/",
+    "https://www.lakmedspa.com/semaglutide-weight-loss-injections-near-me-wayzata-mn/",
+    "https://www.lakmedspa.com/weight-loss-with-semaglutide-near-me-wayzata-mn/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.lakmedspa.com/bio-identical-hormones/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/bioidentical-hormone-replacement-therapy-bhrt/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/meet-our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/our-physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/prevent-ozempic-face-wayzata-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/semaglutide-and-emsculptneo-wayzata-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/semaglutide-for-weight-loss-wayzata-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/semaglutide-injection-wayzata-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/semaglutide-weight-loss-injections-near-me-wayzata-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.lakmedspa.com/weight-loss-with-semaglutide-near-me-wayzata-mn/",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

@@ -156,7 +156,7 @@ export default function InternalLinksTab() {
               Internal Link &amp; Anchor Text Recommender
             </h1>
             <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
-              Audit internal link topology across Ongo's 43 live pages, eliminate orphan URLs, and inject contextual anchor text snippets into your Next.js source code.
+              Audit internal link topology across Ongo's 56 live pages, eliminate orphan URLs, and inject contextual anchor text snippets into your Next.js source code.
             </p>
           </div>
 
@@ -175,18 +175,13 @@ export default function InternalLinksTab() {
               className="gsc-btn-primary"
             >
               <RefreshCw size={14} className={loading ? 'animate-spin' : ''} />
-              {loading ? 'Scanning...' : 'Rescan 43 Pages'}
+              {loading ? 'Scanning...' : 'Rescan 56 Pages'}
             </button>
           </div>
         </div>
       </div>
 
-      <ContextCue
-        useCase="Deploy 4 strategic internal linking rules to distribute PageRank equity, eliminate orphan pages, and funnel patients to conversion checkout."
-        title="Automated Silo Link Rules & Equity Flow"
-        about="Rule 1 enforces vertical funneling from informational spokes to money pages. Rule 2 connects guides to utility tools. Rule 3 connects articles to doctor E-E-A-T credentials. Rule 4 guarantees every page funnels qualified patients to /eligibility/ and /pricing/."
-      />
-
+      
       {/* 4 Clarity Executive Scorecards */}
       <div style={{
         display: 'grid',
@@ -332,6 +327,7 @@ export default function InternalLinksTab() {
           <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '10px' }}>
             {/* Priority Filter */}
             <select
+              aria-label="Filter internal links by priority"
               value={priorityFilter}
               onChange={(e) => setPriorityFilter(e.target.value)}
               className="input-minimal"
@@ -345,6 +341,7 @@ export default function InternalLinksTab() {
 
             {/* Rule Filter */}
             <select
+              aria-label="Filter by internal linking rule"
               value={ruleFilter}
               onChange={(e) => setRuleFilter(e.target.value)}
               className="input-minimal"

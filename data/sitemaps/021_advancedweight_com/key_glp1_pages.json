@@ -1,0 +1,43 @@
+{
+  "name": "Advancedweight",
+  "domain": "advancedweight.com",
+  "total_urls": 26,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.advancedweight.com/payment-plans",
+    "https://www.advancedweight.com/post/my-labs-are-normal-but-i-feel-horrible"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.advancedweight.com/blog/categories/bioidentical-hormone-replacement-th",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.advancedweight.com/payment-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.advancedweight.com/post/my-labs-are-normal-but-i-feel-horrible",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.advancedweight.com/providers-1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.advancedweight.com/terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

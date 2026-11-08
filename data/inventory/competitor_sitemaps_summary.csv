@@ -1,101 +1,619 @@
 Rank,Competitor Name,Domain,Status,Primary Sitemap,Total Sitemaps,Total URLs,Semaglutide URLs,Tirzepatide URLs,Pricing URLs,Local Folder
-1,Mochi Health,joinmochi.com,SUCCESS,https://joinmochi.com/sitemap.xml,2,425,68,48,7,001_mochi_health
-2,Henry Meds,henrymeds.com,SUCCESS,https://henrymeds.com/sitemap.xml,2,43,4,1,0,002_henry_meds
-3,OrderlyMeds,orderlymeds.com,SUCCESS,https://orderlymeds.com/sitemap_index.xml,7,139,4,2,7,003_orderlymeds
-4,Lavender Sky Health,lavenderskyhealth.com,NO_SITEMAP,None,0,0,0,0,0,004_lavender_sky_health
-5,Emerge Weight Loss,emergeweight.com,SUCCESS,https://www.emergeweight.com/sitemap-index.xml,2,13,0,2,1,005_emerge_weight_loss
-6,JoinFridays (Fridays Health),joinfridays.com,SUCCESS,https://joinfridays.com/sitemap.xml,2,166,52,30,6,006_joinfridays_fridays_health
-7,IVÍM Health,ivimhealth.com,SUCCESS,https://www.ivimhealth.com/sitemap_index.xml,13,518,61,43,11,007_iv_m_health
-8,SlimDown Rx,slimdownrx.com,NO_SITEMAP,None,0,0,0,0,0,008_slimdown_rx
-9,Pomegranate Health,joinpomegranate.com,SUCCESS,https://joinpomegranate.com/sitemap.xml,2,76,4,3,0,009_pomegranate_health
-10,Amble Health (JoinAmble),joinamble.com,SUCCESS,https://joinamble.com/sitemap.xml,2,94,1,0,0,010_amble_health_joinamble
-11,Brello Health,brellohealth.com,SUCCESS,https://www.brellohealth.com/sitemap_index.xml,10,154,1,3,5,011_brello_health
-12,Eden (TryEden),tryeden.com,SUCCESS,https://www.tryeden.com/sitemap.xml,2,1042,190,57,44,012_eden_tryeden
-13,FuturHealth,futurhealth.com,NO_SITEMAP,None,0,0,0,0,0,013_futurhealth
-14,ShedRx (TryShed),shedrx.com,NO_SITEMAP,None,0,0,0,0,0,014_shedrx_tryshed
-15,ReflexMD,reflexmd.com,SUCCESS,https://www.reflexmd.com/blog/sitemap_index.xml,11,132,1,0,1,015_reflexmd
-16,Remedy Meds,remedymeds.com,NO_SITEMAP,None,0,0,0,0,0,016_remedy_meds
-17,Fifty 410,fifty410.com,SUCCESS,https://www.fifty410.com/sitemap.xml,2,43,1,1,3,017_fifty_410
-18,Zealthy,getzealthy.com,SUCCESS,https://getzealthy.com/sitemap.xml,2,258,52,46,6,018_zealthy
-19,Ro (Ro Body),ro.co,NO_SITEMAP,None,0,0,0,0,0,019_ro_ro_body
-20,Hims Weight Loss,forhims.com,NO_SITEMAP,None,0,0,0,0,0,020_hims_weight_loss
-21,Hers Weight Loss,forhers.com,NO_SITEMAP,None,0,0,0,0,0,021_hers_weight_loss
-22,LifeMD,lifemd.com,SUCCESS,https://lifemd.com/sitemap/,8,1403,35,12,10,022_lifemd
-23,WeightWatchers Clinic (Sequence),sequence.com,NO_SITEMAP,None,0,0,0,0,0,023_weightwatchers_clinic_sequence
-24,Noom Med,noom.com,SUCCESS,https://noom.com/sitemap_index.xml,11,1409,152,105,97,024_noom_med
-25,Found (JoinFound),joinfound.com,SUCCESS,https://joinfound.com/sitemap.xml,2,507,59,43,16,025_found_joinfound
-26,Fella Health,fellahealth.com,SUCCESS,https://www.fellahealth.com/sitemap.xml,2,1,0,0,0,026_fella_health
-27,Valhalla Vitality,valhallavitality.com,SUCCESS,https://valhallavitality.com/sitemap.xml,9,529,36,34,4,027_valhalla_vitality
-28,GobyMeds,gobymeds.com,SUCCESS,https://www.gobymeds.com/sitemap.xml,2,240,28,17,2,028_gobymeds
-29,TeleFitMD,telefitmd.com,NO_SITEMAP,None,0,0,0,0,0,029_telefitmd
-30,Enbold,enbold.com,SUCCESS,https://www.enbold.com/sitemap.xml,2,28,4,1,2,030_enbold
-31,Trava Health,travahealth.com,NO_SITEMAP,None,0,0,0,0,0,031_trava_health
-32,Tree Top Health,treetophealth.net,SUCCESS,https://treetophealth.net/sitemap.xml,12,23,0,0,1,032_tree_top_health
-33,Regenics,regenics.com,SUCCESS,https://regenics.com/sitemap.xml,10,159,1,0,1,033_regenics
-34,Strut Health,struthealth.com,SUCCESS,https://www.struthealth.com/sitemap.xml,2,273,1,4,6,034_strut_health
-35,Maximus Tribe,maximustribe.com,SUCCESS,https://www.maximustribe.com/sitemap-index.xml,2,343,10,5,2,035_maximus_tribe
-36,Defy Medical,defymedical.com,SUCCESS,https://www.defymedical.com/sitemap_index.xml,11,660,8,6,14,036_defy_medical
-37,MinuteMD,minutemd.com,SUCCESS,https://minutemd.com/sitemap_index.xml,3,29,2,0,2,037_minutemd
-38,NextMed,nextmed.com,NO_SITEMAP,None,0,0,0,0,0,038_nextmed
-39,Skinny Rx,skinnyrx.com,SUCCESS,https://skinnyrx.com/sitemap.xml,8,41,5,11,0,039_skinny_rx
-40,Bright Meds,brightmeds.com,NO_SITEMAP,None,0,0,0,0,0,040_bright_meds
-41,Morph Health,morphhealth.com,NO_SITEMAP,None,0,0,0,0,0,041_morph_health
-42,WeightCare,joinweightcare.com,SUCCESS,https://joinweightcare.com/sitemap.xml,8,238,42,41,3,042_weightcare
-43,AgelessRx,agelessrx.com,SUCCESS,https://agelessrx.com/sitemap_index.xml,10,777,14,6,3,043_agelessrx
-44,NuImage Medical,nuimagemedical.com,SUCCESS,https://nuimagemedical.com/sitemap_index.xml,6,855,26,13,8,044_nuimage_medical
-45,Fountain TRT / Fountain Health,fountaintrt.com,NO_SITEMAP,None,0,0,0,0,0,045_fountain_trt_fountain_health
-46,Zappy Health,zappyhealth.com,SUCCESS,https://zappyhealth.com/sitemap.xml,9,190,19,23,5,046_zappy_health
-47,Reset Wellness,resetwellness.com,NO_SITEMAP,None,0,0,0,0,0,047_reset_wellness
-48,Core Age Rx,coreagerx.com,SUCCESS,https://coreagerx.com/sitemap_index.xml,5,808,176,111,29,048_core_age_rx
-49,Alchemy Wellness Health,alchemywellnessweightcare.com,SUCCESS,https://alchemywellnessweightcare.com/sitemap.xml,2,24,0,0,2,049_alchemy_wellness_health
-50,Unique Physique,uniquephysique.com,SUCCESS,https://uniquephysique.com/sitemap_index.xml,12,112,1,1,5,050_unique_physique
-51,Good Life Meds,goodlifemeds.com,NO_SITEMAP,None,0,0,0,0,0,051_good_life_meds
-52,Direct Meds,directmeds.com,SUCCESS,https://directmeds.com/sitemap.xml,2,163,29,20,4,052_direct_meds
-53,Helix MKE / Helix Mobile,helixmke.com,NO_SITEMAP,None,0,0,0,0,0,053_helix_mke_helix_mobile
-54,Invigor Medical,invigormedical.com,SUCCESS,https://tryinvigor.com/sitemap_index.xml,13,187,2,0,29,054_invigor_medical
-55,QuickMD,quick.md,SUCCESS,https://www.quick.md/sitemaps.xml,14,1154,148,55,119,055_quickmd
-56,Calibrate,joincalibrate.com,SUCCESS,https://www.joincalibrate.com/sitemap.xml,2,657,31,29,32,056_calibrate
-57,PlushCare,plushcare.com,SUCCESS,https://plushcare.com/sitemap.xml,2,1098,7,9,7,057_plushcare
-58,Sesame Care,sesamecare.com,NO_SITEMAP,None,0,0,0,0,0,058_sesame_care
-59,Everlywell,everlywell.com,SUCCESS,https://www.everlywell.com/sitemap-index.xml,7,3649,40,2,30,059_everlywell
-60,Form Health,formhealth.com,SITEMAP_FOUND_NO_URLS,https://formhealth.com/wp-sitemap.xml,3,0,0,0,0,060_form_health
-61,JumpstartMD Telehealth,jumpstartmd.com,SUCCESS,https://jumpstartmd.com/sitemap.xml,6,241,18,10,2,061_jumpstartmd_telehealth
-62,Red Mountain Weight Loss,redmountainweightloss.com,SUCCESS,https://www.redmountainweightloss.com/sitemap_index.xml,12,1298,10,0,20,062_red_mountain_weight_loss
-63,Renew Vitality,renewvitality.com,NO_SITEMAP,None,0,0,0,0,0,063_renew_vitality
-64,SemaSpace,semaspace.com,NO_SITEMAP,None,0,0,0,0,0,064_semaspace
-65,Peak Health MD,peakhealthmd.com,NO_SITEMAP,None,0,0,0,0,0,065_peak_health_md
-66,NuForm Health,nuformhealth.com,SUCCESS,https://www.nuformhealth.com/sitemap.xml,2,60,0,0,0,066_nuform_health
-67,Opt Health,opthealth.com,NO_SITEMAP,None,0,0,0,0,0,067_opt_health
-68,Precision Telemed,precisiontelemed.com,SUCCESS,https://precisiontelemed.com/sitemap_index.xml,3,120,23,27,2,068_precision_telemed
-69,Swift Clinic,swiftclinic.com,NO_SITEMAP,None,0,0,0,0,0,069_swift_clinic
-70,Royal Medical Center,royalmedicalcenters.com,SUCCESS,https://royalmedicalcenters.com/sitemap_index.xml,9,112,1,3,0,070_royal_medical_center
-71,Trimly,trimly.com,NO_SITEMAP,None,0,0,0,0,0,071_trimly
-72,Vibrant Health Telemedicine,vibranthealth.com,SUCCESS,https://vibranthealth.com/sitemap.xml,8,528,0,0,12,072_vibrant_health_telemedicine
-73,Vitality Telehealth,vitalitytelehealth.com,NO_SITEMAP,None,0,0,0,0,0,073_vitality_telehealth
-74,Willow Weight Loss,willowweightloss.com,NO_SITEMAP,None,0,0,0,0,0,074_willow_weight_loss
-75,Zenith Weight Loss,zenithweightloss.com,NO_SITEMAP,None,0,0,0,0,0,075_zenith_weight_loss
-76,Contour Lounge Telehealth,contourlounge.com,NO_SITEMAP,None,0,0,0,0,0,076_contour_lounge_telehealth
-77,Balanced Hormone Health,balancedhormonehealth.com,SUCCESS,https://balancedhormonehealth.com/sitemap_index.xml,12,580,26,19,4,077_balanced_hormone_health
-78,Pure Harmony Clinic,pureharmonyclinic.com,SUCCESS,https://pureharmonyclinic.com/sitemap.xml,13,116,0,0,0,078_pure_harmony_clinic
-79,Simple Scripts (Simple Health),simplescripts.com,NO_SITEMAP,None,0,0,0,0,0,079_simple_scripts_simple_health
-80,Lumos Care,lumoscare.com,NO_SITEMAP,None,0,0,0,0,0,080_lumos_care
-81,PhySlim,physlim.com,NO_SITEMAP,None,0,0,0,0,0,081_physlim
-82,Push Health (GLP-1 Provider Network),pushhealth.com,NO_SITEMAP,None,0,0,0,0,0,082_push_health_glp_1_provider_network
-83,Joy MD,joymd.com,NO_SITEMAP,None,0,0,0,0,0,083_joy_md
-84,Bioverse,getbioverse.com,NO_SITEMAP,None,0,0,0,0,0,084_bioverse
-85,Glow Diet / Glow Health,glowdiet.com,SUCCESS,https://www.glowdiet.com/sitemap.xml,2,93,0,0,12,085_glow_diet_glow_health
-86,Levity (JoinLevity),joinlevity.com,SUCCESS,https://www.joinlevity.com/sitemap.xml,2,1,0,0,0,086_levity_joinlevity
-87,Alfie Health,alfiehealth.com,SITEMAP_FOUND_NO_URLS,https://alfiehealth.com/sitemap_index.xml,5,0,0,0,0,087_alfie_health
-88,Enara Health,enarahealth.com,SUCCESS,https://enarahealth.com/sitemap-index.xml,2,700,1,0,15,088_enara_health
-89,NuMed Telehealth,numedtelehealth.com,NO_SITEMAP,None,0,0,0,0,0,089_numed_telehealth
-90,Hale Meds,halemeds.com,NO_SITEMAP,None,0,0,0,0,0,090_hale_meds
-91,Empower Clinics Telehealth,empowerclinics.com,NO_SITEMAP,None,0,0,0,0,0,091_empower_clinics_telehealth
-92,Pure Pharmacy Telehealth Solutions,purepharmacy.com,SUCCESS,https://purepharmacy.com/sitemap.xml,15,10323,19,0,43,092_pure_pharmacy_telehealth_solutions
-93,Trim Down Clinic,trimdownclinic.com,SITEMAP_FOUND_NO_URLS,https://trimdownclinic.com/sitemap.xml,8,0,0,0,0,093_trim_down_clinic
-94,SlimRx (GetSlimRx),getslimrx.com,SUCCESS,https://getslimrx.com/sitemap.xml,1,17,1,1,1,094_slimrx_getslimrx
-95,Genesis Lifestyle Medicine,genesislifestylemedicine.com,NO_SITEMAP,None,0,0,0,0,0,095_genesis_lifestyle_medicine
-96,Aspire Rejuvenation Telehealth,aspirerejuvenation.com,SUCCESS,https://aspirerejuvenation.com/sitemap_index.xml,15,253,5,3,0,096_aspire_rejuvenation_telehealth
-97,Revive Men's & Women's Telehealth,revivemed.com,NO_SITEMAP,None,0,0,0,0,0,097_revive_men_s_women_s_telehealth
-98,Olympia Compounding Telehealth,olympiapharmacy.com,NO_SITEMAP,None,0,0,0,0,0,098_olympia_compounding_telehealth
-99,BeThin Telehealth,bethin.com,NO_SITEMAP,None,0,0,0,0,0,099_bethin_telehealth
-100,Matrix Hormones & Telemedicine,matrixreformed.com,SUCCESS,https://matrixreformed.com/sitemap.xml,10,6,0,0,1,100_matrix_hormones_telemedicine
+1,"Mochi Health",joinmochi.com,SUCCESS,https://joinmochi.com/sitemap.xml,2,425,68,48,7,001_mochi_health
+2,"Henry Meds",henrymeds.com,SUCCESS,https://henrymeds.com/sitemap.xml,2,43,4,1,0,002_henry_meds
+3,"OrderlyMeds",orderlymeds.com,SUCCESS,https://orderlymeds.com/sitemap_index.xml,7,139,4,2,7,003_orderlymeds
+4,"Lavender Sky Health",lavenderskyhealth.com,NO_SITEMAP,None,0,0,0,0,0,004_lavender_sky_health
+5,"Emerge Weight Loss",emergeweight.com,SUCCESS,https://www.emergeweight.com/sitemap-index.xml,2,13,0,2,1,005_emerge_weight_loss
+6,"JoinFridays (Fridays Health)",joinfridays.com,SUCCESS,https://joinfridays.com/sitemap.xml,2,166,52,30,6,006_joinfridays_fridays_health
+7,"IVÍM Health",ivimhealth.com,SUCCESS,https://www.ivimhealth.com/sitemap_index.xml,13,518,61,43,11,007_iv_m_health
+8,"SlimDown Rx",slimdownrx.com,NO_SITEMAP,None,0,0,0,0,0,008_slimdown_rx
+9,"Pomegranate Health",joinpomegranate.com,SUCCESS,https://joinpomegranate.com/sitemap.xml,2,76,4,3,0,009_pomegranate_health
+10,"Amble Health (JoinAmble)",joinamble.com,SUCCESS,https://joinamble.com/sitemap.xml,2,94,1,0,0,010_amble_health_joinamble
+11,"Brello Health",brellohealth.com,SUCCESS,https://www.brellohealth.com/sitemap_index.xml,10,154,1,3,5,011_brello_health
+12,"Eden (TryEden)",tryeden.com,SUCCESS,https://www.tryeden.com/sitemap.xml,2,1042,190,57,44,012_eden_tryeden
+13,"FuturHealth",futurhealth.com,NO_SITEMAP,None,0,0,0,0,0,013_futurhealth
+14,"ShedRx (TryShed)",shedrx.com,NO_SITEMAP,None,0,0,0,0,0,014_shedrx_tryshed
+15,"ReflexMD",reflexmd.com,SUCCESS,https://www.reflexmd.com/blog/sitemap_index.xml,11,132,1,0,1,015_reflexmd
+16,"Remedy Meds",remedymeds.com,NO_SITEMAP,None,0,0,0,0,0,016_remedy_meds
+17,"Fifty 410",fifty410.com,SUCCESS,https://www.fifty410.com/sitemap.xml,2,43,1,1,3,017_fifty_410
+18,"Zealthy",getzealthy.com,SUCCESS,https://getzealthy.com/sitemap.xml,2,258,52,46,6,018_zealthy
+19,"Ro (Ro Body)",ro.co,NO_SITEMAP,None,0,0,0,0,0,019_ro_ro_body
+20,"Hims Weight Loss",forhims.com,NO_SITEMAP,None,0,0,0,0,0,020_hims_weight_loss
+21,"Hers Weight Loss",forhers.com,NO_SITEMAP,None,0,0,0,0,0,021_hers_weight_loss
+22,"LifeMD",lifemd.com,SUCCESS,https://lifemd.com/sitemap/,8,1403,35,12,10,022_lifemd
+23,"WeightWatchers Clinic (Sequence)",sequence.com,NO_SITEMAP,None,0,0,0,0,0,023_weightwatchers_clinic_sequence
+24,"Noom Med",noom.com,SUCCESS,https://noom.com/sitemap_index.xml,11,1409,152,105,97,024_noom_med
+25,"Found (JoinFound)",joinfound.com,SUCCESS,https://joinfound.com/sitemap.xml,2,507,59,43,16,025_found_joinfound
+26,"Fella Health",fellahealth.com,SUCCESS,https://www.fellahealth.com/sitemap.xml,2,1,0,0,0,026_fella_health
+27,"Valhalla Vitality",valhallavitality.com,SUCCESS,https://valhallavitality.com/sitemap.xml,9,529,36,34,4,027_valhalla_vitality
+28,"GobyMeds",gobymeds.com,SUCCESS,https://www.gobymeds.com/sitemap.xml,2,240,28,17,2,028_gobymeds
+29,"TeleFitMD",telefitmd.com,NO_SITEMAP,None,0,0,0,0,0,029_telefitmd
+30,"Enbold",enbold.com,SUCCESS,https://www.enbold.com/sitemap.xml,2,28,4,1,2,030_enbold
+31,"Trava Health",travahealth.com,NO_SITEMAP,None,0,0,0,0,0,031_trava_health
+32,"Tree Top Health",treetophealth.net,SUCCESS,https://treetophealth.net/sitemap.xml,12,23,0,0,1,032_tree_top_health
+33,"Regenics",regenics.com,SUCCESS,https://regenics.com/sitemap.xml,10,159,1,0,1,033_regenics
+34,"Strut Health",struthealth.com,SUCCESS,https://www.struthealth.com/sitemap.xml,2,273,1,4,6,034_strut_health
+35,"Maximus Tribe",maximustribe.com,SUCCESS,https://www.maximustribe.com/sitemap-index.xml,2,343,10,5,2,035_maximus_tribe
+36,"Defy Medical",defymedical.com,SUCCESS,https://www.defymedical.com/sitemap_index.xml,11,660,8,6,14,036_defy_medical
+37,"MinuteMD",minutemd.com,SUCCESS,https://minutemd.com/sitemap_index.xml,3,29,2,0,2,037_minutemd
+38,"NextMed",nextmed.com,NO_SITEMAP,None,0,0,0,0,0,038_nextmed
+39,"Skinny Rx",skinnyrx.com,SUCCESS,https://skinnyrx.com/sitemap.xml,8,41,5,11,0,039_skinny_rx
+40,"Bright Meds",brightmeds.com,NO_SITEMAP,None,0,0,0,0,0,040_bright_meds
+41,"Morph Health",morphhealth.com,NO_SITEMAP,None,0,0,0,0,0,041_morph_health
+42,"WeightCare",joinweightcare.com,SUCCESS,https://joinweightcare.com/sitemap.xml,8,238,42,41,3,042_weightcare
+43,"AgelessRx",agelessrx.com,SUCCESS,https://agelessrx.com/sitemap_index.xml,10,777,14,6,3,043_agelessrx
+44,"NuImage Medical",nuimagemedical.com,SUCCESS,https://nuimagemedical.com/sitemap_index.xml,6,855,26,13,8,044_nuimage_medical
+45,"Fountain TRT / Fountain Health",fountaintrt.com,NO_SITEMAP,None,0,0,0,0,0,045_fountain_trt_fountain_health
+46,"Zappy Health",zappyhealth.com,SUCCESS,https://zappyhealth.com/sitemap.xml,9,190,19,23,5,046_zappy_health
+47,"Reset Wellness",resetwellness.com,NO_SITEMAP,None,0,0,0,0,0,047_reset_wellness
+48,"Core Age Rx",coreagerx.com,SUCCESS,https://coreagerx.com/sitemap_index.xml,5,808,176,111,29,048_core_age_rx
+49,"Alchemy Wellness Health",alchemywellnessweightcare.com,SUCCESS,https://alchemywellnessweightcare.com/sitemap.xml,2,24,0,0,2,049_alchemy_wellness_health
+50,"Unique Physique",uniquephysique.com,SUCCESS,https://uniquephysique.com/sitemap_index.xml,12,112,1,1,5,050_unique_physique
+51,"Good Life Meds",goodlifemeds.com,NO_SITEMAP,None,0,0,0,0,0,051_good_life_meds
+52,"Direct Meds",directmeds.com,SUCCESS,https://directmeds.com/sitemap.xml,2,163,29,20,4,052_direct_meds
+53,"Helix MKE / Helix Mobile",helixmke.com,NO_SITEMAP,None,0,0,0,0,0,053_helix_mke_helix_mobile
+54,"Invigor Medical",invigormedical.com,SUCCESS,https://tryinvigor.com/sitemap_index.xml,13,187,2,0,29,054_invigor_medical
+55,"QuickMD",quick.md,SUCCESS,https://www.quick.md/sitemaps.xml,14,1154,148,55,119,055_quickmd
+56,"Calibrate",joincalibrate.com,SUCCESS,https://www.joincalibrate.com/sitemap.xml,2,657,31,29,32,056_calibrate
+57,"PlushCare",plushcare.com,SUCCESS,https://plushcare.com/sitemap.xml,2,1098,7,9,7,057_plushcare
+58,"Sesame Care",sesamecare.com,NO_SITEMAP,None,0,0,0,0,0,058_sesame_care
+59,"Everlywell",everlywell.com,SUCCESS,https://www.everlywell.com/sitemap-index.xml,7,3649,40,2,30,059_everlywell
+60,"Form Health",formhealth.com,SITEMAP_FOUND_NO_URLS,https://formhealth.com/wp-sitemap.xml,3,0,0,0,0,060_form_health
+61,"JumpstartMD Telehealth",jumpstartmd.com,SUCCESS,https://jumpstartmd.com/sitemap.xml,6,241,18,10,2,061_jumpstartmd_telehealth
+62,"Red Mountain Weight Loss",redmountainweightloss.com,SUCCESS,https://www.redmountainweightloss.com/sitemap_index.xml,12,1298,10,0,20,062_red_mountain_weight_loss
+63,"Renew Vitality",renewvitality.com,NO_SITEMAP,None,0,0,0,0,0,063_renew_vitality
+64,"SemaSpace",semaspace.com,NO_SITEMAP,None,0,0,0,0,0,064_semaspace
+65,"Peak Health MD",peakhealthmd.com,NO_SITEMAP,None,0,0,0,0,0,065_peak_health_md
+66,"NuForm Health",nuformhealth.com,SUCCESS,https://www.nuformhealth.com/sitemap.xml,2,60,0,0,0,066_nuform_health
+67,"Opt Health",opthealth.com,NO_SITEMAP,None,0,0,0,0,0,067_opt_health
+68,"Precision Telemed",precisiontelemed.com,SUCCESS,https://precisiontelemed.com/sitemap_index.xml,3,120,23,27,2,068_precision_telemed
+69,"Swift Clinic",swiftclinic.com,NO_SITEMAP,None,0,0,0,0,0,069_swift_clinic
+70,"Royal Medical Center",royalmedicalcenters.com,SUCCESS,https://royalmedicalcenters.com/sitemap_index.xml,9,112,1,3,0,070_royal_medical_center
+71,"Trimly",trimly.com,NO_SITEMAP,None,0,0,0,0,0,071_trimly
+72,"Vibrant Health Telemedicine",vibranthealth.com,SUCCESS,https://vibranthealth.com/sitemap.xml,8,528,0,0,12,072_vibrant_health_telemedicine
+73,"Vitality Telehealth",vitalitytelehealth.com,NO_SITEMAP,None,0,0,0,0,0,073_vitality_telehealth
+74,"Willow Weight Loss",willowweightloss.com,NO_SITEMAP,None,0,0,0,0,0,074_willow_weight_loss
+75,"Zenith Weight Loss",zenithweightloss.com,NO_SITEMAP,None,0,0,0,0,0,075_zenith_weight_loss
+76,"Contour Lounge Telehealth",contourlounge.com,NO_SITEMAP,None,0,0,0,0,0,076_contour_lounge_telehealth
+77,"Balanced Hormone Health",balancedhormonehealth.com,SUCCESS,https://balancedhormonehealth.com/sitemap_index.xml,12,580,26,19,4,077_balanced_hormone_health
+78,"Pure Harmony Clinic",pureharmonyclinic.com,SUCCESS,https://pureharmonyclinic.com/sitemap.xml,13,116,0,0,0,078_pure_harmony_clinic
+79,"Simple Scripts (Simple Health)",simplescripts.com,NO_SITEMAP,None,0,0,0,0,0,079_simple_scripts_simple_health
+80,"Lumos Care",lumoscare.com,NO_SITEMAP,None,0,0,0,0,0,080_lumos_care
+81,"PhySlim",physlim.com,NO_SITEMAP,None,0,0,0,0,0,081_physlim
+82,"Push Health (GLP-1 Provider Network)",pushhealth.com,NO_SITEMAP,None,0,0,0,0,0,082_push_health_glp_1_provider_network
+83,"Joy MD",joymd.com,NO_SITEMAP,None,0,0,0,0,0,083_joy_md
+84,"Bioverse",getbioverse.com,NO_SITEMAP,None,0,0,0,0,0,084_bioverse
+85,"Glow Diet / Glow Health",glowdiet.com,SUCCESS,https://www.glowdiet.com/sitemap.xml,2,93,0,0,12,085_glow_diet_glow_health
+86,"Levity (JoinLevity)",joinlevity.com,SUCCESS,https://www.joinlevity.com/sitemap.xml,2,1,0,0,0,086_levity_joinlevity
+87,"Alfie Health",alfiehealth.com,SITEMAP_FOUND_NO_URLS,https://alfiehealth.com/sitemap_index.xml,5,0,0,0,0,087_alfie_health
+88,"Enara Health",enarahealth.com,SUCCESS,https://enarahealth.com/sitemap-index.xml,2,700,1,0,15,088_enara_health
+89,"NuMed Telehealth",numedtelehealth.com,NO_SITEMAP,None,0,0,0,0,0,089_numed_telehealth
+90,"Hale Meds",halemeds.com,NO_SITEMAP,None,0,0,0,0,0,090_hale_meds
+91,"Empower Clinics Telehealth",empowerclinics.com,NO_SITEMAP,None,0,0,0,0,0,091_empower_clinics_telehealth
+92,"Pure Pharmacy Telehealth Solutions",purepharmacy.com,SUCCESS,https://purepharmacy.com/sitemap.xml,15,10323,19,0,43,092_pure_pharmacy_telehealth_solutions
+93,"Trim Down Clinic",trimdownclinic.com,SITEMAP_FOUND_NO_URLS,https://trimdownclinic.com/sitemap.xml,8,0,0,0,0,093_trim_down_clinic
+94,"SlimRx (GetSlimRx)",getslimrx.com,SUCCESS,https://getslimrx.com/sitemap.xml,1,17,1,1,1,094_slimrx_getslimrx
+95,"Genesis Lifestyle Medicine",genesislifestylemedicine.com,NO_SITEMAP,None,0,0,0,0,0,095_genesis_lifestyle_medicine
+96,"Aspire Rejuvenation Telehealth",aspirerejuvenation.com,SUCCESS,https://aspirerejuvenation.com/sitemap_index.xml,15,253,5,3,0,096_aspire_rejuvenation_telehealth
+97,"Revive Men's & Women's Telehealth",revivemed.com,NO_SITEMAP,None,0,0,0,0,0,097_revive_men_s_women_s_telehealth
+98,"Olympia Compounding Telehealth",olympiapharmacy.com,NO_SITEMAP,None,0,0,0,0,0,098_olympia_compounding_telehealth
+99,"BeThin Telehealth",bethin.com,NO_SITEMAP,None,0,0,0,0,0,099_bethin_telehealth
+100,"Matrix Hormones & Telemedicine",matrixreformed.com,SUCCESS,https://matrixreformed.com/sitemap.xml,10,6,0,0,1,100_matrix_hormones_telemedicine
+101,"Evolution Health & Wellness Clinic",evolutionhwc.com,SUCCESS,https://evolutionhwc.com/sitemap_index.xml,8,22,1,1,0,001_evolutionhwc_com
+102,"Professional Weight Management",professionalweightmanagement.com,SUCCESS,https://professionalweightmanagement.com/sitemap.xml,2,219,4,0,2,002_professionalweightmanagement_com
+103,"Wilmington Weight Loss",wilmingtonweightloss.com,SUCCESS,https://wilmingtonweightloss.com/sitemap.xml,6,24,0,0,2,003_wilmingtonweightloss_com
+104,"Georgia Advanced Healthcare",georgiaadvancedhealthcare.com,SUCCESS,https://georgiaadvancedhealthcare.com/sitemap_index.xml,6,77,0,0,0,004_georgiaadvancedhealthcare_com
+105,"Summit Health MO",summithealthmo.com,SUCCESS,https://summithealthmo.com/sitemap.xml,2,65,4,2,0,005_summithealthmo_com
+106,"DWL Medical Weight Loss",dwlclinic.com,NO_SITEMAP,https,4,7,1,0,1,006_dwlclinic_com
+107,"Bridgemill Family Healthcare",bridgemillfamilyhealthcare.com,NO_SITEMAP,https://bridgemillfamilyhealthcare.com/sitemap_index.xml,0,7,1,0,1,007_bridgemillfamilyhealthcare_com
+108,"Georgia Medical Treatment Center",georgiamtc.com,SUCCESS,https://georgiamtc.com/sitemap_index.xml,8,242,11,0,3,008_georgiamtc_com
+109,"Revival Medical Weight Loss Clinic",revivalmedicalweightlossclinic.com,NO_SITEMAP,https://revivalmedicalweightlossclinic.com/sitemap_index.xml,6,7,1,0,1,009_revivalmedicalweightlossclinic_com
+110,"Magnolia Wellness Clinics",magnoliawellnessclinics.com,NO_SITEMAP,https://magnoliawellnessclinics.com/sitemap_index.xml,0,7,1,0,1,010_magnoliawellnessclinics_com
+111,"Paradigm Clinic OKC",paradigmclinicokc.com,SUCCESS,https://paradigmclinicokc.com/sitemap.xml,6,40,0,0,0,011_paradigmclinicokc_com
+112,"Lotus Center of Health",lotuscenterofhealth.com,SUCCESS,https://lotuscenterofhealth.com/sitemap_index.xml,6,33,0,0,1,012_lotuscenterofhealth_com
+113,"Hartley Health & Wellness",hartleyhealthandwellness.org,NO_SITEMAP,https,0,7,1,0,1,013_hartleyhealthandwellness_org
+114,"Renew662",renew662.com,SUCCESS,https://renew662.com/sitemap.xml,4,71,1,2,5,014_renew662_com
+115,"Dr. Collado Medical Wellness",drcollados.com,SUCCESS,https://drcollados.com/sitemap.xml,2,3,0,0,0,015_drcollados_com
+116,"Shaywellness",shaywellness.com,SUCCESS,https://shaywellness.com/sitemap.xml,4,21,0,0,0,016_shaywellness_com
+117,"Minnesota Weight Loss Clinic",minnesotaweightlossclinic.com,NO_SITEMAP,https://minnesotaweightlossclinic.com/sitemap_index.xml,0,7,1,0,1,017_minnesotaweightlossclinic_com
+118,"Mnfatloss",mnfatloss.com,NO_SITEMAP,https://mnfatloss.com/sitemap_index.xml,0,7,1,0,1,018_mnfatloss_com
+119,"Cfwtn",cfwtn.com,SUCCESS,https://cfwtn.com/sitemap_index.xml,8,23,0,0,0,019_cfwtn_com
+120,"Professionalweightloss",professionalweightloss.com,SUCCESS,https://professionalweightloss.com/sitemap.xml,2,16,0,0,0,020_professionalweightloss_com
+121,"Advancedweight",advancedweight.com,SUCCESS,https://advancedweight.com/sitemap.xml,4,26,0,0,2,021_advancedweight_com
+122,"CRMC Weight Loss Center",crmcweightloss.com,SUCCESS,https://crmcweightloss.com/sitemap_index.xml,5,5,0,0,0,022_crmcweightloss_com
+123,"Deltagastro",deltagastro.net,NO_SITEMAP,https://deltagastro.net/sitemap_index.xml,0,7,1,0,1,023_deltagastro_net
+124,"MP Medical Weight Loss",mpweightloss.com,SUCCESS,https://mpweightloss.com/sitemap.xml,5,95,0,0,2,024_mpweightloss_com
+125,"Partain MD Metabolic Clinic",partainmd.com,NO_SITEMAP,https://partainmd.com/sitemap_index.xml,0,7,1,0,1,025_partainmd_com
+126,"Womenshealthcentertn",womenshealthcentertn.com,NO_SITEMAP,https://womenshealthcentertn.com/sitemap_index.xml,0,7,1,0,1,026_womenshealthcentertn_com
+127,"Unitedhandshwc",unitedhandshwc.com,NO_SITEMAP,https://unitedhandshwc.com/sitemap_index.xml,0,7,1,0,1,027_unitedhandshwc_com
+128,"Dawson Med",dawson-med.com,SUCCESS,https://dawson-med.com/sitemap.xml,2,65,0,0,0,028_dawson_med_com
+129,"417healthwellness",417healthwellness.com,SUCCESS,https://417healthwellness.com/sitemap_index.xml,6,18,0,0,3,029_417healthwellness_com
+130,"Mobesity",mobesity.org,SUCCESS,https://mobesity.org/sitemap.xml,3,8,0,0,0,030_mobesity_org
+131,"Poshmedicalspa",poshmedicalspa.com,SUCCESS,https://poshmedicalspa.com/sitemap_index.xml,7,49,0,0,1,031_poshmedicalspa_com
+132,"Rejuvenateweightloss",rejuvenateweightloss.com,SUCCESS,https://rejuvenateweightloss.com/sitemap.xml,1,3,0,0,0,032_rejuvenateweightloss_com
+133,"Msintegrative",msintegrative.com,SUCCESS,https://msintegrative.com/sitemap_index.xml,6,31,0,0,1,033_msintegrative_com
+134,"Saltaestheticsbar",saltaestheticsbar.com,SUCCESS,https://saltaestheticsbar.com/sitemap_index.xml,7,44,0,0,1,034_saltaestheticsbar_com
+135,"Keithmed",keithmed.com,SUCCESS,https://keithmed.com/sitemap.xml,2,20,1,0,0,035_keithmed_com
+136,"Slimweightlossclinic",slimweightlossclinic.com,NO_SITEMAP,https://slimweightlossclinic.com/sitemap_index.xml,0,7,1,0,1,036_slimweightlossclinic_com
+137,"Biosymmetrywilmington",biosymmetrywilmington.com,SUCCESS,https://biosymmetrywilmington.com/sitemap.xml,2,82,2,1,0,037_biosymmetrywilmington_com
+138,"Amwl",amwl.org,SUCCESS,https://amwl.org/sitemap_index.xml,6,8,0,0,1,038_amwl_org
+139,"Bhattiweightlosscenter",bhattiweightlosscenter.com,NO_SITEMAP,https://bhattiweightlosscenter.com/sitemap_index.xml,0,7,1,0,1,039_bhattiweightlosscenter_com
+140,"Eweightlossmd",eweightlossmd.com,SUCCESS,https://eweightlossmd.com/sitemap.xml,6,98,0,0,0,040_eweightlossmd_com
+141,"Maysmedicalwellness",maysmedicalwellness.com,SUCCESS,https://maysmedicalwellness.com/sitemap_index.xml,6,13,0,0,0,041_maysmedicalwellness_com
+142,"Drjacobsclinic",drjacobsclinic.com,SUCCESS,https://drjacobsclinic.com/sitemap.xml,2,14,0,0,0,042_drjacobsclinic_com
+143,"Womenblossom",womenblossom.com,SUCCESS,https://www.womenblossom.com/sitemap.xml,1,21,0,0,0,043_womenblossom_com
+144,"Professionalweightlosscenter",professionalweightlosscenter.com,SUCCESS,https://professionalweightlosscenter.com/sitemap.xml,2,13,0,0,0,044_professionalweightlosscenter_com
+145,"Moorewellnesssolutions",moorewellnesssolutions.com,SUCCESS,https://moorewellnesssolutions.com/sitemap_index.xml,8,117,0,0,2,045_moorewellnesssolutions_com
+146,"Deltaphoenix",deltaphoenix.org,SUCCESS,https://deltaphoenix.org/sitemap.xml,6,35,1,1,0,046_deltaphoenix_org
+147,"Swmowellnesscenter",swmowellnesscenter.com,SUCCESS,https://swmowellnesscenter.com/sitemap.xml,2,58,0,0,0,047_swmowellnesscenter_com
+148,"Moorefamilycareok",moorefamilycareok.com,SUCCESS,https://moorefamilycareok.com/sitemap_index.xml,4,9,0,0,0,048_moorefamilycareok_com
+149,"Midwestmetabolicweightloss",midwestmetabolicweightloss.com,SUCCESS,https://www.midwestmetabolicweightloss.com/sitemap.xml,1,185,0,0,1,049_midwestmetabolicweightloss_com
+150,"Minnetonkaweightloss",minnetonkaweightloss.com,SUCCESS,https://minnetonkaweightloss.com/sitemap_index.xml,6,123,0,0,6,050_minnetonkaweightloss_com
+151,"Synergyhealthpc",synergyhealthpc.com,SUCCESS,https://synergyhealthpc.com/sitemap_index.xml,6,24,0,0,0,051_synergyhealthpc_com
+152,"Cherokeecustomrx",cherokeecustomrx.com,SUCCESS,https://cherokeecustomrx.com/sitemap_index.xml,7,298,0,0,0,052_cherokeecustomrx_com
+153,"Elitebodycontouringsouthaven",elitebodycontouringsouthaven.com,SUCCESS,https://elitebodycontouringsouthaven.com/sitemap_index.xml,7,22,0,0,0,053_elitebodycontouringsouthaven_com
+154,"417spinenorth",417spinenorth.com,NO_SITEMAP,https,0,7,1,0,1,054_417spinenorth_com
+155,"Moorefamilypharmacy",moorefamilypharmacy.com,NO_SITEMAP,https://moorefamilypharmacy.com/sitemap_index.xml,0,7,1,0,1,055_moorefamilypharmacy_com
+156,"Startwithreal",startwithreal.com,SUCCESS,https://startwithreal.com/sitemap_index.xml,6,106,16,2,1,056_startwithreal_com
+157,"Bluewatersurgical",bluewatersurgical.com,SUCCESS,https://bluewatersurgical.com/sitemap.xml,3,9,0,0,0,057_bluewatersurgical_com
+158,"Kailxlabs",kailxlabs.co,NO_SITEMAP,https://kailxlabs.co/sitemap_index.xml,0,7,1,0,1,058_kailxlabs_co
+159,"Mybodysite",mybodysite.com,NO_SITEMAP,https://mybodysite.com/sitemap_index.xml,0,7,1,0,1,059_mybodysite_com
+160,"Pausemedical",pausemedical.org,NO_SITEMAP,https://pausemedical.org/sitemap_index.xml,0,7,1,0,1,060_pausemedical_org
+161,"Rapidmedical",rapidmedical.co,SUCCESS,https://rapidmedical.co/sitemap_index.xml,7,11,0,0,0,061_rapidmedical_co
+162,"Weightlossfor",weightlossfor.us,SUCCESS,https://weightlossfor.us/sitemap.xml,2,40,0,0,0,062_weightlossfor_us
+163,"Medspabloom",medspabloom.com,SUCCESS,https://medspabloom.com/sitemap.xml,5,1408,13,11,48,063_medspabloom_com
+164,"Bayarearegenerative",bayarearegenerative.com,SUCCESS,https://bayarearegenerative.com/sitemap_index.xml,6,111,1,1,1,064_bayarearegenerative_com
+165,"Healthsolutionsweightloss",healthsolutionsweightloss.com,SUCCESS,https://healthsolutionsweightloss.com/sitemap_index.xml,7,47,2,1,2,065_healthsolutionsweightloss_com
+166,"Aspirehealth",aspirehealth.care,NO_SITEMAP,https://aspirehealth.care/sitemap_index.xml,0,7,1,0,1,066_aspirehealth_care
+167,"Sklepyplusik.pl",sklepyplusik.pl,SUCCESS,https://sklepyplusik.pl/sitemap.xml,5,28,0,0,0,067_sklepyplusik_pl
+168,"Goodbackcare",goodbackcare.com,SUCCESS,https://goodbackcare.com/sitemap.xml,6,184,0,0,3,068_goodbackcare_com
+169,"Delawareweightloss",delawareweightloss.com,NO_SITEMAP,https://delawareweightloss.com/sitemap_index.xml,0,7,1,0,1,069_delawareweightloss_com
+170,"Coastlinewellnessnc",coastlinewellnessnc.com,SUCCESS,https://coastlinewellnessnc.com/sitemap_index.xml,4,26,0,0,0,070_coastlinewellnessnc_com
+171,"Northgeorgiaaesthetics",northgeorgiaaesthetics.com,SUCCESS,https://northgeorgiaaesthetics.com/sitemap_index.xml,7,44,0,0,1,071_northgeorgiaaesthetics_com
+172,"Weight Loss Clinics In Southaven Mississippi.pages.dev",weight-loss-clinics-in-southaven-mississippi.pages.dev,SUCCESS,https://weight-loss-clinics-in-southaven-mississippi.pages.dev/sitemap.xml,1,4,0,0,0,072_weight_loss_clinics_in_southaven_mississippi_pages_dev
+173,"Healthogenics",healthogenics.com,SUCCESS,https://healthogenics.com/sitemap.xml,4,99,5,6,1,073_healthogenics_com
+174,"Resolveweightloss",resolveweightloss.com,SUCCESS,https://resolveweightloss.com/sitemap.xml,2,56,6,8,1,074_resolveweightloss_com
+175,"Drwellsmd",drwellsmd.com,SUCCESS,https://drwellsmd.com/sitemap.xml,2,210,0,0,16,075_drwellsmd_com
+176,"Inspirewellnessclinic",inspirewellnessclinic.com,SUCCESS,https://inspirewellnessclinic.com/sitemap_index.xml,6,19,0,0,1,076_inspirewellnessclinic_com
+177,"Coastalivtherapy",coastalivtherapy.com,NO_SITEMAP,https,0,7,1,0,1,077_coastalivtherapy_com
+178,"Medslimweightloss",medslimweightloss.com,SUCCESS,https://medslimweightloss.com/sitemap.xml,7,76,0,0,2,078_medslimweightloss_com
+179,"Glweightloss",glweightloss.com,NO_SITEMAP,https://glweightloss.com/sitemap_index.xml,0,7,1,0,1,079_glweightloss_com
+180,"Elitememphis",elitememphis.com,SUCCESS,https://elitememphis.com/sitemap_index.xml,7,103,2,2,0,080_elitememphis_com
+181,"Beachmedicalaesthetics",beachmedicalaesthetics.com,NO_SITEMAP,https://beachmedicalaesthetics.com/sitemap_index.xml,0,7,1,0,1,081_beachmedicalaesthetics_com
+182,"Integrativehealthcarespringfieldmo",integrativehealthcarespringfieldmo.com,SUCCESS,https://integrativehealthcarespringfieldmo.com/sitemap_index.xml,5,106,0,0,3,082_integrativehealthcarespringfieldmo_com
+183,"Seacoastchiropractic",seacoastchiropractic.com,SUCCESS,https://seacoastchiropractic.com/sitemap_index.xml,6,104,0,0,0,083_seacoastchiropractic_com
+184,"Semaglutidecolorado",semaglutidecolorado.com,NO_SITEMAP,https://semaglutidecolorado.com/sitemap_index.xml,0,7,1,0,1,084_semaglutidecolorado_com
+185,"Bariatricinnovationsatl",bariatricinnovationsatl.com,NO_SITEMAP,https,0,7,1,0,1,085_bariatricinnovationsatl_com
+186,"Amazingweightlossandwellness",amazingweightlossandwellness.com,NO_SITEMAP,https://amazingweightlossandwellness.com/sitemap_index.xml,0,7,1,0,1,086_amazingweightlossandwellness_com
+187,"Desotofamilycareclinic",desotofamilycareclinic.com,SUCCESS,https://desotofamilycareclinic.com/sitemap_index.xml,6,146,0,0,0,087_desotofamilycareclinic_com
+188,"Nj Weightloss",nj-weightloss.com,SUCCESS,https://nj-weightloss.com/sitemap.xml,7,19,0,0,0,088_nj_weightloss_com
+189,"Sanfranciscomobileiv",sanfranciscomobileiv.com,SUCCESS,https://sanfranciscomobileiv.com/sitemap_index.xml,6,131,0,0,2,089_sanfranciscomobileiv_com
+190,"Bentleyskincare",bentleyskincare.com,SUCCESS,https://bentleyskincare.com/wp-sitemap.xml,5,162,0,0,12,090_bentleyskincare_com
+191,"Fatandcelluliteremove",fatandcelluliteremove.com,NO_SITEMAP,https://fatandcelluliteremove.com/sitemap_index.xml,0,7,1,0,1,091_fatandcelluliteremove_com
+192,"Getwellinternalmedicine",getwellinternalmedicine.com,SUCCESS,https://getwellinternalmedicine.com/sitemap_index.xml,5,8,0,0,0,092_getwellinternalmedicine_com
+193,"Prestigemedicalgroup",prestigemedicalgroup.org,NO_SITEMAP,https,0,7,1,0,1,093_prestigemedicalgroup_org
+194,"Progressmedical",progressmedical.com,SUCCESS,https://progressmedical.com/sitemap.xml,3,15,0,0,0,094_progressmedical_com
+195,"Drronaldmoore",drronaldmoore.com,SUCCESS,https://drronaldmoore.com/sitemap.xml,7,60,0,0,2,095_drronaldmoore_com
+196,"95projects",95projects.com,SUCCESS,https://95projects.com/sitemap_index.xml,7,607,1,0,5,096_95projects_com
+197,"Semaglutideglpone",semaglutideglpone.com,SUCCESS,https://semaglutideglpone.com/sitemap.xml,1,245,245,3,17,097_semaglutideglpone_com
+198,"Synergyweightloss",synergyweightloss.com,NO_SITEMAP,https://synergyweightloss.com/sitemap_index.xml,0,7,1,0,1,098_synergyweightloss_com
+199,"Citrusridgemarketing",citrusridgemarketing.com,SUCCESS,https://citrusridgemarketing.com/sitemap.xml,4,46,1,1,0,099_citrusridgemarketing_com
+200,"Mdwls",mdwls.com,SUCCESS,https://mdwls.com/sitemap.xml,7,101,1,1,2,100_mdwls_com
+201,"Webmasterscorp",webmasterscorp.com,SUCCESS,https://webmasterscorp.com/sitemap_index.xml,8,185,17,1,3,101_webmasterscorp_com
+202,"Bestlifeaesthetics",bestlifeaesthetics.com,SUCCESS,https://bestlifeaesthetics.com/sitemap.xml,3,16,0,0,2,102_bestlifeaesthetics_com
+203,"Inspirechangeclinic",inspirechangeclinic.org,SUCCESS,https://inspirechangeclinic.org/sitemap.xml,2,70,0,0,2,103_inspirechangeclinic_org
+204,"Bayareaaesthetics",bayareaaesthetics.net,SUCCESS,https://bayareaaesthetics.net/sitemap.xml,4,209,1,1,2,104_bayareaaesthetics_net
+205,"Aestheticmedstudio",aestheticmedstudio.com,NO_SITEMAP,https://aestheticmedstudio.com/sitemap_index.xml,0,7,1,0,1,105_aestheticmedstudio_com
+206,"Coffeeregionalbariatrics",coffeeregionalbariatrics.com,SUCCESS,https://coffeeregionalbariatrics.com/sitemap_index.xml,7,21,0,0,21,106_coffeeregionalbariatrics_com
+207,"Excelsishealth",excelsishealth.com,NO_SITEMAP,https://excelsishealth.com/sitemap_index.xml,0,7,1,0,1,107_excelsishealth_com
+208,"Joinminimal",joinminimal.com,SUCCESS,https://joinminimal.com/sitemap_index.xml,7,867,162,37,54,108_joinminimal_com
+209,"Arizona Mall",arizona-mall.com,SUCCESS,https://arizona-mall.com/sitemap_index.xml,7,942,6,3,6,109_arizona_mall_com
+210,"Tomweightloss",tomweightloss.com,NO_SITEMAP,https://tomweightloss.com/sitemap_index.xml,0,7,1,0,1,110_tomweightloss_com
+211,"Stlmedweightloss",stlmedweightloss.com,SUCCESS,https://stlmedweightloss.com/sitemap.xml,2,86,5,4,2,111_stlmedweightloss_com
+212,"Alliancefamilycare",alliancefamilycare.com,NO_SITEMAP,https://alliancefamilycare.com/sitemap_index.xml,0,7,1,0,1,112_alliancefamilycare_com
+213,"Indepth Health",indepth-health.com,SUCCESS,https://indepth-health.com/sitemap.xml,2,22,0,0,1,113_indepth_health_com
+214,"Synergyprimaryclinic",synergyprimaryclinic.com,NO_SITEMAP,https://synergyprimaryclinic.com/sitemap_index.xml,0,7,1,0,1,114_synergyprimaryclinic_com
+215,"Lakmedspa",lakmedspa.com,SUCCESS,https://lakmedspa.com/sitemap_index.xml,8,110,6,0,0,115_lakmedspa_com
+216,"Primecarenyc",primecarenyc.com,SUCCESS,https://primecarenyc.com/sitemap.xml,2,21,0,0,0,116_primecarenyc_com
+217,"Lexhealthweightloss",lexhealthweightloss.com,NO_SITEMAP,https://lexhealthweightloss.com/sitemap_index.xml,0,7,1,0,1,117_lexhealthweightloss_com
+218,"Infinitymedspaga",infinitymedspaga.com,SUCCESS,https://infinitymedspaga.com/sitemap.xml,5,64,0,0,5,118_infinitymedspaga_com
+219,"Askglo.ai",askglo.ai,SUCCESS,https://askglo.ai/sitemap.xml,2,136,5,0,2,119_askglo_ai
+220,"Oasiswomens",oasiswomens.com,SUCCESS,https://oasiswomens.com/sitemap_index.xml,6,39,0,0,0,120_oasiswomens_com
+221,"Carolinaweightlosscenter",carolinaweightlosscenter.com,SUCCESS,https://carolinaweightlosscenter.com/sitemap.xml,3,32,0,0,2,121_carolinaweightlosscenter_com
+222,"Zaremedicalsf",zaremedicalsf.com,SUCCESS,https://zaremedicalsf.com/sitemap_index.xml,7,51,1,1,1,122_zaremedicalsf_com
+223,"Appearancesweightloss",appearancesweightloss.com,SUCCESS,https://appearancesweightloss.com/sitemap_index.xml,4,7,0,0,0,123_appearancesweightloss_com
+224,"Iclinicatl",iclinicatl.com,SUCCESS,https://iclinicatl.com/sitemap.xml,2,21,0,0,0,124_iclinicatl_com
+225,"Brightmedicalwellness",brightmedicalwellness.com,SUCCESS,https://brightmedicalwellness.com/sitemap_index.xml,7,231,32,13,11,125_brightmedicalwellness_com
+226,"Medspamarketingguys",medspamarketingguys.com,NO_SITEMAP,https://medspamarketingguys.com/sitemap_index.xml,0,7,1,0,1,126_medspamarketingguys_com
+227,"Holisticseo",holisticseo.co,SUCCESS,https://holisticseo.co/sitemap_index.xml,4,37,0,0,0,127_holisticseo_co
+228,"Unveilaesthetics",unveilaesthetics.com,SUCCESS,https://unveilaesthetics.com/sitemap_index.xml,6,49,0,0,0,128_unveilaesthetics_com
+229,"Nxtgenbodies",nxtgenbodies.com,SUCCESS,https://nxtgenbodies.com/sitemap_index.xml,6,78,2,0,6,129_nxtgenbodies_com
+230,"GLP1 Us",glp1-us.com,SUCCESS,https://glp1-us.com/sitemap.xml,2,355,70,41,17,130_glp1_us_com
+231,"Advancedmedicalwlc",advancedmedicalwlc.com,NO_SITEMAP,https,5,7,1,0,1,131_advancedmedicalwlc_com
+232,"Livea",livea.com,NO_SITEMAP,https,0,7,1,0,1,132_livea_com
+233,"Fibroidandpelvicwellness",fibroidandpelvicwellness.com,SUCCESS,https://fibroidandpelvicwellness.com/sitemap_index.xml,7,199,1,0,4,133_fibroidandpelvicwellness_com
+234,"Vvitarx",vvitarx.com,SUCCESS,https://vvitarx.com/sitemap.xml,3,5,2,0,0,134_vvitarx_com
+235,"Baileyveinandskincare",baileyveinandskincare.com,SUCCESS,https://baileyveinandskincare.com/sitemap_index.xml,7,83,0,0,3,135_baileyveinandskincare_com
+236,"Amwl",amwl.co,SUCCESS,https://amwl.co/sitemap.xml,2,10,0,0,0,136_amwl_co
+237,"Synergywellnessandweightloss",synergywellnessandweightloss.com,SUCCESS,https://synergywellnessandweightloss.com/sitemap.xml,5,87,0,0,2,137_synergywellnessandweightloss_com
+238,"Docswellness",docswellness.com,SUCCESS,https://docswellness.com/sitemap_index.xml,6,15,0,0,1,138_docswellness_com
+239,"Synergymedicalgrp",synergymedicalgrp.com,SUCCESS,https://synergymedicalgrp.com/sitemap_index.xml,6,46,0,0,0,139_synergymedicalgrp_com
+240,"The Healthywoman",the-healthywoman.com,SUCCESS,https://the-healthywoman.com/sitemap.xml,2,86,0,0,2,140_the_healthywoman_com
+241,"Glofusionhealth",glofusionhealth.com,NO_SITEMAP,https://glofusionhealth.com/sitemap_index.xml,0,7,1,0,1,141_glofusionhealth_com
+242,"Dietokc",dietokc.com,SUCCESS,https://dietokc.com/sitemap_index.xml,7,59,0,0,1,142_dietokc_com
+243,"Evoyouthful",evoyouthful.com,SUCCESS,https://evoyouthful.com/sitemap.xml,2,243,0,0,13,143_evoyouthful_com
+244,"Balancedmedspa",balancedmedspa.com,SUCCESS,https://balancedmedspa.com/sitemap_index.xml,6,10,0,0,1,144_balancedmedspa_com
+245,"Wellnessclinicmarketing",wellnessclinicmarketing.com,NO_SITEMAP,https,0,7,1,0,1,145_wellnessclinicmarketing_com
+246,"Beautyandthebeachilm",beautyandthebeachilm.com,SUCCESS,https://beautyandthebeachilm.com/sitemap.xml,2,5,0,0,0,146_beautyandthebeachilm_com
+247,"Nova Academy",nova-academy.org,SUCCESS,https://nova-academy.org/sitemap_index.xml,5,10,0,0,0,147_nova_academy_org
+248,"Thinkbullish",thinkbullish.com,SUCCESS,https://thinkbullish.com/sitemap_index.xml,5,481,8,0,13,148_thinkbullish_com
+249,"Skyn417",skyn417.com,SUCCESS,https://skyn417.com/sitemap.xml,2,56,0,0,0,149_skyn417_com
+250,"Mnbariatrics",mnbariatrics.com,NO_SITEMAP,https://mnbariatrics.com/sitemap_index.xml,0,7,1,0,1,150_mnbariatrics_com
+251,"Radianthealthsf",radianthealthsf.com,SUCCESS,https://radianthealthsf.com/sitemap_index.xml,6,144,3,3,4,151_radianthealthsf_com
+252,"Endocrinologyga",endocrinologyga.com,SUCCESS,https://endocrinologyga.com/sitemap_index.xml,6,19,0,0,0,152_endocrinologyga_com
+253,"Anewyouwoman",anewyouwoman.com,SUCCESS,https://anewyouwoman.com/sitemap_index.xml,7,115,4,1,2,153_anewyouwoman_com
+254,"Mindnbodymd",mindnbodymd.com,SUCCESS,https://mindnbodymd.com/sitemap.xml,5,19,0,0,1,154_mindnbodymd_com
+255,"Aestheticsolutionsny",aestheticsolutionsny.com,SUCCESS,https://aestheticsolutionsny.com/sitemap_index.xml,5,87,1,1,1,155_aestheticsolutionsny_com
+256,"Vitalwellnesstexas",vitalwellnesstexas.com,NO_SITEMAP,https,0,7,1,0,1,156_vitalwellnesstexas_com
+257,"Mediquickweightloss",mediquickweightloss.com,SUCCESS,https://mediquickweightloss.com/sitemap.xml,3,10,0,0,1,157_mediquickweightloss_com
+258,"Nubospa",nubospa.com,SUCCESS,https://nubospa.com/sitemap_index.xml,7,102,1,1,1,158_nubospa_com
+259,"Nutrihealthweightloss",nutrihealthweightloss.com,NO_SITEMAP,https://nutrihealthweightloss.com/sitemap_index.xml,0,7,1,0,1,159_nutrihealthweightloss_com
+260,"Earthangelwellness",earthangelwellness.com,SUCCESS,https://earthangelwellness.com/sitemap_index.xml,6,45,1,2,1,160_earthangelwellness_com
+261,"Laserclearskin",laserclearskin.com,NO_SITEMAP,https://laserclearskin.com/sitemap_index.xml,0,7,1,0,1,161_laserclearskin_com
+262,"Precisionhealthandweightloss",precisionhealthandweightloss.com,SUCCESS,https://precisionhealthandweightloss.com/sitemap.xml,2,49,1,1,1,162_precisionhealthandweightloss_com
+263,"Pcw",pcw.health,SUCCESS,https://pcw.health/sitemap_index.xml,5,154,0,0,3,163_pcw_health
+264,"Urbanradiancemedspa",urbanradiancemedspa.com,SUCCESS,https://urbanradiancemedspa.com/sitemap_index.xml,7,67,0,0,2,164_urbanradiancemedspa_com
+265,"Womenshealthclinicga",womenshealthclinicga.com,SUCCESS,https://womenshealthclinicga.com/sitemap.xml,4,50,0,0,1,165_womenshealthclinicga_com
+266,"Conqraesthetics",conqraesthetics.com,SUCCESS,https://conqraesthetics.com/sitemap_index.xml,7,32,0,0,1,166_conqraesthetics_com
+267,"Minnesotaregenerative",minnesotaregenerative.com,SUCCESS,https://minnesotaregenerative.com/sitemap_index.xml,8,629,1,1,11,167_minnesotaregenerative_com
+268,"Vitalismetabolic",vitalismetabolic.com,SUCCESS,https://vitalismetabolic.com/sitemap.xml,5,19,0,0,0,168_vitalismetabolic_com
+269,"Metromedicalassociates",metromedicalassociates.com,SUCCESS,https://metromedicalassociates.com/sitemap_index.xml,5,39,0,0,0,169_metromedicalassociates_com
+270,"Gaflweightloss",gaflweightloss.com,SUCCESS,https://gaflweightloss.com/sitemap_index.xml,5,19,1,1,1,170_gaflweightloss_com
+271,"Medspamarketpro",medspamarketpro.com,SUCCESS,https://medspamarketpro.com/sitemap_index.xml,4,140,2,0,6,171_medspamarketpro_com
+272,"Mediplandiet",mediplandiet.com,NO_SITEMAP,https,0,7,1,0,1,172_mediplandiet_com
+273,"Semaglutide Online",semaglutide-online.com,NO_SITEMAP,https://semaglutide-online.com/sitemap_index.xml,0,7,1,0,1,173_semaglutide_online_com
+274,"Glowweightloss",glowweightloss.com,SUCCESS,https://glowweightloss.com/sitemap.xml,6,70,5,16,3,174_glowweightloss_com
+275,"Getmoorecare",getmoorecare.com,SUCCESS,https://getmoorecare.com/sitemap_index.xml,6,367,0,0,7,175_getmoorecare_com
+276,"Capefearphysicalmedicine",capefearphysicalmedicine.com,NO_SITEMAP,https://capefearphysicalmedicine.com/sitemap_index.xml,0,7,1,0,1,176_capefearphysicalmedicine_com
+277,"Bmioftexas",bmioftexas.com,SUCCESS,https://bmioftexas.com/sitemap_index.xml,5,53,0,0,0,177_bmioftexas_com
+278,"Tapinto",tapinto.net,NO_SITEMAP,https,0,7,1,0,1,178_tapinto_net
+279,"Oregon.gov",oregon.gov,NO_SITEMAP,https://oregon.gov/sitemap_index.xml,0,7,1,0,1,179_oregon_gov
+280,"Psychologytoday",psychologytoday.com,NO_SITEMAP,https://psychologytoday.com/sitemap_index.xml,0,7,1,0,1,180_psychologytoday_com
+281,"Mapquest",mapquest.com,NO_SITEMAP,https://mapquest.com/sitemap_index.xml,0,7,1,0,1,181_mapquest_com
+282,"Allyrx",allyrx.net,NO_SITEMAP,https,0,7,1,0,1,182_allyrx_net
+283,"Medvidi",medvidi.com,SUCCESS,https://medvidi.com/sitemap_index.xml,6,479,18,12,4,183_medvidi_com
+284,"Israelpharm",israelpharm.com,SUCCESS,https://israelpharm.com/sitemap_index.xml,7,1610,3,3,3,184_israelpharm_com
+285,"Bestmdny",bestmdny.com,SUCCESS,https://bestmdny.com/sitemap_index.xml,6,50,0,0,1,185_bestmdny_com
+286,"Modernwellnessclinic",modernwellnessclinic.com,SUCCESS,https://modernwellnessclinic.com/sitemap.xml,2,135,3,3,1,186_modernwellnessclinic_com
+287,"Utahmedicalweightloss",utahmedicalweightloss.com,SUCCESS,https://utahmedicalweightloss.com/sitemap.xml,2,104,0,0,2,187_utahmedicalweightloss_com
+288,"Lilly",lilly.com,NO_SITEMAP,https://lilly.com/sitemap_index.xml,0,7,1,0,1,188_lilly_com
+289,"Getwellclinic",getwellclinic.com,SUCCESS,https://getwellclinic.com/sitemap.xml,2,26,1,0,1,189_getwellclinic_com
+290,"Northmemorial",northmemorial.com,SUCCESS,https://northmemorial.com/sitemap_index.xml,7,872,1,0,6,190_northmemorial_com
+291,"Healthpartners",healthpartners.com,NO_SITEMAP,https,0,7,1,0,1,191_healthpartners_com
+292,"Centerforinternalmed",centerforinternalmed.com,SUCCESS,https://centerforinternalmed.com/sitemap.xml,2,50,0,0,0,192_centerforinternalmed_com
+293,"Rapamycin.news",rapamycin.news,SUCCESS,https://www.rapamycin.news/sitemap.xml,3,10043,41,12,236,193_rapamycin_news
+294,"Sfcosmeticsurgery",sfcosmeticsurgery.com,SUCCESS,https://www.sfcosmeticsurgery.com/sitemap.xml,1,654,1,0,39,194_sfcosmeticsurgery_com
+295,"Honehealth",honehealth.com,SUCCESS,https://honehealth.com/sitemap_index.xml,7,660,9,0,6,195_honehealth_com
+296,"Centracare",centracare.com,NO_SITEMAP,https://centracare.com/sitemap_index.xml,0,7,1,0,1,196_centracare_com
+297,"Raleighweightlosscenter",raleighweightlosscenter.com,SUCCESS,https://raleighweightlosscenter.com/sitemap.xml,6,12,0,0,3,197_raleighweightlosscenter_com
+298,"Mypeptidematch",mypeptidematch.com,SUCCESS,https://mypeptidematch.com/sitemap.xml,2,5672,62,22,85,198_mypeptidematch_com
+299,"Faynutrition",faynutrition.com,SUCCESS,https://faynutrition.com/sitemap.xml,2,6463,90,52,58,199_faynutrition_com
+300,"Curvecompliance",curvecompliance.com,SUCCESS,https://www.curvecompliance.com/sitemap_index.xml,2,1329,7,1,46,200_curvecompliance_com
+301,"Drtsbeck",drtsbeck.com,SUCCESS,https://drtsbeck.com/sitemap.xml,2,157,0,0,3,201_drtsbeck_com
+302,"G L Weight Loss .pages.dev",g-l-weight-loss.pages.dev,SUCCESS,https://g-l-weight-loss.pages.dev/sitemap.xml,1,3,0,0,0,202_g_l_weight_loss_pages_dev
+303,"Myalloy",myalloy.com,SUCCESS,https://myalloy.com/sitemap.xml,2,929,10,8,17,203_myalloy_com
+304,"Liwli",liwli.com,SUCCESS,https://liwli.com/sitemap_index.xml,7,543,10,4,14,204_liwli_com
+305,"Nyp",nyp.org,NO_SITEMAP,https://nyp.org/sitemap_index.xml,0,7,1,0,1,205_nyp_org
+306,"Qsymia",qsymia.com,SUCCESS,https://qsymia.com/sitemap.xml,2,10,0,0,0,206_qsymia_com
+307,"Northside",northside.com,NO_SITEMAP,https://northside.com/sitemap_index.xml,0,7,1,0,1,207_northside_com
+308,"Ama Assn",ama-assn.org,SUCCESS,https://ama-assn.org/sitemap.xml,2,16784,8,2,1176,208_ama_assn_org
+309,"Irs.gov",irs.gov,SUCCESS,https://irs.gov/sitemap.xml,6,22645,0,0,972,209_irs_gov
+310,"Mycommunitymd",mycommunitymd.com,NO_SITEMAP,https://mycommunitymd.com/sitemap_index.xml,0,7,1,0,1,210_mycommunitymd_com
+311,"Reddit",reddit.com,NO_SITEMAP,https://reddit.com/sitemap_index.xml,6,7,1,0,1,211_reddit_com
+312,"Golo",golo.com,SUCCESS,https://golo.com/sitemap.xml,4,122,0,0,8,212_golo_com
+313,"Myminutemed",myminutemed.com,SUCCESS,https://myminutemed.com/sitemap_index.xml,7,137,2,0,2,213_myminutemed_com
+314,"Stanford.edu",stanford.edu,SUCCESS,https://stanford.edu/sitemap.xml,2,27,0,0,0,214_stanford_edu
+315,"Bariatricsmd",bariatricsmd.com,NO_SITEMAP,https://bariatricsmd.com/sitemap_index.xml,0,7,1,0,1,215_bariatricsmd_com
+316,"Mo.work",mo.work,SUCCESS,https://mo.work/sitemap_index.xml,7,284,0,0,4,216_mo_work
+317,"Myallurewellness",myallurewellness.com,SUCCESS,https://myallurewellness.com/sitemap.xml,4,97,0,0,3,217_myallurewellness_com
+318,"Womansworld",womansworld.com,NO_SITEMAP,https,4,7,1,0,1,218_womansworld_com
+319,"Glomedspa",glomedspa.com,NO_SITEMAP,https,5,7,1,0,1,219_glomedspa_com
+320,"Aspireneworleans",aspireneworleans.com,SUCCESS,https://aspireneworleans.com/sitemap_index.xml,6,77,4,4,0,220_aspireneworleans_com
+321,"Austinregionalclinic",austinregionalclinic.com,NO_SITEMAP,https://austinregionalclinic.com/sitemap_index.xml,0,7,1,0,1,221_austinregionalclinic_com
+322,"Ncdot.gov",ncdot.gov,SUCCESS,https://ncdot.gov/sitemap.xml,4,1999,0,0,19,222_ncdot_gov
+323,"Npr",npr.org,NO_SITEMAP,https,0,7,1,0,1,223_npr_org
+324,"Drugbank",drugbank.com,NO_SITEMAP,https,2,7,1,0,1,224_drugbank_com
+325,"Glp1clinics",glp1clinics.org,SUCCESS,https://glp1clinics.org/sitemap.xml,2,517,76,44,27,225_glp1clinics_org
+326,"Walgreens",walgreens.com,NO_SITEMAP,https,0,7,1,0,1,226_walgreens_com
+327,"Withpower",withpower.com,NO_SITEMAP,https,0,7,1,0,1,227_withpower_com
+328,"Firstbodywellnesscenter",firstbodywellnesscenter.com,SUCCESS,https://firstbodywellnesscenter.com/sitemap_index.xml,7,78,0,0,2,228_firstbodywellnesscenter_com
+329,"Prohealthmemphis",prohealthmemphis.com,SUCCESS,https://prohealthmemphis.com/sitemap_index.xml,7,221,9,9,10,229_prohealthmemphis_com
+330,"Va.gov",va.gov,SUCCESS,https://va.gov/sitemap_index.xml,5,118,0,0,3,230_va_gov
+331,"Yelp",yelp.com,NO_SITEMAP,https://yelp.com/sitemap_index.xml,0,7,1,0,1,231_yelp_com
+332,"Mercy",mercy.net,SUCCESS,https://mercy.net/sitemap.xml,3,283,0,0,1,232_mercy_net
+333,"Canadapharmacy",canadapharmacy.com,NO_SITEMAP,https,0,7,1,0,1,233_canadapharmacy_com
+334,"Joslin",joslin.org,NO_SITEMAP,https,0,7,1,0,1,234_joslin_org
+335,"Wmchealth",wmchealth.org,SUCCESS,https://wmchealth.org/sitemap_index.xml,7,541,1,0,23,235_wmchealth_org
+336,"Tiktok",tiktok.com,NO_SITEMAP,https://tiktok.com/sitemap_index.xml,0,7,1,0,1,236_tiktok_com
+337,"Synergyhealth",synergyhealth.org,NO_SITEMAP,https://synergyhealth.org/sitemap_index.xml,0,7,1,0,1,237_synergyhealth_org
+338,"Serotonincenters",serotonincenters.com,SUCCESS,https://serotonincenters.com/sitemap.xml,2,699,2,0,4,238_serotonincenters_com
+339,"Onehealthtally",onehealthtally.com,SUCCESS,https://onehealthtally.com/sitemap.xml,4,14,0,0,1,239_onehealthtally_com
+340,"Buzzrx",buzzrx.com,SUCCESS,https://buzzrx.com/sitemap_index.xml,6,70,0,0,0,240_buzzrx_com
+341,"Mydermahealth",mydermahealth.com,SUCCESS,https://mydermahealth.com/sitemap_index.xml,8,242,0,0,2,241_mydermahealth_com
+342,"Synergywellnesscenter",synergywellnesscenter.com,SUCCESS,https://synergywellnesscenter.com/sitemap_index.xml,5,215,0,2,8,242_synergywellnesscenter_com
+343,"Femmemedandspa",femmemedandspa.com,SUCCESS,https://femmemedandspa.com/sitemap_index.xml,5,69,0,0,0,243_femmemedandspa_com
+344,"Wikidata",wikidata.org,NO_SITEMAP,https,0,7,1,0,1,244_wikidata_org
+345,"Montefioreeinsteinadvancedcare",montefioreeinsteinadvancedcare.org,SUCCESS,https://montefioreeinsteinadvancedcare.org/sitemap.xml,3,90,0,0,6,245_montefioreeinsteinadvancedcare_org
+346,"Dukehealth",dukehealth.org,SUCCESS,https://dukehealth.org/sitemap.xml,5,7451,1,0,209,246_dukehealth_org
+347,"Townofmorristown",townofmorristown.org,SUCCESS,https://townofmorristown.org/sitemap.xml,2,866,0,0,2,247_townofmorristown_org
+348,"Dosecompare",dosecompare.com,SUCCESS,https://dosecompare.com/sitemap.xml,2,1929,170,168,6,248_dosecompare_com
+349,"Vitalhealthmedicalcare",vitalhealthmedicalcare.com,SUCCESS,https://vitalhealthmedicalcare.com/sitemap_index.xml,6,392,22,10,13,249_vitalhealthmedicalcare_com
+350,"Womenswellnessms",womenswellnessms.com,NO_SITEMAP,https://womenswellnessms.com/sitemap_index.xml,6,7,1,0,1,250_womenswellnessms_com
+351,"Goglo",goglo.co,SUCCESS,https://goglo.co/sitemap_index.xml,8,36,3,3,0,251_goglo_co
+352,"Sohohealthny",sohohealthny.com,SUCCESS,https://sohohealthny.com/sitemap_index.xml,6,97,1,1,0,252_sohohealthny_com
+353,"Mayo.edu",mayo.edu,NO_SITEMAP,https,5,7,1,0,1,253_mayo_edu
+354,"Uom.lk",uom.lk,NO_SITEMAP,https://uom.lk/sitemap_index.xml,0,7,1,0,1,254_uom_lk
+355,"Drvisor",drvisor.com,SUCCESS,https://drvisor.com/sitemap.xml,6,3729,1,0,730,255_drvisor_com
+356,"Trimrx",trimrx.com,NO_SITEMAP,https://trimrx.com/sitemap_index.xml,6,7,1,0,1,256_trimrx_com
+357,"Queens",queens.org,SUCCESS,https://queens.org/sitemap_index.xml,8,1440,0,0,31,257_queens_org
+358,"Goodrx",goodrx.com,SUCCESS,https://goodrx.com/sitemap.xml,4,9937,4,4,9,258_goodrx_com
+359,"Fastpacehealth",fastpacehealth.com,SUCCESS,https://fastpacehealth.com/sitemap_index.xml,7,51,0,0,1,259_fastpacehealth_com
+360,"Shinemedstudios",shinemedstudios.com,SUCCESS,https://shinemedstudios.com/sitemap_index.xml,7,57,0,0,1,260_shinemedstudios_com
+361,"Uakron.edu",uakron.edu,NO_SITEMAP,https,0,7,1,0,1,261_uakron_edu
+362,"Absolutehealthcareofga",absolutehealthcareofga.com,NO_SITEMAP,https://absolutehealthcareofga.com/sitemap_index.xml,0,7,1,0,1,262_absolutehealthcareofga_com
+363,"Rapidweightlosscenters",rapidweightlosscenters.com,SUCCESS,https://rapidweightlosscenters.com/sitemap_index.xml,7,73,2,0,2,263_rapidweightlosscenters_com
+364,"Healthgrades",healthgrades.com,NO_SITEMAP,https://healthgrades.com/sitemap_index.xml,0,7,1,0,1,264_healthgrades_com
+365,"Springer",springer.com,NO_SITEMAP,https,0,7,1,0,1,265_springer_com
+366,"Nyc.gov",nyc.gov,SUCCESS,https://nyc.gov/sitemap.xml,4,5091,0,0,151,266_nyc_gov
+367,"Bamdgroup",bamdgroup.com,SUCCESS,https://bamdgroup.com/sitemap_index.xml,5,56,0,0,0,267_bamdgroup_com
+368,"Drcova",drcova.com,NO_SITEMAP,https://drcova.com/sitemap_index.xml,0,7,1,0,1,268_drcova_com
+369,"Weighlessmd",weighlessmd.com,SUCCESS,https://weighlessmd.com/sitemap_index.xml,6,85,2,0,1,269_weighlessmd_com
+370,"Mayoclinic",mayoclinic.org,NO_SITEMAP,https,0,7,1,0,1,270_mayoclinic_org
+371,"Ascension",ascension.org,NO_SITEMAP,https://ascension.org/sitemap_index.xml,0,7,1,0,1,271_ascension_org
+372,"Primehealthmd",primehealthmd.com,SUCCESS,https://primehealthmd.com/sitemap.xml,2,315,18,10,11,272_primehealthmd_com
+373,"Integrishealth",integrishealth.org,NO_SITEMAP,https://integrishealth.org/sitemap_index.xml,0,7,1,0,1,274_integrishealth_org
+374,"Trivalleyplasticsurgery",trivalleyplasticsurgery.com,SUCCESS,https://trivalleyplasticsurgery.com/sitemap.xml,2,427,6,1,8,275_trivalleyplasticsurgery_com
+375,"Seannikravanmd",seannikravanmd.com,SUCCESS,https://seannikravanmd.com/sitemap.xml,2,102,0,0,0,276_seannikravanmd_com
+376,"Trustpilot",trustpilot.com,NO_SITEMAP,https,0,7,1,0,1,277_trustpilot_com
+377,"Scalewatchersrx",scalewatchersrx.com,SUCCESS,https://scalewatchersrx.com/sitemap_index.xml,7,127,38,5,4,278_scalewatchersrx_com
+378,"Colorado.gov",colorado.gov,NO_SITEMAP,https://colorado.gov/sitemap_index.xml,0,7,1,0,1,279_colorado_gov
+379,"Familymedicalcenters",familymedicalcenters.net,SUCCESS,https://familymedicalcenters.net/sitemap.xml,6,196,2,0,0,280_familymedicalcenters_net
+380,"Nychealthandhospitals",nychealthandhospitals.org,SUCCESS,https://nychealthandhospitals.org/sitemap_index.xml,8,5552,5,0,11,281_nychealthandhospitals_org
+381,"Polskieradio.pl",polskieradio.pl,NO_SITEMAP,https://polskieradio.pl/sitemap_index.xml,2,7,1,0,1,282_polskieradio_pl
+382,"Carondelet",carondelet.org,NO_SITEMAP,https://carondelet.org/sitemap_index.xml,0,7,1,0,1,283_carondelet_org
+383,"Lcmchealth",lcmchealth.org,NO_SITEMAP,https://lcmchealth.org/sitemap_index.xml,0,7,1,0,1,284_lcmchealth_org
+384,"Nghs",nghs.com,SUCCESS,https://nghs.com/sitemap_index.xml,8,2429,1,0,37,285_nghs_com
+385,"Health",health.com,NO_SITEMAP,https,2,7,1,0,1,286_health_com
+386,"Scoredoc",scoredoc.com,NO_SITEMAP,https,4,7,1,0,1,287_scoredoc_com
+387,"Policylab",policylab.us,NO_SITEMAP,https://policylab.us/sitemap_index.xml,0,7,1,0,1,288_policylab_us
+388,"Mo.gov",mo.gov,NO_SITEMAP,https://mo.gov/sitemap_index.xml,0,7,1,0,1,289_mo_gov
+389,"Okpharmacyrgv",okpharmacyrgv.com,SUCCESS,https://okpharmacyrgv.com/sitemap_index.xml,7,1059,2,9,14,290_okpharmacyrgv_com
+390,"Solutionsweightloss",solutionsweightloss.net,NO_SITEMAP,http,5,7,1,0,1,291_solutionsweightloss_net
+391,"Thegraiviercenter",thegraiviercenter.com,SUCCESS,https://thegraiviercenter.com/sitemap_index.xml,7,80,0,0,0,292_thegraiviercenter_com
+392,"Drlissa",drlissa.com,SUCCESS,https://drlissa.com/sitemap_index.xml,7,87,0,0,3,293_drlissa_com
+393,"Alhobgyn",alhobgyn.com,NO_SITEMAP,https://alhobgyn.com/sitemap_index.xml,0,7,1,0,1,294_alhobgyn_com
+394,"Familycaremurphy",familycaremurphy.com,SUCCESS,https://familycaremurphy.com/sitemap_index.xml,7,131,9,2,4,295_familycaremurphy_com
+395,"Moore Weight Loss Clinic .pages.dev",moore-weight-loss-clinic.pages.dev,SUCCESS,https://moore-weight-loss-clinic.pages.dev/sitemap.xml,1,3,0,0,0,296_moore_weight_loss_clinic_pages_dev
+396,"Norcalsurgery",norcalsurgery.com,SUCCESS,https://norcalsurgery.com/sitemap.xml,2,236,16,0,18,297_norcalsurgery_com
+397,"Facebook",facebook.com,NO_SITEMAP,https,0,7,1,0,1,298_facebook_com
+398,"Mytrimmd",mytrimmd.com,NO_SITEMAP,https://mytrimmd.com/sitemap_index.xml,0,7,1,0,1,299_mytrimmd_com
+399,"Ongocare",ongocare.com,NO_SITEMAP,https://ongocare.com/sitemap_index.xml,0,7,1,0,1,300_ongocare_com
+400,"Ncrec.gov",ncrec.gov,SUCCESS,https://ncrec.gov/sitemap.xml,2,233,0,0,0,301_ncrec_gov
+401,"Uwhealth",uwhealth.org,SUCCESS,https://uwhealth.org/sitemap.xml,3,402,0,0,22,302_uwhealth_org
+402,"Getclearbeauty",getclearbeauty.com,SUCCESS,https://getclearbeauty.com/sitemap.xml,2,4614,38,35,219,303_getclearbeauty_com
+403,"Huffingtonpost",huffingtonpost.com,NO_SITEMAP,https,0,7,1,0,1,304_huffingtonpost_com
+404,"Fda.gov",fda.gov,SUCCESS,https://fda.gov/sitemap.xml,6,9747,5,0,149,305_fda_gov
+405,"Ncdhhs.gov",ncdhhs.gov,SUCCESS,https://ncdhhs.gov/sitemap.xml,2,2127,0,0,110,306_ncdhhs_gov
+406,"Menshealth",menshealth.com,NO_SITEMAP,https,2,7,1,0,1,307_menshealth_com
+407,"Carecredit",carecredit.com,SUCCESS,https://carecredit.com/sitemap.xml,2,1927,0,0,300,308_carecredit_com
+408,"Wheree",wheree.com,NO_SITEMAP,https://wheree.com/sitemap_index.xml,0,7,1,0,1,309_wheree_com
+409,"Weather.gov",weather.gov,NO_SITEMAP,https://weather.gov/sitemap_index.xml,0,7,1,0,1,310_weather_gov
+410,"Britannica",britannica.com,NO_SITEMAP,https,0,7,1,0,1,311_britannica_com
+411,"Birdeye",birdeye.com,SUCCESS,https://birdeye.com/sitemap.xml,2,2116,0,0,16,312_birdeye_com
+412,"Hayesvalleymed",hayesvalleymed.com,SUCCESS,https://hayesvalleymed.com/sitemap.xml,2,470,0,0,3,313_hayesvalleymed_com
+413,"Ncdps.gov",ncdps.gov,SUCCESS,https://ncdps.gov/sitemap.xml,4,5315,13,0,152,314_ncdps_gov
+414,"Orionpeptide",orionpeptide.com,NO_SITEMAP,https,0,7,1,0,1,315_orionpeptide_com
+415,"Novocare",novocare.com,SUCCESS,https://novocare.com/sitemap.xml,3,217,15,0,23,316_novocare_com
+416,"Healthline",healthline.com,SUCCESS,https://healthline.com/sitemap.xml,4,727,0,0,10,317_healthline_com
+417,"Mediweightloss",mediweightloss.com,SUCCESS,https://mediweightloss.com/sitemap_index.xml,7,268,1,0,5,318_mediweightloss_com
+418,"Healthstartn",healthstartn.org,SUCCESS,https://healthstartn.org/sitemap.xml,2,306,1,0,3,319_healthstartn_org
+419,"Reviveatlmd",reviveatlmd.com,SUCCESS,https://reviveatlmd.com/sitemap_index.xml,4,181,4,3,4,320_reviveatlmd_com
+420,"Golo.dev",golo.dev,SUCCESS,https://golo.dev/sitemap.xml,4,147,0,0,5,321_golo_dev
+421,"Optimantra",optimantra.com,NO_SITEMAP,https://optimantra.com/sitemap_index.xml,0,7,1,0,1,322_optimantra_com
+422,"Elitemedicineohio",elitemedicineohio.com,SUCCESS,https://elitemedicineohio.com/sitemap_index.xml,7,38,1,0,0,323_elitemedicineohio_com
+423,"Instagram",instagram.com,NO_SITEMAP,https://instagram.com/sitemap_index.xml,6,7,1,0,1,324_instagram_com
+424,"Steelmanclinic",steelmanclinic.com,SUCCESS,https://steelmanclinic.com/sitemap.xml,2,78,0,0,0,325_steelmanclinic_com
+425,"Trt Haber",trt-haber.com,NO_SITEMAP,https://trt-haber.com/sitemap_index.xml,0,7,1,0,1,326_trt_haber_com
+426,"Nextdoor",nextdoor.com,NO_SITEMAP,https://nextdoor.com/sitemap_index.xml,0,7,1,0,1,327_nextdoor_com
+427,"Visitnj",visitnj.org,SUCCESS,https://visitnj.org/sitemap.xml,7,10343,2,0,26,328_visitnj_org
+428,"Usda.gov",usda.gov,SUCCESS,https://usda.gov/sitemap.xml,7,1161,0,0,34,329_usda_gov
+429,"Nih.gov",nih.gov,NO_SITEMAP,https://nih.gov/sitemap_index.xml,0,7,1,0,1,330_nih_gov
+430,"Wiley",wiley.com,SUCCESS,https://wiley.com/sitemap_index.xml,6,10687,5,0,309,332_wiley_com
+431,"Ky.gov",ky.gov,NO_SITEMAP,https://ky.gov/sitemap_index.xml,0,7,1,0,1,333_ky_gov
+432,"Quora",quora.com,NO_SITEMAP,https://quora.com/sitemap_index.xml,0,7,1,0,1,334_quora_com
+433,"Nashvilleweightloss",nashvilleweightloss.com,SUCCESS,https://nashvilleweightloss.com/sitemap.xml,6,102,1,1,1,335_nashvilleweightloss_com
+434,"Phentermineclinics",phentermineclinics.net,NO_SITEMAP,https,0,7,1,0,1,336_phentermineclinics_net
+435,"Epa.gov",epa.gov,SUCCESS,https://epa.gov/sitemap.xml,7,11976,0,0,593,337_epa_gov
+436,"Harperclinicutah",harperclinicutah.com,SUCCESS,https://harperclinicutah.com/sitemap_index.xml,6,154,1,2,10,338_harperclinicutah_com
+437,"Themedspasociety",themedspasociety.com,SUCCESS,https://themedspasociety.com/sitemap_index.xml,6,45,2,0,4,339_themedspasociety_com
+438,"Medscape",medscape.com,NO_SITEMAP,https://medscape.com/sitemap_index.xml,0,7,1,0,1,340_medscape_com
+439,"Upmc",upmc.com,NO_SITEMAP,https,1,7,1,0,1,341_upmc_com
+440,"Impacthealthclinics",impacthealthclinics.com,SUCCESS,https://impacthealthclinics.com/sitemap.xml,2,192,14,6,5,342_impacthealthclinics_com
+441,"Mounjarovswegovy",mounjarovswegovy.com,SUCCESS,https://www.mounjarovswegovy.com/sitemap.xml,1,131,131,131,1,343_mounjarovswegovy_com
+442,"Cocoondayspa",cocoondayspa.com,SUCCESS,https://cocoondayspa.com/sitemap_index.xml,8,37,0,0,1,344_cocoondayspa_com
+443,"Chicagolandweightloss",chicagolandweightloss.com,NO_SITEMAP,https://chicagolandweightloss.com/sitemap_index.xml,0,7,1,0,1,345_chicagolandweightloss_com
+444,"Geneva Med",geneva-med.com,SUCCESS,https://geneva-med.com/sitemap.xml,1,307,12,14,3,346_geneva_med_com
+445,"Nobhillaesthetics",nobhillaesthetics.com,SUCCESS,https://nobhillaesthetics.com/sitemap.xml,3,46,0,0,1,348_nobhillaesthetics_com
+446,"Ny.gov",ny.gov,NO_SITEMAP,https://ny.gov/sitemap_index.xml,0,7,1,0,1,349_ny_gov
+447,"Insurancebusinessmag",insurancebusinessmag.com,SUCCESS,https://insurancebusinessmag.com/sitemap.xml,4,95,0,0,0,350_insurancebusinessmag_com
+448,"Greenreliefmd",greenreliefmd.com,SUCCESS,https://greenreliefmd.com/sitemap_index.xml,6,1060,39,31,23,352_greenreliefmd_com
+449,"Morristownvt.gov",morristownvt.gov,NO_SITEMAP,https://morristownvt.gov/sitemap_index.xml,0,7,1,0,1,353_morristownvt_gov
+450,"Bubolomedical",bubolomedical.com,NO_SITEMAP,https,1,7,1,0,1,354_bubolomedical_com
+451,"Intermountainhealthcare",intermountainhealthcare.org,NO_SITEMAP,https://intermountainhealthcare.org/sitemap_index.xml,0,7,1,0,1,355_intermountainhealthcare_org
+452,"Drbryantmedical",drbryantmedical.com,SUCCESS,https://drbryantmedical.com/sitemap.xml,2,97,6,6,5,356_drbryantmedical_com
+453,"Familypracticecenterpc",familypracticecenterpc.com,SUCCESS,https://familypracticecenterpc.com/sitemap_index.xml,6,686,0,0,5,357_familypracticecenterpc_com
+454,"Bariatricjournal",bariatricjournal.com,NO_SITEMAP,https://bariatricjournal.com/sitemap_index.xml,6,7,1,0,1,358_bariatricjournal_com
+455,"Njbariatriccenter",njbariatriccenter.com,SUCCESS,https://njbariatriccenter.com/sitemap_index.xml,6,411,9,4,9,359_njbariatriccenter_com
+456,"Wisconsindot.gov",wisconsindot.gov,NO_SITEMAP,https://wisconsindot.gov/sitemap_index.xml,0,7,1,0,1,360_wisconsindot_gov
+457,"Deseret",deseret.com,SUCCESS,https://www.deseret.com/sitemap.xml,3,44,0,0,0,361_deseret_com
+458,"Alphamedicalclinic",alphamedicalclinic.com,SUCCESS,https://www.alphamedicalclinic.com/sitemap.xml,1,35,0,0,0,362_alphamedicalclinic_com
+459,"Formblends",formblends.com,SUCCESS,https://formblends.com/sitemap.xml,2,2405,751,635,399,363_formblends_com
+460,"Grandhealthpartners",grandhealthpartners.com,SUCCESS,https://grandhealthpartners.com/sitemap_index.xml,3,84,0,0,1,364_grandhealthpartners_com
+461,"Doctors Weight Loss Clinic Moore Oklahoma.pages.dev",doctors-weight-loss-clinic-moore-oklahoma.pages.dev,SUCCESS,https://doctors-weight-loss-clinic-moore-oklahoma.pages.dev/sitemap.xml,1,3,0,0,0,365_doctors_weight_loss_clinic_moore_oklahoma_pages_dev
+462,"Mayoclinichealthsystem",mayoclinichealthsystem.org,NO_SITEMAP,https,0,7,1,0,1,366_mayoclinichealthsystem_org
+463,"Justanswer",justanswer.com,NO_SITEMAP,https,2,7,1,0,1,367_justanswer_com
+464,"Sagapixel",sagapixel.com,SUCCESS,https://sagapixel.com/sitemap_index.xml,5,204,2,0,5,368_sagapixel_com
+465,"Barbend",barbend.com,SUCCESS,https://barbend.com/sitemap_index.xml,7,4447,0,0,53,369_barbend_com
+466,"Pacificheightsplasticsurgery",pacificheightsplasticsurgery.com,NO_SITEMAP,https,2,7,1,0,1,370_pacificheightsplasticsurgery_com
+467,"Science",science.org,NO_SITEMAP,https,0,7,1,0,1,371_science_org
+468,"Chronosbhw",chronosbhw.com,SUCCESS,https://www.chronosbhw.com/sitemap.xml,1,242,8,5,7,372_chronosbhw_com
+469,"Thrivecolorado",thrivecolorado.com,SUCCESS,https://thrivecolorado.com/sitemap_index.xml,2,273,5,1,10,373_thrivecolorado_com
+470,"Plexusdx",plexusdx.com,SUCCESS,https://plexusdx.com/sitemap.xml,3,147,4,5,0,374_plexusdx_com
+471,"Ssmhealth",ssmhealth.com,SUCCESS,https://www.ssmhealth.com/sitemap.xml,1,2073,0,0,77,375_ssmhealth_com
+472,"1mg",1mg.com,SUCCESS,https://1mg.com/sitemap.xml,4,10000,0,0,10,376_1mg_com
+473,"Webmd",webmd.com,NO_SITEMAP,https,0,7,1,0,1,377_webmd_com
+474,"Ouhealth",ouhealth.com,NO_SITEMAP,https://ouhealth.com/sitemap_index.xml,0,7,1,0,1,379_ouhealth_com
+475,"Weightmaps",weightmaps.com,SUCCESS,https://weightmaps.com/sitemap_index.xml,5,90,0,0,1,380_weightmaps_com
+476,"Suwaneedoctor",suwaneedoctor.com,NO_SITEMAP,https,4,7,1,0,1,381_suwaneedoctor_com
+477,"Longstreetclinic",longstreetclinic.com,SUCCESS,https://longstreetclinic.com/sitemap_index.xml,7,531,0,0,4,383_longstreetclinic_com
+478,"Atlantabariatrics",atlantabariatrics.com,NO_SITEMAP,https,0,7,1,0,1,384_atlantabariatrics_com
+479,"Mountsinai",mountsinai.org,NO_SITEMAP,https,0,7,1,0,1,385_mountsinai_org
+480,"Nyulangone",nyulangone.org,SUCCESS,https://nyulangone.org/sitemap.xml,2,69,0,0,3,386_nyulangone_org
+481,"Jmhsmn",jmhsmn.org,SUCCESS,https://jmhsmn.org/sitemap_index.xml,7,760,0,0,12,387_jmhsmn_org
+482,"Piedmont",piedmont.org,NO_SITEMAP,https://piedmont.org/sitemap_index.xml,0,7,1,0,1,388_piedmont_org
+483,"Flushinghospital",flushinghospital.org,NO_SITEMAP,https,0,7,1,0,1,389_flushinghospital_org
+484,"Cvs",cvs.com,NO_SITEMAP,https://cvs.com/sitemap_index.xml,0,7,1,0,1,390_cvs_com
+485,"Yellowpages",yellowpages.com,NO_SITEMAP,https://yellowpages.com/sitemap_index.xml,0,7,1,0,1,391_yellowpages_com
+486,"Morriscountynj.gov",morriscountynj.gov,SUCCESS,https://www.morriscountynj.gov/sitemap.xml,1,8900,0,0,313,392_morriscountynj_gov
+487,"Ihealthunifiedcare",ihealthunifiedcare.com,SUCCESS,https://ihealthunifiedcare.com/sitemap.xml,2,5066,0,0,150,393_ihealthunifiedcare_com
+488,"Blueskymd",blueskymd.com,NO_SITEMAP,https://blueskymd.com/sitemap_index.xml,0,7,1,0,1,394_blueskymd_com
+489,"Nc.gov",nc.gov,SUCCESS,https://nc.gov/sitemap.xml,2,90,0,0,3,395_nc_gov
+490,"Stanfordhealthcare",stanfordhealthcare.org,NO_SITEMAP,https://stanfordhealthcare.org/sitemap_index.xml,0,7,1,0,1,396_stanfordhealthcare_org
+491,"Coxhealth",coxhealth.com,NO_SITEMAP,https://coxhealth.com/sitemap_index.xml,0,7,1,0,1,397_coxhealth_com
+492,"Northsidefamilymed",northsidefamilymed.com,SUCCESS,https://northsidefamilymed.com/sitemap.xml,3,31,0,0,0,398_northsidefamilymed_com
+493,"Wellstar",wellstar.org,SUCCESS,https://wellstar.org/sitemap.xml,2,6944,1,0,64,399_wellstar_org
+494,"Medstudio",medstudio.com,NO_SITEMAP,https://medstudio.com/sitemap_index.xml,0,7,1,0,1,400_medstudio_com
+495,"Ncsbe.gov",ncsbe.gov,SUCCESS,https://ncsbe.gov/sitemap.xml,2,1021,0,0,16,401_ncsbe_gov
+496,"Wikipedia",wikipedia.org,NO_SITEMAP,https,0,7,1,0,1,402_wikipedia_org
+497,"Medcitynews",medcitynews.com,NO_SITEMAP,https://medcitynews.com/sitemap_index.xml,0,7,1,0,1,403_medcitynews_com
+498,"Rapidcarellc",rapidcarellc.com,SUCCESS,https://rapidcarellc.com/sitemap_index.xml,5,38,0,0,0,404_rapidcarellc_com
+499,"Tlcsurgery",tlcsurgery.com,NO_SITEMAP,https,5,7,1,0,1,405_tlcsurgery_com
+500,"Thegipractice",thegipractice.com,SUCCESS,https://thegipractice.com/sitemap_index.xml,7,166,0,0,0,406_thegipractice_com
+501,"Coramedregen",coramedregen.com,NO_SITEMAP,https,0,7,1,0,1,407_coramedregen_com
+502,"Atriumhealth",atriumhealth.org,SUCCESS,https://atriumhealth.org/sitemap.xml,3,8952,3,0,127,408_atriumhealth_org
+503,"Texascenterforsurgery",texascenterforsurgery.com,SUCCESS,https://texascenterforsurgery.com/sitemap.xml,2,61,0,0,3,409_texascenterforsurgery_com
+504,"Clevelandclinic",clevelandclinic.org,SUCCESS,https://clevelandclinic.org/sitemap.xml,2,27148,18,5,359,410_clevelandclinic_org
+505,"Targetpatientsmd",targetpatientsmd.com,SUCCESS,https://targetpatientsmd.com/sitemap.xml,6,172,0,1,4,411_targetpatientsmd_com
+506,"Nuvivaweightloss",nuvivaweightloss.com,SUCCESS,https://nuvivaweightloss.com/sitemap.xml,2,59,11,11,1,412_nuvivaweightloss_com
+507,"Knownwell",knownwell.co,SUCCESS,https://knownwell.co/sitemap.xml,2,3847,10,5,14,413_knownwell_co
+508,"Skool",skool.com,NO_SITEMAP,https://skool.com/sitemap_index.xml,0,7,1,0,1,414_skool_com
+509,"Cdc.gov",cdc.gov,NO_SITEMAP,https,0,7,1,0,1,415_cdc_gov
+510,"Bbb",bbb.org,NO_SITEMAP,https,0,7,1,0,1,416_bbb_org
+511,"Normanregional",normanregional.com,NO_SITEMAP,https://normanregional.com/sitemap_index.xml,0,7,1,0,1,417_normanregional_com
+512,"Georgiaaesthetics",georgiaaesthetics.com,SUCCESS,https://georgiaaesthetics.com/sitemap_index.xml,7,64,0,0,2,418_georgiaaesthetics_com
+513,"Modernloss",modernloss.com,SUCCESS,https://modernloss.com/sitemap_index.xml,8,1913,0,0,30,419_modernloss_com
+514,"Bluetreehealthtx",bluetreehealthtx.com,SUCCESS,https://bluetreehealthtx.com/sitemap_index.xml,4,132,3,3,4,420_bluetreehealthtx_com
+515,"Austinthyroid",austinthyroid.com,SUCCESS,https://austinthyroid.com/sitemap_index.xml,7,163,4,3,0,421_austinthyroid_com
+516,"Medlineplus.gov",medlineplus.gov,SUCCESS,https://medlineplus.gov/sitemap.xml,2,25508,2,0,36,422_medlineplus_gov
+517,"Selfishlyaesthetics",selfishlyaesthetics.com,SUCCESS,https://selfishlyaesthetics.com/sitemap_index.xml,7,39,1,0,2,423_selfishlyaesthetics_com
+518,"Rpbmedical",rpbmedical.com,NO_SITEMAP,https://rpbmedical.com/sitemap_index.xml,0,7,1,0,1,424_rpbmedical_com
+519,"Apple",apple.com,SUCCESS,https://apple.com/sitemap.xml,2,871,0,0,80,425_apple_com
+520,"Cardiomenderweightloss",cardiomenderweightloss.com,SUCCESS,https://cardiomenderweightloss.com/sitemap_index.xml,6,517,50,43,21,426_cardiomenderweightloss_com
+521,"Ncwildlife.gov",ncwildlife.gov,SUCCESS,https://ncwildlife.gov/sitemap.xml,2,469,0,0,15,427_ncwildlife_gov
+522,"Premierwomenshealthmn",premierwomenshealthmn.com,NO_SITEMAP,https,0,7,1,0,1,428_premierwomenshealthmn_com
+523,"Nytimes",nytimes.com,NO_SITEMAP,https,0,7,1,0,1,429_nytimes_com
+524,"Germantownaesthetics",germantownaesthetics.com,NO_SITEMAP,https://germantownaesthetics.com/sitemap_index.xml,0,7,1,0,1,431_germantownaesthetics_com
+525,"Weightlossmdcherrycreek",weightlossmdcherrycreek.com,NO_SITEMAP,https,5,7,1,0,1,432_weightlossmdcherrycreek_com
+526,"Nevermorelane",nevermorelane.com,SUCCESS,https://nevermorelane.com/sitemap_index.xml,8,3345,21,18,172,433_nevermorelane_com
+527,"Klinic",klinic.com,SUCCESS,https://klinic.com/sitemap.xml,7,278,0,0,0,434_klinic_com
+528,"Helloklarity",helloklarity.com,SUCCESS,https://helloklarity.com/sitemap_index.xml,6,611,1,0,6,435_helloklarity_com
+529,"Practo",practo.com,NO_SITEMAP,https,1,7,1,0,1,436_practo_com
+530,"Doctorsdietamerica",doctorsdietamerica.com,NO_SITEMAP,https://doctorsdietamerica.com/sitemap_index.xml,0,7,1,0,1,437_doctorsdietamerica_com
+531,"Gorilladoctors",gorilladoctors.org,NO_SITEMAP,https,4,7,1,0,1,438_gorilladoctors_org
+532,"Onemedical",onemedical.com,SUCCESS,https://onemedical.com/sitemap.xml,2,2937,3,0,72,439_onemedical_com
+533,"Innerbalance",innerbalance.com,NO_SITEMAP,https://innerbalance.com/sitemap_index.xml,0,7,1,0,1,440_innerbalance_com
+534,"Yevoweightlosshighlandsranch",yevoweightlosshighlandsranch.com,NO_SITEMAP,https://yevoweightlosshighlandsranch.com/sitemap_index.xml,0,7,1,0,1,441_yevoweightlosshighlandsranch_com
+535,"Ushmm",ushmm.org,NO_SITEMAP,https://ushmm.org/sitemap_index.xml,0,7,1,0,1,442_ushmm_org
+536,"Conciergemdla",conciergemdla.com,NO_SITEMAP,https,0,7,1,0,1,443_conciergemdla_com
+537,"Allinahealth",allinahealth.org,SUCCESS,https://allinahealth.org/sitemap.xml,4,5851,1,0,97,444_allinahealth_org
+538,"Drugs",drugs.com,NO_SITEMAP,https,0,7,1,0,1,445_drugs_com
+539,"Diabetes.org.uk",diabetes.org.uk,SUCCESS,https://diabetes.org.uk/sitemap.xml,4,4048,3,1,92,446_diabetes_org_uk
+540,"Health .ucsd.edu",health.ucsd.edu,SUCCESS,https://health.ucsd.edu/sitemap.xml,1,1361,0,0,66,447_health_ucsd_edu
+541,"Newsnationnow",newsnationnow.com,NO_SITEMAP,https,5,7,1,0,1,448_newsnationnow_com
+542,"Mhealthfairview",mhealthfairview.org,SUCCESS,https://mhealthfairview.org/sitemap.xml,2,2375,0,0,131,449_mhealthfairview_org
+543,"Houstonweightloss",houstonweightloss.com,SUCCESS,https://houstonweightloss.com/sitemap_index.xml,7,229,3,2,14,450_houstonweightloss_com
+544,"Nhs.uk",nhs.uk,SUCCESS,https://nhs.uk/sitemap.xml,4,3718,1,1,229,451_nhs_uk
+545,"Businessinsider",businessinsider.com,NO_SITEMAP,https,0,7,1,0,1,452_businessinsider_com
+546,"Obesityaction",obesityaction.org,SUCCESS,https://obesityaction.org/sitemap_index.xml,7,1927,3,0,33,453_obesityaction_org
+547,"Uchealth",uchealth.org,NO_SITEMAP,https://uchealth.org/sitemap_index.xml,0,7,1,0,1,454_uchealth_org
+548,"Weightingoldwellness",weightingoldwellness.com,SUCCESS,https://weightingoldwellness.com/sitemap.xml,4,50,2,0,1,455_weightingoldwellness_com
+549,"Sfstandard",sfstandard.com,NO_SITEMAP,https,0,7,1,0,1,456_sfstandard_com
+550,"Drjamesanthony",drjamesanthony.com,SUCCESS,https://drjamesanthony.com/sitemap.xml,2,488,0,1,3,457_drjamesanthony_com
+551,"Lemonaidhealth",lemonaidhealth.com,SUCCESS,https://lemonaidhealth.com/sitemap.xml,2,340,14,3,1,458_lemonaidhealth_com
+552,"Forbes",forbes.com,NO_SITEMAP,https,0,7,1,0,1,459_forbes_com
+553,"Accskin",accskin.com,NO_SITEMAP,https://accskin.com/sitemap_index.xml,6,7,1,0,1,460_accskin_com
+554,"Scrmc",scrmc.com,NO_SITEMAP,https,2,7,1,0,1,461_scrmc_com
+555,"Synergyhealth360",synergyhealth360.com,SUCCESS,https://synergyhealth360.com/sitemap.xml,2,129,0,0,7,462_synergyhealth360_com
+556,"Novanthealth",novanthealth.org,SUCCESS,https://novanthealth.org/sitemap_index.xml,4,11411,4,0,34,463_novanthealth_org
+557,"Skinspire.agency",skinspire.agency,SUCCESS,https://skinspire.agency/sitemap_index.xml,4,152,0,0,4,464_skinspire_agency
+558,"Massgeneralbrigham",massgeneralbrigham.org,SUCCESS,https://massgeneralbrigham.org/sitemap.xml,2,120,0,0,7,465_massgeneralbrigham_org
+559,"Distribb",distribb.io,SUCCESS,https://distribb.io/sitemap.xml,2,766,2,0,16,466_distribb_io
+560,"Walmart",walmart.com,NO_SITEMAP,https,0,7,1,0,1,467_walmart_com
+561,"Linkedin",linkedin.com,NO_SITEMAP,https://linkedin.com/sitemap_index.xml,0,7,1,0,1,468_linkedin_com
+562,"Progressweight",progressweight.com,SUCCESS,https://progressweight.com/sitemap.xml,2,104,0,0,5,469_progressweight_com
+563,"Parkermedical",parkermedical.org,SUCCESS,https://parkermedical.org/sitemap.xml,5,32,0,0,1,470_parkermedical_org
+564,"Muhealth",muhealth.org,SUCCESS,https://www.muhealth.org/sitemap.xml,1,2693,3,0,32,471_muhealth_org
+565,"Joinmidi",joinmidi.com,SUCCESS,https://joinmidi.com/sitemap.xml,2,1392,14,16,7,472_joinmidi_com
+566,"Driphydration",driphydration.com,NO_SITEMAP,https,0,7,1,0,1,473_driphydration_com
+567,"Lookgreatmdkop",lookgreatmdkop.com,SUCCESS,https://lookgreatmdkop.com/sitemap.xml,2,17,1,0,0,474_lookgreatmdkop_com
+568,"Ncagr.gov",ncagr.gov,SUCCESS,https://ncagr.gov/sitemap.xml,2,2593,0,0,299,475_ncagr_gov
+569,"Doctorswithoutborders",doctorswithoutborders.org,SUCCESS,https://doctorswithoutborders.org/sitemap.xml,6,9522,1,0,158,476_doctorswithoutborders_org
+570,"Compoundreview",compoundreview.com,SUCCESS,https://compoundreview.com/sitemap.xml,2,522,17,11,1,477_compoundreview_com
+571,"Openpr",openpr.com,SUCCESS,https://openpr.com/sitemap.xml,4,50000,22,0,1876,478_openpr_com
+572,"Baldwingyn",baldwingyn.com,NO_SITEMAP,https://baldwingyn.com/sitemap_index.xml,0,7,1,0,1,479_baldwingyn_com
+573,"Doctorsforamerica",doctorsforamerica.org,NO_SITEMAP,https://doctorsforamerica.org/sitemap_index.xml,0,7,1,0,1,480_doctorsforamerica_org
+574,"Medloungesanramon",medloungesanramon.com,SUCCESS,https://medloungesanramon.com/sitemap_index.xml,6,78,2,3,2,481_medloungesanramon_com
+575,"Yespress",yespress.io,NO_SITEMAP,https://yespress.io/sitemap_index.xml,0,7,1,0,1,483_yespress_io
+576,"Diabetesjournals",diabetesjournals.org,NO_SITEMAP,https,0,7,1,0,1,484_diabetesjournals_org
+577,"Gamedaymenshealth",gamedaymenshealth.com,SUCCESS,https://www.gamedaymenshealth.com/sitemap.xml,3,4122,1,1,23,485_gamedaymenshealth_com
+578,"Windermeremedical",windermeremedical.com,SUCCESS,https://windermeremedical.com/sitemap_index.xml,7,421,2,2,5,486_windermeremedical_com
+579,"Amazon",amazon.com,NO_SITEMAP,https://amazon.com/sitemap_index.xml,0,7,1,0,1,487_amazon_com
+580,"Primary Healthpartners",primary-healthpartners.com,SUCCESS,https://primary-healthpartners.com/sitemap_index.xml,7,107,0,0,6,488_primary_healthpartners_com
+581,"Usnews",usnews.com,NO_SITEMAP,https,0,7,1,0,1,489_usnews_com
+582,"Elevateatl",elevateatl.com,SUCCESS,https://elevateatl.com/sitemap.xml,2,11,0,0,0,490_elevateatl_com
+583,"Telemedsforme",telemedsforme.com,NO_SITEMAP,https,1,7,1,0,1,491_telemedsforme_com
+584,"Unfccc.int",unfccc.int,SUCCESS,https://unfccc.int/sitemap.xml,7,11527,203,0,986,492_unfccc_int
+585,"Wakemed",wakemed.org,SUCCESS,https://wakemed.org/sitemap.xml,5,5237,0,0,65,493_wakemed_org
+586,"417mag",417mag.com,NO_SITEMAP,https,0,7,1,0,1,494_417mag_com
+587,"Google",google.com,SUCCESS,https://google.com/sitemap.xml,4,226,0,0,0,495_google_com
+588,"Stonevillenc",stonevillenc.org,SUCCESS,https://stonevillenc.org/sitemap.xml,5,56,0,0,2,496_stonevillenc_org
+589,"Businesswire",businesswire.com,NO_SITEMAP,https://businesswire.com/sitemap_index.xml,0,7,1,0,1,497_businesswire_com
+590,"Batashmedical",batashmedical.com,SUCCESS,https://batashmedical.com/sitemap.xml,2,470,16,5,11,498_batashmedical_com
+591,"Atlantamedicalinstitute",atlantamedicalinstitute.com,SUCCESS,https://atlantamedicalinstitute.com/sitemap_index.xml,4,254,25,10,8,499_atlantamedicalinstitute_com
+592,"Atlantichealth",atlantichealth.org,SUCCESS,https://atlantichealth.org/sitemap.xml,2,7421,4,0,40,500_atlantichealth_org
+593,"Wheelermedspa",wheelermedspa.com,SUCCESS,https://wheelermedspa.com/sitemap_index.xml,5,116,0,0,2,501_wheelermedspa_com
+594,"Adventhealth",adventhealth.com,NO_SITEMAP,https://adventhealth.com/sitemap_index.xml,0,7,1,0,1,502_adventhealth_com
+595,"Uclahealth",uclahealth.org,SUCCESS,https://uclahealth.org/sitemap.xml,6,8595,3,0,100,503_uclahealth_org
+596,"Unep",unep.org,NO_SITEMAP,https://unep.org/sitemap_index.xml,0,7,1,0,1,504_unep_org
+597,"Optionsmedicalweightloss",optionsmedicalweightloss.com,SUCCESS,https://optionsmedicalweightloss.com/sitemap_index.xml,7,64,0,0,1,505_optionsmedicalweightloss_com
+598,"WeightWatchers Clinic",weightwatchers.com,SUCCESS,https://weightwatchers.com/sitemap.xml,6,3143,66,34,112,506_weightwatchers_com
+599,"Vermont.gov",vermont.gov,SUCCESS,https://vermont.gov/sitemap.xml,2,1,0,0,0,507_vermont_gov
+600,"Superbcompanies",superbcompanies.com,SUCCESS,https://superbcompanies.com/sitemap.xml,4,10015,0,0,44,508_superbcompanies_com
+601,"Merriam Webster",merriam-webster.com,NO_SITEMAP,https,0,7,1,0,1,509_merriam_webster_com
+602,"Ftc.gov",ftc.gov,NO_SITEMAP,https://ftc.gov/sitemap_index.xml,0,7,1,0,1,510_ftc_gov
+603,"61five",61five.com,NO_SITEMAP,https,5,7,1,0,1,511_61five_com
+604,"Emetabolic",emetabolic.com,SUCCESS,https://emetabolic.com/sitemap.xml,2,3996,1,0,142,512_emetabolic_com
+605,"Zocdoc",zocdoc.com,NO_SITEMAP,https://zocdoc.com/sitemap_index.xml,0,7,1,0,1,513_zocdoc_com
+606,"Pwlc",pwlc.com,SUCCESS,https://pwlc.com/sitemap_index.xml,5,30,0,0,0,514_pwlc_com
+607,"Doctorsweightlosscenterofcary",doctorsweightlosscenterofcary.com,NO_SITEMAP,https,5,7,1,0,1,515_doctorsweightlosscenterofcary_com
+608,"Premierweightloss",premierweightloss.com,SUCCESS,https://premierweightloss.com/sitemap_index.xml,6,69,0,0,2,516_premierweightloss_com
+609,"Mayoclinicproceedings",mayoclinicproceedings.org,NO_SITEMAP,https,0,7,1,0,1,517_mayoclinicproceedings_org
+610,"Youtube",youtube.com,NO_SITEMAP,https,0,7,1,0,1,518_youtube_com
+611,"Wegovy",wegovy.com,SUCCESS,https://wegovy.com/sitemap.xml,3,44,44,0,0,519_wegovy_com
+612,"Litemedicalclinic",litemedicalclinic.com,SUCCESS,https://litemedicalclinic.com/sitemap_index.xml,6,513,43,43,6,520_litemedicalclinic_com
+613,"Swancenteratlanta",swancenteratlanta.com,NO_SITEMAP,https,5,7,1,0,1,521_swancenteratlanta_com
+614,"Formulawellness",formulawellness.com,SUCCESS,https://formulawellness.com/sitemap.xml,2,1274,0,0,32,522_formulawellness_com
+615,"Phentermineclinic",phentermineclinic.com,SUCCESS,https://www.phentermineclinic.com/sitemap.xml,1,294,16,4,3,523_phentermineclinic_com
+616,"Novomedlink",novomedlink.com,SUCCESS,https://novomedlink.com/sitemap.xml,2,499,58,0,26,524_novomedlink_com
+617,"Phelpshealth",phelpshealth.org,SUCCESS,https://phelpshealth.org/sitemap.xml,2,1173,0,1,14,525_phelpshealth_org
+618,"Cell",cell.com,NO_SITEMAP,https,0,7,1,0,1,526_cell_com

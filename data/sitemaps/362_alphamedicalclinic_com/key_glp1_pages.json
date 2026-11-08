@@ -1,0 +1,22 @@
+{
+  "name": "Alphamedicalclinic",
+  "domain": "alphamedicalclinic.com",
+  "total_urls": 35,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.alphamedicalclinic.com/authorization-to-request-medical-records",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.alphamedicalclinic.com/our-terms",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dietokc",
+  "domain": "dietokc.com",
+  "total_urls": 59,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://dietokc.com/2020/03/should-you-try-a-plant-based-diet/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://dietokc.com/2020/03/should-you-try-a-plant-based-diet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://dietokc.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

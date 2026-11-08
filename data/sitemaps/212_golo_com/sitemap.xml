@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://www.golo.com/sitemap_agentic_discovery.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.golo.com/sitemap_products_1.xml?from=4453056020543&amp;to=8451486449727</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.golo.com/sitemap_pages_1.xml?from=22522363967&amp;to=119510794303</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.golo.com/sitemap_collections_1.xml?from=75950948415&amp;to=289342881855</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.golo.com/sitemap_blogs_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.golo.com/sitemap_articles_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.golo.com/sitemap_metaobject_pages_1.xml</loc>
+  </sitemap>
+</sitemapindex>

@@ -1,0 +1,13 @@
+{
+  "name": "Youtube",
+  "domain": "youtube.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://youtube.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://youtube.com/pricing"
+  ],
+  "all_categorized": []
+}

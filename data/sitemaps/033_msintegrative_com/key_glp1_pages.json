@@ -1,0 +1,36 @@
+{
+  "name": "Msintegrative",
+  "domain": "msintegrative.com",
+  "total_urls": 31,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.msintegrative.com/payment-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.msintegrative.com/about/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.msintegrative.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.msintegrative.com/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.msintegrative.com/why-choosing-the-right-primary-care-doctor-matters/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

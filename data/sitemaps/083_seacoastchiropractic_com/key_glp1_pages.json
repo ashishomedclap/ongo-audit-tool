@@ -1,0 +1,46 @@
+{
+  "name": "Seacoastchiropractic",
+  "domain": "seacoastchiropractic.com",
+  "total_urls": 104,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.seacoastchiropractic.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.seacoastchiropractic.com/do-i-need-to-be-taking-a-probiotic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.seacoastchiropractic.com/faq-about-chiropractor-city/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.seacoastchiropractic.com/hipaa-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.seacoastchiropractic.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.seacoastchiropractic.com/terms-service/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

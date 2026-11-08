@@ -80,51 +80,50 @@ export default function StateLicensingTab({ complianceData, onInspectCompetitor 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       
-      {/* Premium GSC / Clarity Header */}
-      <div className="gsc-header">
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
-          <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
-              <span className="gsc-badge-healthy">
-                <span className="gsc-pulse-dot" />
-                Telehealth Regulatory Jurisdiction
-              </span>
-              <span className="gsc-badge-neutral">
-                50-State Legal Coverage
-              </span>
-              <span style={{ fontSize: '0.74rem', color: '#64748b' }}>
-                Ongo: 100% Nationwide Availability
-              </span>
-            </div>
-            <h1 style={{ fontSize: '1.45rem', fontWeight: 800, color: '#0f1715', margin: 0, letterSpacing: '-0.02em' }}>
-              50-State Telehealth Licensing &amp; Video Regulations
+      {/* Unified World-Class Tool Workspace Header */}
+      <div style={{
+        background: 'var(--bg-surface)',
+        border: '1px solid var(--border-subtle)',
+        borderRadius: '14px',
+        padding: '18px 22px',
+        display: 'flex',
+        flexWrap: 'wrap',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        gap: '16px',
+        boxShadow: '0 1px 3px rgba(0, 0, 0, 0.02)'
+      }}>
+        <div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '2px' }}>
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--text-primary)', margin: 0, letterSpacing: '-0.02em' }}>
+              50-State Telehealth Licensing & Video Regulations
             </h1>
-            <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
-              Benchmark nationwide telehealth medical coverage, asynchronous intake vs video visit mandates, and excluded state jurisdictions across 100 clinics.
-            </p>
+            <span style={{
+              fontSize: '0.72rem',
+              fontWeight: 700,
+              padding: '2px 8px',
+              borderRadius: '9999px',
+              background: 'var(--bg-surface-alt)',
+              color: 'var(--text-secondary)'
+            }}>
+              50 States Mapped
+            </span>
           </div>
+          <p style={{ fontSize: '0.82rem', color: 'var(--text-tertiary)', margin: 0 }}>
+            Benchmark nationwide telehealth medical coverage, asynchronous intake vs video visit mandates, and excluded state jurisdictions across {competitorsList.length || 618} clinics.
+          </p>
+        </div>
 
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-            <button
-              onClick={handleExportCsv}
-              className="gsc-btn-secondary"
-              title="Export state licensing matrix to CSV"
-            >
-              <Download size={14} />
-              Export CSV
-            </button>
-          </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <button
+            onClick={handleExportCsv}
+            className="tool-filter-pill"
+            style={{ display: 'inline-flex', alignItems: 'center', gap: '5px', cursor: 'pointer', background: 'var(--bg-surface-alt)', border: '1px solid var(--border-medium)' }}
+          >
+            <Download size={13} /> Export CSV
+          </button>
         </div>
       </div>
-
-      <ContextCue
-        level={3}
-        toolNumber={9}
-        useCase="Map state-by-state telehealth licensing coverage and video consultation mandates."
-        badge="Jurisdiction Radar"
-        title="Telehealth Legal Coverage by State"
-        about="Telehealth prescribing laws vary significantly across US states. While states like California, Mississippi, and Louisiana have strict synchronous video mandates, Ongo's multi-state physician team provides complete 50-state legal coverage."
-      />
 
       {/* 4 Clarity Executive Scorecards */}
       <div style={{
@@ -139,7 +138,7 @@ export default function StateLicensingTab({ complianceData, onInspectCompetitor 
           </div>
           <div className="gsc-scorecard-value">
             {competitorsList.filter(c => c.states.totalStatesCovered === 50).length}
-            <span style={{ fontSize: '1rem', color: '#64748b', fontWeight: 500 }}> / 100</span>
+            <span style={{ fontSize: '1rem', color: '#64748b', fontWeight: 500 }}> / {competitorsList.length}</span>
           </div>
           <div className="gsc-scorecard-sub">
             <span className="gsc-badge-healthy">Ongo: 50 of 50 States</span>
@@ -153,7 +152,7 @@ export default function StateLicensingTab({ complianceData, onInspectCompetitor 
           </div>
           <div className="gsc-scorecard-value">
             {competitorsList.filter(c => c.states.totalStatesCovered < 50).length}
-            <span style={{ fontSize: '1rem', color: '#64748b', fontWeight: 500 }}> / 100</span>
+            <span style={{ fontSize: '1rem', color: '#64748b', fontWeight: 500 }}> / {competitorsList.length}</span>
           </div>
           <div className="gsc-scorecard-sub">
             <span className="gsc-badge-warning">Exclude CA, NY, LA, or MS</span>
@@ -232,7 +231,7 @@ export default function StateLicensingTab({ complianceData, onInspectCompetitor 
 
           <div style={{ display: 'flex', background: '#f1f5f9', padding: '3px', borderRadius: '8px' }}>
             {[
-              { id: 'all', label: 'All Clinics (100)' },
+              { id: 'all', label: `All Clinics (${competitorsList.length})` },
               { id: '50-states', label: '50 States Only' },
               { id: 'restricted', label: 'Restricted States' }
             ].map(tab => (

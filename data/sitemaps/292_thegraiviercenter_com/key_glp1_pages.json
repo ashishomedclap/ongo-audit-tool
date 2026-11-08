@@ -1,0 +1,22 @@
+{
+  "name": "Thegraiviercenter",
+  "domain": "thegraiviercenter.com",
+  "total_urls": 80,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://thegraiviercenter.com/meet-our-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://thegraiviercenter.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

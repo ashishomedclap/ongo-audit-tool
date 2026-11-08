@@ -1,0 +1,13 @@
+{
+  "name": "Tomweightloss",
+  "domain": "tomweightloss.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://tomweightloss.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://tomweightloss.com/pricing"
+  ],
+  "all_categorized": []
+}

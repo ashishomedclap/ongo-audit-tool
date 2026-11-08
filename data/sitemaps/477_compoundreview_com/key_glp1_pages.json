@@ -1,0 +1,378 @@
+{
+  "name": "Compoundreview",
+  "domain": "compoundreview.com",
+  "total_urls": 522,
+  "semaglutide_pages": [
+    "https://compoundreview.com/guides/best-semaglutide-vendors",
+    "https://compoundreview.com/guides/best-semax-vendors",
+    "https://compoundreview.com/guides/oral-semaglutide",
+    "https://compoundreview.com/guides/semaglutide-before-and-after",
+    "https://compoundreview.com/guides/semaglutide-fda-approval",
+    "https://compoundreview.com/guides/semaglutide-for-diabetes",
+    "https://compoundreview.com/guides/semaglutide-for-pcos",
+    "https://compoundreview.com/interactions/semaglutide-and-alcohol",
+    "https://compoundreview.com/interactions/semaglutide-and-metformin",
+    "https://compoundreview.com/peptide/selank-semax-blend",
+    "https://compoundreview.com/peptide/semaglutide",
+    "https://compoundreview.com/peptide/semax",
+    "https://compoundreview.com/versus/retatrutide-vs-ozempic",
+    "https://compoundreview.com/versus/selank-vs-semax",
+    "https://compoundreview.com/versus/semaglutide-vs-tirzepatide"
+  ],
+  "tirzepatide_pages": [
+    "https://compoundreview.com/guides/best-tirzepatide-vendors",
+    "https://compoundreview.com/guides/tirzepatide-before-and-after",
+    "https://compoundreview.com/guides/tirzepatide-fda-approval",
+    "https://compoundreview.com/guides/tirzepatide-for-diabetes",
+    "https://compoundreview.com/guides/tirzepatide-for-pcos",
+    "https://compoundreview.com/interactions/tirzepatide-and-alcohol",
+    "https://compoundreview.com/interactions/tirzepatide-and-metformin",
+    "https://compoundreview.com/peptide/tirzepatide",
+    "https://compoundreview.com/versus/retatrutide-vs-tirzepatide",
+    "https://compoundreview.com/versus/semaglutide-vs-tirzepatide",
+    "https://compoundreview.com/versus/semaglutide-vs-tirzepatide-vs-retatrutide"
+  ],
+  "pricing_pages": [
+    "https://compoundreview.com/guides/peptide-price-index"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://compoundreview.com/comparisons/purgo-labs-vs-elite-edge-biotech",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/comparisons/purgo-labs-vs-onyx-biolabs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/comparisons/purgo-labs-vs-premier-bio-labs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/comparisons/purgo-labs-vs-science-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/503a-vs-503b-pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/arizen-biolabs-discount-code",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/arizen-biolabs-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/best-semaglutide-vendors",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/best-semax-vendors",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/best-tirzepatide-vendors",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/bioedge-research-labs-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/biogenix-peptides-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/biolongevity-labs-discount-code",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/biolongevity-labs-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/biotech-peptides-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/bpc-157-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/elite-edge-biotech-discount-code",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/elite-edge-biotech-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/glp-1-peptides-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-arizen-biolabs-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-bioedge-research-labs-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-biogenix-peptides-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-biolongevity-labs-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-biotech-peptides-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-elite-edge-biotech-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-luvion-bio-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-onyx-biolabs-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/is-premier-bio-labs-legit",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/luvion-bio-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/onyx-biolabs-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/oral-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/peptide-price-index",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/premier-bio-labs-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/semaglutide-before-and-after",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/semaglutide-fda-approval",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/semaglutide-for-diabetes",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/semaglutide-for-pcos",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/tirzepatide-before-and-after",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/tirzepatide-fda-approval",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/tirzepatide-for-diabetes",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/guides/tirzepatide-for-pcos",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/interactions/semaglutide-and-alcohol",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/interactions/semaglutide-and-metformin",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/interactions/tirzepatide-and-alcohol",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/interactions/tirzepatide-and-metformin",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/legal/terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/peptide/selank-semax-blend",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/peptide/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/peptide/semax",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/peptide/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/versus/retatrutide-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/versus/retatrutide-vs-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/versus/selank-vs-semax",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/versus/semaglutide-vs-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/versus/semaglutide-vs-tirzepatide-vs-retatrutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://compoundreview.com/versus/semaglutide-vs-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

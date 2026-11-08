@@ -1,0 +1,28 @@
+{
+  "name": "Getwellinternalmedicine",
+  "domain": "getwellinternalmedicine.com",
+  "total_urls": 8,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://getwellinternalmedicine.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://getwellinternalmedicine.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://getwellinternalmedicine.com/terms-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

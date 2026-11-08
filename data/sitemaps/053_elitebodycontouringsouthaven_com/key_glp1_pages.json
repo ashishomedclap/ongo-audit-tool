@@ -1,0 +1,34 @@
+{
+  "name": "Elitebodycontouringsouthaven",
+  "domain": "elitebodycontouringsouthaven.com",
+  "total_urls": 22,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://elitebodycontouringsouthaven.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://elitebodycontouringsouthaven.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://elitebodycontouringsouthaven.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://elitebodycontouringsouthaven.com/terms/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Myminutemed",
+  "domain": "myminutemed.com",
+  "total_urls": 137,
+  "semaglutide_pages": [
+    "https://myminutemed.com/copd-and-emphysema/",
+    "https://myminutemed.com/semaglutide-weight-loss/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://myminutemed.com/six-step-plan-may-cut-hf-readmissions/",
+    "https://myminutemed.com/why-you-feel-tired-all-the-time/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://myminutemed.com/copd-and-emphysema/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://myminutemed.com/louisiana-board-of-pharmacy-update-3-22-2020/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://myminutemed.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://myminutemed.com/promedx-minor-healthcare-policy-lafayette-la/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://myminutemed.com/semaglutide-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://myminutemed.com/six-step-plan-may-cut-hf-readmissions/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://myminutemed.com/why-you-feel-tired-all-the-time/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

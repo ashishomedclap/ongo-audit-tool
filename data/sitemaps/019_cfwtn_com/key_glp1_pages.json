@@ -1,0 +1,40 @@
+{
+  "name": "Cfwtn",
+  "domain": "cfwtn.com",
+  "total_urls": 23,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.cfwtn.com/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.cfwtn.com/faq/cfw-program-include-weight-loss/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.cfwtn.com/faq/makes-center-wellness-cfw-different-medical-weight-loss-programs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.cfwtn.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.cfwtn.com/our-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

@@ -282,14 +282,7 @@ export default function GeoReadinessTab() {
   return (
     <div style={{ maxWidth: '1440px', margin: '0 auto', padding: '0 8px' }}>
       {/* Context Cue Banner */}
-      <ContextCue
-        title="Generative Engine Optimization (GEO) & Live URL AI Auditor"
-        level={2}
-        toolNumber={24}
-        badge="ChatGPT & Perplexity Benchmarked"
-        useCase="Audits live URLs and article drafts against Princeton & Georgia Tech GEO benchmarks to maximize citation probability in ChatGPT Search, Perplexity US, Google AI Overviews, and Claude."
-      />
-
+      
       {/* Mode Switcher Tabs */}
       <div style={{
         display: 'flex',

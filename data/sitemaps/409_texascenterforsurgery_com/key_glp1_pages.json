@@ -1,0 +1,386 @@
+{
+  "name": "Texascenterforsurgery",
+  "domain": "texascenterforsurgery.com",
+  "total_urls": 61,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.texascenterforsurgery.com/locations/plano-office/",
+    "https://www.texascenterforsurgery.com/video/player/61884-take-a-tour-of-our-bariatrics-office-in-plano",
+    "https://www.texascenterforsurgery.com/video/player/61898-it-just-makes-me-feel-great"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://texascenterforsurgery.com/blog",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/accessibility-statement/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/assessment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/bariatric-surgery-patient-forms/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/doctors/edmund-b-chen-md/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/doctors/joseph-a-cribbins-iii-md/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/faqs/",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/forms/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/locations/plano-office/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/non-surgical-weight-loss/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/our-hospitals/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/patient-forms/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/paying-for-bariatric-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/photogallery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/adolescent-bariatric-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/bariatric-revision-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/bariatric-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/cholecystectomy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/da-vinci-xi-robotic-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/duodenal-switch/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/gastric-bypass/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/gastric-sleeve/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/general-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/gerd/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/hernia-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/lap-band/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/medical-weight-loss/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/nutrafol/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/services/sadi-s-surgery/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/surgeryplus/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/surgical-vs-non-surgical-weight-loss-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61881-bariatric-revision-surgery-gives-you-a-fresh-start",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61882-why-we-practice-exclusively-with-da-vinci-xi",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61883-getting-to-know-dr-joe-cribbins",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61884-take-a-tour-of-our-bariatrics-office-in-plano",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61885-it-s-a-great-choice-that-we-made",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61886-results-from-the-surgery-are-just-amazing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61887-once-you-re-a-patient-here-you-re-a-patient-for-life",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61888-really-able-to-kick-life-s-butt-now",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61889-this-has-given-me-my-life-back",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61890-a-look-at-our-popular-bariatric-surgeries",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61891-a-leading-texas-bariatrics-practice",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61892-what-to-expect-on-the-day-of-your-surgery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61893-i-wish-i-would-have-done-it-years-ago",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61894-go-to-dr-cribbins-they-re-here-to-support-you",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61896-getting-rid-of-heartburn-with-hiatal-hernia-surgery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61897-changing-lives-with-bariatric-surgery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61898-it-just-makes-me-feel-great",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61899-from-the-moment-i-stepped-in-i-was-greeted-with-open-arms",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61900-i-think-dr-chen-rocks",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61901-would-not-go-anywhere-else",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61902-i-m-very-proud-of-the-choice-i-ve-made",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61903-it-s-really-been-amazing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61905-it-s-had-a-profound-effect",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/video/player/61943-your-journey-starts-with-one-call",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/virtual-consultation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/weight-loss-support-group/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.texascenterforsurgery.com/what-sets-us-apart/",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

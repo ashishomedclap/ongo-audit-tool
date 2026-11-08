@@ -1,0 +1,13 @@
+{
+  "name": "Adventhealth",
+  "domain": "adventhealth.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://adventhealth.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://adventhealth.com/pricing"
+  ],
+  "all_categorized": []
+}

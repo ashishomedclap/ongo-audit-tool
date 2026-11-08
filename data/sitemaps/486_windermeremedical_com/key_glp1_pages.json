@@ -1,0 +1,288 @@
+{
+  "name": "Windermeremedical",
+  "domain": "windermeremedical.com",
+  "total_urls": 421,
+  "semaglutide_pages": [
+    "https://windermeremedical.com/how-to-prevent-and-treat-ozempic-face/",
+    "https://windermeremedical.com/side-effects-of-ozempic/"
+  ],
+  "tirzepatide_pages": [
+    "https://windermeremedical.com/how-and-where-to-inject-zepbound/",
+    "https://windermeremedical.com/tirzepatide-dosage-chart/"
+  ],
+  "pricing_pages": [
+    "https://windermeremedical.com/benefits-of-personalized-treatment-plans/",
+    "https://windermeremedical.com/cost-of-a-primary-care-visit/",
+    "https://windermeremedical.com/immigration-medical-exam-cost-in-georgia/",
+    "https://windermeremedical.com/insurances/multiplan-phcs/",
+    "https://windermeremedical.com/patient-feedback/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://windermeremedical.com/6-ways-your-doctor-can-help-prevent-cancer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/annual-physicals-exam-in-north-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/back-to-school-vaccines-physicals-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/benefits-of-personalized-treatment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/bioidentical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/bioidentical-hormones-for-womens-health-balancing-hormones/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/botox-and-injectables-benefits-and-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/choosing-a-primary-care-provider-in-north-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/cost-of-a-primary-care-visit/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/debunking-myths-misconceptions-bioidentical-hormones-hrt/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/doctor-order-a-home-sleep-test/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/family-doctors-for-adults-and-children/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/family-primary-care-clinics-north-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/geriatric-care-in-north-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/heart-metabolic-health-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/how-and-where-to-inject-zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/how-to-choose-a-primary-care-doctor-in-north-georgia/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/how-to-prevent-and-treat-ozempic-face/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/immigration-medical-exam-cost-in-georgia/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/immigration-medical-exam-georgia-civil-surgeon-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/insurances/multiplan-phcs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/medication-management-seniors-polypharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/memory-loss-vs-normal-aging-when-to-see-a-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/online-doctor-visits-for-cold/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/patient-feedback/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/pediatric-primary-care-in-north-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/primary-care-doctor-help-with-weight-management/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/primary-care-doctor-vs-urgent-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/primary-care-doctors-accepting-new-patients/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/primary-care-in-georgia-preventive-services-local-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/same-day-doctor-visits-what-counts-as-urgent/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/see-a-doctor-today-without-an-appointment/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/side-effects-of-ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/sports-medicine-care-in-north-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/telehealth-in-primary-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/telepsychiatry-in-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/telugu-speaking-doctors-in-north-atlanta/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/tirzepatide-dosage-chart/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/top-cholesterol-medications-what-your-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://windermeremedical.com/what-does-a-primary-care-doctor-treat/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

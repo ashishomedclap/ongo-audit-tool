@@ -1,0 +1,13 @@
+{
+  "name": "Accskin",
+  "domain": "accskin.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://accskin.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://accskin.com/pricing"
+  ],
+  "all_categorized": []
+}

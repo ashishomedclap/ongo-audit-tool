@@ -1,0 +1,22 @@
+{
+  "name": "Coastlinewellnessnc",
+  "domain": "coastlinewellnessnc.com",
+  "total_urls": 26,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://coastlinewellnessnc.com/coastline-wellness-medical-providers-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://coastlinewellnessnc.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

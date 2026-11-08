@@ -1,0 +1,13 @@
+{
+  "name": "Carondelet",
+  "domain": "carondelet.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://carondelet.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://carondelet.org/pricing"
+  ],
+  "all_categorized": []
+}

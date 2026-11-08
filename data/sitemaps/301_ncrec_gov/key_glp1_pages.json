@@ -1,0 +1,136 @@
+{
+  "name": "Ncrec.gov",
+  "domain": "ncrec.gov",
+  "total_urls": 233,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.ncrec.gov/Brochures/Safetyguide.pdf",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/ContinuingEducation/CEProviders",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/ContinuingEducation/DistanceCEProviders",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Education/BICCRSFAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Education/CEFAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Education/PostFAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Education/PreFAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Home/FAQLanding",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Licensing/Brokerfaq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Licensing/BusinessEntityfaq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Licensing/LicenseRenewalFaq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Licensing/Licensingfaq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Pdfs/genupdate/2023-2024%20Section%202%20NCREC%20On%20Your%20Side%20FAQs.pdf",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/PostlicensingEducation/DistancePostlicensingProviders",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/PostlicensingEducation/PostlicensingProviders",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/PrelicensingEducation/DistancePrelicensingProviders",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/PrelicensingEducation/PrelicensingProviders",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/Resources/Faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/pdfs/BIC_CRSE/CourseLocations.pdf",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/refund",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncrec.gov/termsandconditions",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

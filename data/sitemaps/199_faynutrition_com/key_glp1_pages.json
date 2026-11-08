@@ -1,0 +1,6836 @@
+{
+  "name": "Faynutrition",
+  "domain": "faynutrition.com",
+  "total_urls": 6463,
+  "semaglutide_pages": [
+    "https://www.faynutrition.com/dietitians/rosemarie-giorgi",
+    "https://www.faynutrition.com/dietitians/rosemarie-lyons-kimelman",
+    "https://www.faynutrition.com/dietitians/rosemary-holtz",
+    "https://www.faynutrition.com/dietitians/rosemary-kelly",
+    "https://www.faynutrition.com/find-nutritionists/ozempic-glp-1s",
+    "https://www.faynutrition.com/post/7-day-semaglutide-diet-plan-ozempic-wegovy-dietitian",
+    "https://www.faynutrition.com/post/berberine-benefits-uses-side-effects-and-risks-for-natures-ozempic",
+    "https://www.faynutrition.com/post/berberine-vs-ozempic-whats-better-for-weight-loss-and-diabetes",
+    "https://www.faynutrition.com/post/berberine-vs-semaglutide-natures-ozempic",
+    "https://www.faynutrition.com/post/can-ozempic-make-you-tired-understanding-side-effect",
+    "https://www.faynutrition.com/post/can-ozempic-stop-binge-eating-disorder-all-you-need-to-know",
+    "https://www.faynutrition.com/post/can-you-take-semaglutide-while-breastfeeding",
+    "https://www.faynutrition.com/post/diabetes-weight-loss-medications-Ozempic-Wegovy-Mounjaro-Saxenda",
+    "https://www.faynutrition.com/post/do-ozempic-and-zepbound-cause-blindness-what-studies-say",
+    "https://www.faynutrition.com/post/does-ozempic-cause-constipation-why-and-how"
+  ],
+  "tirzepatide_pages": [
+    "https://www.faynutrition.com/post/best-mounjaro-diet-what-to-eat-with-dietitian-insights",
+    "https://www.faynutrition.com/post/best-tirzepatide-dosage-for-weight-loss-zepbound-dosage-guide",
+    "https://www.faynutrition.com/post/compounded-tirzepatide-weight-loss-still-available-safety",
+    "https://www.faynutrition.com/post/diabetes-weight-loss-medications-Ozempic-Wegovy-Mounjaro-Saxenda",
+    "https://www.faynutrition.com/post/do-ozempic-and-zepbound-cause-blindness-what-studies-say",
+    "https://www.faynutrition.com/post/does-mounjaro-cause-hair-loss",
+    "https://www.faynutrition.com/post/does-mounjaro-make-you-tired",
+    "https://www.faynutrition.com/post/does-mounjaro-need-to-be-refrigerated",
+    "https://www.faynutrition.com/post/does-mounjaro-work-for-pcos",
+    "https://www.faynutrition.com/post/does-tirzepatide-make-you-feel-tired-what-to-expect",
+    "https://www.faynutrition.com/post/does-zepbound-cause-hair-loss-tirzepatide",
+    "https://www.faynutrition.com/post/does-zepbound-need-to-be-refrigerated-complete-storage-guide",
+    "https://www.faynutrition.com/post/gaining-weight-on-mounjaro-why",
+    "https://www.faynutrition.com/post/how-does-mounjaro-work-function-efficacy",
+    "https://www.faynutrition.com/post/how-does-tirzepatide-work-mounjaro-zepbound-explained"
+  ],
+  "pricing_pages": [
+    "https://www.faynutrition.com/dietitians/allison-price",
+    "https://www.faynutrition.com/dietitians/andrea-menefee",
+    "https://www.faynutrition.com/dietitians/anne-agrocostea",
+    "https://www.faynutrition.com/dietitians/laurie-kaplan",
+    "https://www.faynutrition.com/dietitians/lauryn-costa",
+    "https://www.faynutrition.com/dietitians/leticia-costa",
+    "https://www.faynutrition.com/dietitians/randy-kaplan",
+    "https://www.faynutrition.com/dietitians/rebekah-acosta",
+    "https://www.faynutrition.com/dietitians/sarah-cuffee",
+    "https://www.faynutrition.com/dietitians/theresa-price",
+    "https://www.faynutrition.com/dietitians/valerie-costanza",
+    "https://www.faynutrition.com/find-nutritionists/california-costa-mesa",
+    "https://www.faynutrition.com/find-nutritionists/california-menifee",
+    "https://www.faynutrition.com/find-nutritionists/florida-plantation",
+    "https://www.faynutrition.com/find-nutritionists/meal-planning"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.faynutrition.com/dietitians/abiola-awobona",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/allison-price",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/ana-rubio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/andrea-menefee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/anne-agrocostea",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/carmelita-lombera-rubio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/fabiola-kurian",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/georgianna-broadwell",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/laurie-kaplan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/lauryn-costa",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/leticia-costa",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/randy-kaplan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/rebekah-acosta",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/rosemarie-giorgi",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/rosemarie-lyons-kimelman",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/rosemary-holtz",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/rosemary-kelly",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/sarah-cuffee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/theresa-price",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/dietitians/valerie-costanza",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionist/states",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/arizona-flagstaff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/black-new-york-ny",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-acton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-agoura-hills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-alameda",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-albany",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-alhambra",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-aliso-viejo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-anaheim",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-antioch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-apple-valley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-aptos",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-arcadia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-arroyo-grande",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-auburn",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-bakersfield",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-bear-bear-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-beaumont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-benicia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-berkeley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-beverly-hills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-bishop",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-brea",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-bridgeville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-burbank",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-burlingame",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-calabasas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-camarillo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-campbell",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-canoga-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-canyon-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-carlsbad",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-carmel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-carmichael",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-carpinteria",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-castaic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-cerritos",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-chatsworth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-chico",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-chino",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-chino-hills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-chula-vista",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-claremont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-clarksburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-clovis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-commerce",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-concord",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-corona",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-corte-madera",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-costa-mesa",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-covina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-culver-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-cupertino",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-cypress",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-daly-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-dana-point",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-danville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-davis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-duarte",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-dublin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-eastvale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-el-cajon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-el-cerrito",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-el-monte",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-el-segundo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-el-sobrante",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-emeryville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-encinitas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-encino",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-eureka",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-fairfield",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-folsom",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-fontana",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-foothill-ranch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-fremont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-frenibt",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-fresno",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-fullerton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-garden-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-gardena",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-geyserville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-glendale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-gold-canyon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-goleta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-grand-terrace",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-grover-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-hacienda-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-half-moon-bay",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-hawthorne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-hayward",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-heber",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-hermosa-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-hesperia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-highland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-hollister",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-imperial",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-imperial-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-indio",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-inglewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-inverness",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-irvine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-jamul",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-la-canada-flintridge",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-la-crescenta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-la-habra",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-la-jolla",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-la-mesa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-la-mirada",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-la-palma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-la-quinta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-ladera-ranch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-lafayette",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-laguna-hills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-lake-isabella",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-lakewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-lancaster",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-larkspur",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-livermore",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-lodi",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-lompoc",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-long-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-los-alamitos",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-los-angeles",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-los-banos",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-manhattan-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-manteca",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-marina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-marina-del-rey",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-markleeville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-martinez",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-maywood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-meadow-vista",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-menifee",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-menlo-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-mill-valley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-milpitas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-mission-viejo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-modesto",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-monrovia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-montclair",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-monte-sereno",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-monterey",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-monterey-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-moorpark",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-moreno-valley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-morro-bay",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-mountain-view",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-napa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-nevada-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-newbury-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-newhall",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-newport-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-newport-coast",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-northridge",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-norwalk",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-novato",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-oakland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-oceanside",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-ojai",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-old-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-ontario",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-orange",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-orinda",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-oxnard",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-pacific-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-pacific-palisades",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-palm-desert",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-palm-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-palmdale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-palo-alto",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-panorama-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-paramount",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-pasadena",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-paso-robles",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-perris",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-petaluma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-piedmont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-pinon-hills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-placentia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-placerville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-playa-del-rey",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-pleasant-hill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-pleasanton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-pomona",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-porter-ranch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-poway",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-rancho-cordova",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-rancho-cucamonga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-rancho-mirage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-rancho-mission-viejo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-rancho-palos-verdes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-rancho-santa-margarita",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-redding",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-redlands",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-redondo-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-redwood-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-rialto",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-richmond",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-ridgecrest",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-riverside",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-rohnert-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-roseville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-running-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sacramento",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-salinas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-bernardino",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-bruno",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-carlos",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-diego",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-dimas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-fernando",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-francisco",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-gabriel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-jose",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-juan-capistrano",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-leandro",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-luis-obispo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-marcos",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-pedro",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-rafael",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-san-ramon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sanger",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-santa-ana",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-santa-barbara",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-santa-clarita",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-santa-cruz",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-santa-margarita",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-santa-maria",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-santa-monica",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-santa-rosa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sausalito",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sebastopol",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-selma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sherman-oaks",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-simi-valley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-solana-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sonora",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-south-lake-tahoe",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-south-san-francisco",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-stockton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-studio-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sunland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sunnyvale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sunset-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-sylmar",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-tarzana",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-tehachapi",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-temecula",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-temple-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-templeton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-thousand-oaks",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-three-rivers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-torrance",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-trabuco-canyon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-tracy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-truckee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-turlock",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-tustin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-twin-peaks",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-ukiah",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-union-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-vacaville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-valencia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-vallejo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-venice",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-ventura",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-victorville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-view-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-visalia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-vista",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-walnut-creek",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-west-covina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-west-hollywood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-westlake-village",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-whittier",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-windsor",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-woodland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-woodland-hills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-yorba-linda",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/california-yuba-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-altamonte-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-apollo-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-arcadia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-atlantis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-aventura",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-avon-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-babcock-ranch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-bartow",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-bay-harbor-islands",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-bay-pines",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-belleview",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-blue",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-boca-raton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-bonita-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-boynton-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-bradenton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-brandon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-cape-coral",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-casselberry",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-celebration",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-champions-gate",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-citra",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-clermont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-cocoa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-coconut-creek",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-cooper-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-coral-gables",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-coral-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-crestview",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-dade-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-davenport",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-davie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-daytona-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-deerfield-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-defuniak-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-delray-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-destin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-doral",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-edgewater",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-eglin-afb",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-estero",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-fernandina-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-fort-lauderdale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-fort-myers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-fort-pierce",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-fort-walton-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-fort-white",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-fruitland-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-gainesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-gibsonton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-gulf-breeze",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-haines-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-hallandale-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-hialeah",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-hollywood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-holmes-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-homestead",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-immokalee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-indialantic",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-indian-harbour-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-jacksonville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-jacksonville-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-jupiter",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-key-biscayne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-kissimmee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lake-mary",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lake-worth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lake-worth-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lakeland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lakewood-ranch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-land-o-lakes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lantana",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-largo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lauderdale-lakes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lecanto",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-leesburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lehigh-acres",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lighthouse-point",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lithia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-longboat-key",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-longwood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-lutz",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-mahopac-cccab",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-marco-island",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-margate",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-melbourne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-merritt-island",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-miami-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-miami-gardens",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-miramar",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-miramar-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-mount-dora",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-naples",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-navarre",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-new-port-richey",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-new-smyrna",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-new-smyrna-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-niceville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-north-bay-village",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-north-miami",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-north-miami-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-north-palm-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-ocala",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-ocean-ridge",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-orange-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-orlando",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-ormond-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-osprey",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-overland-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-oviedo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-pace",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-palm-bay",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-palm-beach-gardens",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-palm-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-palm-coast",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-palm-harbor",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-palmetto-bay",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-panama-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-pembroke-pines",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-pensacola",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-pinellas-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-plantation",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-polk-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-pompano-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-ponte-vedra",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-port-charlotte",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-port-richey",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-port-saint-lucie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-port-st-lucie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-punta-gorda",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-riverview",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-riviera-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-royal-palm-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-saint-augustine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-saint-petersburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-sanford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-sarasota",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-sebring",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-seminole",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-south-miami",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-southwest-ranches",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-spring-hill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-st-augustine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-st-pete-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-st-petersburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-stuart",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-sunny-isles-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-sunrise",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-tallahassee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-tamarac",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-tampa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-tavares",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-titusville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-valrico",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-venice",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-vero-beach-cadfb",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-vestavia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-wellington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-wesley-chapel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-west-palm-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-windermere",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-winter-garden",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-winter-haven",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-winter-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/florida-zephyrhills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-acworth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-alpharetta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-americus",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-athens",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-atlanta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-augusta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-braselton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-brookhaven",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-brunswick",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-buford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-calhoun",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-canton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-chamblee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-columbus",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-conyers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-covington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-cumming",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-dacula",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-dallas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-decatur",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-douglasville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-duluth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-dunwoody",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-evans",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-fayetteville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-flintstone",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-forsyth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-fort-benning",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-fort-stewart",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-gainesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-greensboro",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-griffin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-grovetown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-jackson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-jasper",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-johns-creek",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-kennesaw",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-kingsland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-lawrenceville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-leesburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-lilburn",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-lyons",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-mableton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-macon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-marietta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-martinez",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-mcdonough",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-milton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-peachtree-corners",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-powder-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-ray-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-ringgold",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-rome",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-rossville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-roswell",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-sandy-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-savannah",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-senoia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-smyrna",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-snellville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-stockbridge",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-stone-mountain",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-suwanee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-toccoa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-union-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-vidalia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/georgia-woodstock",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/illinois-hoffman-estates",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/meal-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-jersey-west-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-akron",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-albany",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-allegany",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-amherst",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-astoria",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-babylon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-ballston-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-ballston-spa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-bay-shore",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-bayside",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-bayville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-bellport",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-bohemia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-brentwood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-briarwood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-brockport",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-bronx",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-brookhaven",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-brooklyn",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-buffalo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-camillus",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-carle-place",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-carthage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-cedarhurst",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-centerport",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-chatham",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-cheektowaga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-cobleskill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-commack",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-coram",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-cornwall-on-hudson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-cross-river",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-delhi",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-delmar",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-dix-hills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-douglaston",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-east-hampton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-east-meadow",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-east-northport",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-east-rockaway",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-east-setauket",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-elmont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-fairport",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-farmingdale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-farmingville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-fishkill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-floral-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-flushing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-forest-hills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-fort-drum",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-franklin-square",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-freeport",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-fresh-meadows",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-garden-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-glen-cove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-glens-falls",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-great-neck",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-greenvale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-greenwood-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-hartsdale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-hempstead",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-hicksville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-highland-mills",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-holley",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-hopewell-junction",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-hornell",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-huntington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-irvington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-islip",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-ithaca",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-jackson-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-jamaica",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-jamesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-kenmore",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-kingston",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-lagrangeville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-lake-grove",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-larchmont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-latham",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-lawrence",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-little-neck",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-liverpool",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-long-beach",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-long-island",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-long-island-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-macedon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-mahopac",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-malta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-malverne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-mamaroneck",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-manhasset",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-manlius",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-massapequa-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-merrick",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-middle-village",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-middletown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-montrose",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-mount-kisco",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-n-tonawanda",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-new-berlin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-new-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-new-hartford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-new-rochelle",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-new-windsor",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-niagara-falls",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-north-baldwin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-north-bellmore",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-north-syracuse",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-norwich",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-orchard-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-ossining",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-oyster-bay",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-ozone-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-patchogue",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-peekskill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-penfield",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-pittsford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-plainview",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-pleasantville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-port-jefferson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-port-jefferson-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-port-washington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-portville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-poughkeepsie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-queens",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-red-hook",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-renssalaer",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-rhinebeck",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-richmond-hill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-rochester",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-rockaway-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-roslyn",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-roslyn-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-rye",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-scarsdale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-schenectady",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-selden",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-selkirk",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-skaneateles",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-smyrna",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-staten-island",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-stony-brook",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-sunnyside",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-swan-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-syracuse",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-tappan",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-troy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-valley-cottage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-valley-stream",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-wading-river",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-wallkill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-wantagh",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-watertown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-west-babylon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-west-hempstead",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-west-islip",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-west-nyack",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-westbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-westfield",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-white-plains",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-whitestone",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-williamsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-williston-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-woodbury",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-woodmere",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-woodside",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/new-york-yonkers",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-akron",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-beachwood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-bedford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-bellbrook",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-bowling-green",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-brecksville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-brunswick",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-canal-winchester",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-canfield",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-centerburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-centerville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-chesapeake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-chillicothe",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-cincinnati",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-cleveland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-cleveland-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-columbus",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-conneaut",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-creston",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-cuyahoga-falls",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-dayton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-dublin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-east-liverpool",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-euclid",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-fairlawn",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-findlay",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-garfield-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-geneva",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-georgetown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-green-springs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-hartville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-holland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-hudson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-kettering",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-lakewood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-lancaster",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-lima",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-lisbon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-lodi",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-lyndhurst",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-madison",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-maineville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-marietta",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-mason",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-mayfield-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-medina",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-mentor",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-miamisburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-middletown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-minford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-new-albany",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-new-franklin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-new-riegel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-niles",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-north-ridgeville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-okeana",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-ottawa",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-oxford",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-plain-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-poland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-saint-marys",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-shaker-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-silver-lake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-stow",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-strongsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-sylvania",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-tallmadge",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-tiffin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-toledo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-troy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-uniontown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-university-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-upper-arlington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-vickery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-warren",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-waterville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-west-chester",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-westerville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-westlake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-willoughby",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-willow-wood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-willowick",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-winchester",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-worthington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-wpafb",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-youngstown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ohio-zanesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/ozempic-glp-1s",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/plant-based",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/plant-based-vegan-diet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-ardmore",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-arlington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-bethpage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-brentwood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-bristol",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-chattanooga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-columbia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-cookeville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-cordova",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-dandridge",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-dickson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-duck-river",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-dunlap",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-farragut",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-franklin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-germantown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-gray",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-hendersonville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-johnson-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-kingsport",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-knoxville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-lawrenceburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-manchester",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-maryville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-memphis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-mount-carmel",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-mt-juliet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-murfreesboro",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-nashville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-ooltewah",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-pulaski",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-rockvale",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-spring-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-spring-hill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-tazewell",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/tennessee-westmoreland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-addison",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-alamo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-allen",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-amarillo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-arlington",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-aurora",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-austin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-bastrop",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-baytown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-beaumont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-big-spring",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-boerne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-bowie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-broaddus",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-brownsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-bryan",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-cameron",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-carrollton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-cedar-hill",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-cedar-park",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-cleburne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-coldspring",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-college-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-comanche",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-conroe",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-converse",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-corpus-christi",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-corsicana",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-crosby",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-cypress",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-dalhart",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-dallas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-denton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-desoto",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-diana",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-dickinson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-duncanville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-eagle-pass",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-edinburg",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-el-paso",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-euless",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-fate",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-flower-mound",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-fort-sam-houston",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-fort-worth",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-fresno",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-friendswood",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-frisco",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-garland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-georgetown",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-glenn-heights",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-grand-prairie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-grapevine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-helotes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-hewitt",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-holliday",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-houston",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-humble",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-hurst",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-irving",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-jbsa-lackland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-justin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-katy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-keller",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-kingsville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-kyle",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-lake-jackson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-lampasas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-laredo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-league-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-leander",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-livingston",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-lubbock",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-lufkin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-magnolia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-manchaca",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-mansfield",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-mcallen",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-mckinney",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-mesquite",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-midland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-missouri-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-montgomery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-moody",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-mountain-home",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-murphy",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-nacogdoches",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-new-braunfels",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-newton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-oak-point",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-pasadena",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-pharr",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-plano",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-prosper",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-raymondville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-richardson",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-richmond",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-rio-grande-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-roanoke",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-rockwall",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-roma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-rosharon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-round-rock",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-rowlett",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-san-antonio",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-san-marcos",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-sanger",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-schertz",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-seabrook",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-southlake",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-spring",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-spring-branch",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-sugar-land",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-sugarland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-temple",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-texarkana",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-the-colony",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-the-woodlands",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-tomball",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-universal-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-van-alstyne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-waco",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-warren",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-west-columbia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-willis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-wink",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/texas-wylie",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/find-nutritionists/virginia-delaplane",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/get-your-price",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/21-day-anti-inflammatory-diet-meal-plans-3-weeks",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-anemia-diet-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-gallbladder-diet-menu-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-gerd-diet-plan-meal-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-hashimotos-diet-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-meal-plan-for-ckd-diabetes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-meal-plan-for-crohns-disease-dietitian-approved",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-meal-plan-for-fatty-liver",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-meal-plan-for-pancreatitis-dietitian-approved",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-meal-plan-for-ulcers-dietitian-approved",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-meal-plan-kidney-disease-ckd-dietitian-approved-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-menopause-diet-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-pmos-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/7-day-semaglutide-diet-plan-ozempic-wegovy-dietitian",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/autumn-PCOS-vegetarian-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/autumn-fertility-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/berberine-benefits-uses-side-effects-and-risks-for-natures-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/berberine-vs-ozempic-whats-better-for-weight-loss-and-diabetes",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/berberine-vs-semaglutide-natures-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/best-diabetes-weight-loss-meal-plans-approved-by-a-dietitian",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/best-ibs-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/best-mounjaro-diet-what-to-eat-with-dietitian-insights",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/best-tirzepatide-dosage-for-weight-loss-zepbound-dosage-guide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/breastfeeding-nutrition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/can-ozempic-make-you-tired-understanding-side-effect",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/can-ozempic-stop-binge-eating-disorder-all-you-need-to-know",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/can-you-take-semaglutide-while-breastfeeding",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/compounded-tirzepatide-weight-loss-still-available-safety",
+      "categories": [
+        "Tirzepatide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/diabetes-weight-loss-medications-Ozempic-Wegovy-Mounjaro-Saxenda",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/dietitian-vs-online-meal-plan-the-difference",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/do-ozempic-and-zepbound-cause-blindness-what-studies-say",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-mounjaro-cause-hair-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-mounjaro-make-you-tired",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-mounjaro-need-to-be-refrigerated",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-mounjaro-work-for-pcos",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-ozempic-cause-constipation-why-and-how",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-ozempic-cause-hair-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-ozempic-cause-weight-gain",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-ozempic-make-you-feel-full",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-ozempic-need-refrigeration-storage-explained",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-semaglutide-cause-hair-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-semaglutide-make-you-tired-fatigue-with-ozempic-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-semaglutide-need-to-be-refrigerated-how-to-store-ozempic-wegovy-rybelsus",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-tirzepatide-make-you-feel-tired-what-to-expect",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-wegovy-cause-constipation-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-wegovy-cause-hair-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-wegovy-make-you-feel-tired-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-zepbound-cause-hair-loss-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/does-zepbound-need-to-be-refrigerated-complete-storage-guide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/fay-new-york-sports-club-announcement",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/food-safety-pregnancy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/gaining-weight-on-mounjaro-why",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/gastritis-diet-7-day-gastritis-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-does-mounjaro-work-function-efficacy",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-does-rybelsus-work-oral-semaglutide-explained",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-does-semaglutide-work-wegovy-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-does-tirzepatide-work-mounjaro-zepbound-explained",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-does-wegovy-work-semaglutide-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-it-take-for-mounjaro-to-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-it-take-for-ozempic-to-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-it-take-for-semaglutide-to-work-wegovy-ozempic-and-rybelsus-explained",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-it-take-for-tirzepatide-to-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-it-take-for-zepbound-to-work",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-mounjaro-stay-in-your-system",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-semaglutide-stay-in-your-system",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-tirzepatide-take-to-leave-systen",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-wegovy-stay-in-your-system",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-long-does-zepbound-stay-in-your-system-tirzepatide-explained",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-much-does-bariatric-surgery-cost-gastric-bypass-gastric-sleeve",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-much-does-mounjaro-cost-prices-insurance-savings",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-much-does-rybelsus-cost-oral-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-much-does-semaglutide-cost-ozempic-wegovy-rybelsus",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-much-does-tirzepatide-cost-mounjaro-and-zepbound",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-much-does-zepbound-cost",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-much-weight-will-i-lose-first-month-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-to-eat-ulcerative-colitis-flare-up-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-to-inject-mounjaro-a-step-by-step-guide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-to-inject-ozempic-guide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-to-inject-semaglutide-guide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-to-inject-tirzepatide-guide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-to-inject-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/how-to-inject-zepbound-complete-guide-for-beginners",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/is-it-safe-to-use-expired-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/is-victoza-vs-ozempic-better",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/liraglutide-vs-semaglutide-victoza-saxenda-ozempic-wegovy-rybelsus",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/metformin-for-weight-loss-does-it-work-comparison-ozempic-mounjaro",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/metformin-vs-ozempic-what-to-take",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/metformin-vs-wegovy-which-medication-is-right-for-you",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/mounjaro-alternatives-for-weight-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/mounjaro-dosage-chart-guide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/mounjaro-v-ozempic-difference",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/mounjaro-vs-metformin-whats-the-difference",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/mounjaro-vs-semaglutide-which-is-better-for-weight-loss",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/mounjaro-withdrawal-understanding-symptoms",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/natural-alternatives-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/natures-ozempic-does-berberine-really-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/not-losing-weight-on-Mounjaro-reasons-why",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/not-losing-weight-on-ozempic-learn-why",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/not-losing-weight-on-semaglutide-heres-why-and-what-to-do-about-it",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/not-losing-weight-on-tirzepatide-heres-why-and-what-to-do",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/not-losing-weight-on-wegovy-8-reasons-why",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/oral-semaglutide-rybelsus-for-diabetes-explained",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/oral-tirzepatide-is-there-a-pill-version-of-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/oral-vs-injectable-semaglutide-medications-compared",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/oral-vs-injectable-semaglutide-ozempic-or-rybelsus",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/ozempic-alternatives-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/ozempic-diet-plan-for-best-results-with-pdf",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/ozempic-for-pcos",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/ozempic-injection-sites-guide-where-how",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/ozempic-vs-phentermine-which-weight-loss-medication-is-right",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/phentermine-vs-semaglutide-which-weight-loss-medication-is-right-for-you",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/phentermine-vs-wegovy-best-weight-loss-drug",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/reverse-prediabetes-with-diet-7-day-meal-plan-for-prediabetes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/rybelsus-oral-ozempic-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/rybelsus-side-effects-oral-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/saxenda-vs-ozempic-whats-the-difference",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/semaglutide-constipation-causes-and-solutions",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/semaglutide-dosage-chart-weight-loss-wegovy-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/semaglutide-for-PCOS-does-it-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/semaglutide-injection-sites-inject-ozempic-and-wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/semaglutide-withdrawal-symptoms-what-happens-when-you-stop-taking-ozempic-wegovy-rybelsus",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/seven-day-meal-plan-high-blood-pressure",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/should-i-take-rybelsus-vs-ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/still-hungry-on-semaglutide-ozempic-appetite",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/still-hungry-on-semaglutide-reasons-why",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/stop-taking-ozempic-exploring-semaglutide-withdrawal",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/stopped-losing-weight-on-Ozempic-a-registered-dietitian-explains-why",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/switching-from-semaglutide-to-tirzepatide-what-you-need-to-know",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/tirzepatide-breastfeeding-is-it-safe",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/tirzepatide-compounded-can-you-still-buy-it",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/tirzepatide-dosage-chart-zepbound-mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/tirzepatide-hair-loss-mounjaro-zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/tirzepatide-vs-ozempic-difference-similarities",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/tirzepatide-vs-semaglutide-comparison-guide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/trulicity-versus-ozempic-how-are-they-different",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/understanding-ozempic-dosing-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/vet-guarantee-best-nutritionists",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/wegovy-dosage-chart-weight-loss-medication",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/wegovy-for-pcos-does-it-work",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/wegovy-versus-ozempic-for-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/wegovy-vs-semaglutide-what-is-the-difference",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/wegovy-withdrawal-symptoms-what-to-expect-when-you-stop-taking-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/weight-gain-Ozempic-Registered-Dietitian-weight-loss-tips",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/weight-loss-long-term-wegovy-ozempic-mounjaro",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/weight-loss-stall-mounjaro-plateau",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/what-is-an-ozempic-plateau-why-did-your-weight-loss-stop",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/what-is-coffee-loophole-weight-loss-hack",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/what-is-compounded-semaglutide-available-safety",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/what-is-gut-dysbiosis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/where-to-inject-mounjaro-guide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/why-constipation-happens-on-tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/why-does-mounjaro-cause-diarrhea-what-to-do",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/why-does-semaglutide-cause-diarrhea",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/why-does-tirzepatide-cause-diarrhea-managing-glp1-side-effects",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/why-not-losing-weight-on-zepbound-what-to-do-about-it",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/post/zepbound-vs-ozempic-difference",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.faynutrition.com/terms",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Usnews",
+  "domain": "usnews.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://usnews.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://usnews.com/pricing"
+  ],
+  "all_categorized": []
+}

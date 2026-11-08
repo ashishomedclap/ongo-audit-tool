@@ -1,0 +1,13 @@
+{
+  "name": "Allyrx",
+  "domain": "allyrx.net",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://allyrx.net/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://allyrx.net/pricing"
+  ],
+  "all_categorized": []
+}

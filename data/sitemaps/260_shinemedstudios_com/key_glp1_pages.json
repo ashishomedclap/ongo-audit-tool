@@ -1,0 +1,55 @@
+{
+  "name": "Shinemedstudios",
+  "domain": "shinemedstudios.com",
+  "total_urls": 57,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://shinemedstudios.com/membership/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://shinemedstudios.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://shinemedstudios.com/about-us/contact-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://shinemedstudios.com/about-us/locations/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://shinemedstudios.com/about-us/team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://shinemedstudios.com/about-us/thank-you/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://shinemedstudios.com/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://shinemedstudios.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Goglo",
+  "domain": "goglo.co",
+  "total_urls": 36,
+  "semaglutide_pages": [
+    "https://goglo.co/compounded-semaglutide-vs-tirzepatide-what-is-the-difference/",
+    "https://goglo.co/product/semaglutide-for-weight-loss-3-months/",
+    "https://goglo.co/product/semaglutide-for-weight-loss/"
+  ],
+  "tirzepatide_pages": [
+    "https://goglo.co/compounded-semaglutide-vs-tirzepatide-what-is-the-difference/",
+    "https://goglo.co/product/tirzepatide-for-weight-loss/",
+    "https://goglo.co/product/tirzepatide/"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://goglo.co/compounded-semaglutide-vs-tirzepatide-what-is-the-difference/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://goglo.co/consumer-health-data-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://goglo.co/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://goglo.co/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://goglo.co/product/semaglutide-for-weight-loss-3-months/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://goglo.co/product/semaglutide-for-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://goglo.co/product/tirzepatide-for-weight-loss/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://goglo.co/product/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://goglo.co/returns-and-refunds/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://goglo.co/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

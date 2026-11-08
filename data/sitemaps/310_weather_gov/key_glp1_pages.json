@@ -1,0 +1,13 @@
+{
+  "name": "Weather.gov",
+  "domain": "weather.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://weather.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://weather.gov/pricing"
+  ],
+  "all_categorized": []
+}

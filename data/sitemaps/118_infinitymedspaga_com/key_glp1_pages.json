@@ -1,0 +1,100 @@
+{
+  "name": "Infinitymedspaga",
+  "domain": "infinitymedspaga.com",
+  "total_urls": 64,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://infinitymedspaga.com/cherry-payment-plans/",
+    "https://infinitymedspaga.com/facials-and-dermaplaning/",
+    "https://infinitymedspaga.com/regular-dermaplaning-should-be-part-of-your-skincare-routine/",
+    "https://infinitymedspaga.com/skinpen-microneedling-with-dermaplaning-douglasville-ga/",
+    "https://infinitymedspaga.com/vip-membership-packages/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://infinitymedspaga.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/cherry-payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/derma-prp-in-douglasville-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/facials-and-dermaplaning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/injectables-in-douglasville-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/prx-dermperfexion-biostimulator/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/regular-dermaplaning-should-be-part-of-your-skincare-routine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/rha-fillers-douglasville-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/skinpen-for-summer-skin-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/skinpen-microneedling-with-dermaplaning-douglasville-ga/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/vip-membership-packages/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://infinitymedspaga.com/weight-loss-support-douglasville-georgia/",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

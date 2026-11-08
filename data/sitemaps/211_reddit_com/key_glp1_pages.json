@@ -1,0 +1,13 @@
+{
+  "name": "Reddit",
+  "domain": "reddit.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://reddit.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://reddit.com/pricing"
+  ],
+  "all_categorized": []
+}

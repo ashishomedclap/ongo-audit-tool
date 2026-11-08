@@ -1,0 +1,248 @@
+{
+  "name": "Ncwildlife.gov",
+  "domain": "ncwildlife.gov",
+  "total_urls": 469,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.ncwildlife.gov/education/educator-resources/lesson-plans-and-activities",
+    "https://www.ncwildlife.gov/hunting/where-hunt-shoot/game-land-management-plans",
+    "https://www.ncwildlife.gov/news/press-releases/2023/03/09/public-comment-requested-2023-2024-migratory-game-bird-seasons-and-two-species-conservation-plans",
+    "https://www.ncwildlife.gov/news/press-releases/2023/08/29/nongame-wildlife-advisory-committee-seeks-membership-nominations",
+    "https://www.ncwildlife.gov/news/press-releases/2024/03/20/nongame-wildlife-advisory-committee-seeks-membership-nominations",
+    "https://www.ncwildlife.gov/news/press-releases/2024/04/26/public-comment-sought-sea-turtle-conservation-plan",
+    "https://www.ncwildlife.gov/news/press-releases/2024/06/13/changes-fees-take-effect-july-1-2024",
+    "https://www.ncwildlife.gov/news/press-releases/2025/02/28/nongame-wildlife-advisory-committee-seeks-membership-nominations-0",
+    "https://www.ncwildlife.gov/state-wildlife-action-plan",
+    "https://www.ncwildlife.gov/wildlife-habitat/conservation-restoration-programs/green-growth-toolbox/green-planning",
+    "https://www.ncwildlife.gov/wildlife-habitat/conservation-restoration-programs/green-growth-toolbox/handbook-other-planning-resources",
+    "https://www.ncwildlife.gov/wildlife-habitat/conservation-restoration-programs/green-growth-toolbox/partners-green-growth-cost-share",
+    "https://www.ncwildlife.gov/wildlife-habitat/species-conservation-plans",
+    "https://www.ncwildlife.gov/wildlife-habitat/wildlife-action-plan",
+    "https://www.ncwildlife.gov/wildlife-habitat/wildlife-action-plan/recovering-americas-wildlife-act"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.ncwildlife.gov/boating/laws-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/boating/laws-safety/boating-access-area-regulations",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/boating/laws-safety/boating-regulations",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/boating/laws-safety/children-must-wear-pfds",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/boating/laws-safety/clean-vessel-act",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/boating/laws-safety/no-wake-zones",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/boating/laws-safety/personal-watercraft-law",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/boating/laws-safety/wake-responsibly",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/boating/marina-resources/boating-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/connect/have-wildlife-problem/wildlife-problem-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/connect/two-bald-biologists-podcast",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/education/educator-resources/lesson-plans-and-activities",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/enforcement/boating-safety-campaigns",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/hunting/regulations/nongame-and-other-regulations/definition-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/hunting/regulations/other-licenses-permits/authorization-culture-non-approved-fish-species",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/hunting/where-hunt-shoot/game-land-management-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/lifejacketsafety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2023/03/09/public-comment-requested-2023-2024-migratory-game-bird-seasons-and-two-species-conservation-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2023/08/29/nongame-wildlife-advisory-committee-seeks-membership-nominations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2023/10/20/expansion-begins-states-wildlife-law-enforcement-training-facility",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2023/11/14/dates-announced-states-annual-winter-trout-stockings",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2024/03/20/nongame-wildlife-advisory-committee-seeks-membership-nominations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2024/04/26/public-comment-sought-sea-turtle-conservation-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2024/06/13/changes-fees-take-effect-july-1-2024",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2024/09/23/october-2-2024-committee-meetings-canceled",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2024/11/14/dates-announced-states-annual-winter-small-impoundment-trout-stockings",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2025/02/06/dr-reid-wilson-laney-awarded-contributions-states-wildlife",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/news/press-releases/2025/02/28/nongame-wildlife-advisory-committee-seeks-membership-nominations-0",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/state-wildlife-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/terms-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/wildlife-habitat/conservation-restoration-programs/green-growth-toolbox/green-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/wildlife-habitat/conservation-restoration-programs/green-growth-toolbox/handbook-other-planning-resources",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/wildlife-habitat/conservation-restoration-programs/green-growth-toolbox/partners-green-growth-cost-share",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/wildlife-habitat/species-conservation-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/wildlife-habitat/species/black-bear/surveys-and-reports-harvest-and-biological",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/wildlife-habitat/wildlife-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncwildlife.gov/wildlife-habitat/wildlife-action-plan/recovering-americas-wildlife-act",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -225,7 +225,7 @@ export default function CleanScraperTab({ initialArchive = [] }: CleanScraperTab
                 Offline Cloner &amp; HTML Cleaner
               </span>
               <span className="gsc-badge-neutral">
-                {archive.length || 43} Offline Pages Ready
+                {archive.length || 56} Offline Pages Ready
               </span>
               <span style={{ fontSize: '0.74rem', color: '#64748b' }}>
                 Zero React Hydration Errors &bull; Vanilla JS Accordions
@@ -258,12 +258,7 @@ export default function CleanScraperTab({ initialArchive = [] }: CleanScraperTab
         </div>
       </div>
 
-      <ContextCue
-        useCase="Scrape and sanitize production pages into standalone offline HTML for archiving, staging testing, or speed benchmarking."
-        title="Offline Standalone Vanilla Engine"
-        about="Next.js pages contain hydration scripts and telemetry trackers that fail offline. This tool renders the live DOM, captures exact computed CSS, removes bloated scripts, and injects 50 lines of robust Vanilla JS so FAQ accordions and mobile drawers work anywhere."
-      />
-
+      
       {/* Mode Navigation Tabs */}
       <div style={{
         display: 'flex',
@@ -311,7 +306,7 @@ export default function CleanScraperTab({ initialArchive = [] }: CleanScraperTab
           }}
         >
           <FolderArchive size={15} color={activeMode === 'archive' ? 'var(--color-primary)' : 'currentColor'} />
-          Saved Ongo Offline Archive ({archive.length || 43})
+          Saved Ongo Offline Archive ({archive.length || 56})
         </button>
 
         <button
@@ -700,7 +695,7 @@ export default function CleanScraperTab({ initialArchive = [] }: CleanScraperTab
       )}
 
       {/* =========================================================================
-          MODE 2: SAVED OFFLINE ARCHIVE (43 ONGO PAGES)
+          MODE 2: SAVED OFFLINE ARCHIVE ({archive.length || 56} ONGO PAGES)
           ========================================================================= */}
       {activeMode === 'archive' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '18px' }}>
@@ -710,7 +705,7 @@ export default function CleanScraperTab({ initialArchive = [] }: CleanScraperTab
               <Search size={16} color="var(--text-tertiary)" />
               <input
                 type="text"
-                placeholder="Search 43 saved pages by title or filename..."
+                placeholder={`Search ${archive.length || 56} saved pages by title or filename...`}
                 value={archiveSearch}
                 onChange={(e) => setArchiveSearch(e.target.value)}
                 style={{

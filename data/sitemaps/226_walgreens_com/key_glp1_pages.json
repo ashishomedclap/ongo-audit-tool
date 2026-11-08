@@ -1,0 +1,13 @@
+{
+  "name": "Walgreens",
+  "domain": "walgreens.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://walgreens.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://walgreens.com/pricing"
+  ],
+  "all_categorized": []
+}

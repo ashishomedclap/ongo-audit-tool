@@ -1,0 +1,247 @@
+{
+  "name": "Impacthealthclinics",
+  "domain": "impacthealthclinics.com",
+  "total_urls": 192,
+  "semaglutide_pages": [
+    "https://www.impacthealthclinics.com/blog/complete-guide-glp1-weight-loss-therapies-semaglutide-tirzepatide",
+    "https://www.impacthealthclinics.com/blog/compounded-semaglutide-ban-2026",
+    "https://www.impacthealthclinics.com/blog/does-insurance-cover-wegovy-in-mississippi",
+    "https://www.impacthealthclinics.com/blog/glp1-stacking-tirzepatide-semaglutide-complete-guide",
+    "https://www.impacthealthclinics.com/blog/how-to-get-semaglutide-in-mississippi",
+    "https://www.impacthealthclinics.com/blog/semaglutide-vs-tirzepatide-mississippi",
+    "https://www.impacthealthclinics.com/blog/semaglutide-weight-loss-success",
+    "https://www.impacthealthclinics.com/blog/switching-from-compounded-semaglutide",
+    "https://www.impacthealthclinics.com/blog/tirzepatide-vs-semaglutide-comparison",
+    "https://www.impacthealthclinics.com/educational/guides/semaglutide-start-handout",
+    "https://www.impacthealthclinics.com/services/semaglutide",
+    "https://www.impacthealthclinics.com/services/semaglutide-corinth-ms",
+    "https://www.impacthealthclinics.com/services/semaglutide-olive-branch-ms",
+    "https://www.impacthealthclinics.com/services/semaglutide-tupelo-ms"
+  ],
+  "tirzepatide_pages": [
+    "https://www.impacthealthclinics.com/blog/complete-guide-glp1-weight-loss-therapies-semaglutide-tirzepatide",
+    "https://www.impacthealthclinics.com/blog/glp1-stacking-tirzepatide-semaglutide-complete-guide",
+    "https://www.impacthealthclinics.com/blog/semaglutide-vs-tirzepatide-mississippi",
+    "https://www.impacthealthclinics.com/blog/tirzepatide-vs-semaglutide-comparison",
+    "https://www.impacthealthclinics.com/educational/guides/tirzepatide-start-handout",
+    "https://www.impacthealthclinics.com/services/tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://www.impacthealthclinics.com/blog/trt-cost-mississippi",
+    "https://www.impacthealthclinics.com/educational/guides/membership-guide",
+    "https://www.impacthealthclinics.com/educational/guides/membership-options-premium",
+    "https://www.impacthealthclinics.com/educational/guides/price-list",
+    "https://www.impacthealthclinics.com/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.impacthealthclinics.com/blog/batesville-ms/trt-safety-labs-monitoring",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/complete-guide-glp1-weight-loss-therapies-semaglutide-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/compounded-semaglutide-ban-2026",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/does-insurance-cover-wegovy-in-mississippi",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/glp1-stacking-tirzepatide-semaglutide-complete-guide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/hernando-ms/trt-safety-labs-monitoring",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/how-to-get-semaglutide-in-mississippi",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/new-albany-ms/trt-safety-labs-monitoring",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/olive-branch-ms/trt-safety-labs-monitoring",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/pontotoc-ms/trt-safety-labs-monitoring",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/semaglutide-vs-tirzepatide-mississippi",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/semaglutide-weight-loss-success",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/switching-from-compounded-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/tirzepatide-vs-semaglutide-comparison",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/trt-cost-mississippi",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/blog/tupelo-ms/trt-safety-labs-monitoring",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/educational/guides/membership-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/educational/guides/membership-options-premium",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/educational/guides/price-list",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/educational/guides/semaglutide-start-handout",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/educational/guides/tirzepatide-start-handout",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/locations/corinth-ms",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/locations/olive-branch-ms",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/locations/tupelo-ms",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/services/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/services/semaglutide-corinth-ms",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/services/semaglutide-olive-branch-ms",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/services/semaglutide-tupelo-ms",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/services/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.impacthealthclinics.com/terms",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

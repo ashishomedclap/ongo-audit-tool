@@ -1,0 +1,40 @@
+{
+  "name": "Holisticseo",
+  "domain": "holisticseo.co",
+  "total_urls": 37,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.holisticseo.co/legal/fulfillment-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.holisticseo.co/legal/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.holisticseo.co/legal/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.holisticseo.co/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.holisticseo.co/locations/pasadena",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

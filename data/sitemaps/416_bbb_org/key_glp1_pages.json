@@ -1,0 +1,13 @@
+{
+  "name": "Bbb",
+  "domain": "bbb.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://bbb.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://bbb.org/pricing"
+  ],
+  "all_categorized": []
+}

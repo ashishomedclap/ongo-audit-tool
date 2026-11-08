@@ -1,0 +1,70 @@
+{
+  "name": "Getwellclinic",
+  "domain": "getwellclinic.com",
+  "total_urls": 26,
+  "semaglutide_pages": [
+    "https://getwellclinic.com/important-safety/wegovy"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://getwellclinic.com/pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://getwellclinic.com/important-safety/wegovy",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://getwellclinic.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://getwellclinic.com/locations/atascocita",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://getwellclinic.com/locations/college-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://getwellclinic.com/locations/humble",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://getwellclinic.com/locations/lufkin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://getwellclinic.com/locations/pearland",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://getwellclinic.com/pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://getwellclinic.com/terms",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

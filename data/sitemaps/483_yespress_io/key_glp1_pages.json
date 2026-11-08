@@ -1,0 +1,13 @@
+{
+  "name": "Yespress",
+  "domain": "yespress.io",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://yespress.io/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://yespress.io/pricing"
+  ],
+  "all_categorized": []
+}

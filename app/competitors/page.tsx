@@ -1,3 +1,4 @@
+import { Metadata } from 'next';
 import { 
   getCompetitorsSummary, 
   getArchitectureAnalysis, 
@@ -8,6 +9,11 @@ import {
   getOngoLivePages 
 } from '@/lib/data';
 import AuditDashboard from '@/components/AuditDashboard';
+
+export const metadata: Metadata = {
+  title: '618 Telehealth Competitors Directory & Market Census | Ongo Intelligence Suite',
+  description: 'Full competitive census and directory of 618 US telehealth brands in the compounded GLP-1 weight loss market benchmarked against Ongo Weight Loss.',
+};
 
 export default function CompetitorsRoute() {
   const competitors = getCompetitorsSummary();

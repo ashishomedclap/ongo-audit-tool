@@ -1,0 +1,13 @@
+{
+  "name": "Deltagastro",
+  "domain": "deltagastro.net",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://deltagastro.net/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://deltagastro.net/pricing"
+  ],
+  "all_categorized": []
+}

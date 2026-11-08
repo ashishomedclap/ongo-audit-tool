@@ -1,0 +1,402 @@
+{
+  "name": "Georgiaaesthetics",
+  "domain": "georgiaaesthetics.com",
+  "total_urls": 64,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://georgiaaesthetics.com/dermal-fillers-cost/",
+    "https://georgiaaesthetics.com/pricing/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://georgiaaesthetics.com/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/about-us/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/blog/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/botox-dermal-fillers-and-you-is-it-the-right-choice-for-your-skin/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/botox-dysport/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/botox-that-still-looks-like-you/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/colorescience/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/contact/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/dermal-filler/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/dermal-fillers-cost/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/dr-gregg-kennedy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/facial-balancing-in-braselton-ga-georgia-aesthetics-wellness/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/facials/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/faqs/",
+      "categories": [
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/hormone-replacement-therapy/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/how-often-should-you-get-a-hydrafacial-in-georgia-a-simple-guide-to-monthly-skin-maintenance/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/hydrafacial/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/hydrinity/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/is-medical-intervention-for-weight-loss-right-for-you-factors-to-consider/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/kim-higdem/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/laser/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/braselton/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/buford/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/cellinus-prp/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/gwinnett-county/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/hall-county/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/hoschton/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/hydrafacial-in-buford/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/jackson/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/jefferson/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/locations/skincare-consultant-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/moxi-laser-and-bbl-heroic-before-and-after-what-to-do-before-during-and-after-your-treatment-in-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/pricing/",
+      "categories": [
+        "Pricing",
+        "State",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/skincare-consultation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/botox-and-dysport-services-hoschton-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/botox-in-braselton/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/botox-in-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/dermal-filler-treatment-hoschton-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/dermal-filler-treatment-in-buford-ga/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/facial-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/facial-treatments/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/hydrafacial-before-event/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/hydrafacial-before-wedding/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/hydrafacial-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/hydrafacial-in-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/hydrafacial-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/hydrafacial/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/laser-skin-rejuvenation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/laser-treatment-preparation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/medical-intervention-for-weight-loss/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/moxi-laser-before-and-after/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/moxi-laser-treatment/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/moxi-laser/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/professional-skincare/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/skin-prejuvenation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/skin-rejuvenation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/tag/skin-tone-improvement/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/thank-you-2/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/thank-you/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/weight-loss-consultation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/what-is-moxi-laser-and-is-it-worth-it-a-georgia-patients-guide-to-prejuvenation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/when-to-book-your-hydrafacial-before-a-special-event-a-georgia-patients-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://georgiaaesthetics.com/zo-skin-health/",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

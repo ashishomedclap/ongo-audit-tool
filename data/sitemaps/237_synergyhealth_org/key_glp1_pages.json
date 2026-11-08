@@ -1,0 +1,13 @@
+{
+  "name": "Synergyhealth",
+  "domain": "synergyhealth.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://synergyhealth.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://synergyhealth.org/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Piedmont",
+  "domain": "piedmont.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://piedmont.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://piedmont.org/pricing"
+  ],
+  "all_categorized": []
+}

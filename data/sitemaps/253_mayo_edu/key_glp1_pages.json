@@ -1,0 +1,13 @@
+{
+  "name": "Mayo.edu",
+  "domain": "mayo.edu",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://mayo.edu/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mayo.edu/pricing"
+  ],
+  "all_categorized": []
+}

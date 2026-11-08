@@ -1,0 +1,68 @@
+{
+  "name": "Nc.gov",
+  "domain": "nc.gov",
+  "total_urls": 90,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.nc.gov/html/2026-2028-volunteernc-state-service-plan",
+    "https://www.nc.gov/working/business-nc/plan-my-business",
+    "https://www.nc.gov/your-government/all-nc-state-services/language-access-plans-state-agencies"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.nc.gov/disaster-relief-fund-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nc.gov/disaster-support-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nc.gov/disclaimer-terms-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nc.gov/html/2026-2028-volunteernc-state-service-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nc.gov/living/public-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nc.gov/terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nc.gov/working/business-nc/plan-my-business",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nc.gov/working/workers-rights-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nc.gov/your-government/all-nc-state-services/language-access-plans-state-agencies",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

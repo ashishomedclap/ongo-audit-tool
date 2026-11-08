@@ -1,0 +1,13 @@
+{
+  "name": "Uakron.edu",
+  "domain": "uakron.edu",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://uakron.edu/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://uakron.edu/pricing"
+  ],
+  "all_categorized": []
+}

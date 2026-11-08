@@ -1,0 +1,13 @@
+{
+  "name": "Wikipedia",
+  "domain": "wikipedia.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://wikipedia.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://wikipedia.org/pricing"
+  ],
+  "all_categorized": []
+}

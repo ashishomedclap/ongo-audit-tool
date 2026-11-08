@@ -1,0 +1,13 @@
+{
+  "name": "Nyp",
+  "domain": "nyp.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://nyp.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://nyp.org/pricing"
+  ],
+  "all_categorized": []
+}

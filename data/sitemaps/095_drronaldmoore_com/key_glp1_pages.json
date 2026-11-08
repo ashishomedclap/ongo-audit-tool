@@ -1,0 +1,43 @@
+{
+  "name": "Drronaldmoore",
+  "domain": "drronaldmoore.com",
+  "total_urls": 60,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://drronaldmoore.com/prices/",
+    "https://drronaldmoore.com/tag/dental-implants/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://drronaldmoore.com/04-quicklinks-doctors-timetable/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://drronaldmoore.com/doctor-page/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://drronaldmoore.com/prices/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drronaldmoore.com/tag/dental-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://drronaldmoore.com/the-doctors-guide-to-healthy-break/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

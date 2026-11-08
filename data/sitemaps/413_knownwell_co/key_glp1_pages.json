@@ -1,0 +1,1898 @@
+{
+  "name": "Knownwell",
+  "domain": "knownwell.co",
+  "total_urls": 3847,
+  "semaglutide_pages": [
+    "https://www.knownwell.co/blog-posts/oral-semaglutide-side-effects",
+    "https://www.knownwell.co/blog-posts/semaglutide-pill-vs-injection",
+    "https://www.knownwell.co/blog-posts/tirzepatide-vs-semaglutide",
+    "https://www.knownwell.co/blog-posts/wegovy-dosing-schedule",
+    "https://www.knownwell.co/blog-posts/wegovy-heart-health-news-marks-a-day-to-remember-for-obesity-treatment",
+    "https://www.knownwell.co/blog-posts/wegovy-pill",
+    "https://www.knownwell.co/blog-posts/wegovy-pill-side-effects",
+    "https://www.knownwell.co/blog-posts/wegovy-pill-vs-injection",
+    "https://www.knownwell.co/ozempic",
+    "https://www.knownwell.co/wegovy"
+  ],
+  "tirzepatide_pages": [
+    "https://www.knownwell.co/blog-posts/tirzepatide-vs-semaglutide",
+    "https://www.knownwell.co/blog-posts/what-eat-zepbound",
+    "https://www.knownwell.co/blog-posts/what-the-fda-approval-of-zepbound-for-obesity-could-mean-for-you",
+    "https://www.knownwell.co/mounjaro",
+    "https://www.knownwell.co/zepbound"
+  ],
+  "pricing_pages": [
+    "https://www.knownwell.co/blog-posts/glp-1-while-breastfeeding",
+    "https://www.knownwell.co/companies/black-rifle-coffee-company-brcc-weight-loss",
+    "https://www.knownwell.co/companies/buzzfeed-weight-loss",
+    "https://www.knownwell.co/companies/costar-group-weight-loss",
+    "https://www.knownwell.co/companies/costco-weight-loss",
+    "https://www.knownwell.co/companies/planet-fitness-weight-loss",
+    "https://www.knownwell.co/companies/planet-labs-weight-loss",
+    "https://www.knownwell.co/companies/planet13-weight-loss",
+    "https://www.knownwell.co/companies/pricesmart-weight-loss",
+    "https://www.knownwell.co/companies/reborn-coffee-weight-loss",
+    "https://www.knownwell.co/companies/t-rowe-price-weight-loss",
+    "https://www.knownwell.co/companies/upland-software-weight-loss",
+    "https://www.knownwell.co/companies/westrock-coffee-weight-loss",
+    "https://www.knownwell.co/weight-loss-medication-pricing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.knownwell.co/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/glp-1-coverage-open-enrollment",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/glp-1-while-breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/introducing-our-new-physician-assistant-gina-quon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/introducing-our-new-physician-assistant-sherri-powell",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/oral-semaglutide-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/prior-authorization-medicare-bridge",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/semaglutide-pill-vs-injection",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/the-9-best-meal-replacement-shakes-for-weight-loss-in-2025",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/tirzepatide-vs-semaglutide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/wegovy-dosing-schedule",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/wegovy-heart-health-news-marks-a-day-to-remember-for-obesity-treatment",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/wegovy-pill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/wegovy-pill-side-effects",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/wegovy-pill-vs-injection",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/what-eat-zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/blog-posts/what-the-fda-approval-of-zepbound-for-obesity-could-mean-for-you",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/california",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/adina-simonetti",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/alyson-vogel",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/amee-mehta",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/amy-buchanan",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/amy-laktash",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/amy-rockett",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/angela-fitch",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/celisa-mcgrone",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/chelsey-hayes-marino",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/christina-frugoli",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/christina-nguyen",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/chuanyun-gao",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/corey-gosnell",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/courtney-southwood",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/cristan-crider",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/debra-basler",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/debra-england",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/dory-grobeck",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/elena-sullivan",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/elizabeth-omalley",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/emily-rice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/evgeniya-larionova",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/faris-kayssi",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/gina-quon",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/giovanna-leddy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/greg-blecharz",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/heeba-kaleem",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/holly-graber",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/ijeoma-azonobi",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/isabella-herdocia",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/jeanine-bowen",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/jennifer-bolognani",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/jennifer-carvajal",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/jessica-hammonds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/jessica-prohn",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/jessica-vogt",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/jessin-varghese",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/kenya-palmer-emrich",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/krishna-patel",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/krystle-collins",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/kylene-haskins",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/lina-pabon-nau",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/magdalena-tipton",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/margaret-skibley",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/matija-burtis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/megan-mirgorodsky",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/michelle-ledford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/michelle-look",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/mohamed-sabour",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/molly-janik",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/molly-zavala",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/mona-komari",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/munira-asif",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/nicole-gibbons",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/nicole-malek",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/nizza-maguigad",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/payal-sharma",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/raashi-khanna",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/rachel-dedecker",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/rachel-fehl",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/robin-mcdermott",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/rommana-aziz",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/samantha-malley",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/samantha-marek",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/samantha-newman",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/sarah-kryst",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/sarah-megan",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/shandy-torain",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/sherri-powell",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/shinta-jong",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/sophia-amin",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/sreevidya-bodepudi",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/stephen-finney",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/tiffany-payne",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/clinicians/virginia-brown",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/adaptive-biotechnologies-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/adicet-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/adma-biologics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/aeon-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/alamar-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/american-states-water-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/anaptysbio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/anixa-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/annovis-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/arbutus-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/arcadia-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/arcus-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/arcutis-biotherapeutics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/arrivent-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/artiva-biotherapeutics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/atara-biotherapeutics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/aura-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/avidity-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/aytu-bioscience-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/banc-of-california-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/belite-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/benitec-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/beta-bionics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bg-staffing-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bio-key-international-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bio-rad-laboratories-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bio-techne-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bioaffinity-technologies-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bioage-labs-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bioagilytix-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bioatla-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biocryst-pharmaceuticals-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biodesix-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biofrontera-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biogen-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biohaven-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biolargo-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biolife-solutions-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biomarin-pharmaceutical-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/biomerica-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bionano-genomics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bioventus-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bioxcel-therapeutics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/black-rifle-coffee-company-brcc-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bny-mellon-bank-of-new-york-mellon-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/boundless-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bridgebio-pharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/bright-minds-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/buzzfeed-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/cabaletta-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/california-bancorp-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/california-resources-corporation-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/california-water-service-group-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/calithera-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/clearside-biomedical-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/cogent-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/coherus-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/costar-group-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/costco-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/cue-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/cytek-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/dare-bioscience-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/day-one-biopharmaceuticals-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/ekso-bionics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/emergent-biosolutions-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/ensysce-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/enzo-biochem-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/evofem-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/fibrobiologics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/fortress-biotech-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/genco-shipping-amp-trading-weight-loss",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/generate-biomedicines-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/ginkgo-bioworks-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/gossamer-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/harmony-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/harvard-bioscience-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/hennessy-advisors-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/hinsdale-physicians-healthcare-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/ibio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/ideaya-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/imagenebio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/immix-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/immunitybio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/inhibrx-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/inmune-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/instil-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/iovance-biotherapeutics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/kala-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/kayne-anderson-capital-advisors-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/korro-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/krystal-biotech-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/kyntra-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/lakewood-amedex-biotherapeutics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/legend-biotech-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/leonabio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/lianbio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/lifecore-biomedical-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/lunai-bioworks-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/maia-biotechnology-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/matinas-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/mbx-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/midland-states-bancorp-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/msa-safety-weight-loss",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/nautilus-biotechnology-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/neurocrine-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/new-york-times-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/niagen-bioscience-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/nuvation-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/ocean-biomedical-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/ohio-valley-banc-corp-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/oil-states-international-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/orchestra-biomed-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/pacific-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/pacira-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/parkohio-holdings-corp-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/passage-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/pds-biotechnology-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/planet-fitness-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/planet-labs-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/planet13-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/precision-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/pricesmart-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/procept-biorobotics-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/public-policy-holding-company-weight-loss",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/pulse-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/puma-biotechnology-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/q32-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/rallybio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/rapid-micro-biosystems-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/reborn-coffee-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/regenxbio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/safety-insurance-weight-loss",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/sagimet-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/sana-biotechnology-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/senti-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/skye-bioscience-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/solid-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/southern-states-bancshares-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/spruce-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/staffing-360-solutions-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/standard-biotools-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/sutro-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/t-rowe-price-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/t2-biosystems-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/talis-biomedical-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/tela-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/telesis-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/tevogen-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/texas-capital-bancshares-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/texas-instruments-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/texas-pacific-land-corporation-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/texas-roadhouse-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/third-harmonic-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/twist-bioscience-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/tyra-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/united-states-antimony-corporation-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/united-states-lime-amp-minerals-weight-loss",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/unity-biotechnology-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/upland-software-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/upstream-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/ventyx-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/vir-biotechnology-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/vor-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/westrock-coffee-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/xbiotech-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/xenetic-biosciences-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/zenas-biopharma-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/zimmer-biomet-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/companies/zura-bio-weight-loss",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/alpharetta-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/arlington-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/belmont-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/berkeley-lake-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/boxford-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/brookhaven",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/burlington-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/canton-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/carlisle-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/cohasset-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/concord-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/cumming-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/dover-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/duluth-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/dunwoody-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/gainesville-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/hingham-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/hiram-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/lexington-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/lincoln-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/lynnfield-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/manchester-by-the-sea-massachusetts",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/marietta-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/medfield-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/milton-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/newton-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/roswell-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/sandy-springs-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/sherborn-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/sudbury-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/suwanee-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/vinings-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/wayland-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/wellesley-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/winchester-ma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/locations/woodstock-ga",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/mounjaro",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/ozempic",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/texas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/wegovy",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/weight-loss-medication-pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.knownwell.co/zepbound",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

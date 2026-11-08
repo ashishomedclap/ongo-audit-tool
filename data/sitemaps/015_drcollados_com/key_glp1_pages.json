@@ -1,0 +1,16 @@
+{
+  "name": "Dr. Collado Medical Wellness",
+  "domain": "drcollados.com",
+  "total_urls": 3,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.drcollados.com/about-us.html",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

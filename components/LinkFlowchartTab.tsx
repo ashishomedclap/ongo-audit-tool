@@ -270,12 +270,7 @@ export default function LinkFlowchartTab() {
         </div>
       </div>
 
-      <ContextCue
-        useCase="Model and verify the mathematical PageRank transfer between pages before adding links in production."
-        title="PageRank Conservation Math (d = 0.85)"
-        about="Google's PageRank algorithm divides a page's equity equally across its outbound links: PR(Target) += (PR(Source) × 0.85) / N. Keeping N tight (3-5 focused links) prevents dilution and passes maximum ranking power to high-converting treatment pages."
-      />
-
+      
       {/* Main Flowchart Visual Canvas Bento Box */}
       <div className="glass-card" style={{ padding: '24px', background: 'var(--bg-surface)', border: '1px solid var(--border-medium)' }}>
         
@@ -296,6 +291,7 @@ export default function LinkFlowchartTab() {
               Source Origin Page:
             </label>
             <select
+              aria-label="Select source URL for link flowchart"
               value={currentFlow.sourceUrl}
               onChange={handleSelectSource}
               style={{
@@ -323,6 +319,7 @@ export default function LinkFlowchartTab() {
               Target Destination Page:
             </label>
             <select
+              aria-label="Select target URL for link flowchart"
               value={currentFlow.targetUrl}
               onChange={handleSelectTarget}
               style={{
@@ -363,8 +360,7 @@ export default function LinkFlowchartTab() {
             </div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
               <span style={{ fontSize: '0.72rem', color: 'var(--text-tertiary)' }}>1</span>
-              <input
-                type="range"
+              <input type="range" aria-label="Graph zoom and depth level"
                 min={1}
                 max={12}
                 value={outboundLinksCount}

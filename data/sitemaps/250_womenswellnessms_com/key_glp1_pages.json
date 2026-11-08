@@ -1,0 +1,13 @@
+{
+  "name": "Womenswellnessms",
+  "domain": "womenswellnessms.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://womenswellnessms.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://womenswellnessms.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Montefioreeinsteinadvancedcare",
+  "domain": "montefioreeinsteinadvancedcare.org",
+  "total_urls": 90,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://montefioreeinsteinadvancedcare.org/patient-resources/billing-insurance/insurance-plans",
+    "https://montefioreeinsteinadvancedcare.org/services/transplant-care",
+    "https://montefioreeinsteinadvancedcare.org/services/transplant-care/kidney-pancreas",
+    "https://montefioreeinsteinadvancedcare.org/services/transplant-care/kidney-pancreas/team",
+    "https://montefioreeinsteinadvancedcare.org/services/transplant-care/liver",
+    "https://montefioreeinsteinadvancedcare.org/services/transplant-care/liver/team"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/manhattan",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/manhattan/manhattan-west",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/orange-county",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/orange-county/monroe",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/orange-county/new-windsor",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/rockland-county",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/rockland-county/airmont",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/rockland-county/comprehensive-orthopedics-spine-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/westchester-county",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/westchester-county/dobbs-ferry",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/locations/westchester-county/westchester",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/patient-resources/billing-insurance/financial-aid-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/patient-resources/billing-insurance/insurance-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/privacy-policy-web-mobile-applications",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/services/transplant-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/services/transplant-care/kidney-pancreas",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/services/transplant-care/kidney-pancreas/team",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/services/transplant-care/liver",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://montefioreeinsteinadvancedcare.org/services/transplant-care/liver/team",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

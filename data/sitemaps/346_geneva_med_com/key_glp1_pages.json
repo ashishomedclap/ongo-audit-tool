@@ -1,0 +1,273 @@
+{
+  "name": "Geneva Med",
+  "domain": "geneva-med.com",
+  "total_urls": 307,
+  "semaglutide_pages": [
+    "https://geneva-med.com/blog/how-long-does-semaglutide-take-to-work-a-realistic-weight-loss-timeline/",
+    "https://geneva-med.com/blog/semaglutide-dosage-explained-how-weekly-dosing-works-for-weight-loss/",
+    "https://geneva-med.com/blog/semaglutide-for-weight-loss-how-it-works-benefits-what-to-know/",
+    "https://geneva-med.com/blog/semaglutide-side-effects-whats-normal-whats-not-how-to-manage-them-safely/",
+    "https://geneva-med.com/blog/semaglutide-vs-tirzepatide-which-is-right-for-you/",
+    "https://geneva-med.com/blog/switching-semaglutide-tirzepatide/",
+    "https://geneva-med.com/glossary/compounded-semaglutide/",
+    "https://geneva-med.com/glossary/ozempic/",
+    "https://geneva-med.com/glossary/semaglutide-injections/",
+    "https://geneva-med.com/glossary/semaglutide-titration-schedule/",
+    "https://geneva-med.com/glossary/wegovy/",
+    "https://geneva-med.com/primary-care/weightloss/semaglutide-injections/"
+  ],
+  "tirzepatide_pages": [
+    "https://geneva-med.com/blog/medical-weight-loss-in-alpharetta-your-complete-guide-to-glp-1-injections-tirzepatide-and-sustainable-results/",
+    "https://geneva-med.com/blog/semaglutide-vs-tirzepatide-which-is-right-for-you/",
+    "https://geneva-med.com/blog/switching-semaglutide-tirzepatide/",
+    "https://geneva-med.com/blog/tirzepatide-dosage-explained-a-step-by-step-guide-to-safe-effective-weight-loss/",
+    "https://geneva-med.com/blog/tirzepatide-for-insulin-resistance-a-science-backed-approach-to-metabolic-weight-loss/",
+    "https://geneva-med.com/blog/tirzepatide-injections-at-geneva-med-spa-in-alpharetta-how-they-work-benefits-and-what-to-expect/",
+    "https://geneva-med.com/blog/tirzepatide-injections-in-alpharetta-a-complete-guide-to-safe-effective-weight-loss/",
+    "https://geneva-med.com/blog/tirzepatide-vs-glp-1-medications-understanding-the-differences-in-modern-weight-loss-treatment/",
+    "https://geneva-med.com/glossary/compounded-tirzepatide/",
+    "https://geneva-med.com/glossary/mounjaro/",
+    "https://geneva-med.com/glossary/tirzepatide-injections/",
+    "https://geneva-med.com/glossary/tirzepatide-titration-schedule/",
+    "https://geneva-med.com/glossary/zepbound/",
+    "https://geneva-med.com/primary-care/weightloss/tirzepatide-injections/"
+  ],
+  "pricing_pages": [
+    "https://geneva-med.com/glossary/crows-feet/",
+    "https://geneva-med.com/membership/",
+    "https://geneva-med.com/tools/high-protein-meal-plan/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://geneva-med.com/aesthetics/biomarker-testing/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/adhd-medication-side-effects-and-safety-what-you-need-to-know/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/best-hrt-doctors-in-atlanta/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/dysport-side-effects-safety-a-complete-medical-guide-for-patients/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/how-long-does-semaglutide-take-to-work-a-realistic-weight-loss-timeline/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/medical-weight-loss-in-alpharetta-your-complete-guide-to-glp-1-injections-tirzepatide-and-sustainable-results/",
+      "categories": [
+        "Tirzepatide",
+        "State"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/semaglutide-dosage-explained-how-weekly-dosing-works-for-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/semaglutide-for-weight-loss-how-it-works-benefits-what-to-know/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/semaglutide-side-effects-whats-normal-whats-not-how-to-manage-them-safely/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/semaglutide-vs-tirzepatide-which-is-right-for-you/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/switching-semaglutide-tirzepatide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/the-top-5-weight-loss-doctors-in-alpharetta-a-physician-led-guide-to-the-best-medical-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/tirzepatide-dosage-explained-a-step-by-step-guide-to-safe-effective-weight-loss/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/tirzepatide-for-insulin-resistance-a-science-backed-approach-to-metabolic-weight-loss/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/tirzepatide-injections-at-geneva-med-spa-in-alpharetta-how-they-work-benefits-and-what-to-expect/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/tirzepatide-injections-in-alpharetta-a-complete-guide-to-safe-effective-weight-loss/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/blog/tirzepatide-vs-glp-1-medications-understanding-the-differences-in-modern-weight-loss-treatment/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/faqs/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/bhrt-bioidentical-hormone-replacement-therapy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/compounded-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/compounded-tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/crows-feet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/mounjaro/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/semaglutide-injections/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/semaglutide-titration-schedule/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/tirzepatide-injections/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/tirzepatide-titration-schedule/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/glossary/zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/patient-financial-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/primary-care/weightloss/semaglutide-injections/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/primary-care/weightloss/tirzepatide-injections/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/sms-terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://geneva-med.com/tools/high-protein-meal-plan/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

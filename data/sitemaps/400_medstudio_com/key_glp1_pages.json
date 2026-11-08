@@ -1,0 +1,13 @@
+{
+  "name": "Medstudio",
+  "domain": "medstudio.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://medstudio.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://medstudio.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Yellowpages",
+  "domain": "yellowpages.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://yellowpages.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://yellowpages.com/pricing"
+  ],
+  "all_categorized": []
+}

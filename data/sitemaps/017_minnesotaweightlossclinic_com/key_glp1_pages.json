@@ -1,0 +1,13 @@
+{
+  "name": "Minnesota Weight Loss Clinic",
+  "domain": "minnesotaweightlossclinic.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://minnesotaweightlossclinic.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://minnesotaweightlossclinic.com/pricing"
+  ],
+  "all_categorized": []
+}

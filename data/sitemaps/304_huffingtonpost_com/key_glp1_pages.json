@@ -1,0 +1,13 @@
+{
+  "name": "Huffingtonpost",
+  "domain": "huffingtonpost.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://huffingtonpost.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://huffingtonpost.com/pricing"
+  ],
+  "all_categorized": []
+}

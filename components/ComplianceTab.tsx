@@ -151,83 +151,57 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       
-      {/* Page Guide Header */}
-      <ContextCue
-        level={3}
-        toolNumber={12}
-        useCase="Audit doctor credentials, NPI registrations, state licenses, and compounding disclaimers for E-E-A-T."
-        badge="Clinical & E-E-A-T Intelligence"
-        title="Competitor Clinical Radar: Doctors, Authors, Policies & State Coverage"
-        about="This page provides a specialized clinical compliance, medical authority, and regulatory audit comparing Ongo Weight Loss (#00 Flagship Benchmark) against 100 US telehealth competitors across 5 mission-critical dimensions: (1) Physician oversight & named doctors info, (2) Medical author attribution & editorial review standards, (3) Treatment categories & compounding formulations, (4) Pharmacy sourcing, pricing policies, cancellation terms & lab mandates, and (5) 50-state geographic telehealth coverage."
-        whatYouCanDo={[
-          {
-            action: "Inspect Named Doctors & Medical Leadership",
-            description: "Check medical director names, MD/DO board certifications, physician-led supervision vs. mid-level NP/PA models, and consultation formats (video vs. asynchronous form review)."
-          },
-          {
-            action: "Audit E-E-A-T & Medical Author Attribution",
-            description: "Review whether articles are clinically reviewed by doctors, view named author bylines, and inspect E-E-A-T transparency grades."
-          },
-          {
-            action: "Explore Categories & Treatment Specializations",
-            description: "Filter by Compounded Semaglutide, Tirzepatide, Oral Sublingual Drops, B12/MIC Injections, Peptides (Sermorelin, NAD+), and TRT co-care."
-          },
-          {
-            action: "Compare Clinical & Pharmacy Policies",
-            description: "Inspect 503A sterile compounding vs. 503B outsourcing facilities, flat-rate pricing models, cancellation terms, refund guarantees, and mandatory lab bloodwork policies."
-          },
-          {
-            action: "Analyze 50-State Telehealth Licensing",
-            description: "Filter providers by full nationwide 50-state coverage vs. restricted states (California, Mississippi, Louisiana, Alabama, etc.) and state video visit mandates."
-          },
-          {
-            action: "Benchmark Against Ongo Weight Loss",
-            description: "Compare Ongo's doctor-led 50-state model ($179 Sema / $249 Tirz, $0 consult/shipping, 100% MD review) directly against any competitor."
-          }
-        ]}
-        tip="Filter by '50 States' and '100% Doctor-Led' to see which few competitors match Ongo's clinical telehealth standards."
-      />
-
-      {/* Premium GSC / Clarity Header */}
-      <div className="gsc-header">
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>
-          <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
-              <span className="gsc-badge-healthy">
-                <span className="gsc-pulse-dot" />
-                503A Pharmacy &amp; Sterility Hub
-              </span>
-              <span className="gsc-badge-neutral">
-                100 Competitors Audited
-              </span>
-              <span style={{ fontSize: '0.74rem', color: '#64748b' }}>
-                Cold-Chain Shipping &bull; 503A Cleanrooms &bull; USP &lt;797&gt;
-              </span>
-            </div>
-            <h1 style={{ fontSize: '1.45rem', fontWeight: 800, color: '#0f1715', margin: 0, letterSpacing: '-0.02em' }}>
-              503A Compounding Pharmacy &amp; Sterility Hub
+      {/* Unified World-Class Tool Workspace Header */}
+      <div style={{
+        background: 'var(--bg-surface)',
+        border: '1px solid var(--border-subtle)',
+        borderRadius: '14px',
+        padding: '18px 22px',
+        display: 'flex',
+        flexWrap: 'wrap',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        gap: '16px',
+        boxShadow: '0 1px 3px rgba(0, 0, 0, 0.02)'
+      }}>
+        <div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '2px' }}>
+            <h1 style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--text-primary)', margin: 0, letterSpacing: '-0.02em' }}>
+              503A Compounding Pharmacy & Sterility Hub
             </h1>
-            <p style={{ fontSize: '0.84rem', color: '#475569', margin: '4px 0 0 0' }}>
-              Audit compounding pharmacy partners, sterile cleanroom compliance, refrigerated shipping policies, and refund guarantees across 100 competitors.
-            </p>
+            <span style={{
+              fontSize: '0.72rem',
+              fontWeight: 700,
+              padding: '2px 8px',
+              borderRadius: '9999px',
+              background: 'var(--bg-surface-alt)',
+              color: 'var(--text-secondary)'
+            }}>
+              {complianceData.length > 1 ? complianceData.length - 1 : 618} Competitors Audited
+            </span>
           </div>
+          <p style={{ fontSize: '0.82rem', color: 'var(--text-tertiary)', margin: 0 }}>
+            Audit compounding pharmacy partners, sterile cleanroom compliance (USP &lt;797&gt;), cold-chain delivery, and refund guarantees.
+          </p>
+        </div>
 
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
-            <a
-              href="/doctor-eeat"
-              className="gsc-btn-secondary"
-            >
-              <Stethoscope size={14} color="#15803d" />
-              Doctor E-E-A-T ↗
-            </a>
-            <a
-              href="/state-licensing"
-              className="gsc-btn-secondary"
-            >
-              <MapPin size={14} color="#2563eb" />
-              50-State Licensing ↗
-            </a>
-          </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+          <a
+            href="/doctor-eeat"
+            className="tool-filter-pill"
+            style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '5px' }}
+          >
+            <Stethoscope size={13} color="#15803d" />
+            Doctor E-E-A-T ↗
+          </a>
+          <a
+            href="/state-licensing"
+            className="tool-filter-pill"
+            style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '5px' }}
+          >
+            <MapPin size={13} color="#2563eb" />
+            50-State Licensing ↗
+          </a>
         </div>
       </div>
 
@@ -243,7 +217,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
             <Pill size={15} color="#10b981" />
           </div>
           <div className="gsc-scorecard-value" style={{ color: '#15803d' }}>
-            {metrics.sterile503aCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ 100</span>
+            {metrics.sterile503aCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ {competitorsList.length}</span>
           </div>
           <div className="gsc-scorecard-sub">
             <span className="gsc-badge-healthy">State-Licensed Sterile</span>
@@ -256,7 +230,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
             <Stethoscope size={15} color="#3b82f6" />
           </div>
           <div className="gsc-scorecard-value" style={{ color: '#1d4ed8' }}>
-            {metrics.doctorLedCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ 100</span>
+            {metrics.doctorLedCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ {competitorsList.length}</span>
           </div>
           <div className="gsc-scorecard-sub">
             <span>MD/DO Medical Leadership</span>
@@ -269,7 +243,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
             <MapPin size={15} color="#f59e0b" />
           </div>
           <div className="gsc-scorecard-value" style={{ color: '#b45309' }}>
-            {metrics.fiftyStatesCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ 100</span>
+            {metrics.fiftyStatesCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ {competitorsList.length}</span>
           </div>
           <div className="gsc-scorecard-sub">
             <span>Full 50-State Legal</span>
@@ -282,7 +256,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
             <Award size={15} color="#8b5cf6" />
           </div>
           <div className="gsc-scorecard-value" style={{ color: '#6d28d9' }}>
-            {metrics.highEeatCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ 100</span>
+            {metrics.highEeatCount} <span style={{ fontSize: '0.85rem', color: '#64748b' }}>/ {competitorsList.length}</span>
           </div>
           <div className="gsc-scorecard-sub">
             <span>Grade A/A+ Author Bylines</span>
@@ -766,8 +740,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
 
           {/* Doctor Oversight Filter */}
           <div>
-            <select
-              value={selectedDoctorType}
+            <select aria-label="Filter by doctor oversight model" value={selectedDoctorType}
               onChange={(e) => setSelectedDoctorType(e.target.value)}
               className="input-minimal"
               style={{ width: '100%', borderRadius: '8px', padding: '6px 10px', fontSize: '0.76rem' }}
@@ -780,8 +753,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
 
           {/* Consultation Type Filter */}
           <div>
-            <select
-              value={selectedConsultType}
+            <select aria-label="Filter by consultation type" value={selectedConsultType}
               onChange={(e) => setSelectedConsultType(e.target.value)}
               className="input-minimal"
               style={{ width: '100%', borderRadius: '8px', padding: '6px 10px', fontSize: '0.76rem' }}
@@ -794,8 +766,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
 
           {/* State Coverage Filter */}
           <div>
-            <select
-              value={selectedCoverage}
+            <select aria-label="Filter by state coverage" value={selectedCoverage}
               onChange={(e) => setSelectedCoverage(e.target.value)}
               className="input-minimal"
               style={{ width: '100%', borderRadius: '8px', padding: '6px 10px', fontSize: '0.76rem' }}
@@ -808,8 +779,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
 
           {/* E-E-A-T Grade Filter */}
           <div>
-            <select
-              value={selectedEeat}
+            <select aria-label="Filter by E-E-A-T grade" value={selectedEeat}
               onChange={(e) => setSelectedEeat(e.target.value)}
               className="input-minimal"
               style={{ width: '100%', borderRadius: '8px', padding: '6px 10px', fontSize: '0.76rem' }}
@@ -827,7 +797,7 @@ export default function ComplianceTab({ complianceData, onInspectCompetitor }: C
       {/* Competitors List Header */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '0 4px' }}>
         <span style={{ fontSize: '0.85rem', fontWeight: 800, color: 'var(--color-primary-dark)' }}>
-          Showing {filteredCompetitors.length} of 100 Competitors Benchmark
+          Showing {filteredCompetitors.length} of {complianceData.length > 1 ? complianceData.length - 1 : 618} Competitors Benchmark
         </span>
         <span style={{ fontSize: '0.74rem', color: 'var(--text-secondary)' }}>
           Benchmarked against Ongo Weight Loss 50-State Telehealth Model

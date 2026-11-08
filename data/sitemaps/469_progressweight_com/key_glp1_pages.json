@@ -1,0 +1,70 @@
+{
+  "name": "Progressweight",
+  "domain": "progressweight.com",
+  "total_urls": 104,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.progressweight.com/shop/buymealplans",
+    "https://www.progressweight.com/shop/p/heartheathymealplan",
+    "https://www.progressweight.com/shop/p/pcos-meal-plan",
+    "https://www.progressweight.com/shop/p/rustic-ceramic-coffee-mug-12-oz",
+    "https://www.progressweight.com/shop/p/vegan-high-protein-meal-plan"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.progressweight.com/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.progressweight.com/financialpolicy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.progressweight.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.progressweight.com/shop/buymealplans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.progressweight.com/shop/p/heartheathymealplan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.progressweight.com/shop/p/pcos-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.progressweight.com/shop/p/rustic-ceramic-coffee-mug-12-oz",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.progressweight.com/shop/p/vegan-high-protein-meal-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.progressweight.com/termsofuse",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

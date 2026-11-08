@@ -1,0 +1,53 @@
+{
+  "name": "Precisionhealthandweightloss",
+  "domain": "precisionhealthandweightloss.com",
+  "total_urls": 49,
+  "semaglutide_pages": [
+    "https://www.precisionhealthandweightloss.com/blog/glp1-medications-explained-semaglutide-vs-tirzepatide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.precisionhealthandweightloss.com/blog/glp1-medications-explained-semaglutide-vs-tirzepatide"
+  ],
+  "pricing_pages": [
+    "https://www.precisionhealthandweightloss.com/membership"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.precisionhealthandweightloss.com/blog/first-90-days-physician-managed-glp1",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.precisionhealthandweightloss.com/blog/glp1-medications-explained-semaglutide-vs-tirzepatide",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.precisionhealthandweightloss.com/blog/how-to-read-precision-biomarker-report",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.precisionhealthandweightloss.com/blog/medical-weight-loss-vs-dieting-physician-perspective",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.precisionhealthandweightloss.com/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.precisionhealthandweightloss.com/membership",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

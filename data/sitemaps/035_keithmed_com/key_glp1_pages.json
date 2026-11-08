@@ -1,0 +1,30 @@
+{
+  "name": "Keithmed",
+  "domain": "keithmed.com",
+  "total_urls": 20,
+  "semaglutide_pages": [
+    "https://www.keithmed.com/blog-list-keithmed-blog/how-semaglutide-okc-can-support-your-weight-loss-goals"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.keithmed.com/blog-list-keithmed-blog/how-semaglutide-okc-can-support-your-weight-loss-goals",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.keithmed.com/our-medical-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.keithmed.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

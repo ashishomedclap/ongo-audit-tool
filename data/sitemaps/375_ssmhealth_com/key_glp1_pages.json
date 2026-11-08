@@ -1,0 +1,1691 @@
+{
+  "name": "Ssmhealth",
+  "domain": "ssmhealth.com",
+  "total_urls": 2073,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.ssmhealth.com/access/global-forms/health-at-home/visit-a-bit-volunteer-feedback-form",
+    "https://www.ssmhealth.com/access/global-forms/health-at-home/visit-a-bit-volunteer-feedback-form/thank-you",
+    "https://www.ssmhealth.com/access/global-forms/transplant-services/kidney-transplant-referral",
+    "https://www.ssmhealth.com/access/global-forms/transplant-services/transplant-appointment-contact-form",
+    "https://www.ssmhealth.com/cardinal-glennon/access/forms/transplant/contact-pediatric-transplant",
+    "https://www.ssmhealth.com/cardinal-glennon/health-professionals/admissions-referrals/cardinal-glennon-access-center/pediatric-transplant-referral",
+    "https://www.ssmhealth.com/cardinal-glennon/services/feeding-team-services",
+    "https://www.ssmhealth.com/cardinal-glennon/services/hearing-loss-in-children-symptoms-treatment/cochlear-implants-for-children",
+    "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-gastroenterology/feeding-swallowing-disorders",
+    "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-gastroenterology/glennon-intestinal-rehabilitation-and-feeding-team",
+    "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-heart/heart-failure-transplant",
+    "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-heart/heart-failure-transplant/cardiac-assist-devices",
+    "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-heart/heart-failure-transplant/pediatric-heart-transplant",
+    "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant",
+    "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/about-the-pediatric-transplant-program"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.ssmhealth.com/access/global-forms/health-at-home/visit-a-bit-volunteer-feedback-form",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/access/global-forms/health-at-home/visit-a-bit-volunteer-feedback-form/thank-you",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/access/global-forms/transplant-services/kidney-transplant-referral",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/access/global-forms/transplant-services/transplant-appointment-contact-form",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/access/forms/transplant/contact-pediatric-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/find-a-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/find-a-doctor/about-our-patient-satisfaction-survey",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/health-professionals/admissions-referrals/cardinal-glennon-access-center/pediatric-transplant-referral",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/health-professionals/education-opportunities/pgy1-pediatric-pharmacy-practice-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/locations/cardinal-glennon-childrens-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/locations/cardinal-glennon-childrens-hospital/emergency-room",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/bariatric-surgery-teens-young-adults/bariatric-surgery-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/danis-pediatric-center/specialty-programs-for-patients-families/safety-program",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/danis-pediatric-center/specialty-programs-for-patients-families/safety-program/baby-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/danis-pediatric-center/specialty-programs-for-patients-families/safety-program/home-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/danis-pediatric-center/specialty-programs-for-patients-families/safety-program/infant-child-car-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/danis-pediatric-center/specialty-programs-for-patients-families/safety-program/pedestrian-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/danis-pediatric-center/specialty-programs-for-patients-families/safety-program/poison-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/danis-pediatric-center/specialty-programs-for-patients-families/safety-program/seasonal-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/danis-pediatric-center/specialty-programs-for-patients-families/safety-program/sports-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/feeding-team-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/hearing-loss-in-children-symptoms-treatment/cochlear-implants-for-children",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-gastroenterology/feeding-swallowing-disorders",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-gastroenterology/glennon-intestinal-rehabilitation-and-feeding-team",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-heart/heart-failure-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-heart/heart-failure-transplant/cardiac-assist-devices",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-heart/heart-failure-transplant/pediatric-heart-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/about-the-pediatric-transplant-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/dual-listing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-blood-bone-marrow-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-heart-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-heart-transplant/facing-a-heart-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-kidney-transplant/facing-a-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/acute-liver-failure",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/alagille-syndrome",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/autoimmune-hepatitis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/biliary-atresia",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/congenital-hepatic-fibrosis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/facing-a-liver-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/liver-cirrhosis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/liver-tumors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/ornithine-transcarbamylase-deficiency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/cardinal-glennon/services/pediatric-transplant/pediatric-liver-transplant/progressive-familial-intrahepatic-cholestasis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/illinois",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/illinois/good-samaritan-hospital-mt-vernon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/illinois/good-samaritan-hospital-mt-vernon/labor-delivery-good-samaritan-hospital-mt-vernon",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/illinois/illinois-charitable-giving-info",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/illinois/st-marys-hospital-centralia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/illinois/st-marys-hospital-centralia/hospital-construction",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/illinois/volunteen-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/location-details",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/mid-missouri",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/mid-missouri/st-marys-hospital-jefferson-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/mid-missouri/st-marys-hospital-jefferson-city/labor-delivery-at-st-marys-hospital-jefferson-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/bone-and-joint-hospital-st-anthony",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/bone-and-joint-hospital-st-anthony/osoi",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/st-anthony-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/st-anthony-hospital-midwest",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/st-anthony-hospital-midwest/st-anthony-emergency-medical-service",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/st-anthony-hospital-shawnee-seminole-campus",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/st-anthony-hospital/emergency-room",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/st-anthony-hospital/labor-delivery-st-anthony-hospital-oklahoma-city",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/st-anthony-shawnee-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/st-anthony-shawnee-hospital/labor-delivery-at-st-anthony-hospital-shawnee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/oklahoma/start-st-anthony-treatment-and-recovery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/depaul-hospital-st-louis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/depaul-hospital-st-louis/joint-replacement-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/depaul-hospital-st-louis/labor-delivery-at-depaul-hospital-st-louis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/depaul-hospital-st-louis/stroke-program-outcomes",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/saint-louis-university-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/saint-louis-university-hospital/deep-brain-stimulation",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/saint-louis-university-hospital/level-1-trauma-and-stroke-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/saint-louis-university-hospital/midamerica-stroke-network",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/saint-louis-university-hospital/midamerica-stroke-network/after-stroke",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/saint-louis-university-hospital/midamerica-stroke-network/patient-family-resources",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/saint-louis-university-hospital/slu-hospital-construction",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/saint-louis-university-hospital/visitor-information",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-clare-hospital-fenton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-clare-hospital-fenton/autonomic-function-testing",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-clare-hospital-fenton/cyberknife",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-clare-hospital-fenton/labor-delivery-at-st-clare-hospital-fenton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-joseph-hospital-lake-saint-louis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-joseph-hospital-lake-saint-louis/labor-delivery-st-joseph-hospital-lake-saint-louis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-joseph-hospital-st-charles",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-joseph-hospital-wentzville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-marys-hospital-st-louis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-marys-hospital-st-louis/labor-delivery-at-st-marys-hospital-st-louis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/st-marys-hospital-st-louis/labor-delivery-at-st-marys-hospital-st-louis/maternal-transport-services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/the-executive-physical",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/st-louis/the-visiting-nurse-association-of-greater-st-louis",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/camp-glow",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/child-care-center-enrollment",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/dean-medical-group",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/dean-medical-group/caring-for-the-community",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/dean-medical-group/interpreter-services",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/dean-medical-group/multiple-sclerosis-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/goldencare",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/goldencare/goldencare-espanol",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/monroe-clinic-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/monroe-clinic-hospital/club-scrub-monroe",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/monroe-clinic-hospital/labor-delivery-at-monroe-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/monroe-clinic-hospital/labor-delivery-at-monroe-hospital/maternidad-en-ssm-health-monroe-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/monroe-clinic-hospital/leaders-in-energy-and-environmental-design",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/monroe-clinic-hospital/visitor-information",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/ripon-medical-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/ssm-health-communities",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-agnes-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-agnes-hospital/inpatient-physical-rehabilitation-unit",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-agnes-hospital/labor-delivery-at-st-agnes-hospital-fond-du-lac",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-agnes-hospital/level-iii-trauma-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-agnes-hospital/st-agnes-patient-and-family-advisory-council",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-clare-hospital-baraboo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-clare-hospital-baraboo/labor-delivery-at-st-clare-hospital-baraboo",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-janesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-janesville/club-scrub-janesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-janesville/labor-delivery-at-st-marys-hospital-janesville",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-madison",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-madison/bienvenido-al-hospital-st-marys",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-madison/labor-delivery-at-st-marys-hospital-madison",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-madison/labor-delivery-at-st-marys-hospital-madison/centro-familiar-de-nacimiento",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-madison/level-ii-trauma-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/st-marys-hospital-madison/specialized-inpatient-pediatric-care",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/time-for-kids",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/waupun-memorial-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/locations/wisconsin/waupun-memorial-hospital/labor-delivery-at-waupun-memorial-hospital",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/make-a-donation/create-a-legacy-through-planned-giving",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2020/13/ssmhealth-slu-bmt-program-100-transplants-2020",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2025/4/ssm-health-honored-with-wisconsin-safety-council-workplace-safety-award",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2025/5/ssm-health-welcomes-new-providers-from-hinton-healthcare-group-pc-expanding-access-to-compassionat",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2025/6/ssm-health-good-samaritan-hospital-and-mid-america-transplant-partner-to-honor-donor-heroes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2025/9/ssm-health-medical-group-and-slucare-physician-group-president-announces-retirement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2026/4/six-ssm-health-medical-group-locations-honored-with-2026-bigshot-awards",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2026/5/first-in-missouri-to-offer-procedure-to-help-doctors-better-visualize-lung-cancer-during-surgery",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2026/6/ssm-health-unveils-plan-for-pediatric-care-expansion-with-new-cardinal-glennon-pediatric-outpatient",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/2026/8/local-support-advances-clinical-training-and-patient-safety-at-st-marys-hospital-centralia",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/april-2022/our-planet-needs-a-pick-me-up-for-earth-day",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/april-2023/safety-tips-help-keep-summer-fun",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/april-2023/weighing-the-benefits-and-costs-of-extracurriculars",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/april-2024/ssm-health-celebrates-earth-day-with-tree-plantings-and-more",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/april-2024/ssm-health-slu-hospital-among-the-elite-providers-of-innovative-brain-tumor-therapy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/april-2024/world’s-longest-surviving-heart-transplant-recipient-reaches-41-years",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/april-2025/year-of-hope-i-have-hope-for-a-healthy-planet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/august-2023/summertime-music-at-treffert-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/august-2024/kidney-transplant-inspired-ssm-health-team-members-journey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/august-2026/groundbreaking-transplant-brings-new-hope-to-families",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/december-2021/breastfeeding-and-lactation-support",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/december-2025/two-sisters-two-transplants-one-incredible-family-journey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/december-2025/use-down-time-in-winter-to-catch-up-on-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/february-2020/when-to-call-the-doctor-if-your-child-is-sick",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/february-2022-(1)/miracle-covid-patient-put-on-lung-transplant-list",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/february-2024/getting-in-rhythm-when-to-see-a-doctor-for-atrial-fibrillation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/february-2026/behind-every-olympic-dream-is-a-medical-team-ready-for-the-moment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/february-2026/can-planting-trees-make-communities-healthier-ssm-health-thinks-so",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/january-2024/make-a-plan-for-a-healthier-2024",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/january-2025/winter-weather-safety-how-to-navigate-slippery-situations",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/july-2022/top-doctors-2022-slucare-physicians-honored",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/july-2023/kaiser-gets-close-up-look-at-low-cost-insulin-facility",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/july-2025/physician-assistant-offers-sun-safety-tips-after-personal-experience",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/july-2026/fireworks-safety-celebrate-smart-this-summer",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/july-2026/ssm-health-physician-leads-autism-study-published-by-the-ama",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/june-2023/learn-the-plants-to-avoid-during-outdoor-exploration",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/june-2025/compassion-in-action-one-patient’s-journey-through-a-kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/march-2025/beyond-the-basics-of-breastfeeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/may-2023/military-roots-run-deep-among-early-wisconsin-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/may-2025/grahams-heart-transplant-journey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/may-2025/what-is-a-primary-care-doctor-and-do-i-need-one",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/november-2023/hand-safety-tips-for-thanksgiving-meal-prep",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/november-2024/preparing-for-your-next-doctor-appointment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/october-2019/genetic-testing-and-breast-cancer-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/october-2023/helping-your-children-prepare-for-a-trip-to-the-doctors-office",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/october-2024/planting-trees-can-be-like-planting-medicine",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/october-2025/ssm-health-depaul-hospital-staffs-care-aids-traveler",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/october-2025/‘they-made-me-feel-uplifted-and-empowered’",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/october-2026/before-you-head-out-halloween-safety-reminders",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2017/baby-safety-awareness-month-preventing-preventabl",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2017/st-anthony-physician-covers-the-importance-of-thy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2017/st-anthony-physician-talks-fitness-trackers-and-t",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2018/nominate-a-physician-2018-st-lukes-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2018/safety-is-no-accident",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2019/ask-the-doctor-gi-motility",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2021/gut-microbiome-the-small-ever-changing-ecosystem",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2022/new-york-polio-case-and-vaccine",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2024/article-spotlights-ssm-healths-ai-work-to-ease-burden-on-clinicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2024/family-speaks-to-how-i-feel-about-my-coworkers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2024/ssm-health-represented-at-white-house-healthcare-safety-forum",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2024/the-joys-and-challenges-of-breastfeeding-a-journey-worth-taking",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september2023/back-to-school-backpack-safety-what-you-need-to-know",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september2023/doctors-urge-latest-covid-19-vaccination-as-cases-rise",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september2023/healing-heel-pain-how-to-treat-plantar-fasciitis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september2023/ssm-health-unveils-plans-for-a-new-cardinal-glennon-childrens-hospital",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september2023/tips-to-remember-during-baby-safety-month",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/false-claims-act",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/fraud-awareness",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/language-assistance-contact",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/non-discrimination",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/non-discrimination/declaracion-de-no-discriminacion",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/notice-privacy-practices",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/notice-privacy-practices/aviso-de-practicas-de-privacidad",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/website-terms-of-use",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/privacy-notices-terms-of-use/website-terms-of-use/website-privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/ambulatory-care-pharmacy-practice-residency-monroe-hospital",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/good-samaritan-pgy1-pharmacy-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/good-samaritan-pgy1-pharmacy-residency/application-procedure",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/good-samaritan-pgy1-pharmacy-residency/learning-experiences",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/good-samaritan-pgy1-pharmacy-residency/pharmacy-residents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/good-samaritan-pgy1-pharmacy-residency/residency-preceptors",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pediatric-pharmacy-practice-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pgy2-ambulatory-care-pharmacy-residency-ssm-health-dean-medical-group",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pgy2-ambulatory-care-pharmacy-residency-ssm-health-dean-medical-group/learning-experiences",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pgy2-ambulatory-care-pharmacy-residency-ssm-health-dean-medical-group/meet-our-team",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pgy2-ambulatory-care-pharmacy-residency-ssm-health-dean-medical-group/residency-application-requirements-and-process",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pgy2-critical-care-saint-louis-university",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pharmacy-practice-residency-monroe-hospital",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pharmacy-residency-depaul",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pharmacy-residency-saint-louis-university-hospital",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pharmacy-residency-st-clare-fenton",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pharmacy-residency-st-marys-hospital-st-louis",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/pharmacy-residency-st-marys-hospital-st-louis/residency-preceptors",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/saint-anthony-s-hospital-oklahoma-city-pharmacy-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/saint-anthony-s-hospital-oklahoma-city-pharmacy-residency/pharmacy-residents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/ssm-health-depaul-hospital-psychiatry",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-agnes-hospital-fond-du-lac",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-lake-st-louis-pgy1-pharmacy-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-lake-st-louis-pgy1-pharmacy-residency/learning-experience",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-lake-st-louis-pgy1-pharmacy-residency/pharmacy-residents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-lake-st-louis-pgy1-pharmacy-residency/residency-preceptors",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-lake-st-louis-pgy1-pharmacy-residency/residency-requirements-application-procedure",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-st-charles-pgy1-pharmacy-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-st-charles-pgy1-pharmacy-residency/learning-experiences",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-st-charles-pgy1-pharmacy-residency/pharmacy-residents",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-st-charles-pgy1-pharmacy-residency/residency-application-information",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-joseph-hospital-st-charles-pgy1-pharmacy-residency/residency-preceptors",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-mary-s-hospital-st-louis-pgy2-revised-ambulatory-care-pharmacy-residency",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-mary-s-hospital-st-louis-pgy2-revised-ambulatory-care-pharmacy-residency/application-process-events",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-mary-s-hospital-st-louis-pgy2-revised-ambulatory-care-pharmacy-residency/learning-experiences",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-mary-s-hospital-st-louis-pgy2-revised-ambulatory-care-pharmacy-residency/program-personnel",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/education/pharmacy-residencies/st-marys-hospital-madison",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources-for-health-professionals/referrals-admissions/transplant-referral",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources/about/government-affairs-public-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources/about/quality-outcomes/safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources/need-health-coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources/need-health-coverage/medicare",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/health-at-home/home-care-resources/home-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/health-at-home/home-care-resources/planning-for-care",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/health-at-home/home-medical-equipment-in-wisconsin/home-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/health-at-home/home-medical-equipment-in-wisconsin/new-parent-breastfeeding-products",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/maternity-care/postpartum-baby-care-resources/breastfeeding-support",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/pharmacy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/transplant/about-organ-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/transplant/blood-bone-marrow-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/transplant/kidney-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/transplant/kidney-transplant/evaluation-selection-criteria-and-evaluation-protocol",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/transplant/kidney-transplant/kidney-dialysis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/transplant/liver-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/transplant/pancreas-transplant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/services/weight-management/surgical-treatments/weight-loss-surgery-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/site-objects/pricing-summary/coronavirus-(covid-19)",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/site-objects/sections/siteofcareproviders",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/slucare/services/abdominal-transplant-surgery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/slucare/services/hematology-oncology-cellular-therapy/blood-and-marrow-transplantation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/slucare/services/otolaryngology/audiology-balance/cochlear-baha-implant-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/slucare/services/pathology/anatomic-pathology/fine-needle-aspiration-biopsy",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/slucare/services/pathology/anatomic-pathology/oral-biopsy-service",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/slucare/services/pathology/anatomic-pathology/renal-biopsy-referral-service",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/treffert-center/find-a-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ssmhealth.com/treffert-center/locations",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

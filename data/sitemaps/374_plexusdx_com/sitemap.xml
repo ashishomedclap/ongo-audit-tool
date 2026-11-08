@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://plexusdx.com/sitemap_agentic_discovery.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://plexusdx.com/sitemap_products_1.xml?from=7470016233555&amp;to=10319799812179</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://plexusdx.com/sitemap_pages_1.xml?from=89697288275&amp;to=167426097235</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://plexusdx.com/sitemap_collections_1.xml?from=286425808979&amp;to=509962911827</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://plexusdx.com/sitemap_blogs_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://plexusdx.com/sitemap_articles_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://plexusdx.com/sitemap_articles_2.xml</loc>
+  </sitemap>
+</sitemapindex>

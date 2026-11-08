@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://www.nyc.gov/content/nycgov.sitemap.mayors-office-nycgov-sitemap.xml</loc>
+        <lastmod>2026-11-08T00:00:01.968Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.nyc.gov/content/nycgov.sitemap.jobs-nycgov-sitemap.xml</loc>
+        <lastmod>2026-11-08T00:00:00.426Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.nyc.gov/content/nycgov.sitemap.mayors-office-nycgov-sitemap-2.xml</loc>
+        <lastmod>2026-11-08T00:00:02.203Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.nyc.gov/content/nycgov.sitemap.main-nycgov-sitemap.xml</loc>
+        <lastmod>2026-11-08T00:00:00.336Z</lastmod>
+    </sitemap>
+</sitemapindex>

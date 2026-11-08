@@ -1,0 +1,38 @@
+{
+  "name": "Raleighweightlosscenter",
+  "domain": "raleighweightlosscenter.com",
+  "total_urls": 12,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://raleighweightlosscenter.com/product-category/membership/",
+    "https://raleighweightlosscenter.com/product/maintain4life-the-momentum-membership-no-coaching/",
+    "https://raleighweightlosscenter.com/product/maintain4life-the-momentum-membership-with-monthly-coaching/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://raleighweightlosscenter.com/author/theinstinctivedevteam/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://raleighweightlosscenter.com/product-category/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://raleighweightlosscenter.com/product/maintain4life-the-momentum-membership-no-coaching/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://raleighweightlosscenter.com/product/maintain4life-the-momentum-membership-with-monthly-coaching/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

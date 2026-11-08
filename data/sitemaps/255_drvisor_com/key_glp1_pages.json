@@ -1,0 +1,4662 @@
+{
+  "name": "Drvisor",
+  "domain": "drvisor.com",
+  "total_urls": 3729,
+  "semaglutide_pages": [
+    "https://www.drvisor.com/products/rosemarie-jones-md-bariatric-surgery-indianapolis-in"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.drvisor.com/pages/dr-visor-instalment-plan-repayment-process",
+    "https://www.drvisor.com/pages/finance-plan-faq",
+    "https://www.drvisor.com/pages/free-treatment-plan",
+    "https://www.drvisor.com/pages/lead-generation-membership-agreement",
+    "https://www.drvisor.com/pages/membership-purchase-success",
+    "https://www.drvisor.com/pages/membership-registration",
+    "https://www.drvisor.com/pages/membership-sign-up",
+    "https://www.drvisor.com/pages/membership-standards",
+    "https://www.drvisor.com/pages/membership-terms",
+    "https://www.drvisor.com/pages/standard-membership-terms-services",
+    "https://www.drvisor.com/products/417-refine-hair-transplant-springfield-mo",
+    "https://www.drvisor.com/products/4ever-young-med-spa-wellness-center-hair-transplant-carmel-in",
+    "https://www.drvisor.com/products/access-dental-dentures-implants-dental-springfield-mo",
+    "https://www.drvisor.com/products/accurso-aesthetics-hair-transplant-lee-s-summit-mo",
+    "https://www.drvisor.com/products/advanced-anti-aging-center-of-excellence-hair-transplant-evansville-in"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.drvisor.com/pages/contact-with-our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/cookie-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/doctors-clinics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/dr-visor-instalment-plan-repayment-process",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/editorial-team",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/finance-plan-faq",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/free-treatment-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/lead-generation-membership-agreement",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/medical-tourism-georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/membership-purchase-success",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/membership-registration",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/membership-sign-up",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/membership-standards",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/membership-terms",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/prize-draw-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/review-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/standard-membership-terms-services",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/pages/user-data-deletion-policy-dr-visor",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/417-refine-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/4ever-young-med-spa-wellness-center-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/access-dental-dentures-implants-dental-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/accurso-aesthetics-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/advanced-anti-aging-center-of-excellence-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/advanced-dermatology-and-cosmetic-surgery-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/advanced-hair-loss-scalp-solutions-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/advanced-hair-restoration-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/advanced-hair-restoration-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/advanced-laser-clinic-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/aesthetic-dermatology-center-hair-transplant-rockville-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/aesthetic-dermatology-dermat-hair-transplant-bowie-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/aesthetic-family-dental-implant-center-dental-gaithersburg-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/aesthetic-med-studio-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/affordable-dentures-implants-dental-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/affordable-dentures-implants-dental-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/affordable-dentures-implants-dental-independence-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-4-dental-implants-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-4-dental-implants-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-4-dental-implants-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-4-dental-implants-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-4-dental-implants-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-4-dental-implants-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-4-dental-implants-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-6-dental-implants-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-6-dental-implants-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-6-dental-implants-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/all-on-6-dental-implants-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/allied-physicians-surgery-center-aesthetic-surgery-south-bend-in",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/alopecia-disrupted-becoming-her-trichologist-scalp-hair-restoration-beauty-health-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/alter-ego-hair-color-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/amber-evans-stylist-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/amelia-aesthetics-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/american-hair-transplants-hair-restoration-clinic-hair-transplant-bowie-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/amy-chow-md-rejuvenation-practice-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/anagen-hair-restoration-hair-transplant-silver-spring-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/anne-arundel-ent-facial-plastic-surgery-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/arm-lift-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/arm-lift-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/arm-lift-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ascentist-hair-restoration-hair-transplant-leawood-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/aspire-plastic-surgery-and-medical-spa-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/associated-plastic-surgeons-med-spa-hair-transplant-leawood-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bariatric-surgery-in-stafford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bbl-brazilian-butt-lift-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bbl-brazilian-butt-lift-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bbl-brazilian-butt-lift-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bbl-brazilian-butt-lift-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bbl-brazilian-butt-lift-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bbl-brazilian-butt-lift-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bbl-in-turkey-vs-uk-safety-standards-and-2026-costs-compared",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/beard-transplant-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/beard-transplant-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/beard-transplant-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/beard-transplant-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/beautiful-you-med-spa-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/belcara-health-hair-transplant-baltimore-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bella-vi-spa-aesthetics-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bentley-skincare-wellness-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-all-on-4-dental-implants-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-all-on-4-dental-implants-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-all-on-6-dental-implants-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-all-on-6-dental-implants-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-beard-transplant-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-beard-transplant-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-dental-implants-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-dental-implants-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-dhi-hair-transplant-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-dhi-hair-transplant-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-fue-hair-transplant-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-fue-hair-transplant-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-full-mouth-dental-implants-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-full-mouth-dental-implants-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-hair-transplant-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-hair-transplant-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-sapphire-fue-hair-transplant-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-sapphire-fue-hair-transplant-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-women-hair-transplant-clinics-in-istanbul-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/best-women-hair-transplant-clinics-in-turkey-2026-guide-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bionworx-center-for-functional-and-regenerative-medicine-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/biosculpt-medical-aesthetics-aesthetic-surgery-mishawaka-in",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/black-white-smp-by-dy-hair-transplant-bethesda-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bloom-aesthetics-wellness-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bluetail-medical-group-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bosley-hair-restoration-transplant-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bosley-hair-restoration-transplant-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bosley-hair-restoration-transplant-hair-transplant-kansas-city-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bosley-hair-restoration-transplant-hair-transplant-st-louis-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bosley-hair-restoration-transplant-hair-transplant-towson-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-augmentation-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-augmentation-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-augmentation-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-augmentation-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-augmentation-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-augmentation-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-lift-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-lift-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-lift-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-reduction-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-reduction-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-reduction-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/breast-surgery-in-stafford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/bryan-thomas-ambro-md-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/buchwach-goldstein-hair-restoration-clinic-hair-transplant-overland-park-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/buchwach-kenneth-a-md-facs-hair-transplant-overland-park-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/cardinal-dermatology-hair-transplant-south-bend-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/carl-price-md-aesthetic-surgery-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/castle-rock-hormone-health-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/castle-rock-hormone-health-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/cataract-surgery-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/cataract-surgery-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/cayce-dermatology-clinic-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/cayce-medical-spa-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/celebrity-hair-restoration-hair-transplant-mclean-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/center-for-advanced-dermatology-hair-transplant-lakewood-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/center-for-cosmetic-and-clinical-dermatology-hair-transplant-gaithersburg-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/center-for-reproductive-biology-of-ivf-indianapolis-in",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/central-dermatology-associates-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/chadwell-facial-plastic-surgery-hair-transplant-south-bend-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/chernoff-cosmetic-surgery-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/cherry-creek-eye-physicians-surgeons-p-c-eye-clinic-denver-co",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/chesapeake-hair-restoration-hair-transplants-in-hair-transplant-timonium-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/cilantro-hair-spa-llc-hair-transplant-south-bend-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/claritymd-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/concannon-plastic-surgery-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/core-and-crown-collective-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/cosmetic-surgery-hair-transplant-chesterfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/coxhealth-med-spa-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/current-dermatology-and-cosmetic-center-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/custom-you-llc-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/d-j-vu-skin-health-center-hair-transplant-newburgh-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dahiya-facial-plastic-surgery-laser-center-hair-transplant-rockville-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dan-walters-llc-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/darling-hair-restoration-hair-transplant-kansas-city-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/delta-crown-extensions-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-implants-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-implants-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-implants-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-implants-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-implants-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-implants-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-implants-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-in-stafford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-veneers-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-veneers-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-veneers-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-veneers-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-veneers-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-veneers-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-veneers-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dental-veneers-in-turkey-vs-uk-2026-cost-and-quality-comparison",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermahealth-laser-skin-care-clinic-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-advanced-aesthetic-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-associates-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-center-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-center-hair-transplant-st-louis-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-center-of-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-center-of-southern-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-clinic-pc-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-consultants-inc-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-cosmetic-surgery-hair-transplant-troy-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dermatology-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dhi-hair-transplant-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dhi-hair-transplant-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dhi-hair-transplant-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dhi-hair-transplant-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/distinguished-gentleman-dg-hair-solutions-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dluxe-hair-extension-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/doctors-of-optometry-town-center-eye-clinic-bowie-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dr-douglas-burka-md-hair-transplant-chevy-chase-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dr-meena-singh-hair-transplant-overland-park-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dr-navnit-haror-best-hair-transplant-clinic-in-delhi-ncr-surgeon-trichologist-dermatologist-skin-specialist-doctor-hair-transplant-1st-floor-mo",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/dsf-cosmetic-and-medical-dermatology-diane-s-ford-md-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/duncan-r-simmons-m-d-bosley-hair-transplant-kansas-city-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/eldorado-hair-replacement-center-hair-transplant-baltimore-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/elevate-functional-medicine-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/elevate-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/elite-aesthetics-michiana-hair-transplant-elkhart-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ent-aesthetics-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/envision-eye-care-eye-doctor-in-eye-clinic-aurora-co",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/euna-aesthetics-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ever-evolving-life-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/evolution-health-wellness-center-medical-weight-loss-hormone-replacement-therapy-aesthetics-mo-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/evolve-med-spa-hair-transplant-5255-buckeystown-pike-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/extended-hair-by-brandi-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/eye-doctors-eye-clinic-carmel-in",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/eye-dr-inside-costco-eye-clinic-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/eye-physicians-eye-clinic-baltimore-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/eye-physicians-eye-clinic-rockville-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/eye-surgery-in-stafford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/face-to-face-spa-at-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/facett-medical-spa-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/facial-oral-surgery-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/family-planning-center-ivf-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/feller-bloxham-medical-hair-transplant-st-louis-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/fertilitycare-natural-family-planning-ivf-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/follicles-hair-loss-clinic-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/forefront-dermatology-in-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/forefront-dermatology-md-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/francis-price-jr-md-eye-clinic-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/fue-hair-transplant-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/fue-hair-transplant-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/fue-hair-transplant-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/fue-hair-transplant-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/fue-hair-transplant-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/fue-hair-transplant-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/fue-hair-transplant-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/full-mouth-dental-implants-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/full-mouth-dental-implants-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/full-mouth-dental-implants-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/full-mouth-dental-implants-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-balloon-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-balloon-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-balloon-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-bypass-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-bypass-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-bypass-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-sleeve-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-sleeve-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-sleeve-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-sleeve-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-sleeve-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-sleeve-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gastric-sleeve-in-turkey-vs-uk-2026-cost-and-aftercare-comparison",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/genesis-medspa-llc-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ghq-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/glow-aesthetic-medicine-wellness-east-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/glow-aesthetic-medicine-wellness-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/gm-dental-implant-centre-united-kingdom",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/good-look-ink-scalp-micropigmentation-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/good-look-ink-scalp-micropigmentation-hair-transplant-timonium-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/goodarzi-hair-transplant-gaithersburg-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/great-hair-transplants-hair-transplant-fort-lauderdale-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/great-hair-transplants-hair-transplant-fort-lauderdale-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/great-hair-transplants-hair-transplant-fort-lauderdale-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/grow-your-hair-back-hair-transplant-clinic-hair-transplant-mclean-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/h2oasis-infusion-and-wellness-clinic-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-alexander-trichology-hair-transplant-owings-mills-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-by-lady-ambitious-hair-transplant-gaithersburg-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-by-robotics-hair-transplant-overland-park-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-care-solutions-by-kilikis-llc-hair-transplant-gladstone-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-cosmetic-dermatology-center-hair-transplant-222-s-woods-mill-rd-480-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-growth-clinic-of-parker-hair-transplant-parker-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-haven-extension-lounge-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-loss-solutions-hair-transplant-st-louis-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-rejuvenation-center-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-replacement-clinic-inc-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-restoration-hair-transplant-kirkwood-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-restoration-institute-of-minnesota-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-scalp-clinic-of-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-train-scalp-micropigmentation-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-hair-transplant-glen-burnie-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-aberdeen",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-andover",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-ankara",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-antalya",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-aylesbury",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-ballymena",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-barnet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-barnstaple",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-barry",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-basingstoke",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bath",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bedford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-belfast",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-birmingham",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-blackburn",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-blackpool",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bodrum",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bolton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bournemouth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bracknell",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bradford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-brent",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-brighton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bristol",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bromley",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bursa",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-burton-upon-trent",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-bury",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-caerphilly",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-cambridge",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-cannock",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-canterbury",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-cardiff",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-chatham",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-chelmsford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-cheltenham",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-chester",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-chesterfield",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-corby",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-coventry",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-crewe",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-croydon",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-cumbernauld",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-cwmbran",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-darlington",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-derby",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-doncaster",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-dundee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-dunfermline",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-ealing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-east-kilbride",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-eastbourne",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-edinburgh",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-enfield",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-exeter",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-falkirk",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-farnborough",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-gillingham",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-glasgow",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-gloucester",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-greenock",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-grimsby",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-guildford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-halifax",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-hamilton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-harrogate",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-harrow",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-hemel-hempstead",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-hereford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-high-wycombe",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-hounslow",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-huddersfield",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-hull",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-ilford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-inverness",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-istanbul",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-izmir",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-kettering",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-kidderminster",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-kingston-upon-thames",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-leamington-spa",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-leeds",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-leicester",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-lincoln",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-lisburn",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-liverpool",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-livingston",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-llanelli",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-london",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-londonderry",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-loughborough",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-luton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-maidstone",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-manchester",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-mansfield",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-medway",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-middlesbrough",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-milton-keynes",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-neath",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-newcastle-upon-tyne",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-newport",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-newquay",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-newry",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-northampton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-norwich",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-nottingham",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-nuneaton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-oldham",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-oxford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-paisley",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-perth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-peterborough",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-plymouth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-poole",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-portsmouth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-preston",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-reading",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-redditch",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-rochdale",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-romford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-rugby",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-salford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-scarborough",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-scunthorpe",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-sheffield",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-shrewsbury",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-solihull",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-southampton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-southend-on-sea",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-st-albans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-st-helens",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-stafford",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-stevenage",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-stockton-on-tees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-stoke-on-trent",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-sunderland",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-sutton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-sutton-coldfield",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-swansea",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-swindon",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-tamworth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-taunton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-torquay",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-truro",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-turkey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-turkey-vs-uk-2026-cost-results-and-safety-compared",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-walsall",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-warrington",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-watford",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-wellingborough",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-west-bromwich",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-weston-super-mare",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-woking",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-wolverhampton",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-worcester",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-worthing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-wrexham",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hair-transplant-in-york",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hairclub-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hairclub-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hairclub-hair-transplant-overland-park-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hairfree-hairgrow-hair-loss-hair-transplant-clinic-hair-transplant-77-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hamilton-facial-plastic-surgery-hair-transplant-greenwood-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hans-wiemann-hair-transplant-st-louis-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/harmony-skin-wellness-clinic-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/haven-medical-spa-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/health-and-wellness-of-llc-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/healthylooks-med-spa-wellness-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hollywood-smile-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hollywood-smile-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hollywood-smile-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/hollywood-smile-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-all-on-4-dental-implants-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-all-on-4-dental-implants-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-all-on-6-dental-implants-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-all-on-6-dental-implants-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-arm-lift-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-arm-lift-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-bbl-brazilian-butt-lift-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-bbl-brazilian-butt-lift-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-beard-transplant-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-beard-transplant-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-breast-augmentation-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-breast-augmentation-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-breast-lift-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-breast-lift-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-breast-reduction-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-breast-reduction-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-cataract-surgery-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-cataract-surgery-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-dental-implants-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-dental-implants-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-dental-veneers-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-dental-veneers-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-dhi-hair-transplant-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-dhi-hair-transplant-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-fue-hair-transplant-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-fue-hair-transplant-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-full-mouth-dental-implants-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-full-mouth-dental-implants-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-gastric-balloon-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-gastric-balloon-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-gastric-bypass-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-gastric-bypass-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-gastric-sleeve-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-gastric-sleeve-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-hair-transplant-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-hair-transplant-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-hollywood-smile-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-hollywood-smile-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-icsi-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-icsi-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-ivf-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-ivf-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-laser-eye-surgery-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-laser-eye-surgery-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-lasik-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-lasik-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-lens-replacement-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-lens-replacement-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-liposuction-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-liposuction-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-mommy-makeover-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-mommy-makeover-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-revision-rhinoplasty-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-revision-rhinoplasty-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-rhinoplasty-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-rhinoplasty-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-sapphire-fue-hair-transplant-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-sapphire-fue-hair-transplant-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-septorhinoplasty-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-septorhinoplasty-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-smile-makeover-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-smile-makeover-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-tummy-tuck-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-tummy-tuck-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-ultrasonic-rhinoplasty-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-ultrasonic-rhinoplasty-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-women-hair-transplant-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-women-hair-transplant-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-zirconium-crowns-cost-in-istanbul-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/how-much-does-zirconium-crowns-cost-in-turkey-2026-price-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/icon-dermatology-and-aesthetics-hair-transplant-rockville-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/icsi-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/icsi-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/icsi-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/illume-medical-spa-wellness-clinic-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/indy-scalp-design-scalp-micropigmentation-smp-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/innovative-hair-solutions-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/integrative-dermatology-laser-spa-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/is-hair-transplant-in-turkey-safe-what-uk-patients-should-know-in-2026",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/iu-health-plastic-reconstructive-surgery-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/iu-health-transplant-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ivf-fertility-in-stafford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ivf-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ivf-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ivf-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ivf-in-turkey-vs-uk-2026-cost-per-cycle-and-success-rates-compared",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/j-michael-conkright-md-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/janel-monae-restorative-hair-clinic-hair-transplant-st-louis-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/jev-plastic-surgery-medical-aesthetics-carrie-a-houssock-md-hair-transplant-owings-mills-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/joshua-co-modern-hair-lounge-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/journeylite-physicians-bariatric-surgery-greenwood-in",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/just-stylin-salon-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/kal-s-smp-hair-replacement-clinic-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/karma-beauty-and-wellness-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/kc-biohackers-bariatric-surgery-kansas-city-mo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/kenney-orthopedics-a-hanger-clinic-company-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/kmc-dermatology-hair-transplant-independence-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/kmc-hair-center-hair-transplant-mission-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/laser-and-skin-surgery-center-of-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/laser-eye-surgery-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/laser-eye-surgery-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/laser-eye-surgery-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/laser-eye-surgery-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/laser-eye-surgery-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/laser-eye-surgery-in-turkey-vs-uk-2026-price-comparison",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/lasik-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/lasik-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/lens-replacement-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/lens-replacement-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/levonye-professionals-llc-hair-transplant-glen-burnie-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/lice-clinic-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/lice-clinics-of-america-mo-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/lindsey-medical-hair-transplant-center-hair-transplant-mclean-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/liposuction-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/liposuction-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/liposuction-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/liposuction-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/liposuction-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/liposuction-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/liv-aesthetics-wellness-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/lotus-health-wellness-hair-transplant-mishawaka-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/luminare-aesthetics-wellness-llc-hair-transplant-blue-springs-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/mane-center-for-hair-restoration-hair-transplant-chevy-chase-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/mane-image-hair-replacement-center-hair-transplant-merrillville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/maria-hawkins-aesthetics-md-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/md-hair-transplant-hair-transplant-germantown-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/md-wellness-center-and-med-spa-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/medical-hair-mid-atlantic-hair-transplant-ellicott-city-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/medical-spa-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/medstar-georgetown-transplant-institute-at-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/medstar-georgetown-transplant-institute-at-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/medstar-georgetown-transplant-institute-at-hair-transplant-gaithersburg-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/meg-fox-aesthetics-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/michiana-hair-technologies-hair-transplant-elkhart-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/midwest-skin-institute-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/midwest-transplant-network-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/mommy-makeover-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/mommy-makeover-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/mommy-makeover-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/montgomery-eye-physicians-surgeons-eye-clinic-rockville-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/mountaintop-dermatology-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/my-health-care-aesthetics-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/natura-med-spa-iv-bar-cornerstar-hair-transplant-aurora-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/natural-family-planning-ivf-south-bend-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/natural-transplants-hair-restoration-clinic-hair-transplant-bethesda-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/natural-transplants-hair-restoration-clinic-hair-transplant-fort-lauderdale-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/natural-transplants-hair-restoration-clinic-hair-transplant-fort-lauderdale-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/natural-transplants-hair-restoration-clinic-hair-transplant-towson-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/nayak-plastic-surgery-hair-transplant-st-louis-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/neograft-hair-transplants-minnesota-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/nettie-j-s-beauty-botox-parlor-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/new-med-spa-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/new-roots-skin-laser-hair-transplant-clinic-hair-transplant-block-a-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/new-roots-skin-laser-hair-transplant-clinic-hair-transplant-orient-row-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/nhs-vs-turkey-dental-implants-cost-and-waiting-times-compared-2026",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/nirvana-hair-lab-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/nkd-skn-head-spa-esthetics-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/no-cap-hair-loss-solutions-hair-transplant-evansville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ohio-valley-eye-institute-eye-clinic-evansville-in",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/old-town-hair-company-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/optima-dermatology-medical-aesthetics-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/optimize-u-hormone-optimization-wellness-clinic-hair-transplant-newburgh-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/osage-valley-plastic-surgery-mo-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/parker-medical-group-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/parkview-physicians-group-plastic-surgery-aesthetic-surgery-fort-wayne-in",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/persona-doctors-bariatric-surgery-gaithersburg-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/phoenix-med-spa-hair-transplant-independence-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/physicians-eye-care-laser-center-eye-clinic-baltimore-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/pink-medspa-primary-care-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/pinnacle-smp-hair-transplant-centennial-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/planned-parenthood-health-center-ivf-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/planned-parenthood-health-center-ivf-independence-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/plastic-surgery-aesthetics-inc-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/plastic-surgery-center-p-c-hair-transplant-mishawaka-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/plastic-surgery-hair-transplant-sajak-pavillion-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/plastic-surgery-hair-transplant-timonium-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/plastic-surgery-in-stafford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/plastic-surgery-innovations-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/plastic-surgical-associates-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/premier-skin-clinic-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/price-vision-group-eye-clinic-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/prime-facial-plastic-surgery-dr-jigar-sitapara-md-hair-transplant-columbia-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/pro-scalp-hair-transplant-germantown-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rajeunir-medical-spa-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rejuv-health-wellness-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/relive-health-hair-transplant-gaithersburg-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/renova-aesthetics-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/resplendent-aesthetics-med-spa-and-iv-hair-transplant-aurora-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/resplendent-hair-hair-transplant-aurora-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/restore-hair-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/retuva-medical-spa-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/revision-rhinoplasty-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/revision-rhinoplasty-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/revision-rhinoplasty-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rhinoplasty-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rhinoplasty-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rhinoplasty-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rhinoplasty-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rhinoplasty-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rhinoplasty-in-stafford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rhinoplasty-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rhinoplasty-in-turkey-vs-uk-2026-price-and-surgeon-comparison",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ridenour-plastic-surgery-hair-transplant-creve-coeur-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rise-wellness-lounge-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/robert-andrews-medical-aesthetics-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/roots-of-nature-aesthetic-wellness-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/rosemarie-jones-md-bariatric-surgery-indianapolis-in",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/sapphire-fue-hair-transplant-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/sapphire-fue-hair-transplant-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/sapphire-fue-hair-transplant-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/sapphire-fue-hair-transplant-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-clinique-micro-hair-transplant-fishers-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-co-scalp-micropigmentation-hair-transplant-parker-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-godz-hair-transplant-3234-s-wadsworth-blvd-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-headquarters-llc-hair-transplant-kansas-city-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-micropigmentation-hair-transplant-kensington-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-micropigmentation-hair-transplant-merrillville-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-micropigmetation-star-micro-art-hair-transplant-rockville-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-prodigy-hair-transplant-silver-spring-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-theory-kc-hair-transplant-gladstone-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-therapy-micropigmentation-hair-transplant-fountain-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalp-work-studio-hair-transplant-bowie-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/scalpro-scalp-micropigmentation-hair-transplant-denver-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/septorhinoplasty-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/septorhinoplasty-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/septorhinoplasty-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/serotonin-centers-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/shady-grove-dermatology-hair-transplant-rockville-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/shah-plastic-surgery-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/shock-plastic-surgery-spa-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/skin-and-hair-center-hair-transplant-overland-park-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/skin-cancer-and-dermatology-center-of-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/skin-clinic-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smile-hair-clinic-hair-transplant-turkey-istanbul-hair-transplant-alptekin-cd-no-15-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smile-makeover-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smile-makeover-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smile-makeover-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smile-makeover-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smilecentric-general-cosmetic-implant-dentistry-dental-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smp-by-dez-hair-transplant-st-louis-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smp-energy-by-damon-hair-transplant-baltimore-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/smp-iconic-hair-transplant-kensington-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/solomon-eye-physicians-and-surgeons-llc-eye-clinic-bowie-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/solve-clinics-hair-transplant-chicago-hair-transplant-building-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/sono-bello-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/sono-bello-hair-transplant-mishawaka-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/sora-dermatology-hair-transplant-lakewood-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/soul-beauty-aesthetics-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/southern-aesthetics-plastic-surgery-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/springs-aesthetics-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ssm-health-saint-louis-university-hospital-transplant-clinic-hair-transplant-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/streaks-of-gold-hair-restoration-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/sullivan-surgery-spa-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-centre-p-c-hair-transplant-mishawaka-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-clinic-aesthetics-and-spa-hair-transplant-mishawaka-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-clinic-dermatology-hair-transplant-mishawaka-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-clinic-dermatology-hair-transplant-south-bend-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-clinic-hair-transplant-mishawaka-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-clinic-hair-transplant-south-bend-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-clinic-smp-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-clip-joint-salon-spa-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-cosmetic-skin-surgery-center-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-dentist-family-implant-dentistry-dental-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-fix-laser-skin-solutions-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-glam-room-kc-hair-transplant-kansas-city-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-hairdocta-holisitc-hair-loss-specialist-hair-transplant-kansas-city-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-laser-clinic-hair-transplant-columbia-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-medical-spa-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-personal-touch-hair-replacement-center-hair-transplant-fort-wayne-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-refinery-hair-transplant-newburgh-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-scalp-oasis-luxury-head-spa-and-facials-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/the-university-of-kansas-physicians-women-s-health-specialty-ivf-kansas-city-mo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tim-s-hair-regrowth-clinic-hair-transplant-ellicott-city-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tooth-implant-brooklyn-dental-kansas-city-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/transformations-wellness-spa-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/transformed-aesthetic-and-wellness-center-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/transitions-indy-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/trayam-dermatology-hair-transplant-south-bend-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tummy-tuck-bbl-in-stafford",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tummy-tuck-in-ankara-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tummy-tuck-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tummy-tuck-in-bodrum-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tummy-tuck-in-bursa-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tummy-tuck-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/tummy-tuck-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/turkey-vs-poland-for-dental-implants-2026-comparison-for-uk-patients",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/u-s-dermatology-partners-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/u-s-dermatology-partners-hair-transplant-lee-s-summit-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/u-s-dermatology-partners-hair-transplant-rockville-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/uchealth-transplant-center-anschutz-outpatient-pavilion-hair-transplant-7th-floor-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ultrasonic-rhinoplasty-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ultrasonic-rhinoplasty-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/ultrasonic-rhinoplasty-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/unity-physicians-hospital-bariatric-surgery-mishawaka-in",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/university-health-dermatology-hair-transplant-independence-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/university-of-kansas-physicians-advanced-reproductive-medicine-ivf-leawood-mo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/unveiled-health-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/vanished-aesthetics-wellness-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/vargas-face-and-skin-center-hannah-vargas-md-hair-transplant-prairie-village-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/venus-hair-loss-restoration-and-hair-spa-clinic-hair-transplant-o-fallon-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/vibrant-life-dr-brittain-hair-transplant-bloomington-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/victor-martins-costa-md-bariatric-surgery-springfield-mo",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/vio-med-spa-hair-transplant-annapolis-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/vip-hair-center-hair-transplant-colorado-springs-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/visage-dermatology-and-aesthetic-center-hair-transplant-bowie-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/visionary-eye-doctors-eye-clinic-rockville-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/visionary-eye-doctors-rosalie-bair-m-d-marielle-mahan-m-d-eye-clinic-gaithersburg-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/visionmd-eye-doctors-eye-clinic-glenn-dale-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/visionworks-doctors-of-optometry-eye-clinic-bloomington-in",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/we-grow-hair-indy-pai-medical-group-hair-transplant-indianapolis-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/weave-dr-s-wig-hair-loss-clinic-hair-transplant-bowie-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/wig-company-hair-transplant-frederick-md",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/wise-aesthetics-hair-transplant-carmel-in",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/women-hair-transplant-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/women-hair-transplant-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/women-hair-transplant-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/women-hair-transplant-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/xanadu-med-spa-hair-transplant-fort-collins-co",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/zirconium-crowns-in-antalya-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/zirconium-crowns-in-istanbul-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/zirconium-crowns-in-izmir-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.drvisor.com/products/zirconium-crowns-in-turkey-2026-guide-costs-and-verified-clinics",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

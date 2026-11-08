@@ -1,0 +1,13 @@
+{
+  "name": "Practo",
+  "domain": "practo.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://practo.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://practo.com/pricing"
+  ],
+  "all_categorized": []
+}

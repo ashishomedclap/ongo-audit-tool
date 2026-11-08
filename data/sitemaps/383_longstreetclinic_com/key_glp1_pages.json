@@ -1,0 +1,424 @@
+{
+  "name": "Longstreetclinic",
+  "domain": "longstreetclinic.com",
+  "total_urls": 531,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.longstreetclinic.com/attention-take-these-steps-if-youre-feeling-sick/",
+    "https://www.longstreetclinic.com/limited-time-gastric-sleeve-at-reduced-price-2024/",
+    "https://www.longstreetclinic.com/limited-time-gastric-sleeve-offered-at-reduced-price/",
+    "https://www.longstreetclinic.com/tlc-congratulates-dr-keshma-saujani-for-membership-in-aimis-300-club/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.longstreetclinic.com/2016-atlanta-magazine-top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/2026-healthy-hall-awards-honor-four-longstreet-providers-employees/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/3-physicians-named-2021-georgia-trend-top-doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/5-physicians-named-georgia-trend-top-doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/about-us/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/about-us/physician-leadership/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/advanced-practice-providers-play-vital-role-at-longstreet-clinic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/atlanta-magazine-2017-top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/attention-take-these-steps-if-youre-feeling-sick/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/beloved-physician-dr-ellen-sanders-dies/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/caresource-recognizes-longstreet-clinic-as-top-performer-in-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/center-for-pediatrics-five-locations-are-now-patient-centered-medical-homes/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/center-for-womens-health-welcomes-new-physician/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/clinic-welcomes-five-physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/clinic-welcomes-new-physician-farooqi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/clinic-welcomes-six-new-physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/doctors-share-images-with-secure-software/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/dr-andrew-reisman-sworn-in-as-president-of-medical-association-of-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/eight-named-2024-atlanta-magazine-top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/epic-longstreet-clinic-launches-electronic-health-record-with-northeast-georgia-health-system/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/faq-after-weight-loss-surgery/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/faq-before-weight-loss-surgery/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/five-named-georgia-trend-top-doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/four-named-2025-atlanta-magazine-top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/georgia-trend-article-features-longstreet-physicians/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/healthy-hall-awards-spotlight-five-longstreet-clinic-providers-employees/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/limited-time-gastric-sleeve-at-reduced-price-2024/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/limited-time-gastric-sleeve-offered-at-reduced-price/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/longstreet-clinic-joins-northeast-georgia-health-system/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/longstreet-clinic-welcomes-three-new-physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/longstreet-clinic-welcomes-two-obgyn-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/longstreet-clinics-dr-frank-mcdonald-sworn-in-as-president-of-the-medical-association-of-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/longstreet-physician-reisman-appointed-to-state-medical-board/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/longstreet-physicians-named-atlanta-magazine-top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/meet-our-10-newest-physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/new-physician-joins-family-medicine-in-oakwood/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/new-physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/northeast-georgia-medical-center-surgeons-collaborate-in-national-program-to-improve-patient-care/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/obesity-solutions-voted-1-weight-loss-clinic-in-north-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/physicians-staff-honored-with-healthy-hall-awards/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/primary-care-physicians-recognized-for-quality-heart-and-stroke-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/providers-discuss-flu-coronavirus-on-radio/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/service/pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/seven-named-2023-georgia-trend-top-doctors/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/seven-physicians-named-2018-top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/six-longstreet-doctors-designated-as-surgeons-of-excellence/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/six-named-atlanta-magazine-top-doctors-2023/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/six-named-atlanta-magazine-top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/states-first-voyager-mri-now-open-at-longstreet-clinic/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tag/physician-news/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tag/top-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/terrill-is-newest-physician-to-join-our-center-for-womens-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tlc-congratulates-dr-keshma-saujani-for-membership-in-aimis-300-club/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tlc-is-latest-group-to-join-medical-association-of-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tlc-named-champion-for-states-ehr-incentive-program/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tlc-neurologist-mcdonald-graduates-from-georgia-physicians-leadership-academy/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tlc-neurosurgeon-betsy-grunch-md-faans-first-in-georgia-to-perform-artificial-disc-replacement-with-new-technology/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tlc-neurosurgeon-nabil-muhanna-m-d-inducted-into-the-northeast-georgia-business-hall-of-fame/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tlc-physicians-elected-to-key-positions-with-mag/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/tlc-physicians-represent-hall-county-for-doctors-day-at-capitol/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/two-tlc-physicians-elected-to-posts-with-the-medical-association-of-georgia/",
+      "categories": [
+        "Doctor",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/updated-covid-19-visitor-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.longstreetclinic.com/want-to-share-your-pregnancy-journey-thanks-to-tlc-physician-theres-an-app-for-that/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Science",
+  "domain": "science.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://science.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://science.org/pricing"
+  ],
+  "all_categorized": []
+}

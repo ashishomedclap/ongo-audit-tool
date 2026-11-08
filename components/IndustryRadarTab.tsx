@@ -208,12 +208,7 @@ export default function IndustryRadarTab() {
         </div>
       </div>
 
-      <ContextCue
-        useCase="Check these authoritative sources daily and weekly to anticipate FDA shortage list shifts, court injunctions, state licensing changes, and competitor pricing moves before they hit mainstream headlines."
-        title="Why Ongo Monitors Industry Feeds"
-        about="Telehealth GLP-1 care is an active regulatory battlefield. Monitoring the FDA shortage list, USP <797> compounding updates, and FSMB state video mandates ensures Ongo protects its supply chain, remains 100% compliant, and converts price-sensitive patients."
-      />
-
+      
       {/* Filter & Search Bar */}
       <div className="glass-card" style={{ padding: '16px 20px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
         <div style={{ display: 'flex', gap: '14px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'space-between' }}>

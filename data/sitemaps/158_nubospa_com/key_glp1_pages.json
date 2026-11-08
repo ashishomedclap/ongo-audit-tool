@@ -1,0 +1,94 @@
+{
+  "name": "Nubospa",
+  "domain": "nubospa.com",
+  "total_urls": 102,
+  "semaglutide_pages": [
+    "https://nubospa.com/medspa-berkeley/medical-weight-loss/semaglutide-wegovy/"
+  ],
+  "tirzepatide_pages": [
+    "https://nubospa.com/medspa-berkeley/medical-weight-loss/tirzepatide/"
+  ],
+  "pricing_pages": [
+    "https://nubospa.com/about/membership/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://nubospa.com/about/membership/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/christopher-asandra-md/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/dina-khait-whnp-bc/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/dr-trent-d-douglas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/gillian-adriano/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/jay-ortiz-le/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/jennifer-guthrie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/kelsy-cole-rn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/about/our-team/kendra-ramirez-le/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/medspa-berkeley/medical-weight-loss/semaglutide-wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/medspa-berkeley/medical-weight-loss/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://nubospa.com/what-is-a-biostimulator/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

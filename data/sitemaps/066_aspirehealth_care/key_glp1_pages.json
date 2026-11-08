@@ -1,0 +1,13 @@
+{
+  "name": "Aspirehealth",
+  "domain": "aspirehealth.care",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://aspirehealth.care/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://aspirehealth.care/pricing"
+  ],
+  "all_categorized": []
+}

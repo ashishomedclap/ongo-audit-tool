@@ -1,0 +1,13 @@
+{
+  "name": "Glweightloss",
+  "domain": "glweightloss.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://glweightloss.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://glweightloss.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Doctorsdietamerica",
+  "domain": "doctorsdietamerica.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://doctorsdietamerica.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://doctorsdietamerica.com/pricing"
+  ],
+  "all_categorized": []
+}

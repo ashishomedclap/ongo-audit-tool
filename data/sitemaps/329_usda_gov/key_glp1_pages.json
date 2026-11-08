@@ -1,0 +1,3492 @@
+{
+  "name": "Usda.gov",
+  "domain": "usda.gov",
+  "total_urls": 1161,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/feds-feed-families",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/career-transition-assistance-plan-ctap",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2023-usda-budget-explanatory-notes",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2024-usda-budget-explanatory-notes",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2025-usda-budget-explanatory-notes",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2026-usda-budget-explanatory-notes",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2027-usda-budget-explanatory-notes",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/financial-policy-and-planning",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/senior-leadership/associate-chief-financial-officer-financial-policy-and-planning",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/national-security-and-unallowable-costs",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports/agency-financial-reports-afr",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports/budget-summary-and-annual-performance-plan",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports/conference-reports",
+    "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports/quarterly-high-dollar-reports"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/businesses",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/consumers",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/contact-us",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/donating",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/farmers",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/federal-interagency-food-loss-and-waste-fiflaw-collaboration",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/funding",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/latest-news-and-multimedia",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/latest-news-and-multimedia/videos-translating-food-loss-and-waste-action",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/national-strategy-reducing-food-loss-and-waste-and-recycling-organics",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/schools",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/us-food-loss-and-waste-2030-champions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/usda-activities-and-partnerships",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-food/food-safety/food-loss-and-waste/why-should-we-care-about-food-waste",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/disaster-resource-center/hawaii-wildfires",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/disaster-resource-center/weather-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/disaster-resource-center/wildland-fire/interagency-post-fire-integration-council",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/disaster-resource-center/wildland-fire/wildland-fire-mitigation-and-management-commission",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/disaster-resource-center/wildland-fire/wildland-fire-mitigation-and-management-commission/commission-members",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/disaster-resource-center/wildland-fire/wildland-fire-mitigation-and-management-commission/wildland-fire-mitigation-and-management-commission-opportunities-engagement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs-es/22007/previous-resources-documents-es/eligibility-es",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/22007-es/previous-resources-documents-es/local-assistance-es",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/combined-federal-campaign-cfc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/feds-feed-families",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/future-work-toolkit/frequently-asked-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/future-work-toolkit/travel-guidance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/indigenous-animals-grant/awarded-iag-grants",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/indigenous-animals-grant/how-apply",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/national-bio-and-agro-defense-facility/news-and-outreach/nbaf-and-k-state-partnership-achieves-5-year-milestone",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/national-bio-and-agro-defense-facility/news-and-outreach/nbaf-employees-escort-families-campus",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/national-bio-and-agro-defense-facility/news-and-outreach/passion-and-purpose",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/national-bio-and-agro-defense-facility/news-and-outreach/woah-designates-nbaf-collaborating-centre-genomic-monitoring-viral-swine-diseases",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/food-access-food-waste",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/food-access-food-waste/composting",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/food-access-food-waste/food-loss-and-waste",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/food-access-food-waste/root-stem-eating",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/gardening-advice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/gardening-advice/container-gardening",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/gardening-advice/practice-integrated-pest-management-ipm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/gardening-advice/trees-and-food-forests",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/gardening-advice/why-native-species-matter",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/importance-pollinators",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/importance-pollinators/bats",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/importance-pollinators/butterflies",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/importance-pollinators/honey-bees",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/registration-form",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/soil-health",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/soil-health/cover-crops-and-crop-rotation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/soil-health/mulch",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/stories-peoples-gardens",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/what-peoples-garden",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/peoples-garden/what-peoples-garden/usda-headquarters-washington-dc-peoples-garden-and-usda-farmers-market",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/certified-government-contractors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/general-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/getting-started-government-contractor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/glossary-government-contracting-terms",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/minority-owned-business",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/programs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/usda-small-business-workshops",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/veteran-owned-small-business",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/small-business/woman-owned-business",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/usda-cares-partner-portal/key-programs-catalog/key-programs-organizations/equipment-grants-program-egp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/usda-cares-partner-portal/resource-library/applying-loans-and-grants",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs/usda-cares-partner-portal/resource-library/farming-business-basics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/leadership-usda/public-schedules",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/our-agency",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/priorities/climate-solutions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/priorities/climate-solutions/climate-change-adaptation-and-usda",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/priorities/climate-solutions/partnerships-climate-smart-commodities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/priorities/more-better-and-new-market-opportunities/creating-more-markets-home",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/priorities/more-better-and-new-market-opportunities/enhancing-markets-abroad",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/priorities/more-better-and-new-market-opportunities/ensuring-fair-markets",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/priorities/more-better-and-new-market-opportunities/transforming-americans-food-system-withstand-crises",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/leadership-and-offices/deputy-chief-human-capital-officer-office-human-resources-management",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/leadership-and-offices/patricia-st-clair",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-contracting-and-procurement-ocp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-contracting-and-procurement-ocp/contracting-and-purchasing-e-tools",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-contracting-and-procurement-ocp/definitions-and-acronyms",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-contracting-and-procurement-ocp/fair-act-inventories",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-contracting-and-procurement-ocp/policies-regulations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-contracting-and-procurement-ocp/service-contract-inventories",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-contracting-and-procurement-ocp/usda-far-class-deviations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-customer-experience-ocx/toolkit/customer-experience-at-usda",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-customer-experience-ocx/toolkit/frameworks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-customer-experience-ocx/toolkit/governance-and-accountability",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-customer-experience-ocx/toolkit/library",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-customer-experience-ocx/toolkit/metrics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-homeland-security-ohs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/career-transition-assistance-plan-ctap",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/classification-and-organization",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/compensation-and-leave",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/employee-misconduct-investigations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/employee-relations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/employment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/federal-insurance-and-retirement-benefits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/onboarding-portal",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/onboarding-portal/new-employees",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/onboarding-portal/pay-benefits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/onboarding-portal/reporting-day",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/onboarding-portal/resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/onboarding-portal/supervisors-sponsors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/onboarding-portal/training",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/performance-management",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/recognition-and-awards",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/reemployment-priority-list-rpl",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/term-agreements",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/transit-subsidy-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-human-resources-management-ohrm/weingarten-rights",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/customer-relations-branch",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/executive-services-division-esd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/facilities-management-division-fmd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/mail-and-reproduction-management-division",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/mail-and-reproduction-management-division/find-current-mail-stop-codes-usda-headquarters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/material-management-service-center/auctions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/material-management-service-center/central-excess-property-operation-cepo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/material-management-service-center/consolidated-forms-publications-distribution-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/material-management-service-center/directions-material-management-service-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/material-management-service-center/going-green",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/program-and-policy-support-staff-ppss",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/safety-sustainability-and-emergency-operations-division-sseod",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/events/past-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/events/past-events/2023-national-disability-employment-awareness-month-ndeam",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/leadership/director-sergio-porras",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/accessible-communications-ac",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/accessible-communications-ac/accessible-communications-ac-presentations-and-exhibits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/accessible-communications-ac/accessible-communications-ac-technology-demonstrations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/accessible-communications-ac/emergency-preparedness",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/accessible-communications-ac/temporary-scooter-loans",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/assistive-technology-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/assistive-technology/assistive-technology-evaluation-and-national-loan-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/assistive-technology/assistive-technology-listing",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/assistive-technology/assistive-technology-presentations-and-exhibits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/assistive-technology/assistive-technology-technology-demonstrations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/education-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/education/ability-awareness-training",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/education/education-presentations-and-exhibits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/education/technology-showcase-tours",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/ergonomics-ergo-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/ergonomics-ergo/chair-fittings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/ergonomics-ergo/ergonomic-ergo-presentations-and-exhibits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/ergonomics-ergo/ergonomic-ergo-technology-demonstrations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/ergonomics-ergo/ergonomics-equipment-list-page",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/ergonomics-ergo/ergonomics-evaluation-and-national-loan-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/programs/interpreting-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/services/reasonable-accommodations-contacts",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/services/services-availability-dc-metro-area",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/target-center-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/target-center-external-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/target-center-leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/target-center-programs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-operations-oo/target-center/target-center-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-property-and-environmental-management-opem",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-safety-security-and-protection-ossp",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-safety-security-and-protection-ossp/usda-lincpass-program",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/abilityone",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/contracting-usda/vendor-capability-submission-portal",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/forecast-contract-opportunities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/new-entrants",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/osdbu-contracting-usda",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/small-business-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/subcontracting-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/upcoming-events/past-osdbu-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu/upcoming-osdbu-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/erpo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/civil-rights-offices",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/how-file-usda-discrimination-complaint/how-report-section-508-accessibility-and-compliance-violation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/mission",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/one-oascr",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/policy",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/policy/elijah-e-cummings-federal-employee-antidiscrimination-act-2020-report",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/policy/title-ix-education-amendments-1972",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/policy/title-vi-civil-rights-act-1964",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights/program-complaint",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2023-usda-budget-explanatory-notes",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2024-usda-budget-explanatory-notes",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2025-usda-budget-explanatory-notes",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2026-usda-budget-explanatory-notes",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-budget-and-program-analysis/congressional-justifications/2027-usda-budget-explanatory-notes",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/agricultural-outlook-forum/aof-commodity-outlooks",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report/about-wasde",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/newsroom/podcast-usda-now-you-know",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/newsroom/podcast-usda-now-you-know/podcast-bioengineered-food-disclosure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/newsroom/podcast-usda-now-you-know/podcast-great-grain-robbery",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/newsroom/podcast-usda-now-you-know/podcast-opportunities-sustainable-ag",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/newsroom/podcast-usda-now-you-know/podcast-sustainable-agriculture",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/newsroom/podcast-usda-now-you-know/podcast-us-drought-monitor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-energy-and-environmental-policy",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-energy-and-environmental-policy-0",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-energy-and-environmental-policy/climate-change/climate-change-science-seminar-series",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-energy-and-environmental-policy/climate-change/fifth-national-climate-assessment",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-energy-and-environmental-policy/climate-change/greenhouse-gas-inventory-and-assessment-program/agriculture-and-forestry-greenhouse-gas-inventory-data-viewer",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-energy-and-environmental-policy/climate-change/greenhouse-gas-inventory-and-assessment-program/quantifying-greenhouse-gas-fluxes-methods-entity-scale-inventory",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-energy-and-environmental-policy/energy-policy-and-new-uses",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-pest-management-policy-opmp",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/office-pest-management-policy-opmp/opmp-webinar-series",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oracba/about-oracba",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/sustainability/sustainable-productivity-growth-coalition/spg-coalition-background",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/sustainability/sustainable-productivity-growth-coalition/spg-coalition-members-and-how-join",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/sustainability/sustainable-productivity-growth-coalition/spg-coalition-outputs-and-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/sustainability/sustainable-productivity-growth-coalition/sustainable-agricultural-productivity-growth-what-why-and-how",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/contact",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/financial-operations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/financial-policy-and-planning",
+      "categories": [
+        "Pricing",
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/important-topics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/important-topics/email-management",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/important-topics/essential-records-information",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/important-topics/federal-electronic-records-modernization-initiative-fermi",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/important-topics/federal-records-management-and-public",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/important-topics/nara-transfer-guidance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/national-archives-and-records-administration-nara",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/ocfo-records-management-point-contact",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/policy-and-guidance",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/policy-and-guidance/index-frequently-asked-questions",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/policy-and-guidance/nara-basic-laws-and-authorities",
+      "categories": [
+        "Doctor",
+        "Author",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/policy-and-guidance/nara-bulletins",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/policy-and-guidance/nara-code-federal-regulations",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/policy-and-guidance/records-control-schedules-rcs",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/policy-and-guidance/records-management-regulations-policy-and-guidance",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/ocfo-records-management-program/policy-and-guidance/usda-ocfo-directives",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/organization-chart",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/senior-leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/senior-leadership/associate-chief-financial-officer-financial-policy-and-planning",
+      "categories": [
+        "Pricing",
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/senior-leadership/associate-chief-financial-officer-shared-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/senior-leadership/deputy-chief-financial-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/senior-leadership/national-finance-center-deputy-director",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/senior-leadership/national-finance-center-director",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/senior-leadership/national-finance-center-director-office-customer-and-employee-experience",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/about-ocfo/shared-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/agpay-xpress",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/contact-ocfo",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/about-ezfedgrants",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/efg-training-schedule",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/faq-and-general-information",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/faq-and-general-information/applications-agreements-ezfedgrants",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/faq-and-general-information/claims-and-reports-ezfedgrants",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/faq-and-general-information/intro-ezfedgrants",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/using-ezfedgrants-job-aid-library",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/using-ezfedgrants-job-aid-library/access-user-roles",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/using-ezfedgrants-job-aid-library/efg-training-sessions-content",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/ezfedgrants/using-ezfedgrants-job-aid-library/grants-process-job-aid-library",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act-federal-financial-assistance/build-america-buy-america-definitions",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act-federal-financial-assistance/build-america-buy-america-faqs-manufacturers",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act/common-waiver-form",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act/guidance-submissions",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act/public-comment",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act/resources",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act/waiver-policy",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act/waiver-process",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/build-america-buy-america-baba-act/waiver-status",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/debarment-and-suspension",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/infrastructure-investment",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/intergovernmental-review",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/national-security-and-unallowable-costs",
+      "categories": [
+        "Pricing",
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/federal-financial-assistance-policy/usda-general-terms-and-conditions",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/office-chief-records-officer-us-government",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/office-chief-records-officer-us-government/entry-and-exit-clearance-documents-all-usda-personnel",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/office-chief-records-officer-us-government/entry-and-exit-clearance-documents-all-usda-personnel/documenting-your-public-service",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/office-chief-records-officer-us-government/training-and-education",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/office-chief-records-officer-us-government/training-and-education/agency-records-officer-credential",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/office-chief-records-officer-us-government/training-and-education/microlearning-lessons",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/office-chief-records-officer-us-government/training-and-education/records-management-training-online-lessons",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/office-chief-records-officer-us-government/training-and-education/records-management-training-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports/agency-financial-reports-afr",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports/budget-summary-and-annual-performance-plan",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports/conference-reports",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/plans-and-reports/quarterly-high-dollar-reports",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/travel-express",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/travel-express/conference-training-templates",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/travel-express/travel-charge-card",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/travel-express/travel-policy",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/travel-express/travel-policy-faqs",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/travel-express/travel-resource-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-financial-officer/travel-express/travel-training",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/client-experience-center-cec",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/cybersecurity-and-privacy-operations-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/cybersecurity-and-privacy-operations-center/how-we-serve-our-customers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/cybersecurity-and-privacy-operations-center/what-do-if-you-think-youve-been-breached",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/annual-reports",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/about-intelligent-automation",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/best-practices",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/bot-inventory-use-cases",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/center-excellence",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/evolution-intelligent-automation-usda",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/help",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/ideas",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/operating-model",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/overview",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/intelligent-automation-center-excellence/service-models",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/chief-operating-officerdeputy-associate-cio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/director-digital-services-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/director-enterprise-applications-services-division",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/director-enterprise-hosting-solutions-division",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/director-network-enterprise-division",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/financial-operations-division",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/security-governance-division",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/senior-advisor-disc-assistant-chief-information-officer-acio-and-deputy-aciochief-operating-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/leadership/strategy-management-and-complex-solutions-division-smcs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/service-desk",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-infrastructure-services-center-disc/system-and-network-control-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-service-usda-ds",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-service-usda-ds/fellows-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-service-usda-ds/fellows-program/frequently-asked-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-service-usda-ds/fellows-program/how-apply-fellowship",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-service-usda-ds/what-we-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/digital-service-usda-ds/who-we-are",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/eas-mobile-services-brochure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-applications-services-eas",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-applications-services-eas/contracts-vs-iaas-faq",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-applications-services-eas/eas-mobile-application-development",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-applications-services-eas/eas-section-508-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-applications-services-eas/eas-sharepoint-services-brochure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-applications-services-eas/eas-sharepoint-services-brochure/sharepoint-frequently-asked-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-geospatial-management-office",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-network-services-ens",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-network-services-ens/current-priorities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/enterprise-network-services-ens/services-agencies-and-partners",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-collection",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-collection/faqs",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-collection/information-collection-package",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/agency-quality-officials",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/background",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/correction-information",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/general-reference",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/information-quality-data-call",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/information-quality-peer-review",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/organizational-and-administrative",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/programs-and-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/regulatory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/scientific-research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/information-quality-activities/statistical-and-financial",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/paperwork-reduction-act",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/section-508-accessibility-and-compliance",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/section-508-accessibility-and-compliance/processing-complaints",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/section-508-accessibility-and-compliance/section-508-checklists",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/guidelines-and-compliance-resources/usda-section-508-coordination-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/enterprise-architecture-division-ead",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/information-management-division-imd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/information-technology-policy-audits-division-ipad",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/information-technology-policy-audits-division-ipad/e-government-e-gov",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/information-technology-portfolio-management-division-itpmd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/information-technology-strategic-planning-governance-division-itspgd",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/information-technology-strategic-planning-governance-division-itspgd/integrated-information-technology-governance-framework-iitgf",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/information-technology-strategic-planning-governance-division-itspgd/usda-it-governance-framework-overview",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/information-resource-management-center/information-technology-strategic-planning-governance-division-itspgd/usda-it-governance-structure",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-centers-and-sub-centers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-centers-and-sub-centers/chief-technology-officer-cto",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/anthony-brannum",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/arianne-gallagher-welcher",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/cedric-bragg",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/christopher-alvares",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/dave-peters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/denessa-moses",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/donald-bitner",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/kimberly-jackson",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/linda-lewis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/lisa-keeter",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/matthew-kopp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/ocio-leadership/sam-berry",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/service-offerings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/service-offerings/aglearn-cultivating-knowledge-and-community",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/service-offerings/data-center-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/service-offerings/security-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer/service-offerings/sharepoint-services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-scientist",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-scientist/international-science-and-technology-engagements",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-scientist/ocs-leadership/executive-director-office-chief-scientist-ocs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-scientist/ocs-leadership/ocs-deputy-director",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-scientist/seed-sovereignty-initiative",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-communications",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/meet-our-staff/alexander-wilgocki",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/meet-our-staff/casey-j-conlee",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/meet-our-staff/chris-berardi",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/meet-our-staff/chris-kidd",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/meet-our-staff/sam-wenner",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/meet-our-staff/thomas-tommy-egbert",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/meet-our-staff/yvette-herrell",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/dietary-guidelines-americans",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/faith-and-food-security",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/farm-stress-and-mental-health-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/grant-writing-resources-faith-and-community-based-organizations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/meet-our-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/meet-our-staff/deputy-director-center-faith",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/meet-our-staff/director-center-faith",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/meet-our-staff/senior-advisor-faith-and-community-outreach",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/usda-disaster-recovery-and-faith-based-organizations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/center-faith/view-our-past-events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-congressional-relations/office-external-and-intergovernmental-affairs/meet-our-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/about-office-ethics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/ethics-advisors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/ethics-and-drp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/financial-disclosure-tools",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/forms",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/frequently-asked-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/new-employees",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/oge-450-training",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/other-links",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/rules-road",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/training-2025",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-ethics/training-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-executive-secretariat",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-general-counsel",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-general-counsel/office-information-affairs",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-general-counsel/office-information-affairs/records-management-division/records-management-notices-and-memorandums",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-general-counsel/office-information-affairs/records-management-division/records-management-quick-guides",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-general-counsel/office-information-affairs/records-management-division/usda-nara-approved-records-schedules",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/leadership",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/leadership/deputy-director-usda-office-hearings-and-appeals",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/leadership/director-usda-office-hearings-and-appeals",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division/contact-nad",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division/equitable-relief-reports",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division/faqs-about-nad-appeals",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division/how-file-nad-appeal",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division/how-file-nad-appeal/electronic-file-submission-box",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division/nad-guidance-regulations-and-statutes",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division/outreach",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/about-judges",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/about-judges/administrative-law-judge-tierney-m-carlos",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/about-judges/chief-administrative-law-judge",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/acts-and-programs-administered",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/contact-hearing-clerks-office",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/contact-oalj",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/forms-and-information",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/frequently-asked-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/rules-practice-and-procedure",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/services",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/services/agriculture-decisions-archive",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/services/agriculture-decisions-publication",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-administrative-law-judges/services/oalj-decisions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-judicial-officer",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/office-judicial-officer/ojo-decisions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-inspector-general",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/meet-our-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/meet-our-staff/adrienne-pena-garza",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/meet-our-staff/bruce-levell",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/meet-our-staff/jason-allen",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/meet-our-staff/russell-laird",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/meet-our-staff/steve-messeh",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/military-veterans-agricultural-liaison-mval",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/minority-serving-higher-education-institutions/usda-e-kika-de-la-garza-fellowship-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/oppe-monthly-newsletters",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-partnerships-and-public-engagement/usda-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-tribal-relations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-tribal-relations/programs-and-services/usda-indigenous-food-sovereignty-initiative",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-tribal-relations/reports-and-publications",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-tribal-relations/training-resources",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-tribal-relations/usda-1994-tribal-scholars-program",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/white-house-liaison-office",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/white-house-liaison-office/about-usda-advisory-committees",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/white-house-liaison-office/advisory-committees",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/white-house-liaison-office/frequently-asked-questions-and-answers-about-usdas-advisory-committee-meetings",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/white-house-liaison-office/frequently-asked-questions-and-answers-regarding-advisory-committee-memberships",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/white-house-liaison-office/nominations-applications-membership-how-apply",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/white-house-liaison-office/overview-and-general-information-advisory-committee-membership",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/general-information/topics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/news/radio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/news/usda-live",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-directives",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-directives/directive-status",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-directives/directives-category",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-directives/general-information",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-directives/usda-departmental-directives-contacts",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-forms",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-forms/electronic-forms",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-forms/paper-forms-inventory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/departmental-forms/usda-departmental-forms-contacts",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/about",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/accessibility",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/accessibility/accessibility-plays",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/analytics",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/analytics/analytics-plays",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/connect",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/content",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/content/content-plays",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/design-and-brand",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/design-and-brand/design-and-brand-plays",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/development",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/development/development-plays",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/digital-strategy-frequently-asked-questions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/research",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/research/research-plays",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/social-media",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/social-media/social-media-plays",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/tools",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/digital-strategy/web-modernization-maturity-assessment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/policies-and-links/digital/federal-information-technology-acquisition-reform-act",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/presidential-actions",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/presidential-actions/spending-transparency",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/reorganization",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/working-usda/careers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/working-usda/stratus/current-stratus-vendors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/working-usda/stratus/events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/working-usda/stratus/getting-started",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/working-usda/stratus/program-benefits",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/about-usda/working-usda/stratus/training",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/energy-and-environmental-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/urban-agriculture-and-innovative-production/composting-and-food-waste-reduction-cfwr-cooperative-agreements/fy2023-cfwr-composting-and-food-waste-reduction-program-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/plants-and-crops/biotechnology/bioeconomy",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/plants-and-crops/biotechnology/biotechnology-and-climate-change",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/plants-and-crops/pest-and-weed-management",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/plants-and-crops/pest-and-weed-management/invasive-species",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/plants-and-crops/plant-breeding",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/plants-and-crops/plant-breeding/pollinators",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/plants-and-crops/plant-health-and-research",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/farming-and-ranching/plants-and-crops/plant-health-and-research/coordinated-response-pasture-mealybug",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/internships/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/nbaf/media/press-releases/2023/nbaf-biokansas-partner-offer-stem-internships-underrepresented-populations",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/oce/award-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/ocfo-about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/ocfo/about-us/records-management-program/chief-records-officer/training-and-education/remis",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/ocfo/about-us/section-508/training",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/ocfo/ezfedgrants/faq-and-general-information/onboarding-accessing",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/ocio/centers/irmc/it-workforce-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/oe/rules-road/ethics-issuances/02-2-delegations-authority",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/oe/rules-road/overview/ethics-advisors-desk-reference",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/oe/rules-road/political-activity/dos-and-donts-career-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/our-agency/about-usda/our-deputy-secretary",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/our-agency/about-usda/our-secretary",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/our-agency/staff-offices/office-communications-oc/constituent-affairs/events",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/partner-portal/key-programs-catalog/programs-for-individuals/ez-guarantee-loans",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/partnerships-climate-smart-commodities-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/partnerships/advisory-committee-on-minority-farmers/georgia-acmf-public-meeting",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/privacy-policy/system-records-notices",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/seafood/safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/si/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/target-center/services/temporary-scooter-loans/usda-target-center-scooter-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/technical-guidelines-climate-smart-biofuel-feedstocks",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/technical-guidelines-regenerative-biofuel-feedstocks",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/topics/trade/international-food-standards/general-terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/topics/urban/grants/uaip-fy-2024-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/tribalrelations/policy-and-intergovernmental-affairs/progress-reports",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.usda.gov/usda-fdcic-t-disc/faqs",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

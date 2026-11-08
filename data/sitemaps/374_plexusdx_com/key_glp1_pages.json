@@ -1,0 +1,136 @@
+{
+  "name": "Plexusdx",
+  "domain": "plexusdx.com",
+  "total_urls": 147,
+  "semaglutide_pages": [
+    "https://plexusdx.com/pages/semaglutide-refill",
+    "https://plexusdx.com/pages/semaglutide-weight-loss",
+    "https://plexusdx.com/products/semaglutide-injection",
+    "https://plexusdx.com/products/semaglutide-oral"
+  ],
+  "tirzepatide_pages": [
+    "https://plexusdx.com/pages/microdose-tirzepatide-study",
+    "https://plexusdx.com/pages/tirzepatide-refill",
+    "https://plexusdx.com/pages/tirzepatide-weight-loss",
+    "https://plexusdx.com/products/tirzepatide-injection",
+    "https://plexusdx.com/products/tirzepatide-oral"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://plexusdx.com/pages/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/affiliate-program-terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/editorial-policy",
+      "categories": [
+        "Author",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/microdose-tirzepatide-study",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/privacy-notice-california",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/refund-cancellation",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/safety-information",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/semaglutide-refill",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/semaglutide-weight-loss",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/shipping-delivery",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/tirzepatide-refill",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/pages/tirzepatide-weight-loss",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/products/semaglutide-injection",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/products/semaglutide-oral",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/products/tirzepatide-injection",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://plexusdx.com/products/tirzepatide-oral",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Psychologytoday",
+  "domain": "psychologytoday.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://psychologytoday.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://psychologytoday.com/pricing"
+  ],
+  "all_categorized": []
+}

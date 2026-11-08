@@ -1,0 +1,13 @@
+{
+  "name": "417mag",
+  "domain": "417mag.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://417mag.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://417mag.com/pricing"
+  ],
+  "all_categorized": []
+}

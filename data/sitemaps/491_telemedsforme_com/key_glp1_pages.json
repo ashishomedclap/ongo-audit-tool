@@ -1,0 +1,13 @@
+{
+  "name": "Telemedsforme",
+  "domain": "telemedsforme.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://telemedsforme.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://telemedsforme.com/pricing"
+  ],
+  "all_categorized": []
+}

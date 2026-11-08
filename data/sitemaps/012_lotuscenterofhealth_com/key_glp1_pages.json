@@ -1,0 +1,24 @@
+{
+  "name": "Lotus Center of Health",
+  "domain": "lotuscenterofhealth.com",
+  "total_urls": 33,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://lotuscenterofhealth.com/cosmetic-payment-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://lotuscenterofhealth.com/cosmetic-payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://lotuscenterofhealth.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Indepth Health",
+  "domain": "indepth-health.com",
+  "total_urls": 22,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.indepth-health.com/memberships"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.indepth-health.com/memberships",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.indepth-health.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.indepth-health.com/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

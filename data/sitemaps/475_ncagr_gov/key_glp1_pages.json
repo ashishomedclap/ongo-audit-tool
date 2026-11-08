@@ -1,0 +1,2895 @@
+{
+  "name": "Ncagr.gov",
+  "domain": "ncagr.gov",
+  "total_urls": 2593,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.ncagr.gov/agronomic-services-nematode-tests-and-fees-research",
+    "https://www.ncagr.gov/divisions/agronomic-services/nematode-assay/pinewood/tests-and-fees",
+    "https://www.ncagr.gov/divisions/agronomic-services/nematode-assay/research/tests-and-fees",
+    "https://www.ncagr.gov/divisions/agronomic-services/nematode-assay/standard-testing/diagnostic/tests-and-fees",
+    "https://www.ncagr.gov/divisions/agronomic-services/nematode-assay/standard-testing/predictive/tests-and-fees",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/collect-samples",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/submit-samples",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/tests-and-fees",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/understand-your-report",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/useful-references",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/growers",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/methods",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/researchers",
+    "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/researchers/collect-samples"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.ncagr.gov/agronomic-services-nematode-tests-and-fees-research",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/agronomic-services-shipping-samples",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/division/veterinary/aws/cetfaqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/agribusiness-loans",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/board-members",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/facilities-disaster-loans",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/how-apply",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/programs",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/series-i-farm-real-estate-loans",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/series-ii-beginning-farmer-loan-program",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/series-iii-ag-start-beginning-farmer-loans",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/staff-directory",
+      "categories": [
+        "Doctor",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agricultural-finance-authority/tax-exempt-agricultural-development-bonds",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/external-publications-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/nematode-assay/pinewood/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/nematode-assay/research/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/nematode-assay/standard-testing/diagnostic/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/nematode-assay/standard-testing/predictive/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/collect-samples",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/submit-samples",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/understand-your-report",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/grower/useful-references",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/growers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/methods",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/researchers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/researchers/collect-samples",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/researchers/submit-samples",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/plant-tissue-analysis/researchers/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/soil-testing/commercial-growers/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/soil-testing/heavy-metals/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/soil-testing/homeowners/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/soil-testing/homeowners/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/soil-testing/instructions-commercial-growers/agronomic-services-soil-testing-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/soil-testing/research/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/soilless-media-analysis-grower/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/soilless-media-analysis-research/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/solution-analysis-research/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/solution-analysis/growers/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/waste-and-compost-analysis/growers/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/agronomic-services/waste-and-compost-analysis/research/tests-and-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/budget-and-finance/tonnage-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/budget-and-finance/tonnage-tax-and-fee-reporting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/emergency-programs/staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/farmland-preservation/vad/county-info/cost-community-services-studies-summary",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-distribution/processing/food-distribution-processor-material-prices",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-distribution/processing/food-distribution-sweeps-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-distribution/programs-handbooks/food-distribution-state-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-drug-protection/feed-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-drug-protection/feed-program/contacts",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-drug-protection/feed-program/farmer-forage-testing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-drug-protection/feed-program/feed-program-forms",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-drug-protection/feed-program/feed-reports",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-drug-protection/feed-program/startups",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/food-drug-protection/produce-safety-program",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/human-resources/safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/internal-audit/internal-audit-audit-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/internal-audit/internal-audit-our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/marketing/international/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/meat-poultry-inspection/plantdirectory",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/meat-poultry-inspection/plantexplanations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/meat-poultry-inspection/plantsearchanddirectory",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/fire-control-and-prevention/fire-safety-outdoors",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/fire-control-and-prevention/readiness-plans",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/forest-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/forest-health/emerald-ash-borer-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/forest-health/invasive-plants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/forest-health/laurel-wilt-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/forest-legacy-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/locate-wildlife-biologists",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/logging-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/preharvest-planning",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/private-forestry-service-providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/timber-prices",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/woodland-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/woodland-plan-faq",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/managing-your-forest/woodland-plan-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/north-carolina-forest-action-plan/2010-north-carolina-forest-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/north-carolina-forest-action-plan/2010-north-carolina-forest-assessment-presentations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/prescribed-fire/prescribed-burning-cost-share-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/state-forests/dupont-state-recreational-forest/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/state-forests/dupont-state-recreational-forest/master-rec-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/state-forests/dupont-state-recreational-forest/master-rec-plan/data-statistics",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/state-forests/dupont-state-recreational-forest/plan-your-visit",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/state-forests/dupont-state-recreational-forest/plan-your-visit/local-area",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/state-forests/dupont-state-recreational-forest/plan-your-visit/upcoming-events",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/state-forests/fees-permits",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/state-forests/headwaters-state-forest/FAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/urban/forestation-tree-planting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/water-quality/bmp-material-costs",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/water-quality/gill-state-forest-water-resources-restoration-master-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-forest-service/water-quality/riparian-wetland-tree-planting-pocket-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/competitions/general-competitions-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/competitions/livestock-competitions-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/media-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/accessibility-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/daily-schedule",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/deals-discounts",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/getting-here-parking",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/guest-safety",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/hotel-partners",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/hours-operation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/insider-tips-faqs",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/kids-activities-guide",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/nc-state-fair-group-ticketing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/nc-state-fair/plan-your-visit/whats-new-in-2026",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/ncstatefair/hunthorsecomplex/feeschedule",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/applications-forms-and-permits",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/boxwood-blight-compliance-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/division-personnel",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/hemp-nc",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/laws-and-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/laws-and-regulations/nc-honey-and-bee-industry-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/nursery-dealer-license-renewal",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-industry-bulk-density-determination",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/apiary-services/plant-industry-how-sell-bees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/biocontrol/plant-industry-biological-control-personnel",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/biological-control/plant-industry-biological-control-program-resources",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/biological-control/plant-industry-biological-control-projects",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/biological-control/plant-industry-biological-control-services-quarantine-facility",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/board-meeting-schedule",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/cooperative-agricultural-pest-survey-caps",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/eab-quarantine-compliance-agreements-faq",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/imported-fire-ant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/imported-fire-ant/imported-fire-ant-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/imported-fire-ant/plant-industry-regulated-articles-imported-fire-ant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/pest-alerts",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/plant-industry-sweetpotato-weevil-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spongy-moth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spongy-moth/plant-industry-identify-spongy-moth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spongy-moth/plant-industry-spongy-moth-name-change",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spongy-moth/plant-industry-spongy-moth-quarantine",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spongy-moth/plant-industry-spongy-moth-regulatory-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spongy-moth/plant-industry-spongy-moth-trapping",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spongy-moth/regulated-articles-spongy-moth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spongy-moth/spongy-moth-introduction",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/spotted-lanternfly",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/sweetpotato-weevil-program/swp-nc-quarantine-zones",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-insect-services/sweetpotato-weevil-program/swp-us-quarantine",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/Proposed-Spongy-Moth-Management",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/asian-longhorned-beetle",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/blueberry-certification-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/boll-weevil-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/emerald-ash-borer",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/spongy-moth-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/spongy-moth/plant-industry-spongy-moth-history",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/spongy-moth/plant-industry-spongy-moth-links",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/entomological-services/thousand-cankers-disease",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/board",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/ginseng",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/laws-and-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/partners",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/permits",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/plant-industry-ginseng-nc-information",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/preserves",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/protected-plant-list",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/scientific-committee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-conservation-program/staff",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-disease-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-disease-services/boxwood-blight",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-disease-services/plant-industry-guava-root-knot-nematode",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-apiary-field-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-apiary-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-biological-control-services",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-caps-annual-survey",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-entomological-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-invasive-pest-outreach",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-nursery-regulatory-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-plant-protection-field-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-industry-weed-regulatory-services/Dev",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/plant-pest-quarantines",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/beach-vitex",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/bushkiller",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/canada-thistle",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/eurasian-watermilfoil",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/lythrum",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/mile-minute-weed",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/musk-thistle",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/noxious-weed-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/oriental-bittersweet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/plant-industry-witchweed",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/plumeless-thistle",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/puncturevine",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/tropical-spiderwort",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/uruguay-waterprimrose",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/plant-protection/weed-regulatory-services/yellow-fieldcress",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/biotechnology-services",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/fertilizer-registration-renewal",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/inspection-and-compliance-activities",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/inspections-compliance",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/lime-landplaster-gypsum-registrations-and-renewals",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/nc-seed-board",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/nc-seed-lab",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/seed-dealer-licenses",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/seed-tax-payment-information",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/seed-and-fertilizer/soil-additives-registrations-and-renewals",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/plant-industry/yellow-legged-hornet-reporting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/property-and-construction/our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/property-and-construction/staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/public-affairs/century-farms/public-affairs-century-farms-faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/border-belt-tobacco-research-station/research-stations-bbtrs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/border-belt-tobacco-research-station/research-stations-bbtrs-facts-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/caswell-research-station/research-stations-caswell-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/caswell-research-station/research-stations-caswell-research-programs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/caswell-research-station/research-stations-crs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/central-crops-research-station/research-stations-ccrs-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/central-crops-research-station/research-stations-central-crops-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/central-crops-research-station/research-stations-central-crops-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/cherry-research-station/research-stations-cherry-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/cherry-research-station/research-stations-cherry-crops-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/cherry-research-station/research-stations-cherry-livestock-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/horticultural-crops-research-station-castle-hayne/research-stations-castle-hayne-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/horticultural-crops-research-station-castle-hayne/research-stations-hcrs-castle-hayne-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/horticultural-crops-research-station-castle-hayne/research-stations-horticultural-crops-castle-hayne-research-programs",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/horticultural-crops-research-station-clinton/research-stations-clinton-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/horticultural-crops-research-station-clinton/research-stations-hcrs-clinton-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/horticultural-crops-research-station-clinton/research-stations-horticulture-crops-research-station-clinton-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/lower-coastal-plain-cunningham-research-station/research-stations-lcprs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/lower-coastal-plain-cunningham-research-station/research-stations-lower-coastal-plain-cunningham-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/lower-coastal-plain-cunningham-research-station/research-stations-lower-coastal-plain-cunningham-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/mountain-horticultural-crops-research-extension-center/research-stations-mhcrs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/mountain-horticultural-crops-research-extension-center/research-stations-mhcrs-crop-research",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/mountain-horticultural-crops-research-extension-center/research-stations-mhcrs-cultural-practices",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/mountain-horticultural-crops-research-extension-center/research-stations-mountain-hort-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/mountain-research-station/research-stations-mountain-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/mountain-research-station/research-stations-mountain-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/mountain-research-station/research-stations-mrs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/oxford-tobacco-research-station/research-stations-oxford-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/oxford-tobacco-research-station/research-stations-oxford-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/peanut-belt-research-station/research-stations-pbrs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/peanut-belt-research-station/research-stations-peanut-belt-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/peanut-belt-research-station/research-stations-peanut-belt-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/piedmont-research-station/research-stations-piedmont-crops-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/piedmont-research-station/research-stations-piedmont-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/piedmont-research-station/research-stations-piedmont-livestock-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/piedmont-research-station/research-stations-prs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-border-belt-tobacco-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-caswell-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-central-crops-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-cherry-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-horticultural-crops-research-station-castle-hayne",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-horticulture-crops-research-station-clinton",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-lower-coastal-plain-cunningham-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-mountain-horticultural-crops-research-extension-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-mountain-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-oxford-tobacco-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-peanut-belt-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-piedmont-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-sandhills-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-tidewater-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-upper-coastal-plain-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-upper-mountain-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/research-stations-upper-piedmont-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/sandhills-research-station/research-stations-sandhills-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/sandhills-research-station/research-stations-sandhills-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/sandhills-research-station/research-stations-srs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/tidewater-research-station/research-stations-tidewater-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/tidewater-research-station/research-stations-tidewater-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/tidewater-research-station/research-stations-trs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/umstead-research-station",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/umstead-research-station/research-stations-umstead-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/umstead-research-station/research-stations-umstead-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/umstead-research-station/research-stations-urs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-coastal-plain-research-station/research-stations-ucprs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-coastal-plain-research-station/research-stations-upper-coastal-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-coastal-plain-research-station/research-stations-upper-coastal-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-mountain-research-station/research-stations-umrs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-mountain-research-station/research-stations-umrs-ttf-christmas-tree-seed-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-mountain-research-station/research-stations-upper-mountain-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-mountain-research-station/research-stations-upper-mountain-research-program",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-piedmont-research-station/research-stations-upper-piedmont-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-piedmont-research-station/research-stations-uprs-brochure",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/locations/upper-piedmont-research-station/research-stations-uprs-fact-sheet",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/research-stations/research-stations-map-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/small-farms/small-farms-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/commission/cost-share-committee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/districts/job-approval-authority",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/districts/job-approval-authority/jaa-application-requirements",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/districts/job-approval-authority/jaa-rules-policies",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/division-districts/division-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/programs-initiatives/acsp/bmps/biochar-soil-carbon-amendment",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/programs-initiatives/acsp/bmps/critical-area-planting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/programs-initiatives/acsp/bmps/cropland-conversion",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/programs-initiatives/acsp/bmps/feeding-waste-storage-structure",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/programs-initiatives/acsp/bmps/lagoon-biosolid-removal-practice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/programs-initiatives/acsp/bmps/livestock-feeding-area",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/programs-initiatives/ccap/bmps/bioretention-area",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/soil-water-conservation/programs-initiatives/ccap/bmps/critical-area-planting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/licenses/public-weighmaster-license/public-weighmaster-faq/standards-public-weighmaster-renewal",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-corrosion-protection-underground-storage-tanks",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-disposal-old-grill-cylinders",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-extreme-heat-propane-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-grill-cylinder-valves",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-hurricanes-and-propane-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-inspection-residential-and-commercial-tanks",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-lp-gas-faq-consumers",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-lp-gas-grilling-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-lp-gas-turkey-fryer-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-propane-heater-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-propane-use-markets-and-festivals",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-proper-storage-propane-containers",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-underground-tank-removal-abandoning",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-faq-and-interests-consumers/standards-winter-storm-propane-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-interests-industry/standards-bulk-plant-plan-submittals",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-interests-industry/standards-cylinder-safety-after-natural-disaster",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/lp-gas-interests-industry/standards-fire-safety-analysis",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/lp-gas/standards-lp-gas-faq-and-interests-consumers",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/metrology-laboratory/standards-metrology-fee-schedule",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/metrology-laboratory/standards-metrology-fee-schedule/standards-metrology-fee-schedule-less-class-4",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/metrology-laboratory/standards-metrology-fee-schedule/standards-metrology-fee-schedule-more-class-4",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/metrology-laboratory/standards-metrology-fee-schedule/standards-metrology-fee-schedule-thermometry",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/metrology-laboratory/standards-metrology-fee-schedule/standards-metrology-fee-schedule-volume",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/standards/standards-staff-directory",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/structural-pest-control-and-pesticides/consumer/pesticide-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/structural-pest-control-and-pesticides/pesticide/field-services/field-staff",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/structural-pest-control-and-pesticides/pesticide/licensing-and-certification/exam/fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/structural-pest-control-and-pesticides/pesticide/pollinators/establishing-an-nc-pollinator-plant-blend",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/veterinary/FarmedCervidProgram/FAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/veterinary/aws/CETAppFaq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/veterinary/aws/Fix/FAQS",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/veterinary/aws/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/veterinary/veterinary-biosecurity-recommendations-utility-and-service-companies",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/divisions/veterinary/veterinary/FAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/food-safety-programs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/meat-poultry-inspection/FAQ",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/01/15/nc-plant-conservation-board-and-scientific-committee-meet-jan-20-through-microsoft-teams",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/02/04/ncdacs-preparing-planned-gypsy-moth-treatment-activities",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/02/18/now-time-tobacco-transplant-producers-test-float-bed-water",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/02/23/ncdacs-programs-announce-1-million-research-and-development-related-bioenergy-and-new-crops",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/02/25/nc-plant-conservation-scientific-committee-meet-march-4-microsoft-teams-video-conference",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/03/03/2021-got-be-nc-festival-canceled",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/03/11/hosford-selected-executive-director-north-carolina-agricultural-finance-authority",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/03/15/north-carolina-forestry-association-and-nc-forest-service-promote-arbor-day-and-importance-planting",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/04/09/four-stores-pays-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/04/14/optimize-strawberry-fertility-plant-tissue-testing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/04/16/nc-plant-conservation-board-meet-april-21-2021-through-microsoft-teams",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/06/18/century-farm-program-seeks-100-year-old-or-older-farms-reunion-state-fair-being-planned",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/08/30/ncdacs-offers-organic-certification-cost-share-assistance",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/09/07/nc-mountain-state-fair-hold-safety-press-conference-thursday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/09/17/troxler-names-foote-new-plant-industry-director",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/09/21/new-exhibit-locations-first-time-accessability-day-expanded-livestock-show-dates-and-creative",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/10/08/ncda-offers-1-million-grant-funding-bioenergy-research-and-new-and-emerging-crops-exploration",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/10/28/submit-soil-samples-now-avoid-peak-season-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/11/09/ten-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2021/12/01/troxler-plans-visit-get-update-and-have-media-availability-grindstone-fire-pilot-mountain",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/01/27/ncdacs-programs-award-1-million-grants-research-and-development-related-bioenergy-and-new-crops",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/02/04/north-carolinas-forest-action-plan-ready-implementation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/02/11/twenty-two-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/03/04/ncdacs-agronomic-services-staff-offer-timely-fertilizer-advice",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/03/14/nc-forest-service-celebrates-arbor-day-and-importance-planting-trees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/03/14/ncdacs-extends-strong-recommendation-poultry-owners-continue-strict-biosecurity-measures-due-threat",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/03/24/nc-plant-conservation-scientific-committee-meet-april-7-steve-troxler-agricultural-sciences-center",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/04/13/nc-plant-conservation-board-meet-april-20",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/04/14/11-western-nc-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/04/14/23-central-nc-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/04/14/eight-eastern-nc-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/08/03/61-stores-pay-fines-price-scanning-errors-32-counties",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/08/15/nc-state-fair-online-advance-tickets-now-available-discounted-prices",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/09/07/nc-mountain-state-fair-hold-safety-press-conference-thursday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/09/20/ncdacs-offers-organic-certification-cost-share-assistance",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/09/27/ncdacs-seeks-proposals-researchers-exploring-bioenergy-and-new-crops-north-carolina",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/09/29/chili-championship-robert-g-shaw-piedmont-triad-farmers-market-canceled-due-weather",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/10/03/walk-discount-ticket-sales-available-three-locations-raleigh",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/11/10/submit-soil-samples-now-avoid-busy-time-and-peak-season-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2022/12/09/70-stores-pay-fines-price-scanning-errors-38-counties",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/01/05/nc-plant-conservation-board-and-scientific-committee-meet-wednesday-jan-18",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/01/30/52-stores-pay-fines-price-scanning-errors-33-counties",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/03/07/optimize-strawberry-fertility-plant-tissue-testing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/03/08/nc-plant-conservation-scientific-committee-meet-friday-chapel-hill",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/03/15/nc-forest-service-celebrates-arbor-day-and-importance-tree-planting-holiday",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/03/16/ncdacs-showcase-agriculture-and-bioenergy-research-economic-potential",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/04/05/nc-plant-conservation-board-and-scientific-committee-meet-april-19-carthage",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/04/17/37-stores-pay-fines-price-scanning-errors-22-counties",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/04/20/wnc-farmers-market-hosts-spring-festival-and-growing-mountain-plant-show-april-22-and-23",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/07/07/nc-plant-conservation-board-meet-july-19",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/07/13/10-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/07/21/north-carolina-tomato-growers-association-plans-referendum",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/08/24/advance-tickets-help-you-plan-savings-nc-mountain-state-fair",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/09/19/durham-toffee-company-named-grand-champion-2023-nc-specialty-foods-awards-competition",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/09/28/nc-plant-conservation-scientific-committee-meet-sept-28-steve-troxler-agricultural-sciences-center",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/10/03/eight-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/10/24/submit-soil-samples-now-avoid-delays-and-peak-season-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/10/31/ncdacs-invites-researchers-submit-grant-proposals-bioenergy-and-new-crops-research-north-carolina",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2023/12/22/consumers-warned-not-feed-blue-ridge-beef-kitten-grind-kitten-mix-and-puppy-mix-due-salmonella-and",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/01/04/eighteen-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/01/05/nc-plant-conservation-board-and-scientific-committee-meet-wednesday-jan-17",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/02/02/southern-distilling-company-statesville-named-2024-ncdacs-exporter-year-3",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/02/12/commissioner-troxler-announces-plan-add-venue-year-round-food-options-and-modernize-infrastructure",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/02/28/century-farm-program-seeks-recognize-100-year-old-and-older-farms-reunion-state-fair-being-planned",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/02/29/ncdacs-programs-aim-boost-bioenergy-production-and-new-crop-development-1-million-grant-awards",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/04/03/nc-plant-conservation-board-meet-april-17-raleigh-0",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/04/16/14-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/05/03/make-plans-now-enjoy-fun-got-be-nc-festival-may-17-19",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/07/03/nine-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/07/10/nc-plant-conservation-board-meet-july-17-boone",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/08/02/advance-tickets-help-you-plan-savings-nc-mountain-state-fair",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/08/12/pet-owners-cautioned-against-feeding-bb-pet-food-products-due-animal-food-safety-concerns",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/08/20/ncdacs-offers-organic-certification-cost-share-assistance",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/09/04/media-advisory-nc-mountain-state-fair-hold-safety-press-conference-thursday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/10/03/ncdacs-operated-farmers-markets-serving-drop-locations-hurricane-relief-supplies",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/10/07/nc-plant-conservation-board-meet-wednesday-oct-16",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/11/08/submit-soil-samples-testing-nov-26-avoid-peak-season-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2024/11/12/four-stores-fined-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/01/07/media-advisory-nc-plant-conservation-board-and-scientific-committee-meet-wednesday-jan-15",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/01/09/14-stores-pay-fines-following-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/02/03/clemmons-educational-state-forest-planning-conduct-prescribed-burns-coming-weeks",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/02/12/now-time-tobacco-transplant-producers-test-float-bed-water",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/04/08/media-advisory-nc-plant-conservation-board-meet-wednesday-april-16",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/05/01/two-stores-fined-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/06/02/work-planned-reasonover-creek-trail-dupont-state-recreational-forest",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/07/10/11-stores-pay-fines-following-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/07/10/11-stores-pay-fines-following-price-scanning-errors-0",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/09/03/nc-mountain-state-fair-hold-safety-press-conference-thursday",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/09/04/ncdacs-partners-nc-states-hollywood-smothers-promote-dairy-milk-ultimate-sports-recovery-drink",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/10/02/nc-plant-conservation-board-meet-wednesday-oct-15",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/11/03/7-stores-pay-fines-following-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/11/03/submit-soil-samples-nov-25-avoid-peak-season-testing-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2025/11/20/ncdacs-asks-horse-owners-be-lookout-signs-equine-herpes-after-disease-outbreaks-multiple-states",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/01/12/nc-forest-service-warren-county-staff-named-recipients-moreland-gueth-water-quality-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/01/30/ncsu-and-ecu-agricultural-research-projects-receive-1-million-grants-ncdacs-boost-states",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/02/10/ncdacs-agronomic-services-laboratory-fee-increasing-march-2",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/02/11/10-stores-pay-fines-following-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/04/08/nc-plant-conservation-board-meet-wednesday-april-15",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/04/15/11-stores-pay-fines-following-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/05/02/states-ban-open-burning-lifted-81-north-carolina-counties-conditions-improve-recent-rain",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/05/07/farmland-preservation-advocacy-day-planned-may-13",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/06/15/ncdacs-enacts-movement-restrictions-animals-imported-states-affected-new-world-screwworm",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/06/25/nc-plant-conservation-board-meet-wednesday-july-8",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/07/15/16-stores-pay-fines-following-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/08/27/nc-forest-service-staff-stanly-county-recognized-state-foresters-prescribed-burning-award",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/09/16/submit-soil-samples-nov-30-avoid-peak-season-fees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/10/07/nc-plant-conservation-board-meet-oct-21",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/news/press-releases/2026/10/19/19-stores-pay-fines-price-scanning-errors",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-africanized-honey-bees",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-cogongrass",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-division-personnel-contacts",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-export-certification",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-giant-hogweed",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-giant-salvinia",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-itchgrass",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-light-brown-apple-moth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-moving-pests-research",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-moving-regulated-articles-out-nc",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-nc-fertilizer-law",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-nc-plant-conservation-preserves",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-noxious-weeds-list",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-nursery-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-potato-virus-y",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-potato-virus-y-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-regulated-articles-nc",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-small-hive-beetle",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-soybean-rust",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-sudden-oak-death-sod",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-tobacco-plant-certification",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-tobacco-plant-certification-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-vegetable-plant-certification",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-vegetable-plant-certification-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-volunteer-preserve-stewards",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-white-pine-blister-rust",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-white-pine-blister-rust-regulations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-witchweed-eradication-project",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-witchweed-project-field-offices",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry-wolly-frogs-mouth",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/plant-industry/laws-and-rules",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.ncagr.gov/soil-water-agriculture-cost-share-program",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ny.gov",
+  "domain": "ny.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://ny.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://ny.gov/pricing"
+  ],
+  "all_categorized": []
+}

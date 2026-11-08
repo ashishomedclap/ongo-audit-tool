@@ -1,0 +1,36 @@
+{
+  "name": "Midwestmetabolicweightloss",
+  "domain": "midwestmetabolicweightloss.com",
+  "total_urls": 185,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.midwestmetabolicweightloss.com/blog/post/are-you-feeling-spooked-by-weight-loss"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.midwestmetabolicweightloss.com/blog/post/are-you-feeling-spooked-by-weight-loss",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.midwestmetabolicweightloss.com/blog/post/my-doctor-told-me-to-lose-weight",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.midwestmetabolicweightloss.com/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.midwestmetabolicweightloss.com/privacypolicy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -23,9 +23,9 @@ export interface CompetitorGapItem {
 }
 
 export interface CompetitorGapAnalysisResult {
-  totalCompetitorUrlsAnalyzed: number; // 33,108
-  totalCompetitorsAnalyzed: number; // 100
-  ongoLivePagesCount: number; // 34
+  totalCompetitorUrlsAnalyzed: number; // 512,334
+  totalCompetitorsAnalyzed: number; // 618
+  ongoLivePagesCount: number; // 56
   totalGapsIdentified: number;
   p0Count: number;
   p1Count: number;
@@ -41,7 +41,7 @@ export function generateCompetitorGapAnalysis(): CompetitorGapAnalysisResult {
   const masterUrls = getMasterUrlInventory();
 
   // Calculate real total URLs
-  let totalCompetitorUrls = 33108;
+  let totalCompetitorUrls = 512334;
   const sitemapsDir = path.join(DATA_DIR, 'sitemaps');
   if (fs.existsSync(sitemapsDir)) {
     try {
@@ -56,7 +56,7 @@ export function generateCompetitorGapAnalysis(): CompetitorGapAnalysisResult {
       }
       if (count > 0) totalCompetitorUrls = count;
     } catch {
-      // fallback to 33108
+      // fallback to 512334
     }
   }
 
@@ -446,8 +446,8 @@ export function generateCompetitorGapAnalysis(): CompetitorGapAnalysisResult {
 
   return {
     totalCompetitorUrlsAnalyzed: totalCompetitorUrls,
-    totalCompetitorsAnalyzed: competitors.length || 100,
-    ongoLivePagesCount: ongoLivePages.length || 34,
+    totalCompetitorsAnalyzed: competitors.length || 618,
+    ongoLivePagesCount: ongoLivePages.length || 56,
     totalGapsIdentified: roadmapItems.length,
     p0Count,
     p1Count,

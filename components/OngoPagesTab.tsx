@@ -168,38 +168,7 @@ export default function OngoPagesTab({ initialData }: OngoPagesTabProps) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
-      <ContextCue
-        level={1}
-        toolNumber={3}
-        useCase={`Audit Ongo's current ${data.total_pages || 43} live URLs for title tag lengths, meta descriptions, and CTR hooks.`}
-        badge="Live Sitemap Auditor"
-        title="Ongo Live Pages Explorer & CTR Normalization Engine"
-        about="This is a real-time URL and metadata crawler for ongoweightloss.com. It connects directly to your live sitemap.xml, extracts the current live <title> and meta descriptions for all pages, and displays them side-by-side with CTR-normalized recommendations tailored to match transactional patient search intent."
-        whatYouCanDo={[
-          {
-            action: "1-Click Live Sitemap Refresh",
-            description: "Click 'Refresh Live Pages' to trigger an on-demand re-crawl of https://ongoweightloss.com/sitemap.xml and fetch updated metadata for all pages."
-          },
-          {
-            action: "Review CTR Normalization",
-            description: "See how replacing passive copy (e.g., 'vials', 'how it works') with commercial triggers ('Doctor-Prescribed', '$199/mo', 'No Insurance Needed') converts more Google searchers."
-          },
-          {
-            action: "Simulate Real Google Snippets",
-            description: "Toggle between Desktop and Mobile Google SERP previews to see how prospective patients view your listings before clicking."
-          },
-          {
-            action: "1-Click Copy Optimized Metadata",
-            description: "Instantly copy any recommended title or description with a single click to paste directly into your Next.js page metadata."
-          },
-          {
-            action: "Export Full Inventory to CSV",
-            description: `Download the complete ${data.total_pages || 43}-page audit spreadsheet with current tags, recommended tags, character counts, and intent rationales.`
-          }
-        ]}
-        tip="Click 'Refresh Live Pages' anytime you publish a new page or update your sitemap to instantly re-audit the entire site."
-      />
-
+      
       {/* Premium GSC / Clarity Header */}
       <div className="gsc-header">
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', flexWrap: 'wrap' }}>

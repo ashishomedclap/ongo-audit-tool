@@ -1,0 +1,118 @@
+{
+  "name": "Mo.work",
+  "domain": "mo.work",
+  "total_urls": 284,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mo.work/insights/feedback-culture/",
+    "https://mo.work/insights/importance-of-employee-feedback/",
+    "https://mo.work/platform/pricing/",
+    "https://mo.work/resources/employee-cost-of-turnover-calculator/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://mo.work/download/the-hotel-staff-retention-playbook/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/10-inspiring-quotes-to-motivate-your-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/feedback-culture/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/how-to-rescue-staff-morale-after-company-layoffs/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/importance-of-employee-feedback/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/improve-hotel-staff-retention/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/psychological-safety-high-performing-teams/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/psychological-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/rewrite-the-story-of-staff-retention-in-childcare/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/staff-appreciation-for-every-industry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mo.work/insights/ways-to-reward-hospitality-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mo.work/legal/cookie-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mo.work/legal/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mo.work/legal/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mo.work/platform/pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://mo.work/resources/employee-cost-of-turnover-calculator/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mo.work/solutions/staff-rewards/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

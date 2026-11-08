@@ -1,0 +1,1323 @@
+{
+  "name": "GLP1 Us",
+  "domain": "glp1-us.com",
+  "total_urls": 355,
+  "semaglutide_pages": [
+    "https://glp1-us.com/blog/bmi-for-ozempic/",
+    "https://glp1-us.com/blog/cheapest-semaglutide/",
+    "https://glp1-us.com/blog/cheapest-wegovy/",
+    "https://glp1-us.com/blog/compounded-semaglutide/",
+    "https://glp1-us.com/blog/does-wegovy-make-you-tired/",
+    "https://glp1-us.com/blog/how-to-get-semaglutide/",
+    "https://glp1-us.com/blog/how-to-get-wegovy/",
+    "https://glp1-us.com/blog/is-ozempic-insulin/",
+    "https://glp1-us.com/blog/is-semaglutide-safe/",
+    "https://glp1-us.com/blog/metformin-vs-semaglutide/",
+    "https://glp1-us.com/blog/ozempic-and-alcohol/",
+    "https://glp1-us.com/blog/ozempic-constipation/",
+    "https://glp1-us.com/blog/ozempic-face/",
+    "https://glp1-us.com/blog/ozempic-foods-to-avoid/",
+    "https://glp1-us.com/blog/ozempic-lawsuit/"
+  ],
+  "tirzepatide_pages": [
+    "https://glp1-us.com/blog/compounded-tirzepatide/",
+    "https://glp1-us.com/blog/does-tirzepatide-need-to-be-refrigerated/",
+    "https://glp1-us.com/blog/how-to-get-tirzepatide/",
+    "https://glp1-us.com/blog/is-zepbound-glp1/",
+    "https://glp1-us.com/blog/saxenda-vs-zepbound/",
+    "https://glp1-us.com/blog/tirzepatide-cost/",
+    "https://glp1-us.com/blog/zepbound-diet/",
+    "https://glp1-us.com/blog/zepbound-insurance/",
+    "https://glp1-us.com/blog/zepbound-online/",
+    "https://glp1-us.com/blog/zepbound-pill/",
+    "https://glp1-us.com/blog/zepbound-side-effects/",
+    "https://glp1-us.com/compare/foundayo-vs-zepbound/",
+    "https://glp1-us.com/compare/mounjaro-vs-ozempic/",
+    "https://glp1-us.com/compare/retatrutide-vs-tirzepatide/",
+    "https://glp1-us.com/compare/tirzepatide-vs-semaglutide/"
+  ],
+  "pricing_pages": [
+    "https://glp1-us.com/blog/saxenda-cost/",
+    "https://glp1-us.com/blog/tirzepatide-cost/",
+    "https://glp1-us.com/costco-glp-1/",
+    "https://glp1-us.com/glp-1-cost-with-insurance/",
+    "https://glp1-us.com/glp-1-cost/",
+    "https://glp1-us.com/mounjaro-cost/",
+    "https://glp1-us.com/news/2026-08-05-cvs-glp-1-cost-29-visits/",
+    "https://glp1-us.com/news/2026-08-26-zepbound-medicare-cost-study-over-55/",
+    "https://glp1-us.com/news/2026-08-31-mercer-employer-glp-1-coverage-costs-2027/",
+    "https://glp1-us.com/news/2026-09-01-wegovy-pill-4-mg-price-199/",
+    "https://glp1-us.com/news/2026-09-15-lifemd-att-free-membership-glp-1/",
+    "https://glp1-us.com/news/2026-09-21-lilly-houston-foundayo-plant/",
+    "https://glp1-us.com/news/glp-1-price-tracker/",
+    "https://glp1-us.com/ozempic/cost/",
+    "https://glp1-us.com/semaglutide-cost/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://glp1-us.com/blog/bmi-for-ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/cheapest-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/cheapest-wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/compounded-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/compounded-tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/does-tirzepatide-need-to-be-refrigerated/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/does-wegovy-make-you-tired/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/glp-1-insurance-coverage/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/how-to-get-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/how-to-get-tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/how-to-get-wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/is-ozempic-insulin/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/is-semaglutide-safe/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/is-zepbound-glp1/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/metformin-vs-semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/ozempic-and-alcohol/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/ozempic-constipation/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/ozempic-face/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/ozempic-foods-to-avoid/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/ozempic-lawsuit/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/ozempic-side-effects-in-females/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/saxenda-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/saxenda-vs-wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/saxenda-vs-zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/semaglutide-vs-liraglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/tirzepatide-cost/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/wegovy-insurance/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/wegovy-without-insurance/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/what-happens-when-you-stop-taking-ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/zepbound-diet/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/zepbound-insurance/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/zepbound-online/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/zepbound-pill/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/blog/zepbound-side-effects/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/foundayo-vs-wegovy-pill/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/foundayo-vs-zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/mounjaro-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/retatrutide-vs-tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/tirzepatide-vs-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/wegovy-pill-vs-injection/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/wegovy-vs-mounjaro/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/zepbound-vs-mounjaro/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/zepbound-vs-ozempic/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/compare/zepbound-vs-wegovy/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/costco-glp-1/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/glp-1-cost-with-insurance/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/glp-1-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/glp-1-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/mounjaro-cost/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/mounjaro-dosage/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/mounjaro-side-effects/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/mounjaro/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-06-04-rybelsus-discontinued-ozempic-tablets/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-06-07-cagrisema-reimagine-type-2-diabetes-ada/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-06-08-orforglipron-vs-oral-semaglutide-achieve-3/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-07-01-massachusetts-gic-ends-glp-1-weight-loss-coverage/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-07-01-novocare-199-wegovy-ozempic-offer-extended/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-07-03-masshealth-ends-glp-1-weight-loss-coverage/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-07-07-ifebp-employer-glp-1-coverage-survey-2026/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-07-29-apollo-care-compounded-semaglutide-recall/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-08-04-novo-q2-wegovy-pill-5m-prescriptions/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-08-05-cvs-glp-1-cost-29-visits/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-08-05-lilly-q2-zepbound-foundayo-retatrutide-timing/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-08-06-amazon-pharmacy-medicare-glp1-bridge/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-08-25-employers-glp-1-coverage-2027/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-08-26-zepbound-medicare-cost-study-over-55/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-08-28-fda-approves-mounjaro-cardiovascular-risk/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-08-31-mercer-employer-glp-1-coverage-costs-2027/",
+      "categories": [
+        "Pricing",
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-01-wegovy-pill-4-mg-price-199/",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-08-lilly-mochi-health-compounded-tirzepatide-ruling/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-15-amazon-one-medical-glp-1-48-states/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-15-lifemd-att-free-membership-glp-1/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-18-fda-warning-letter-empower-pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-21-lilly-houston-foundayo-plant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-22-fda-warning-letter-glp-1-supplement-biodrive/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-23-fda-warns-online-sellers-semaglutide-injections/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-24-retatrutide-biologic-appeal-lilly-fda/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-29-counterfeit-ozempic-charges/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-29-foundayo-vs-oral-semaglutide-25-mg-indirect/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-29-ozempic-2-mg-vs-mounjaro-switch-compete-switch-cv/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-29-zepbound-vs-wegovy-hd-indirect-comparison/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-30-cagrisema-easd-fda-decision-q4/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-30-eloratzp-eloralintide-tirzepatide-phase-2/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-30-foundayo-achieve-4-cardiovascular-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-09-30-wegovy-pill-octane-real-world-switch/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-10-01-wegovy-liver-fat-step-up-easd/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-10-01-zepbound-insurance-cvs-caremark/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-10-08-fda-class-ii-recalls-compounded-tirzepatide-semaglutide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-10-09-zepbound-psoriasis-together-pso/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-10-20-cagrisema-women-25-percent-weight-loss-menopause/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-10-22-kff-2026-employer-survey-glp-1-coverage/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/2026-10-29-lilly-q3-2026-zepbound-mounjaro-foundayo-sales/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/news/glp-1-price-tracker/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic-alternatives/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic-dosage/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic-kidney-disease/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic-near-me/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic-pills/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic-prescription/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic-weight-loss-chart/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic/cost/",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic/online/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic/results/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic/side-effects/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/ozempic/vs/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/amazon-one-medical/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/calibrate/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/chia-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/eden/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/elliemd/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/enhancemd/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/evolve-telemed/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/found/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/gobymeds/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/henry-meds/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/hers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/hers/weight-loss-pills/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/hims/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/ivy-rx/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/lemonaid/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/medvi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/medvidi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/mochi-health/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/mybmi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/noom/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/plushcare/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/ro/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/sesame/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/shed-rx/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/trimrx/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/trimrx/alternatives/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/trimrx/promo-code/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/walgreens/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/providers/weightwatchers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/semaglutide-cost/",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/semaglutide-dosage/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/semaglutide-pills/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/alabama/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/alaska/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/arizona/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/arkansas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/california/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/colorado/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/connecticut/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/delaware/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/district-of-columbia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/florida/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/hawaii/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/idaho/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/illinois/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/indiana/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/iowa/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/kansas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/kentucky/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/louisiana/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/maine/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/maryland/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/massachusetts/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/michigan/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/minnesota/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/mississippi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/missouri/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/montana/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/nebraska/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/nevada/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/new-hampshire/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/new-jersey/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/new-mexico/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/new-york/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/north-carolina/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/north-dakota/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/ohio/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/oklahoma/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/oregon/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/pennsylvania/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/rhode-island/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/south-carolina/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/south-dakota/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/tennessee/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/texas/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/utah/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/vermont/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/virginia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/washington/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/west-virginia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/wisconsin/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/states/wyoming/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/tirzepatide-online/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/wegovy-cost/",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/wegovy-dosage/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/wegovy-hd/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/wegovy-heart-risk/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/wegovy-mash/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/wegovy-pill/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/wegovy-side-effects/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/wegovy/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/zepbound-cost/",
+      "categories": [
+        "Tirzepatide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/zepbound-dosage/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/zepbound-results/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/zepbound-sleep-apnea/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://glp1-us.com/zepbound/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

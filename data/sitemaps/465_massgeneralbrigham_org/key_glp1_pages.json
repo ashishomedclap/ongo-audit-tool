@@ -1,0 +1,67 @@
+{
+  "name": "Massgeneralbrigham",
+  "domain": "massgeneralbrigham.org",
+  "total_urls": 120,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/accommodations",
+    "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+    "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/icu-guidelines",
+    "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/policy",
+    "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/sending-mail-flowers",
+    "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/waiting-areas",
+    "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-charging-access"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.massgeneralbrigham.org/en/find-care/virtual-care/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/accommodations",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/icu-guidelines",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/policy",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/sending-mail-flowers",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/waiting-areas",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-charging-access",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

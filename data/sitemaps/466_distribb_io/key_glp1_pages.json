@@ -1,0 +1,285 @@
+{
+  "name": "Distribb",
+  "domain": "distribb.io",
+  "total_urls": 766,
+  "semaglutide_pages": [
+    "https://distribb.io/blog/semantic-search-seo",
+    "https://distribb.io/blog/semantic-seo-strategy-a-practical-guide-to-boosting-search-relevance"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://distribb.io/blog/a-detailed-guide-to-automated-content-engine-and-backlink-network-pricing-what-to-expect-and-how-to-choose",
+    "https://distribb.io/blog/ai-content-engine-pricing-explained-how-to-choose-the-right-plan",
+    "https://distribb.io/blog/ai-content-planner",
+    "https://distribb.io/blog/average-cost-per-lead",
+    "https://distribb.io/blog/harnessing-the-power-of-an-automated-content-planner-for-seo-and-backlinks",
+    "https://distribb.io/blog/how-an-automated-content-planner-for-seo-can-transform-your-strategy-in-2025",
+    "https://distribb.io/blog/how-much-does-seo-cost",
+    "https://distribb.io/blog/how-to-build-an-effective-seo-content-planner-for-2026",
+    "https://distribb.io/blog/how-to-calculate-cost-per-lead",
+    "https://distribb.io/blog/lead-generation-cost",
+    "https://distribb.io/blog/seo-software-pricing",
+    "https://distribb.io/blog/the-complete-guide-to-hiring-an-seo-agency-for-accountants-resources-action-plan",
+    "https://distribb.io/blog/white-label-link-building-pricing",
+    "https://distribb.io/help/billing/plans-and-prices",
+    "https://distribb.io/help/billing/your-plan-and-next-invoice"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://distribb.io/ai-content-writer",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/author/borja-obeso",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/a-detailed-guide-to-automated-content-engine-and-backlink-network-pricing-what-to-expect-and-how-to-choose",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/ai-content-engine-pricing-explained-how-to-choose-the-right-plan",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/ai-content-planner",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/ai-content-writer-tool-how-to-evaluate-pick-and-use-the-best-2026-solutions",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/ai-seo-article-writer-a-practical-howto-guide-for-2026",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/average-cost-per-lead",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/best-seo-content-writer-software-for-2026",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/buy-editorial-links",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/domain-authority-checker",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/grow-domain-authority-with-AI-backlink-automation",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/harnessing-the-power-of-an-automated-content-planner-for-seo-and-backlinks",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/how-an-ai-blog-writer-tool-can-transform-your-content-creation",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/how-an-automated-content-planner-for-seo-can-transform-your-strategy-in-2025",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/how-much-does-seo-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/how-to-build-a-topical-authority-map-for-seo-success",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/how-to-build-an-effective-seo-content-planner-for-2026",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/how-to-calculate-cost-per-lead",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/how-to-use-a-topical-authority-generator-to-boost-your-seo-strategy",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/how-to-use-an-ai-article-writer-to-create-highquality-content-fast",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/lead-generation-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/semantic-search-seo",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/semantic-seo-strategy-a-practical-guide-to-boosting-search-relevance",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/seo-article-writer-software",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/seo-for-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/seo-software-pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/substack-vs-medium-the-ultimate-guide-for-writers-2025-edition",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/the-complete-guide-to-hiring-an-seo-agency-for-accountants-resources-action-plan",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/what-is-an-editorial-link",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/what-is-topical-authority-and-how-to-build-it-for-seo-success",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://distribb.io/blog/white-label-link-building-pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://distribb.io/faq",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://distribb.io/free-tools/faq-generator",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://distribb.io/free-tools/instagram-bio-generator",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://distribb.io/free-tools/twitter-bio-generator",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://distribb.io/help/billing/cancel-or-pause",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://distribb.io/help/billing/plans-and-prices",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/help/billing/refunds",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://distribb.io/help/billing/your-plan-and-next-invoice",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/help/content/give-feedback",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://distribb.io/terms",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

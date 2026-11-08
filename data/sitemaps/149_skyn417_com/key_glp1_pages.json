@@ -1,0 +1,40 @@
+{
+  "name": "Skyn417",
+  "domain": "skyn417.com",
+  "total_urls": 56,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.skyn417.com/faq-1",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.skyn417.com/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.skyn417.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.skyn417.com/shipping-and-returns",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.skyn417.com/terms-conditions",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

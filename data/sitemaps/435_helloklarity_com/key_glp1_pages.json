@@ -1,0 +1,1774 @@
+{
+  "name": "Helloklarity",
+  "domain": "helloklarity.com",
+  "total_urls": 611,
+  "semaglutide_pages": [
+    "https://www.helloklarity.com/post/wegovy-pill-vs-injection-2026-guide-is-oral-semaglutide-available/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.helloklarity.com/post/adhd-treatment-online-how-telehealth-evaluation-therapy-and-medication-plans-work/",
+    "https://www.helloklarity.com/post/adhd-treatment-online-with-insurance-what-plans-may-cover-prior-authorization-and-how-to-start/",
+    "https://www.helloklarity.com/post/isocarboxazid-marplan-how-this-maoi-works-diet-rules-and-when-telehealth-is-enough/",
+    "https://www.helloklarity.com/post/marketplace-session-fees-in-2026-headways-9-99-fee-and-where-klarity-fits/",
+    "https://www.helloklarity.com/post/no-insurance-therapy-self-pay-costs-sliding-scale-options-and-how-to-start-online-care/",
+    "https://www.helloklarity.com/post/talk-to-a-doctor-online-free-what-is-actually-free-low-cost-options-and-how-telehealth-works/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.helloklarity.com/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/adhd-treatment-online-how-telehealth-evaluation-therapy-and-medication-plans-work/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/adhd-treatment-online-with-insurance-what-plans-may-cover-prior-authorization-and-how-to-start/",
+      "categories": [
+        "Pricing",
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-alaska-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-alaska-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-alaska-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-alaska-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-delaware-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-delaware-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-delaware-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-delaware-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-maine-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-maine-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-maine-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-maine-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-montana-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-montana-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-montana-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-montana-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-north-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-north-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-north-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-north-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-rhode-island-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-rhode-island-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-rhode-island-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-rhode-island-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-south-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-south-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-south-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-south-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-vermont-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-vermont-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-vermont-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-vermont-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-wyoming-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-wyoming-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-wyoming-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/aetna-wyoming-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-alaska-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-alaska-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-alaska-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-alaska-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-delaware-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-delaware-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-delaware-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-delaware-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-maine-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-maine-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-maine-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-maine-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-montana-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-montana-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-montana-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-montana-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-north-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-north-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-north-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-north-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-rhode-island-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-rhode-island-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-rhode-island-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-rhode-island-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-south-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-south-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-south-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/anthem-blue-cross-blue-shield-south-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/appetite-suppressant-pills-prescription-options-otc-supplements-safety-and-online-care/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/blue-cross-blue-shield-of-vermont-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/blue-cross-blue-shield-of-vermont-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/blue-cross-blue-shield-of-vermont-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/blue-cross-blue-shield-of-vermont-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/blue-cross-blue-shield-of-wyoming-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/blue-cross-blue-shield-of-wyoming-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/blue-cross-blue-shield-of-wyoming-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/blue-cross-blue-shield-of-wyoming-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/bronchitis-treatment-why-antibiotics-rarely-help-what-eases-a-chest-cold-and-when-telehealth-is-enough/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-alaska-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-alaska-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-alaska-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-alaska-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-delaware-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-delaware-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-delaware-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-delaware-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-maine-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-maine-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-maine-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-maine-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-montana-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-montana-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-montana-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-montana-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-north-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-north-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-north-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-north-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-rhode-island-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-rhode-island-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-rhode-island-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-rhode-island-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-south-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-south-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-south-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-south-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-vermont-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-vermont-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-vermont-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-vermont-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-wyoming-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-wyoming-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-wyoming-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/cigna-wyoming-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-adhd-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-adhd-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-adhd-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-adhd-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-anxiety-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-anxiety-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-anxiety-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-anxiety-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-depression-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-depression-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-depression-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-depression-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-weight-loss-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-weight-loss-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-weight-loss-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-aetna-cover-weight-loss-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-adhd-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-adhd-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-adhd-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-adhd-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-anxiety-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-anxiety-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-anxiety-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-anxiety-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-depression-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-depression-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-depression-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-depression-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-weight-loss-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-weight-loss-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-weight-loss-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-anthem-cover-weight-loss-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-bcbs-texas-cover-adhd-treatment-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-bcbs-texas-cover-anxiety-treatment-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-blue-shield-cover-adhd-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-blue-shield-cover-anxiety-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-blue-shield-cover-depression-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-blue-shield-cover-weight-loss-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-adhd-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-adhd-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-adhd-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-adhd-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-anxiety-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-anxiety-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-anxiety-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-anxiety-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-depression-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-depression-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-depression-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-depression-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-weight-loss-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-weight-loss-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-weight-loss-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-cigna-cover-weight-loss-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-adhd-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-adhd-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-adhd-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-adhd-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-anxiety-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-anxiety-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-anxiety-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-anxiety-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-depression-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-depression-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-depression-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-depression-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-weight-loss-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-weight-loss-treatment-in-florida-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-weight-loss-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-humana-cover-weight-loss-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-adhd-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-adhd-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-adhd-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-anxiety-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-anxiety-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-anxiety-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-depression-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-depression-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-depression-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-weight-loss-treatment-in-california-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-weight-loss-treatment-in-new-york-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/does-unitedhealthcare-cover-weight-loss-treatment-in-texas-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/ear-infection-treatment-when-antibiotics-help-home-care-and-when-telehealth-is-enough/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/family-telehealth-coverage-benefits-a-2026-guide/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/free-ehr-for-independent-providers-what-your-stack-should-include-in-2026/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/get-lab-referral-through-virtual-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-alaska-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-alaska-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-alaska-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-alaska-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-delaware-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-delaware-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-delaware-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-delaware-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-maine-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-maine-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-maine-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-maine-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-montana-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-montana-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-montana-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-montana-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-north-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-north-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-north-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-north-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-rhode-island-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-rhode-island-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-rhode-island-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-rhode-island-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-south-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-south-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-south-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-south-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-vermont-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-vermont-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-vermont-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-vermont-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-wyoming-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-wyoming-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-wyoming-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/humana-wyoming-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/isocarboxazid-marplan-how-this-maoi-works-diet-rules-and-when-telehealth-is-enough/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/kidney-infection-treatment-antibiotics-when-telehealth-is-enough-and-when-you-need-in-person-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/marketplace-session-fees-in-2026-headways-9-99-fee-and-where-klarity-fits/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/no-insurance-therapy-self-pay-costs-sliding-scale-options-and-how-to-start-online-care/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/online-doctor-visit-what-to-expect-what-telehealth-can-treat-and-how-to-prepare/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/online-prescription-refill-pharmacy-requests-vs-a-new-script-controlled-meds-and-how-telehealth-works/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/over-the-counter-appetite-suppressant-alli-diet-supplements-safety-and-when-to-see-a-clinician/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/pink-eye-treatment-when-antibiotics-help-home-care-and-when-telehealth-is-enough/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/semglee-and-rezvoglar-insulin-glargine-biosimilars-how-these-long-acting-insulins-work-and-when-telehealth-is-enough/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/sinus-infection-treatment-when-antibiotics-help-what-you-can-do-at-home-and-when-telehealth-is-enough/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/sore-throat-remedies-what-helps-at-home-when-antibiotics-matter-and-when-telehealth-is-enough/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/spiperone-spiroperidol-spiropitan-why-this-butyrophenone-is-a-lab-ligand-not-a-u-s-pharmacy-product-and-what-telehealth-can-still-do/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/talk-to-a-doctor-online-free-what-is-actually-free-low-cost-options-and-how-telehealth-works/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-alaska-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-alaska-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-alaska-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-alaska-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-delaware-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-delaware-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-delaware-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-delaware-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-maine-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-maine-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-maine-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-montana-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-montana-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-montana-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-montana-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-north-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-north-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-north-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-north-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-rhode-island-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-rhode-island-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-rhode-island-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-rhode-island-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-south-dakota-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-south-dakota-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-south-dakota-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-south-dakota-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-vermont-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-vermont-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-vermont-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-wyoming-adhd-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-wyoming-anxiety-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-wyoming-depression-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/unitedhealthcare-wyoming-weight-loss-treatment-coverage-klarity-health/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/uti-antibiotics-online-first-line-prescriptions-telehealth-safety-and-same-day-pickup/",
+      "categories": [
+        "Doctor",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/uti-treatment-online-when-telehealth-works-antibiotics-and-when-to-seek-in-person-care/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/post/wegovy-pill-vs-injection-2026-guide-is-oral-semaglutide-available/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/service/back-pain-doctor-near-me/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/service/doctors-note-online/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/service/online-asthma-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/service/online-diabetes-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/service/online-doctor-prescription/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.helloklarity.com/service/online-thyroid-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1729 @@
+{
+  "name": "Nhs.uk",
+  "domain": "nhs.uk",
+  "total_urls": 3718,
+  "semaglutide_pages": [
+    "https://www.nhs.uk/medicines/semaglutide/"
+  ],
+  "tirzepatide_pages": [
+    "https://www.nhs.uk/medicines/tirzepatide/"
+  ],
+  "pricing_pages": [
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/advice/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/combine-breast-and-bottle/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/formula-milk-questions/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/making-up-baby-formula/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/sterilising-baby-bottles/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/types-of-formula/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/alcohol/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/back-to-work/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/medicines/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/smoking/",
+    "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.nhs.uk/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/about-us/about-the-nhs-website/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/about-us/health-information-in-other-languages/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/about-us/nhs-website-datasets/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/about-us/site-map/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/advice/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/combine-breast-and-bottle/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/formula-milk-questions/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/making-up-baby-formula/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/sterilising-baby-bottles/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/types-of-formula/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/alcohol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/back-to-work/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/medicines/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/smoking/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/breast-pain/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/common-problems/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/enough-milk/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/sore-nipples/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/benefits/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/breastfeeding-in-public/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/expressing-breast-milk/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/help-and-support/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/how-to-stop/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/positioning-and-attachment/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/premature-baby/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/the-first-few-days/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/your-questions-answered/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/how-to-resuscitate-a-child/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/how-to-stop-a-child-from-choking/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/what-to-do-if-your-child-has-an-accident/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/baby-and-toddler-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/choosing-a-baby-car-seat/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/safety-in-the-sun/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/newborn-twins-and-multiples/feeding-twins-and-multiples/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/baby-and-toddler-meal-ideas/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/childrens-food-safety-and-hygiene/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/fussy-eaters/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/help-your-baby-enjoy-new-foods/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/vitamins-for-children/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/what-to-feed-young-children/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/baby/weaning-and-feeding/young-children-and-food-common-questions/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/costochondritis/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/flat-feet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/lichen-planus/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/plantar-fasciitis/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-implant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-implant/getting-it-fitted-or-removed/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-implant/side-effects-and-risks/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-implant/what-is-it/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-implant/where-to-get-it/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-implant/who-can-use-it/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/natural-family-planning/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/live-well/exercise/strength-and-flex-exercise-plan-how-to-videos/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/acrivastine/pregnancy-breastfeeding-and-fertility-while-taking-acrivastine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/alendronic-acid/pregnancy-breastfeeding-and-fertility-while-taking-alendronic-acid/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/amitriptyline-for-depression/pregnancy-breastfeeding-and-fertility-while-taking-amitriptyline-for-depression/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/amitriptyline-for-pain/pregnancy-breastfeeding-and-fertility-while-taking-amitriptyline-for-pain-and-migraine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/amoxicillin/pregnancy-breastfeeding-and-fertility-while-taking-amoxicillin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/anastrozole/pregnancy-breastfeeding-and-fertility-while-taking-anastrozole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/antibiotics/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/antibiotics/antibiotic-antimicrobial-resistance/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/antibiotics/interactions/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/antibiotics/side-effects/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/antibiotics/uses/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/azithromycin/pregnancy-breastfeeding-and-fertility-while-taking-azithromycin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/beclometasone-inhalers/pregnancy-breastfeeding-and-fertility-while-using-beclometasone-inhalers/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/beclometasone-skin-creams/pregnancy-breastfeeding-and-fertility-while-using-beclometasone-skin-cream/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/bendroflumethiazide/pregnancy-breastfeeding-and-fertility-while-taking-bendroflumethiazide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/benzydamine/pregnancy-breastfeeding-and-fertility-while-using-benzydamine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/pregnancy-breastfeeding-and-fertility-while-using-betamethasone-for-eyes-ears-and-nose/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/betamethasone-skin/pregnancy-breastfeeding-and-fertility-while-using-betamethasone-for-skin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/bimatoprost/pregnancy-breastfeeding-and-fertility-while-using-bimatoprost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/bisacodyl/pregnancy-breastfeeding-and-fertility-while-taking-bisacodyl/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/brinzolamide/pregnancy-breastfeeding-and-fertility-while-using-brinzolamide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/buprenorphine-for-pain/pregnancy-breastfeeding-and-fertility-while-using-buprenorphine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/pregnancy-breastfeeding-and-fertility-while-taking-buscopan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/carbimazole/pregnancy-breastfeeding-and-fertility-while-taking-carbimazole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/carbocisteine/pregnancy-breastfeeding-and-fertility-while-taking-carbocisteine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/carmellose-sodium/pregnancy-breastfeeding-and-fertility-while-using-carmellose-sodium-eye-drops/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/carvedilol/pregnancy-breastfeeding-and-fertility-while-taking-carvedilol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/cetirizine/pregnancy-breastfeeding-and-fertility-while-taking-cetirizine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/chloramphenicol/pregnancy-breastfeeding-and-fertility-while-taking-chloramphenicol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/chlorhexidine/pregnancy-breastfeeding-and-fertility-while-using-chlorhexidine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/chlorphenamine-including-piriton/pregnancy-breastfeeding-and-fertility-while-taking-chlorphenamine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/clarithromycin/pregnancy-breastfeeding-and-fertility-while-taking-clarithromycin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/clonidine/pregnancy-breastfeeding-and-fertility-while-taking-clonidine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/clopidogrel/pregnancy-breastfeeding-and-fertility-while-taking-clopidogrel/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/co-beneldopa/pregnancy-breastfeeding-and-fertility-while-taking-co-beneldopa/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/co-codamol-for-adults/pregnancy-breastfeeding-and-fertility-while-taking-co-codamol-for-adults/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/co-dydramol/pregnancy-breastfeeding-and-fertility-while-taking-co-dydramol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/colecalciferol/pregnancy-breastfeeding-and-fertility-while-taking-colecalciferol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/pregnancy-and-breastfeeding-while-having-medroxyprogesterone-contraceptive-injections/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/pregnancy-breastfeeding-and-fertility-while-taking-dexamethasone-tablets-and-liquid/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/diclofenac/pregnancy-breastfeeding-and-fertility-while-taking-or-using-diclofenac/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/diltiazem/pregnancy-breastfeeding-and-fertility-while-taking-diltiazem/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/diphenhydramine/pregnancy-breastfeeding-and-fertility-while-taking-or-using-diphenhydramine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/dipyridamole/pregnancy-breastfeeding-and-fertility-while-taking-dipyridamole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/domperidone/pregnancy-breastfeeding-and-fertility-while-taking-domperidone/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/donepezil/pregnancy-breastfeeding-and-fertility-while-taking-donepezil/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/eplerenone/pregnancy-breastfeeding-and-fertility-while-taking-eplerenone/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/esomeprazole/pregnancy-breastfeeding-and-fertility-while-taking-esomeprazole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/ezetimibe/pregnancy-breastfeeding-and-fertility-while-taking-ezetimibe/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/fentanyl/pregnancy-breastfeeding-and-fertility-while-using-fentanyl/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/ferrous-sulfate/pregnancy-breastfeeding-and-fertility-while-taking-ferrous-sulfate/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/fexofenadine/pregnancy-breastfeeding-and-fertility-while-taking-fexofenadine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/flucloxacillin/pregnancy-breastfeeding-and-fertility-while-taking-flucloxacillin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/pregnancy-breastfeeding-and-fertility-while-using-fluticasone-nasal-spray-and-drops/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/fusidic-acid/pregnancy-breastfeeding-and-fertility-while-using-fusidic-acid/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/fybogel-ispaghula-husk/pregnancy-breastfeeding-and-fertility-while-taking-fybogel/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/gabapentin/pregnancy-breastfeeding-and-fertility-while-taking-gabapentin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/gaviscon/pregnancy-breastfeeding-and-fertility-while-taking-gaviscon/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/glyceryl-trinitrate-gtn/pregnancy-breastfeeding-and-fertility-while-taking-glyceryl-trinitrate-gtn/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/pregnancy-breastfeeding-and-fertility-while-taking-continuous-combined-hrt/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/pregnancy-breastfeeding-and-fertility-while-taking-or-using-sequential-combined-hormone-replacement-therapy-hrt/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/pregnancy-breastfeeding-and-fertility-while-taking-utrogestan/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/pregnancy-breastfeeding-and-fertility-while-using-vaginal-oestrogen/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-buccal-tablets/pregnancy-breastfeeding-and-fertility-while-using-hydrocortisone-buccal-tablets/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/pregnancy-breastfeeding-and-fertility-while-using-hydrocortisone-for-piles-and-itchy-bottom/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-injections/pregnancy-breastfeeding-and-fertility-if-youre-having-hydrocortisone-injections/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-tablets/pregnancy-breastfeeding-and-fertility-while-taking-hydrocortisone-tablets/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/pregnancy-breastfeeding-and-fertility-while-taking-ibuprofen-and-codeine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/insulin/biphasic-insulin/pregnancy-breastfeeding-and-fertility-while-taking-biphasic-insulin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/insulin/intermediate-acting-insulin/pregnancy-breastfeeding-and-fertility-while-taking-intermediate-acting-insulin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/insulin/long-acting-insulin/pregnancy-breastfeeding-and-fertility-while-taking-long-acting-insulin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/insulin/rapid-acting-insulin/pregnancy-breastfeeding-and-fertility-while-taking-rapid-acting-insulin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/insulin/short-acting-insulin/pregnancy-breastfeeding-and-fertility-while-taking-short-acting-insulin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/pregnancy-breastfeeding-and-fertility-while-taking-isosorbide-mononitrate-and-isosorbide-dinitrate/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/ketoconazole/pregnancy-breastfeeding-and-fertility-while-using-ketoconazole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/lansoprazole/pregnancy-breastfeeding-and-fertility-while-taking-lansoprazole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/latanoprost/pregnancy-breastfeeding-and-fertility-while-using-latanoprost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/letrozole/pregnancy-breastfeeding-and-fertility-while-taking-letrozole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/lithium/pregnancy-breastfeeding-and-fertility-while-taking-lithium/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/loperamide/pregnancy-breastfeeding-and-fertility-while-taking-loperamide/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/loratadine/pregnancy-breastfeeding-and-fertility-while-taking-loratadine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/lymecycline/pregnancy-breastfeeding-and-fertility-while-taking-lymecycline/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/mesalazine/pregnancy-breastfeeding-and-fertility-while-taking-mesalazine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/methadone/pregnancy-breastfeeding-and-fertility-while-taking-methadone/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/methotrexate/pregnancy-breastfeeding-and-fertility-while-taking-methotrexate/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/methylphenidate-adults/pregnancy-breastfeeding-and-fertility-while-taking-methylphenidate-for-adults/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/metoprolol/pregnancy-breastfeeding-and-fertility-while-taking-metoprolol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/metronidazole/pregnancy-breastfeeding-and-fertility-while-taking-or-using-metronidazole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/mirabegron/pregnancy-breastfeeding-and-fertility-while-taking-mirabegron/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/mometasone-for-skin/pregnancy-breastfeeding-and-fertility-while-using-mometasone-for-skin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/mometasone-nasal-spray/pregnancy-breastfeeding-and-fertility-while-using-mometasone-nasal-spray/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/montelukast/pregnancy-breastfeeding-and-fertility-while-taking-montelukast/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/nefopam/pregnancy-breastfeeding-and-fertility-while-taking-nefopam/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/nortriptyline/pregnancy-breastfeeding-and-fertility-while-taking-nortriptyline/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/nystatin/pregnancy-breastfeeding-and-fertility-while-taking-or-using-nystatin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/olanzapine/pregnancy-breastfeeding-and-fertility-while-taking-olanzapine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/oxybutynin/pregnancy-breastfeeding-and-fertility-while-taking-oxybutynin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/pantoprazole/pregnancy-breastfeeding-and-fertility-while-taking-pantoprazole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/peppermint-oil/pregnancy-breastfeeding-and-fertility-while-taking-peppermint-oil/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/perindopril/pregnancy-breastfeeding-and-fertility-while-taking-perindopril/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/pregnancy-breastfeeding-and-fertility-while-taking-pre-exposure-prophylaxis-prep/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/pregabalin/pregnancy-breastfeeding-and-fertility-while-taking-pregabalin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/prochlorperazine/pregnancy-breastfeeding-and-fertility-while-taking-prochlorperazine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/promethazine/pregnancy-breastfeeding-and-fertility-while-taking-promethazine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/propranolol/pregnancy-breastfeeding-and-fertility-while-taking-propranolol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/ramipril/pregnancy-breastfeeding-and-fertility-while-taking-ramipril/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/risperidone/pregnancy-breastfeeding-and-fertility-while-taking-risperidone/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/ropinirole/pregnancy-breastfeeding-and-fertility-while-taking-ropinirole/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/salbutamol-inhaler/pregnancy-breastfeeding-and-fertility-while-using-salbutamol-inhalers/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/sodium-valproate/pregnancy-breastfeeding-and-fertility-while-taking-sodium-valproate/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/solifenacin/pregnancy-breastfeeding-and-fertility-while-taking-solifenacin/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/sotalol/pregnancy-breastfeeding-and-fertility-while-taking-sotalol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/sulfasalazine/pregnancy-breastfeeding-and-fertility-while-taking-sulfasalazine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/terbinafine/pregnancy-breastfeeding-and-fertility-while-taking-or-using-terbinafine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/thiamine-vitamin-b1/pregnancy-breastfeeding-and-fertility-while-taking-thiamine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/tiotropium-inhalers/pregnancy-breastfeeding-and-fertility-while-using-tiotropium-inhalers/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/tolterodine/pregnancy-breastfeeding-and-fertility-while-taking-tolterodine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/tramadol/pregnancy-breastfeeding-and-fertility-while-taking-tramadol/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/trimethoprim/pregnancy-breastfeeding-and-fertility-while-taking-trimethoprim/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/valproic-acid/pregnancy-breastfeeding-and-fertility-while-taking-valproic-acid/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/varenicline/pregnancy-breastfeeding-and-fertility-while-taking-varenicline/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/medicines/verapamil/pregnancy-breastfeeding-and-fertility-while-taking-verapamil/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/talk-to-children-about-feelings/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/advice-for-parents/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/assessment-and-treatments/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/how-tell-someone-about-self-harm/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/how-to-help-someone-else/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/ways-help-avoid-self-harm/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/why-people-self-harm/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-app/about/nhs-app-user-feedback-panel/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-app/about/privacy-legal-information/cookies-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-app/about/privacy-legal-information/nhs-app-terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-app/help/prescriptions/nominating-a-pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-app/help/profile/viewing-your-care-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/dentists/how-much-nhs-dental-treatment-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/get-your-nhs-health-check-online/legal-and-cookies/cookies-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/get-your-nhs-health-check-online/legal-and-cookies/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/get-your-nhs-health-check-online/legal-and-cookies/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/gps/health-services-for-someone-else-family-carer-access/apply-for-family-carer-access-nhs-app/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/gps/health-services-for-someone-else-family-carer-access/apply-for-family-carer-access-nhs-app/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/gps/health-services-for-someone-else-family-carer-access/information-for-under-16s-parent-guardian-accessing-your-doctors-services/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/gps/what-to-ask-your-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/help-with-health-costs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/help-with-health-costs/healthcare-travel-costs-scheme-htcs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/help-with-health-costs/help-with-health-costs-for-people-getting-universal-credit/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/help-with-health-costs/nhs-low-income-scheme-lis/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/help-with-health-costs/what-is-a-personal-health-budget/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/help-with-health-costs/when-you-need-to-pay-towards-nhs-care/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/help-with-health-costs/wigs-and-fabric-supports-on-the-nhs/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/pharmacies/find-a-pharmacy-offering-contraceptive-pill-without-prescription/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/pharmacies/find-a-pharmacy-that-offers-free-COVID-19-rapid-lateral-flow-tests/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/pharmacies/find-a-pharmacy-that-offers-free-blood-pressure-checks/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/pharmacies/find-a-pharmacy-that-offers-free-covid-19-rapid-lateral-flow-tests/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/vaccination-and-booking-services/book-or-cancel-an-rsv-vaccination/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/vaccination-and-booking-services/find-a-pharmacy-that-offers-free-flu-vaccination/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/vaccination-and-booking-services/find-a-pharmacy-that-offers-walkin-menb-vaccinations-for-young-people/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/vaccine-record/cookie-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/vaccine-record/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/vaccine-record/terms-of-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/our-policies/content-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/our-policies/find-your-nhs-number-service-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/our-policies/manage-your-appointments-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/our-policies/nbs-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/our-policies/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/our-policies/qflow-check-in-privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/our-policies/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/our-policies/terms-and-conditions/content-not-licensed-for-re-use/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/swollen-ankles-feet-and-fingers/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/pregnancy/having-a-baby-if-you-are-lgbt-plus/chestfeeding-if-youre-trans-or-non-binary/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/service-search/other-health-services/unplanned-pregnancy-information-and-support/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/social-care-and-support/care-after-a-hospital-stay/planning-to-leave-hospital/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/social-care-and-support/care-services-equipment-and-care-homes/national-homecare-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/social-care-and-support/help-from-social-services-and-charities/care-and-support-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/feeling-sick-nausea/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/smelly-feet/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/biopsy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/cornea-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/hair-transplant/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/advance-decision-to-refuse-treatment/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/advance-statement/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/lasting-power-of-attorney/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/why-plan-ahead/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/hearing-aids-and-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/pacemaker-implantation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/probiotics/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/stem-cell-or-bone-marrow-transplants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/stem-cell-or-bone-marrow-transplants/complications/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/stem-cell-or-bone-marrow-transplants/how-its-done/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/stem-cell-or-bone-marrow-transplants/preparation/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/stem-cell-or-bone-marrow-transplants/recovery/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/stem-cell-or-bone-marrow-transplants/what-it-is/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/tests-and-treatments/stem-cell-or-bone-marrow-transplants/why-its-done/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/going-abroad-for-treatment/planned-treatment-s2-funding-route/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/planning-your-healthcare/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Grandhealthpartners",
+  "domain": "grandhealthpartners.com",
+  "total_urls": 84,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://grandhealthpartners.com/payment-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://grandhealthpartners.com/faq/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/detroit-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/escanaba-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/grand-rapids/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/grandhaven-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/grandville-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/holland-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/houghton-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/iron-mountain-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/manistique-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/marquette-mi/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/menominee/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/locations/sault-ste-marie/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/physicians-assistants/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/physicians/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/staff-directory/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://grandhealthpartners.com/talking-to-your-doctor-about-weight-loss-medication/",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

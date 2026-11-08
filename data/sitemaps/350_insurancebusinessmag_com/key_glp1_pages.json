@@ -1,0 +1,58 @@
+{
+  "name": "Insurancebusinessmag",
+  "domain": "insurancebusinessmag.com",
+  "total_urls": 95,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.insurancebusinessmag.com/asia/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.insurancebusinessmag.com/asia/authors/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.insurancebusinessmag.com/asia/editorial-panels/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.insurancebusinessmag.com/asia/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.insurancebusinessmag.com/au/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.insurancebusinessmag.com/au/authors/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.insurancebusinessmag.com/au/editorial-panels/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://www.insurancebusinessmag.com/au/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

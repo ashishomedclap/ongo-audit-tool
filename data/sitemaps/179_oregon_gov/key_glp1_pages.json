@@ -1,0 +1,13 @@
+{
+  "name": "Oregon.gov",
+  "domain": "oregon.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://oregon.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://oregon.gov/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,264 @@
+{
+  "name": "Phentermineclinic",
+  "domain": "phentermineclinic.com",
+  "total_urls": 294,
+  "semaglutide_pages": [
+    "https://www.phentermineclinic.com/diabetes-and-semaglutide",
+    "https://www.phentermineclinic.com/future-of-semaglutide",
+    "https://www.phentermineclinic.com/ozempic-clinic-near-me",
+    "https://www.phentermineclinic.com/science-behind-semaglutide",
+    "https://www.phentermineclinic.com/semaglutide",
+    "https://www.phentermineclinic.com/semaglutide-and-blood-sugar",
+    "https://www.phentermineclinic.com/semaglutide-clinic-near-me",
+    "https://www.phentermineclinic.com/semaglutide-diet-and-exercise",
+    "https://www.phentermineclinic.com/semaglutide-for-obesity",
+    "https://www.phentermineclinic.com/semaglutide-insurance-and-cost",
+    "https://www.phentermineclinic.com/semaglutide-reserach",
+    "https://www.phentermineclinic.com/semaglutide-success",
+    "https://www.phentermineclinic.com/semaglutide-weight-loss-clinic-near-me",
+    "https://www.phentermineclinic.com/side-effects-of-semaglutide",
+    "https://www.phentermineclinic.com/starting-semaglutide"
+  ],
+  "tirzepatide_pages": [
+    "https://www.phentermineclinic.com/mounjaro-clinical-trials",
+    "https://www.phentermineclinic.com/mounjaro-weight-loss-clinics-near-you",
+    "https://www.phentermineclinic.com/tirzepatide",
+    "https://www.phentermineclinic.com/tirzepatide-weight-loss-clinic-near-you"
+  ],
+  "pricing_pages": [
+    "https://www.phentermineclinic.com/coffee",
+    "https://www.phentermineclinic.com/phentermine-cost",
+    "https://www.phentermineclinic.com/semaglutide-insurance-and-cost"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.phentermineclinic.com/california",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/coffee",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/diabetes-and-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/diet-doctor-link-between-diet-and-dementia",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/florida",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/future-of-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/georgia",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/mounjaro-clinical-trials",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/mounjaro-weight-loss-clinics-near-you",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/new-york",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/ohio",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/online-doctors-who-prescribe-phentermine",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/online-weight-loss-clinic-phentermine-texas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/ozempic-clinic-near-me",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/pharmacy-network",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/phentermine-clinic-application-for-doctors",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/phentermine-cost",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/phentermine-online-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/refund",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/science-behind-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide-and-blood-sugar",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide-clinic-near-me",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide-diet-and-exercise",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide-for-obesity",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide-insurance-and-cost",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide-reserach",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide-success",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/semaglutide-weight-loss-clinic-near-me",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/side-effects-of-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/starting-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/states",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/tennessee",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/texas",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/tirzepatide",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/tirzepatide-weight-loss-clinic-near-you",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://www.phentermineclinic.com/wegovy-clinic-near-me",
+      "categories": [
+        "Semaglutide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suwaneedoctor",
+  "domain": "suwaneedoctor.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://suwaneedoctor.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://suwaneedoctor.com/pricing"
+  ],
+  "all_categorized": []
+}

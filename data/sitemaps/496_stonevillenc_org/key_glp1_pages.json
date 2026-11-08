@@ -1,0 +1,31 @@
+{
+  "name": "Stonevillenc",
+  "domain": "stonevillenc.org",
+  "total_urls": 56,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://stonevillenc.org/public-services/schedule-of-fees/",
+    "https://stonevillenc.org/your-government/planning-board/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://stonevillenc.org/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://stonevillenc.org/public-services/schedule-of-fees/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://stonevillenc.org/your-government/planning-board/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

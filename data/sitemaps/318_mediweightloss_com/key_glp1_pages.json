@@ -1,0 +1,72 @@
+{
+  "name": "Mediweightloss",
+  "domain": "mediweightloss.com",
+  "total_urls": 268,
+  "semaglutide_pages": [
+    "https://mediweightloss.com/weight-loss-resources/healthy-recipes/rosemary-oil-pumpkin-seeds/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://mediweightloss.com/weight-loss-clinic/plano/",
+    "https://mediweightloss.com/weight-loss-clinic/planotx/",
+    "https://mediweightloss.com/weight-loss-resources/healthy-recipes/brown-sugar-cinnamon-coffee/",
+    "https://mediweightloss.com/weight-loss-resources/healthy-recipes/cinnamon-iced-coffee/",
+    "https://mediweightloss.com/weight-loss-resources/healthy-recipes/irish-coffee-cheesecake-parfait/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://mediweightloss.com/locations.kml",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://mediweightloss.com/weight-loss-clinic/plano/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mediweightloss.com/weight-loss-clinic/planotx/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mediweightloss.com/weight-loss-clinic/staffordva/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://mediweightloss.com/weight-loss-resources/healthy-recipes/brown-sugar-cinnamon-coffee/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mediweightloss.com/weight-loss-resources/healthy-recipes/cinnamon-iced-coffee/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mediweightloss.com/weight-loss-resources/healthy-recipes/irish-coffee-cheesecake-parfait/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://mediweightloss.com/weight-loss-resources/healthy-recipes/rosemary-oil-pumpkin-seeds/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://mediweightloss.com/weight-loss-resources/pressrelease/new-clinic-in-riverview-florida/",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}

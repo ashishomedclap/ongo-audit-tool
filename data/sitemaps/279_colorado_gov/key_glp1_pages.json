@@ -1,0 +1,13 @@
+{
+  "name": "Colorado.gov",
+  "domain": "colorado.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://colorado.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://colorado.gov/pricing"
+  ],
+  "all_categorized": []
+}

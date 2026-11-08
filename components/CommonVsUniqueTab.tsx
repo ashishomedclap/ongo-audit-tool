@@ -58,38 +58,7 @@ export default function CommonVsUniqueTab() {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       {/* Context Cue Banner */}
-      <ContextCue
-        level={2}
-        toolNumber={9}
-        useCase="Identify baseline table-stakes vs. unique competitive moat topics across the GLP-1 industry."
-        badge="Competitive Moats"
-        title="Common Baseline vs. Unique Differentiation Pages"
-        about="This page provides competitive pattern intelligence, contrasting 'Common Pages' (table-stakes pages found on 70%+ of telehealth clinics) against 'Unique Pages' (high-converting competitive moats found on fewer than 10% of clinics). It deconstructs the customer friction points, strategic rationale, and SEO intent advantages behind every page pattern to guide Ongo's differentiation."
-        whatYouCanDo={[
-          {
-            action: "Analyze Table-Stakes Baseline",
-            description: "Explore the 'Common Pages' view (Semaglutide product, transparent pricing, medical team, telehealth intake, state hubs) required to establish baseline trust."
-          },
-          {
-            action: "Discover High-Converting Moats",
-            description: "Switch to 'Unique Pages' to inspect rare, high-leverage pages (503A Sterility Certificates, Flat-Rate Dosing Guarantees, GLP-1 Tapering Off Protocols, TSA Airport Cold-Chain Travel Guides, HSA/FSA Reimbursement Portals)."
-          },
-          {
-            action: "Examine Customer Friction Callouts",
-            description: "Read the exact patient fears (needle phobia, hidden tier price jumps, pharmacy legitimacy) that each unique page is engineered to neutralize."
-          },
-          {
-            action: "Filter by Strategic Content Silo",
-            description: "Filter pages by Core Clinical, Pricing & Insurance, Medical Authority (E-E-A-T), Patient Retention, or State-Specific Telehealth."
-          },
-          {
-            action: "Review Ongo Recommended Slugs",
-            description: "Inspect recommended URL slugs and implementation priority tiers (P0, P1, P2) for Ongo to outrank competitors on specific patient searches."
-          }
-        ]}
-        tip="Review the 'Customer Objection' callout for unique pages to understand the exact patient fears (needle phobia, hidden tier pricing, pharmacy legitimacy) that Ongo can neutralize."
-      />
-
+      
       {/* Sleek Minimalist Tool Header */}
       <div className="tool-header-dark" style={{ padding: '16px 22px' }}>
         <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '14px', marginBottom: '12px' }}>

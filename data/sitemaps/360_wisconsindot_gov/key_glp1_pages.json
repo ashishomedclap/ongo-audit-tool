@@ -1,0 +1,13 @@
+{
+  "name": "Wisconsindot.gov",
+  "domain": "wisconsindot.gov",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://wisconsindot.gov/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://wisconsindot.gov/pricing"
+  ],
+  "all_categorized": []
+}

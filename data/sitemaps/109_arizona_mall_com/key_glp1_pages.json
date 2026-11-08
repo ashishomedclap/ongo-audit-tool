@@ -1,0 +1,130 @@
+{
+  "name": "Arizona Mall",
+  "domain": "arizona-mall.com",
+  "total_urls": 942,
+  "semaglutide_pages": [
+    "https://arizona-mall.com/product/cagrisema/",
+    "https://arizona-mall.com/product/n-acetyl-semax-amidate/",
+    "https://arizona-mall.com/product/ozempic-semaglutide-injection-wholesale/",
+    "https://arizona-mall.com/product/semaglutide-wholesale/",
+    "https://arizona-mall.com/product/vensemaglutide/",
+    "https://arizona-mall.com/product/wholesale-wegovy-semaglutide-injection/"
+  ],
+  "tirzepatide_pages": [
+    "https://arizona-mall.com/product/fda-approved-alternatives-to-tirzepatide/",
+    "https://arizona-mall.com/product/is-tirzepatide-safe-long-term/",
+    "https://arizona-mall.com/product/tirzepatide-half-life-and-metabolism/"
+  ],
+  "pricing_pages": [
+    "https://arizona-mall.com/product/exemestane-factory-wholesale-price/",
+    "https://arizona-mall.com/product/mesna-injection-factory-wholesale-price/",
+    "https://arizona-mall.com/product/somatostatin-injection-3-mg-price/",
+    "https://arizona-mall.com/product/teduglutide-5-mg-price/",
+    "https://arizona-mall.com/product/zilucoplan-gmp-factory/",
+    "https://arizona-mall.com/product/zilucoplan-tfa/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://arizona-mall.com/product/biotinoyl-tripeptide-1/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/cagrisema/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/exemestane-factory-wholesale-price/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/exendin-4-biotin-labeled/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/fda-approved-alternatives-to-tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/is-tirzepatide-safe-long-term/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/mesna-injection-factory-wholesale-price/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/n-acetyl-semax-amidate/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/ozempic-semaglutide-injection-wholesale/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/semaglutide-wholesale/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/somatostatin-injection-3-mg-price/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/teduglutide-5-mg-price/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/tirzepatide-half-life-and-metabolism/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/vensemaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/wholesale-wegovy-semaglutide-injection/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/zilucoplan-gmp-factory/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://arizona-mall.com/product/zilucoplan-tfa/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

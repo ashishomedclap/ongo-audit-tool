@@ -1,0 +1,83 @@
+{
+  "name": "Skinspire.agency",
+  "domain": "skinspire.agency",
+  "total_urls": 152,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://skinspire.agency/medspa/med-spa-seo-cost/",
+    "https://skinspire.agency/plastic-surgery/plastic-surgery-seo-cost/",
+    "https://skinspire.agency/seo-pricing/",
+    "https://skinspire.agency/wellness-clinic-digital-marketing/biofeedback-clinic-seo/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://skinspire.agency/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/dermatology/how-to-build-topical-authority-for-skin-health-content/",
+      "categories": [
+        "Author"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/medspa/med-spa-seo-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/plastic-surgery-digital-marketing/plastic-surgery-seo-florida/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/plastic-surgery-digital-marketing/plastic-surgery-seo-georgia/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/plastic-surgery/plastic-surgery-seo-cost/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/seo-marketing-fundamentals/online-reputation-management-for-doctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/seo-pricing/",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/terms-of-service/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://skinspire.agency/wellness-clinic-digital-marketing/biofeedback-clinic-seo/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    }
+  ]
+}

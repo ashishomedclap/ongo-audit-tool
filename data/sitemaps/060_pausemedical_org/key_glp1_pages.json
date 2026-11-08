@@ -1,0 +1,13 @@
+{
+  "name": "Pausemedical",
+  "domain": "pausemedical.org",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://pausemedical.org/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://pausemedical.org/pricing"
+  ],
+  "all_categorized": []
+}

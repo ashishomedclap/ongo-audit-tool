@@ -1,0 +1,764 @@
+{
+  "name": "Apple",
+  "domain": "apple.com",
+  "total_urls": 871,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.apple.com/contact/feedback/",
+    "https://www.apple.com/feedback/",
+    "https://www.apple.com/feedback/airpods/",
+    "https://www.apple.com/feedback/airtag/",
+    "https://www.apple.com/feedback/apple-fitness-plus/",
+    "https://www.apple.com/feedback/apple-music/",
+    "https://www.apple.com/feedback/apple-news/",
+    "https://www.apple.com/feedback/apple-pay/",
+    "https://www.apple.com/feedback/apple-podcasts/",
+    "https://www.apple.com/feedback/apple-school-manager/",
+    "https://www.apple.com/feedback/apple-sports/",
+    "https://www.apple.com/feedback/apple-tv-app/",
+    "https://www.apple.com/feedback/apple-tv/",
+    "https://www.apple.com/feedback/apple-vision-pro/",
+    "https://www.apple.com/feedback/automator/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.apple.com/business/small-business/success-stories/nagomi-pharmacy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/careers/us/work-at-apple/locations.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/child-safety/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/child-safety/rc-u13/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/child-safety/rc/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/child-safety/rp/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/contact/feedback/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/airpods/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/airtag/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-fitness-plus/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-music/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-news/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-pay/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-podcasts/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-school-manager/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-sports/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-tv-app/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-tv/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/apple-vision-pro/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/automator/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/books-ios-ipados/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/books/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/calendar/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/camera/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/classroom-ios-ipados/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/classroom-mac/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/compressor/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/configurator/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/contacts/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/displays/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/dvdplayer/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/facetime/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/final-cut-camera/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/finalcutpro/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/freeform/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/garageband-ios-ipados/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/garageband/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/health/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/home-app/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/homepod/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/icloud/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/imac-pro/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/imac/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/imovie-ios-ipados/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/imovie/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/invites/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/ipad/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/iphone/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/itunes-store/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/journal/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/keynote/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/logic-pro/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/mac-mini/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/mac-studio/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/macbook-air/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/macbook-neo/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/macbook-pro/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/macbook/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/macos/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/magic-mouse/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/mail/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/mainstage/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/maps-ios-ipados/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/maps-mac/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/messages-ios-ipados/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/messages/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/motion/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/notes/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/numbers/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/pages/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/passwords/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/photomator/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/photos/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/pixelmator-pro/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/quicktime/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/reminders/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/remotedesktop/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/safari/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/server/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/stocks/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/time-machine/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/translate/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/voice-memos/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/watch/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/feedback/weather/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/intellectual-property/tld/anti-abuse-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/intellectual-property/tld/czds-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/intellectual-property/tld/registration-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/internet-services/icloud/us-en/terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/internet-services/itunes/giftcards/us/terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/internet-services/itunes/us/terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/internet-services/terms/site.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/digital-assistant/terms/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/ers/inwarranty.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/ers/outofwarranty.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/iphonears/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/iphonears/inwarranty.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/iphonears/outofwarranty.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsar/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsbrpt/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsda/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsde/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsen/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermses/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsfi/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsfr/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsfrca/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermshans/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermshant/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsit/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsjv/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsmxes/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsnl/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsno/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermsru/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/servicetermssv/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/generalservice/ww/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/repair/retailservice.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/legal/sales-support/terms/training/trainingservice.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.apple.com/watch/?focus=safety",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Urbanradiancemedspa",
+  "domain": "urbanradiancemedspa.com",
+  "total_urls": 67,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://urbanradiancemedspa.com/memberships/",
+    "https://urbanradiancemedspa.com/why-waxing-helps-you-feel-your-best/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://urbanradiancemedspa.com/memberships/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://urbanradiancemedspa.com/our-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://urbanradiancemedspa.com/why-waxing-helps-you-feel-your-best/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Justanswer",
+  "domain": "justanswer.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://justanswer.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://justanswer.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rpbmedical",
+  "domain": "rpbmedical.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://rpbmedical.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://rpbmedical.com/pricing"
+  ],
+  "all_categorized": []
+}

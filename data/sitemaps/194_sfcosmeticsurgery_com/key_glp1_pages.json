@@ -1,0 +1,391 @@
+{
+  "name": "Sfcosmeticsurgery",
+  "domain": "sfcosmeticsurgery.com",
+  "total_urls": 654,
+  "semaglutide_pages": [
+    "https://www.sfcosmeticsurgery.com/procedure/weight-loss-program-ozempic-wegovy-semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.sfcosmeticsurgery.com/answers-everything-silicone-breast-implant-surgery",
+    "https://www.sfcosmeticsurgery.com/blog/5-women-whose-breast-implants-saved-their-lives",
+    "https://www.sfcosmeticsurgery.com/blog/a-new-better-way-to-get-patient-feedback-and-online-reviews",
+    "https://www.sfcosmeticsurgery.com/blog/all-natural-non-surgical-breast-enhancement-products-vs-breast-implants",
+    "https://www.sfcosmeticsurgery.com/blog/are-breast-implants-safe",
+    "https://www.sfcosmeticsurgery.com/blog/are-ultrasounds-better-than-mris-for-breast-implant-checks",
+    "https://www.sfcosmeticsurgery.com/blog/botox-approved-treatment-crows-feet",
+    "https://www.sfcosmeticsurgery.com/blog/brazilian-butt-lift-vs-butt-implants",
+    "https://www.sfcosmeticsurgery.com/blog/breast-implant-scandal-in-france-what-does-it-mean-for-the-u-s",
+    "https://www.sfcosmeticsurgery.com/blog/can-a-nose-job-cost-you-your-day-job",
+    "https://www.sfcosmeticsurgery.com/blog/cancer-link-to-breast-implants-not-a-concern",
+    "https://www.sfcosmeticsurgery.com/blog/category/Pricing",
+    "https://www.sfcosmeticsurgery.com/blog/category/Pricing+Page+Component",
+    "https://www.sfcosmeticsurgery.com/blog/choosing-the-right-size-breast-implants",
+    "https://www.sfcosmeticsurgery.com/blog/facial-facelift-new-buzzwords-anti-aging-packages"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.sfcosmeticsurgery.com/answers-everything-silicone-breast-implant-surgery",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/5-women-whose-breast-implants-saved-their-lives",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/a-new-better-way-to-get-patient-feedback-and-online-reviews",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/all-natural-non-surgical-breast-enhancement-products-vs-breast-implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/are-breast-implants-safe",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/are-ultrasounds-better-than-mris-for-breast-implant-checks",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/botox-approved-treatment-crows-feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/brazilian-butt-lift-vs-butt-implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/breast-implant-scandal-in-france-what-does-it-mean-for-the-u-s",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/can-a-nose-job-cost-you-your-day-job",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/cancer-link-to-breast-implants-not-a-concern",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/category/FAQs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/category/Pricing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/category/Pricing+Page+Component",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/choosing-the-right-size-breast-implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/facial-facelift-new-buzzwords-anti-aging-packages",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/fda-approves-new-silicone-gel-filled-breast-implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/gummy-bear-implants-are-fda-approved",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/hair-transplant-techniques-and-technologies-what-produces-the-most-natural-results",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/inspria-breast-implants-latest-generation-of-implants-from-allergen",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/introducing-askdrusha-faq-video-series",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/kylie-jenners-breast-augmentation-what-we-can-learn-about-the-dual-plane-technique",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/mammogram-with-breast-implants-what-you-need-to-know",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/minimizing-your-scars-with-biocorneum-how-it-works",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/motiva-breast-implants-now-available-with-dr-usha-rajagopal-in-san-francisco",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/plastic-surgery-runway-new-york-fashion-week",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/realself-qa-will-pregnancy-ruin-my-breast-implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/should-breast-implants-be-placed-above-or-behind-the-muscle-dr-usha-rajagopal-explains",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/should-i-get-an-mri-for-my-breast-implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/stop-feeling-bad-neck",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/Natrelle+410+Highly+Cohesive+Anatomically+Shaped+Silicone-Gel+Filled+Breast+Implant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/best+doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/best+labia+plasty+doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/cost+of+vaginal+rejuvenation",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/firm+breast+implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/gel+breast+implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/implants+in+the+bay+area",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/inspira+breast+implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/insurance+coverage",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/labiaplasty+doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/labioplasty",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/natural+looking+breast+implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/sillicone+implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/tear+drop+implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/tag/vaginal+rejuvenation+prices",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/blog/what-do-you-prefer-silicone-or-saline-breast-implants",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/coolsculpting-faqs",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/faq-sexual-reassignment",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/faqs-mommy-makeover",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/faqs/faqs-inverted-nipple-surgery",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/faqs/frequently-asked-questions-liposuction",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/faqs/frequently-asked-questions-smart-lipo",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/our-team",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/pricing-financing",
+      "categories": [
+        "Pricing",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/procedure/surgisil-permal-filler-facial-implant",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/procedure/weight-loss-program-ozempic-wegovy-semaglutide",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/procedures-details/faqs-labiaplasty-surgery",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/procedures-details/faqs-sculptra",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.sfcosmeticsurgery.com/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Conqraesthetics",
+  "domain": "conqraesthetics.com",
+  "total_urls": 32,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.conqraesthetics.com/payment-plans/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.conqraesthetics.com/payment-plans/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.conqraesthetics.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

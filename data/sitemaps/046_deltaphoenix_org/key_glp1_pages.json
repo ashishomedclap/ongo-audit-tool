@@ -1,0 +1,27 @@
+{
+  "name": "Deltaphoenix",
+  "domain": "deltaphoenix.org",
+  "total_urls": 35,
+  "semaglutide_pages": [
+    "https://deltaphoenix.org/tag/semaglutide-and-tirzepatide/"
+  ],
+  "tirzepatide_pages": [
+    "https://deltaphoenix.org/tag/semaglutide-and-tirzepatide/"
+  ],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://deltaphoenix.org/service/weight-loss-in-memphis-tn/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://deltaphoenix.org/tag/semaglutide-and-tirzepatide/",
+      "categories": [
+        "Semaglutide",
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3586 @@
+{
+  "name": "Northmemorial",
+  "domain": "northmemorial.com",
+  "total_urls": 872,
+  "semaglutide_pages": [
+    "https://northmemorial.com/doctor/semahge-betlehem/"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://northmemorial.com/advance-care-planning-what-it-is-and-why-it-matters/",
+    "https://northmemorial.com/cost-estimates/",
+    "https://northmemorial.com/doctor/costantini-todd/",
+    "https://northmemorial.com/doctor/kaplan-danielle/",
+    "https://northmemorial.com/new-parent-resources/feeding-support/",
+    "https://northmemorial.com/what-does-arthritis-feel-like/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://northmemorial.com/about-us/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/about-us/awards-and-recognition/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/advance-care-planning-what-it-is-and-why-it-matters/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/boost-health-probiotics/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/care-in-a-crisis-behavioral-healthcare-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/careers/physician-careers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/cost-estimates/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/covid-19-testing-good-advice-from-the-good-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/bariatric-weight-loss-doctors-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/cardiologists-blaine-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/cardiologists-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/cardiologists-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/cardiologists-minnetonka-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/cardiologists-monticello-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/cardiologists-robbinsdale-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/emergency-medicine-doctors-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/emergency-medicine-doctors-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/endocrinologists-blaine-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/endocrinologists-in-minnetonka-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/gastroenterologists-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/gastroenterologists-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/hospice-care-providers-in-maple-grove/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/hospice-care-providers-in-minneapolis/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/hospice-care-providers-in-robbinsdale/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/infectious-disease-doctors-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/infectious-disease-doctors-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/internal-medicine-doctors-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/neurologists-neurosurgeons-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/neurologists-neurosurgeons-robbinsdale-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/oncologists-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/oncologists-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/oncologists-monticello-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/oncologists-robbinsdale-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/orthopedic-doctors-surgeons-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/orthopedic-doctors-surgeons-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-blaine-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-brooklyn-park-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-elk-river-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-fridley-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-golden-valley-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-minnetonka-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-new-hope-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/podiatrists-st-anthony-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-blaine-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-brooklyn-center-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-brooklyn-park-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-camden-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-elk-river-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-fridley-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-golden-valley-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-in-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-minnetonka-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-new-hope-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/primary-care-doctors-st-anthony-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/pulmonologists-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/pulmonologists-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/rheumatologists-in-blaine-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/sleep-doctors-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/urologists-maple-grove-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/urologists-robbinsdale-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor-search/weight-management-doctors-minneapolis-mn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/abdulhusein-mustafa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/abouelmakarim-gharabawy-maichel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/aduba-kenneth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/aghenta-ese/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ahmad-abdulqadir/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ahmed-anas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/akinlolu-azeez/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/akintunde-kristie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/amoah-afua/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/anderson-gonzalez-liza/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/anderson-katie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/anderson-kristi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/anderson-mary/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/andrews-wanda/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/aponte-angel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/arnason-fritz/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/arthur-andrew/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/babine-dinnen-kristin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/baer-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/baker-lange-katie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bakker-adam/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/banks-garry/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/barker-kyle/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/barringer-thomas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bastian-emily/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/batool-maria/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/becker-anne/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/becker-elizabeth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/beckman-carrissa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/beh-merritt/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bekwelem-wobo/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bemus-spear-alysia/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/benoit-doom-mariah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/benson-anna/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/berhanu-yetmwork/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/berry-brent/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bertsch-ronda/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/beshai-emad/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bestler-madison/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/billington-shannon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bircher-james/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bissonette-melvina/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/blake-bridget/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/blotner-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bofferding-alex/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bond-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/borger-chris/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/borrero-maria/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bowen-adrianne/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/boyd-anna/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/brito-alexandra/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/brooks-andrew/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/brooks-david/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/browen-kylie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/brown-ana/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/brown-eryn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bryan-delaney/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bucher-jessica/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/bukkapatnam-sanjana/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/burkett-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cammack-paul/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cannon-mark/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/canter-keith/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/carter-sarah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cashman-damon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cederstrom-vannesa-hang/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cerny-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/champine-nathan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/chang-david/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/chaudhry-aisha/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/chien-kristina/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/chiles-britta/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/chimukangara-munyaradzi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/choi-woo-jeong/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/christiansen-hope/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/christopherson-shannon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/chrzanak-rheanna/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/chupp-ryan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/clabo-katie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/collins-taylor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/conterato-marc/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cornelius-jason/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/coryell-kyle/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/costantini-todd/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cottrell-brandon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cowman-brice/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/cross-austyn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/culliver-madison/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/czeiska-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dahl-jill/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/danielson-tammy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/davis-nicholas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/davis-stan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/de-chantal-jennifer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dean-carl/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dean-daniela/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/deisler-jennifer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/deisz-robert/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/delavari-parissa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/diebold-deanna/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dikmen-sibel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dodla-aditya-rani/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dolan-ben/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dong-xiaoming/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dooley-jessica/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/doran-bethany/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dorland-natalia/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/dorn-aiyana/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/douglas-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/downes-kelly/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/downey-toni/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/downs-lydia/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/easley-taylor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/eide-russell/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ekstrom-erik/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/elabe-jibril/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/enge-rachel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ergando-tesfatsiyon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/everson-david/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ewan-emily/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/farhat-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/faundeen-tonya/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/feldkamp-matthias/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/felemovicius-isaac/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/feltovich-helen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/felty-benjamin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ferrar-chloe/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/finn-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/finn-zachary/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/fiocchi-jacob/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/fischer-mark/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/flatley-darby/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/fleddermann-lauren/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/flood-nora/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/flynn-sheila/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/foley-kaylle/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ford-jenny/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/forseth-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/foslien-ria/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/fraley-karen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/franchino-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/francois-meg/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/frantz-jillian/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/friesen-alyssa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/fruechte-ashley/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/fruechte-ethan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gabow-abdulaziz/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gabrielse-kari/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gale-jonathan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/garner-hart/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/geda-abdurkedir/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gengerke-todd/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gieseke-lisa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gilbert-andy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gipson-jonathan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gits-colton/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/goldstein-jeffrey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gordon-steph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gray-jennifer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gray-john/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/green-adam/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/greiner-ryan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/groskreutz-casey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/guerrero-angela/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/guerrero-roman/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/gustafson-holly/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/halverson-emily/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/halvorsen-trisha/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hammer-kerri/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hammer-luke/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hannon-peter/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hansen-brian/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hansen-karen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hanson-bailey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hanvelt-laura/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/harms-alex/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/harms-paige/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hartigan-david/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hartmann-tracy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hartzler-mikaela/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/harwalkar-subash/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hassan-nancy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/haugland-erik/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hedstrom-christine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/helgeson-cara/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/helgeson-erin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hemme-troy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hentzen-stijn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/herkert-adam/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/herrick-cynthia/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hess-ryan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hildebrand-rachel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hill-sametta/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hill-taylor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hiti-josephine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hollinger-ed/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/holmquist-katelyn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/holsather-sara/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/honn-hanna/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hood-natalie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/house-elizaveta/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hromatka-kati/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hubbell-alex/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hudson-jay/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hussain-shahid/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/hutton-kara/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ibrahim-abdisamad/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/jackman-todd/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/jaeger-leslee/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/jambhekar-nilesh/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/janzig-hannah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/jay-podaly/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/jenabzadeh-kamrun/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ji-lu/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/johnson-aimee/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/johnson-bradley/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/johnson-evan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/johnson-jeremiah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/johnson-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/johnston-david/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/jones-emma/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kalava-usha/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kallamadi-rekha/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kammann-lindsay/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kang-so-yeon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kaplan-danielle/",
+      "categories": [
+        "Pricing",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/karachenets-olga/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kaur-lakhvir/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kayan-tracy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kebriaei-meysam/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kelkar-praful/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kemberling-j-karl/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kemp-kourtney/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kemp-sarah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kern-shirley/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kern-steven/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/key-allison/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/khan-farha/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/khan-marta/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/khong-connie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kim-jae-woo/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kim-miriam/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/king-robert/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kins-aleksandr/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kissner-matthew/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kleeman-briar/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/klein-melissa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kleist-alexa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/koenig-thomas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kolar-amy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/korbitz-parker/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kotecki-jack/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kowal-branden/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kraska-ally/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/krepp-katharine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/krohn-austin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kruc-lauren/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/krueger-niloo/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kudav-vishal/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kumar-rashmi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/kwakugah-edwin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/labelle-mark/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/labine-brian/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lachowitzer-melissa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/landis-george/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/larsen-haidle-joy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lee-marlon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/leier-kelly/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lentfer-gay/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lesyinski-katie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/levin-elizabeth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/levine-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lew-william/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lexau-ben/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lien-sanks-linda/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lipelt-sarah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lippert-sarah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/liu-diana-chueh/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/loew-josh/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/loew-patrick/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/love-todd/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lynch-jeremiah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/lyng-john/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/maheshwari-alok/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mahoney-deborah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mahoney-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/malecek-jeremiah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/manthey-amanda/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/marcos-basem/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/marcuccio-dominic/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mariash-evan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/marjan-anna/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/masrud-sarah/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mastel-kate/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/matushin-elycia/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mays-ashley/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mcaninch-chris/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mccoy-christopher/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mccue-jonathan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mcdonald-maureen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mcevoy-taryn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mcfadden-rodney/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mcginty-rosie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mcguire-chelsea/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mclain-michaela/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mcmanus-timothy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mcmillan-william/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mehrotra-avanti/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/menth-nicholas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/michalko-bradley/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/michels-carrie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/milkus-kelly/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/miller-rachel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mirau-michelle/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/misiewicz-gina/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/moga-erin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mogalapalli-akhil/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mohamed-hamsa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/mohamood-khalid/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/monteiro-pai-sureena/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/montminy-kara/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/morgan-andrea/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/morrow-paeton/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/morse-spencer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/motzko-ella/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/muhammad-arshi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/muhanna-suzan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/murray-sara/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nagaraj-alaka/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/narang-puneet/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nelson-danielle/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nelson-hagen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nelson-mandy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nesser-tricia/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/neutkens-mike/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nishikawa-go/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nisi-kurt/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nitz-eric/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/norton-gabriella/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/norton-hilary/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/norton-leslie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/novak-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nussbaum-eric/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nwobodo-jereoha/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/nyholm-jessica/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/oberto-medina-mayra/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/obi-chike/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/oelhafen-kim/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/olek-courtney/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/olson-erik/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/olson-nicholas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/olson-timothy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/omar-ahmed/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/omar-taylor-shareef/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/omweri-hudson/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/oneil-kristina/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/overman-kelsey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/palmer-christopher/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/palmer-wyatt/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/panait-lucian/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/papazian-andrew/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/parady-meri-ellen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/parisi-debra/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/patel-ketan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/patel-sumit/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/patten-lane/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/paul-shilpa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/pauly-suzanne/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/pease-daniel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/peng-stephanie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/penning-heather/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/peoples-jennifer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/perez-eduardo/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/peterson-grace/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/peterson-paul/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/peterson-shannon/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/pham-viet/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/philippe-claire/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/piehl-katie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/piper-james/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/poquette-adam/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/pothast-laura/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/qi-steven/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/quaranta-dean/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/quarles-jerrod/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/quinn-shantel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/radermacher-brenna/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/raguet-michael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rahberg-elizabeth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rang-chezni/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ranstrom-benjamin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rau-matthew/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/raymond-ann/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/renninger-logan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rettig-kurt/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/reynolds-christopher/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/reynolds-jacob/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rickard-jennifer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ritter-brigette/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ritts-alexandra/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ritz-leanne/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rizk-kareem/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/roh-steven/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rohrer-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/roline-chad/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/romanek-clay/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rone-abdirahman/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rossini-thomas/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/rudolph-ehren/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/saavedra-leonardo/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/salmen-charles/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sandhu-kevin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/santos-edward/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/santos-maggie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sarcia-paul/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sarpal-carol/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sather-kirstin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sauer-mary/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/schaefer-kristin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/schleif-katie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/schmidt-austin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/schott-megan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/schrupp-berg-holly/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/seebart-peter/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/seiler-kole/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/semahge-betlehem/",
+      "categories": [
+        "Semaglutide",
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sharaf-aboubaker/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sharma-anshu/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/shutt-brennan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sicora-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sinicropi-stefano/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sinnen-rachel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/skemp-neil/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/smalley-melanie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/smebak-leslie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/smedberg-maja/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/smith-amy/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/smith-andrew/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/smith-david/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/solfelt-mark/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/soyk-cody/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/stanhope-todd/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/starcher-rachael/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/stenach-rachel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/stennes-corey/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/stevens-erin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/stevenson-marisa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/stoy-sean/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/stram-amanda/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/strothman-david/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sullivan-jenna/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/suri-muhammad/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/sutter-leve-rachel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/swan-laura/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/tanghe-peter/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/tanner-john/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/tay-rachel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/thimesch-nick/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/thomas-merrill/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/thompson-rachel/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/thorson-melissa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/thyagarajan-kavyamol/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/tomscha-katherine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/torralba-rosalynn/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/totoe-grace/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/tran-kira/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/trasar-lobsang/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/traynor-christopher/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/van-beek-allen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/van-camp-joseph/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/van-dijk-adam/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/vang-meme/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/varghese-alvin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/veen-lyla/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ventura-alissa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/vespa-jeff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/visaya-orvin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/vlach-jennifer/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/vogel-emily/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/vogt-katie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/waaraniemi-mara/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wagenknecht-alison/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/walters-brian/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/walz-heidi/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ward-caitlin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ward-christina/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/ward-emilie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/warden-alyssa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wardzala-dominik/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/west-michaela/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/whirley-brad/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/whitaker-cassie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/white-rosa/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wiechman-andrew/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wiese-christine/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wilcox-anjali/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wilde-brenden/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/williams-kristen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wippermann-ahren/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/witzke-jonathan/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wolfe-virgie/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/worden-erin/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/worley-whitney/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wu-jason/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wutoh-kenneth/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wyatt-karen/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/wynia-charina/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/yelenich-huss-mallory/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/yohannes-saron/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/zabadal-zach/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/zeineh-nabil/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/zelent-mark/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/doctor/zhao-yu/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/find-a-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/find-a-doctor/doctor-search/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/find-a-doctor/patient-surveys/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/five-important-doctors-tips-for-keeping-kids-safe-and-healthy-all-summer-long/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/getting-healthcare-now-good-advice-from-the-good-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/having-a-baby-now-good-advice-from-the-good-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/healthcare-providers-coronavirus-covid-19/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/make-an-appointment/virtual-doctor-visits/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/new-habits-to-keep-us-safer-good-advice-from-the-good-doctor/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/new-parent-resources/feeding-support/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/pharmacy-residencies/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/primary-care-providers-partner-health-wellness/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/skin-protection-and-water-safety-tips-this-summer/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/summer-preview-water-swimming-safety-tips/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/topdoctors/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://northmemorial.com/what-does-arthritis-feel-like/",
+      "categories": [
+        "Pricing"
+      ]
+    }
+  ]
+}

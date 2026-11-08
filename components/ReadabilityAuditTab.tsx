@@ -150,14 +150,7 @@ export default function ReadabilityAuditTab() {
   return (
     <div style={{ maxWidth: '1440px', margin: '0 auto', padding: '0 8px' }}>
       {/* Context Cue Banner */}
-      <ContextCue
-        title="US AMA/NIH Patient Readability & Jargon Auditor"
-        level={2}
-        toolNumber={26}
-        badge="AMA & NIH Grade Level Compliant"
-        useCase="Audits health content against American Medical Association (AMA) guidelines mandating 6th-to-8th grade reading levels, flagging multi-syllabic medical jargon and suggesting patient-friendly alternatives."
-      />
-
+      
       {/* Top Readability Scores Grid */}
       <div style={{
         display: 'grid',
@@ -254,7 +247,7 @@ export default function ReadabilityAuditTab() {
             </div>
           </div>
 
-          <textarea
+          <textarea aria-label="Clinical text content to evaluate readability"
             rows={10}
             value={text}
             onChange={(e) => setText(e.target.value)}

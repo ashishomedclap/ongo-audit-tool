@@ -1,0 +1,13 @@
+{
+  "name": "Moorefamilypharmacy",
+  "domain": "moorefamilypharmacy.com",
+  "total_urls": 7,
+  "semaglutide_pages": [
+    "https://moorefamilypharmacy.com/semaglutide"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://moorefamilypharmacy.com/pricing"
+  ],
+  "all_categorized": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Weightlossfor",
+  "domain": "weightlossfor.us",
+  "total_urls": 40,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [],
+  "all_categorized": [
+    {
+      "url": "https://www.weightlossfor.us/our-terms",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.weightlossfor.us/post/5-signs-males-may-have-low-testosterone-levels-learn-whether-bio-identical-hrt-is-right-for-you",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.weightlossfor.us/providers",
+      "categories": [
+        "Doctor"
+      ]
+    }
+  ]
+}

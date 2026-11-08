@@ -1,0 +1,286 @@
+{
+  "name": "Trivalleyplasticsurgery",
+  "domain": "trivalleyplasticsurgery.com",
+  "total_urls": 427,
+  "semaglutide_pages": [
+    "https://www.trivalleyplasticsurgery.com/blog/achieving-the-perfect-shape-after-ozempic-top-body-contouring-and-skin-tightening/",
+    "https://www.trivalleyplasticsurgery.com/blog/ozempic-hair-explained-how-to-regain-healthy-hair-after-weight-loss/",
+    "https://www.trivalleyplasticsurgery.com/blog/semaglutide/",
+    "https://www.trivalleyplasticsurgery.com/blog/understanding-ozempic-face-and-how-to-treat-it/",
+    "https://www.trivalleyplasticsurgery.com/weight-loss-shots/ozempic-face/",
+    "https://www.trivalleyplasticsurgery.com/weight-loss-shots/semaglutide/"
+  ],
+  "tirzepatide_pages": [
+    "https://www.trivalleyplasticsurgery.com/weight-loss-shots/tirzepatide/"
+  ],
+  "pricing_pages": [
+    "https://www.trivalleyplasticsurgery.com/breast/breast-implant-removal/",
+    "https://www.trivalleyplasticsurgery.com/breast/breast-lift-with-implants/",
+    "https://www.trivalleyplasticsurgery.com/breast/cost-of-breast-implants/",
+    "https://www.trivalleyplasticsurgery.com/face/deep-plane-facelift/",
+    "https://www.trivalleyplasticsurgery.com/face/deep-plane-neck-lift/",
+    "https://www.trivalleyplasticsurgery.com/gallery/breast/breast-implant-removal/",
+    "https://www.trivalleyplasticsurgery.com/gallery/breast/breast-implant-removal/item/ER3dgh3STa-_kFf5QtEPLA/",
+    "https://www.trivalleyplasticsurgery.com/gallery/breast/breast-implant-removal/item/OeM8mHH2Qb-ezRCVa1emwA/"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/about/our-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/about/our-providers/all-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/about/our-providers/dr-philip-wasicek/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/about/our-providers/steven-williams-md/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/about/our-providers/your-med-spa-providers/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/about/our-providers/your-surgical-team/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/about/our-staff/",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/blog/achieving-the-perfect-shape-after-ozempic-top-body-contouring-and-skin-tightening/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/blog/ozempic-hair-explained-how-to-regain-healthy-hair-after-weight-loss/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/blog/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/blog/understanding-ozempic-face-and-how-to-treat-it/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/breast/breast-implant-removal/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/breast/breast-lift-with-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/breast/cost-of-breast-implants/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/face/deep-plane-facelift/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/face/deep-plane-neck-lift/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/gallery/breast/breast-implant-removal/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/gallery/breast/breast-implant-removal/item/ER3dgh3STa-_kFf5QtEPLA/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/gallery/breast/breast-implant-removal/item/OeM8mHH2Qb-ezRCVa1emwA/",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/danville/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/danville/breast-augmentation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/danville/facelift/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/danville/liposuction/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/danville/mommy-makeover/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/danville/tummy-tuck/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/san-francisco/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/san-jose/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/botox/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/breast-augmentation/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/coolsculpting/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/dermal-fillers/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/emsculpt/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/facelift/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/hair-restoration/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/hydrafacial/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/liposuction/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/mommy-makeover/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/locations/walnut-creek/tummy-tuck/",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/privacy-policy/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/terms-and-conditions/",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/weight-loss-shots/ozempic-face/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/weight-loss-shots/semaglutide/",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.trivalleyplasticsurgery.com/weight-loss-shots/tirzepatide/",
+      "categories": [
+        "Tirzepatide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "name": "Healthstartn",
+  "domain": "healthstartn.org",
+  "total_urls": 306,
+  "semaglutide_pages": [
+    "https://www.healthstartn.org/health/uncontrolled-asthma-or-emphysema"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.healthstartn.org/health/breastfeeding-support",
+    "https://www.healthstartn.org/health/feeling-sick",
+    "https://www.healthstartn.org/health/podiatrist-care-for-your-feet"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.healthstartn.org/clinics/east-tennessee-primary-care-associates",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/east-tennessee-primary-care-associates-2",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/east-tennessee-vascular-center",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/healthstar-physicians-after-hours",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/healthstar-physicians-after-hours-clinic",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/healthstar-physicians-foot-and-ankle",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/healthstar-physicians-medical-specialties",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/healthstar-physicians-premier-medical",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/healthstar-physicians-premier-medical-west",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/clinics/jefferson-family-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/breastfeeding-support",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/feeling-sick",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/healthstar-physicians-new-morristown-location",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/healthstar-physicians-now-offering-rapid-covid-19-tests",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/orthopedic-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/podiatrist-care-for-your-feet",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/summer-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/sun-safety-the-summer",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/health/uncontrolled-asthma-or-emphysema",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/non-discrimination-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/privacy-policy",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/provider-bio",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/aleksandr-vinogradov-dpm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/alex-fort-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/alicia-roberts-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/amy-austin-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/amy-epling-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/amy-sharp-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/andrea-acquaviva-kimbrough-fnp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/annie-jarnigan-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/aqueel-kouser-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/ashley-greene-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/ashley-overbay-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/blake-melling-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/bonnie-vick-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/carl-byrd-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/casey-lambdin-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/catherine-spiker-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/cetessa-mack-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/charla-olson-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/chasity-sellars-au-d",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/christy-psimer-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/claes-svendsen-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/cory-holt-fnp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/dana-moreland-msn-aprn-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/david-mcnabney-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/david-p-mullins-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/dennis-harris-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/dillon-gibson-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/donna-dillard-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/donna-welch-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/elizabeth-fitzgibbon-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/emily-buchanan-fnp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/emma-greaar-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/eric-delay-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/hannah-penedo-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/hina-kouser-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/isaac-blair-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/jackie-noah-mpas-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/jeanette-mullane-fnp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/jeff-adams-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/jennifer-eisenhower-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/jennifer-jenkins-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/jennifer-jones-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/jeremy-wetmore-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/jessica-shehan-dnp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/joanne-langton-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/joseph-prohaska-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/justin-garrison-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/kabir-harricharan-singh-md-faafp-dabom",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/kacey-voelker-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/kaitlyn-mitchell-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/karen-robinette-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/kasey-smith-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/katie-prosser-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/katie-wick-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/kayla-thompson-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/kellie-miralles-fnp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/kendal-holbrook-fnp",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/kim-thomas-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/laura-kraus-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/laura-purdom-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/lawrence-kennard-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/lindsay-henderson-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/lisa-bryant-np-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/madison-truman-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/maryellen-johnson-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/mathew-kraus-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/meghan-reed-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/michael-dillard-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/mikki-brooks-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/miranda-beckler-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/miranda-hickle-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/mubashir-mahmood-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/nancy-witherspoon-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/nathan-wicker-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/paul-cardali-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/rajkamal-singh-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/rebecca-boyd-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/rual-swanson-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/ruslan-safarov-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/sebastien-demoiny-dpm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/shahin-assadnia-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/shannon-hancock-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/sherry-foster-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/staci-bubp-fnp-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/stephanie-giles-fnp-bc",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/steven-wadsworth-dpm",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/victoria-hale-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/wayne-berry-iii-md",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/whitney-rogers-mms-pa-c",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/providers/zachary-sumpter-do",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.healthstartn.org/terms-and-conditions",
+      "categories": [
+        "Policy"
+      ]
+    }
+  ]
+}

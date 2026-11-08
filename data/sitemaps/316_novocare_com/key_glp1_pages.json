@@ -1,0 +1,547 @@
+{
+  "name": "Novocare",
+  "domain": "novocare.com",
+  "total_urls": 217,
+  "semaglutide_pages": [
+    "https://www.novocare.com/diabetes/products/ozempic.html",
+    "https://www.novocare.com/diabetes/products/ozempic/check-coverage.html",
+    "https://www.novocare.com/diabetes/products/ozempic/explaining-list-price.html",
+    "https://www.novocare.com/diabetes/products/ozempic/pharmacy.html",
+    "https://www.novocare.com/diabetes/products/ozempic/savings-card-es.html",
+    "https://www.novocare.com/diabetes/products/ozempic/savings-offer.html",
+    "https://www.novocare.com/diabetes/products/ozempic/support-sign-up.html",
+    "https://www.novocare.com/eligibility/ozempic-pharmacy.html",
+    "https://www.novocare.com/eligibility/wegovy-savings-card.html",
+    "https://www.novocare.com/eligibility/wegovy-text-savings.html",
+    "https://www.novocare.com/patient/medicines/wegovy.html",
+    "https://www.novocare.com/patient/medicines/wegovy/check-coverage.html",
+    "https://www.novocare.com/patient/medicines/wegovy/savings-offer.html",
+    "https://www.novocare.com/pharmacy/ozempic.html",
+    "https://www.novocare.com/pharmacy/wegovy.html"
+  ],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://www.novocare.com/bleeding-disorders/help-with-costs/savings-offer.html",
+    "https://www.novocare.com/bleeding-disorders/insurance-information/exploring-insurance/choose-plan.html",
+    "https://www.novocare.com/diabetes-overview/let-us-help/help-with-insulin-costs.html",
+    "https://www.novocare.com/diabetes/help-with-costs/help-with-insulin-costs.html",
+    "https://www.novocare.com/diabetes/help-with-costs/help-with-insulin-costs/human-insulin-options.html",
+    "https://www.novocare.com/diabetes/help-with-costs/help-with-insulin-costs/immediate-supply.html",
+    "https://www.novocare.com/diabetes/help-with-costs/help-with-insulin-costs/myinsulinrx.html",
+    "https://www.novocare.com/diabetes/help-with-costs/pap-es.html",
+    "https://www.novocare.com/diabetes/help-with-costs/pap.html",
+    "https://www.novocare.com/diabetes/help-with-costs/savings-offers.html",
+    "https://www.novocare.com/diabetes/insurance-information/exploring-insurance/choose-plan.html",
+    "https://www.novocare.com/diabetes/products/ozempic/explaining-list-price.html",
+    "https://www.novocare.com/diabetes/products/rybelsus/explaining-list-price.html",
+    "https://www.novocare.com/diabetes/products/tresiba/explaining-list-price.html",
+    "https://www.novocare.com/growth-related-disorders/insurance-information/exploring-insurance/choose-plan.html"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://www.novocare.com/bleeding-disorders/help-with-costs/savings-offer.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/bleeding-disorders/insurance-information/exploring-insurance/choose-plan.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/bleeding-disorders/insurance-information/exploring-insurance/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/bleeding-disorders/insurance-information/exploring-insurance/terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes-overview/let-us-help/help-with-insulin-costs.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/help-with-costs/help-with-insulin-costs.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/help-with-costs/help-with-insulin-costs/human-insulin-options.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/help-with-costs/help-with-insulin-costs/immediate-supply.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/help-with-costs/help-with-insulin-costs/myinsulinrx.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/help-with-costs/pap-es.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/help-with-costs/pap.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/help-with-costs/savings-offers.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/insurance-information/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/insurance-information/exploring-insurance/choose-plan.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/insurance-information/exploring-insurance/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/insurance-information/exploring-insurance/terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/fiasp/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/levemir/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/novolog/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/novologmix70-30/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/ozempic.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/ozempic/check-coverage.html",
+      "categories": [
+        "Semaglutide",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/ozempic/explaining-list-price.html",
+      "categories": [
+        "Semaglutide",
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/ozempic/pharmacy.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/ozempic/savings-card-es.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/ozempic/savings-offer.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/ozempic/support-sign-up.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/rybelsus/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/rybelsus/explaining-list-price.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/tresiba/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/tresiba/explaining-list-price.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/victoza/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/diabetes/products/xultophy10036/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/eligibility/diabetes-sms-terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/eligibility/mash-pharmacy.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/eligibility/mash-sms-terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/eligibility/obesity-pharmacy.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/eligibility/ozempic-pharmacy.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/eligibility/pharmacy.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/eligibility/wegovy-savings-card.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/eligibility/wegovy-text-savings.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/growth-related-disorders/insurance-information/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/growth-related-disorders/insurance-information/exploring-insurance/choose-plan.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/growth-related-disorders/insurance-information/exploring-insurance/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/growth-related-disorders/insurance-information/exploring-insurance/terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/growth-related-disorders/products/norditropin/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/growth-related-disorders/products/norditropin/check-coverage/coverage-request.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/growth-related-disorders/products/sogroya/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/growth-related-disorders/products/sogroya/check-coverage/coverage-request.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/diabetes/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/diabetes/help-with-costs/insulin-affordability-programs.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/diabetes/help-with-costs/pap.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/diabetes/help-with-costs/pap/human-insulin-options.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/diabetes/help-with-costs/savings-offers.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/diabetes/pharmacy.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/growth-related-disorders/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/growth-related-disorders/check-coverage/echeck.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/growth-related-disorders/check-coverage/quickcheck.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/mash/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/mash/check-coverage/coverage-request.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/mash/pharmacy.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/hcp/pharmacy.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/mash/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/mash/check-coverage/coverage-request.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/mash/pharmacy.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/mash/resources/explaining-list-price.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/obesity/insurance-information/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/obesity/insurance-information/exploring-insurance/choose-plan.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/obesity/insurance-information/exploring-insurance/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/obesity/insurance-information/exploring-insurance/terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/obesity/products/saxenda/check-coverage.html",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/obesity/products/saxenda/explaining-list-price.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/patient/medicines/wegovy.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/patient/medicines/wegovy/check-coverage.html",
+      "categories": [
+        "Semaglutide",
+        "State"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/patient/medicines/wegovy/savings-offer.html",
+      "categories": [
+        "Semaglutide"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/patient/treatment/find-doctor.html",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/ph1/insurance-information/exploring-insurance/choose-plan.html",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/ph1/insurance-information/exploring-insurance/faq.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/ph1/insurance-information/exploring-insurance/terms.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/pharmacy.html",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/pharmacy/ozempic.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://www.novocare.com/pharmacy/wegovy.html",
+      "categories": [
+        "Semaglutide",
+        "Policy"
+      ]
+    }
+  ]
+}

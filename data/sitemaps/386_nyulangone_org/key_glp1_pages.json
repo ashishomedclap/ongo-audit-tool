@@ -1,0 +1,110 @@
+{
+  "name": "Nyulangone",
+  "domain": "nyulangone.org",
+  "total_urls": 69,
+  "semaglutide_pages": [],
+  "tirzepatide_pages": [],
+  "pricing_pages": [
+    "https://nyulangone.org/care-services/nyu-langone-transplant-institute",
+    "https://nyulangone.org/obgyn/family-planning-services",
+    "https://nyulangone.org/obgyn/family-planning-services/pregnancy-testing"
+  ],
+  "all_categorized": [
+    {
+      "url": "https://nyulangone.org/about-us",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/brain/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/care-services/imaging-radiology/imaging-radiology-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/care-services/imaging-radiology/imaging-services-for-referring-physicians",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/care-services/imaging-radiology/radiation-safety",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/care-services/nyu-langone-orthopedics/nyu-langone-orthopedics-locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/care-services/nyu-langone-orthopedics/when-to-see-an-orthopedic-doctor",
+      "categories": [
+        "Doctor"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/care-services/nyu-langone-transplant-institute",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/care-services/weight-management-program/surgical-weight-loss/payment-insurance-coverage-for-weight-loss-surgery",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/heart/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/obgyn/family-planning-services",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/obgyn/family-planning-services/pregnancy-testing",
+      "categories": [
+        "Pricing"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/obgyn/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/pregnancy/locations",
+      "categories": [
+        "State"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/pregnancy/obstetric-patient-safety-officers",
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "url": "https://nyulangone.org/womens-health/locations",
+      "categories": [
+        "State"
+      ]
+    }
+  ]
+}
